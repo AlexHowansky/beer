@@ -6,10 +6,11 @@ then
     exit 1
 fi
 
-grep -q "$1" states || {
+if ! grep -q "$1" states
+then
     echo "Error: Unknown state, please provide the full state name and not the abbreviation. Also make sure you quote names with spaces."
     exit 1
-}
+fi
 
 mkdir -p "archive/$1"
 
@@ -20,5 +21,11 @@ curl --silent --data "action=get_breweries&search_by=statename&_id=$1" "https://
 
 if [ -n "$LAST" -a "$LAST" != "$FILE" ]
 then
-    diff -u "$LAST" "$FILE"
+    if cmp -s "$LAST" "$FILE"
+    then
+        echo "no change since $LAST"
+        rm "$FILE"
+    else
+        diff -u "$LAST" "$FILE"
+    fi
 fi
