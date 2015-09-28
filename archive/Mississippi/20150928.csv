@@ -1,0 +1,14 @@
+name,address,city,state,zip,phone,type,url
+"Biloxi Brewing Co",,Biloxi,MS,39531-4051,,planning,
+"Brewery In Planning - Greenville",,Greenville,MS,38701-7554,"(662) 378-7114",planning,
+"Brewery In Planning - Grenada",,Grenada,MS,38901,,planning,
+"Brewery In Planning - Grenada",,Grenada,MS,38901,,planning,
+"Chandeleur Brewing Company","2711 14th St",Gulfport,MS,39501-1928,,micro,http://www.chandeleurbrew.com
+"Crooked Letter Brewing Co","1805 Government St","Ocean Springs",MS,39564-3942,,micro,http://www.crookedletterbrewing.com
+"Lazy Magnolia Brewing Co, LLC","PO Box 1476",Kiln,MS,39556-1476,"(228) 467-2727",micro,http://www.lazymagnolia.com
+"Lucky Town Brewing Co","1710 N Mill St",Jackson,MS,39202-1536,,micro,http://www.luckytownbrewing.com
+"Mississippi Brewing Company","13247 D Seaway Rd",Gulfport,MS,39503-4663,"(228) 323-1336",brewpub,http://www.mississippibrewingcompany.com
+"Natchez Brewing Co","412 Franklin Street",Natchez,MS,39120-3264,,micro,http://www.natchezbrew.com
+"Oxford Brewing",,,,,,contract,
+"Southern Prohibition Brewery","301 Mobile St",Hattiesburg,MS,39401-3406,,micro,http://www.soprobrewing.com
+"Yalobusha Brewing Company","102 S Main St","Water Valley",MS,38965-2906,,micro,http://www.yalobrew.com
