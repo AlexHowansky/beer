@@ -8,28 +8,28 @@ name,address,city,state,zip,phone,type,url
 "Bobcat Brewery & Cafe","5 Main St",Bristol,VT,05443-1317,"(802) 453-3311",brewpub,http://www.bobcatcafe.com
 "Brewster River Pub & Brewery","4087 Vt Route 108 S",Jeffersonville,VT,05464-9509,"(802) 644-6366",brewpub,http://www.brewsterriverpubnbrewery.com
 "Burlington Beer Company","25 Omega Dr Ste 150",Williston,VT,05495-7334,"(802) 863-2337",micro,http://www.burlingtonbeercompany.com
-"Covered Bridge Brewing","30 Sleepy Hollow Ln",Lyndonville,VT,05851-8632,"(613) 915-2337",micro,http://www.coveredbridgebrew.com
-"Drop In Brewing","610 Route 7 South",Middlebury,VT,05753-8987,"(802) 989-7414",micro,http://www.dropinbeer.com
+"Covered Bridge Brewing","30 Sleepy Hollow Ln",Lyndonville,VT,05851-8632,,micro,http://www.coveredbridgebrew.com
+"Drop In Brewing","610 Route 7 S",Middlebury,VT,05753-8987,"(802) 989-7414",micro,http://www.dropinbeer.com
 "Fiddlehead Brewing","6305 Shelburne Rd",Shelburne,VT,05482-4437,"(802) 399-2711",micro,http://www.fiddleheadbrewing.com
-"Flat Street Brew Pub",,Brattleboro,VT,05301-3246,"(802) 257-1911",planning,http://flatstreet.net/
-"Foley Brothers Brewing Co.","79 Stone Mill Dam Rd",Brandon,VT,05733-8945,"(802) 247-8002",micro,https://www.facebook.com/FoleyBrothersBrewing
+"Flat Street Brew Pub",,Brattleboro,VT,05301-3246,"(802) 257-1911",planning,
+"Foley Brothers Brewing Co.","79 Stone Mill Dam Rd",Brandon,VT,05733-8945,"(802) 247-8002",micro,
 "Four Quarters Brewing Co","150 W Canal St",Winooski,VT,05404-2171,,micro,http://www.fourquartersbrewing.com
 "Frost Beer Works","171 Commerce Street",Hinesburg,VT,05461-4482,"(949) 945-4064",micro,http://www.frostbeerworks.com
 "Good Water Brewery",,Williston,VT,05495-8978,,planning,
 "Harpoon Brewery - Vermont","336 Ruth Carney Dr",Windsor,VT,05089-9419,"(802) 674-5491",regional,http://www.harpoonbrewery.com
-"Hermit Thrush Brewery, LLC",29 High St Ste 101C,Brattleboro,VT,05301,"(802) 257-BEER",micro,http://www.hermitthrushbrewery.com/
+"Hermit Thrush Brewery, LLC",,Brattleboro,VT,05301,,micro,
 "Hill Farmstead Brewery","403 Hill Rd","Greensborough Bend",VT,05842-8813,"(802) 533-7450",micro,http://www.hillfarmstead.com
 "Hop & Moose Brewing Co","41 Center St",Rutland,VT,05701,"(802) 775-7063",brewpub,http://www.hopnmoose.com
 "Hop N' Moose Brewing Co","41 Center St",Rutland,VT,05701-4016,"(802) 775-7063",brewpub,http://www.hopnmoose.com
 "Infinity Brewing Company","80 Ethan Allen Dr","South Burlington",VT,05403-5971,"(802) 735-1288",micro,http://www.infinitybrewing.com
 "J'ville Brewery","201 VT Route 112",Jacksonville,VT,05342-9634,"(802) 368-2226",micro,http://www.jvillebrewery.com
 "Kingdom Brewing","1876 Vt Route 105",Newport,VT,05855-9915,"(802) 334-7096",micro,http://www.kingdombrewingvt.com
-"Lawson's Finest Liquids",,Warren,VT,05674,"(802) 272-8436",micro,http://www.lawsonsfinest.com
+"Lawson's Finest Liquids",,Warren,VT,05674,,micro,http://www.lawsonsfinest.com
 "Long Trail Brewing Co","PO Box 168","Bridgewater Corners",VT,05035-0168,"(802) 672-5011",regional,http://www.longtrail.com
-"Lost Nation Brewing","254 Wilkins St",Morrisville,VT,05661-6117,"(802) 851-8041",brewpub,http://www.lostnationbrewing.com
+"Lost Nation Brewing","254 Wilkins St",Morrisville,VT,05661-6117,,brewpub,http://www.lostnationbrewing.com
 "Madison Brewing Co, Pub and Restaurant","428 Main St",Bennington,VT,05201-2109,"(802) 442-7397",brewpub,http://www.madisonbrewing.com
-"Magic Hat Brewing Co/ North American Breweries","5 Bartlett Bay Rd","South Burlington",VT,05403-7727,"(802) 658-2739",regional,http://www.magichat.net/
-"McNeills Brewery","90 Elliot St",Brattleboro,VT,05301-3269,"(802) 254-2553",brewpub,https://www.facebook.com/McNeillsBrewery
+"Magic Hat Brewing Co/ North American Breweries","5 Bartlett Bay Rd","South Burlington",VT,05403-7727,"(802) 658-2739",regional,
+"McNeills Brewery","90 Elliot St",Brattleboro,VT,05301-3269,"(802) 254-2553",brewpub,
 "Northshire Brewery, Inc","108 County St",Bennington,VT,05201-1807,"(802) 681-0201",micro,http://www.northshirebrewery.com
 "Norwich Inn/Jasper Murdock's Ale House","PO Box 908",Norwich,VT,05055-0908,"(802) 649-1143",brewpub,http://www.norwichinn.com
 "Otter Creek Brewing Co","793 Exchange St",Middlebury,VT,05753-1193,"(802) 388-0727",regional,http://www.ottercreekbrewing.com
@@ -37,7 +37,7 @@ name,address,city,state,zip,phone,type,url
 "Prohibition Pig","23 S Main St Ste 1",Waterbury,VT,05676-1863,"(802) 244-4120",contract,http://www.prohibitionpig.com
 "Queen City Brewery, LLC","703 Pine St",Burlington,VT,05401-4921,,micro,http://www.queencitybrewery.com
 "Rock Art Brewery","632 Laporte Rd",Morrisville,VT,05661-8322,"(802) 888-9400",micro,http://www.rockartbrewery.com
-"Simple Roots Brewing Co","51 Arlington Ct",Burlington,VT,05408-2544,,micro,http://www.simplerootsbrewing.com/
+"Simple Roots Brewing Co","51 Arlington Ct",Burlington,VT,05408-2544,,micro,
 "Stone Corral Brewing Co","830 Taft Rd",Huntington,VT,05462-9779,"(802) 434-6318",micro,http://www.stonecorral.com
 "Switchback Brewing Co","PO Box 4210",Burlington,VT,05406-4210,"(802) 651-4114",micro,http://www.switchbackvt.com
 "The Crop Bistro & Brewery","1859 Mountain Rd",Stowe,VT,05672-4890,"(802) 253-4765",brewpub,http://www.cropvt.com
