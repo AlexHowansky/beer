@@ -6,6 +6,11 @@ then
     exit 1
 fi
 
+grep -q "$1" states || {
+    echo "Error: Unknown state, please provide the full state name and not the abbreviation. Also make sure you quote names with spaces."
+    exit 1
+}
+
 mkdir -p "archive/$1"
 
 FILE="archive/$1/$(date +%Y%m%d).csv"
