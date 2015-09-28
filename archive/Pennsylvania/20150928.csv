@@ -1,0 +1,214 @@
+name,address,city,state,zip,phone,type,url
+"2nd Story Brewing Company","117 Chestnut St",Philadelphia,PA,19106-3074,"(267) 314-5770",brewpub,http://www.2ndstorybrewing.com
+"2SP Brewing Company","120 Concord Rd",Aston,PA,19014,,micro,
+"3 Guys and A Beer'd Brewing Co","10 Enterprise",Carbondale,PA,18407-1880,"(570) 280-2739",micro,http://www.3guysandabeerd.com
+"5 O Clock Brew Co.",,Warminster,PA,18974,,planning,
+"Abbey Wright Brewing Co / Valley Inn","204 Valley St",Williamsport,PA,17702-6738,"(570) 326-3383",brewpub,http://www.thevalley-inn.com
+"Aldus Brewing Company","555 Centennial Avenue",Hanover,PA,17331-3936,"(717) 634-2407",brewpub,http://www.aldusbrewing.com
+"All Saints Brewing Co","1602 State Route 119",Greensburg,PA,15601-7317,"(724) 289-1202",micro,http://www.allsaintscraftbrewing.com
+"Allegheny City Brewing",,Pittsburgh,PA,15212-4910,,planning,http://www.alleghenycitybrewing.com
+"Allentown Brew Works","812 Hamilton St",Allentown,PA,18101-2412,"(610) 433-7777",brewpub,http://www.thebrewworks.com
+"American Honor Beer Co","700 N Pennsylvania Ave","Wilkes Barre",PA,18705-2451,"(800) 961-8176",contract,http://www.boondogglebeer.com
+"Appalachian Brewing Co - Camp Hill","3721 Market St","Camp Hill",PA,17011-4326,"(717) 920-2739",brewpub,http://www.abcbrew.com
+"Appalachian Brewing Co - Collegeville","50 W 3rd Ave Collegeville Station 2nd Floor",Collegeville,PA,19426-3655,"(484) 973-6064",brewpub,http://www.abcbrew.com
+"Appalachian Brewing Co - Gettysburg Battlefield","401 Buford Ave",Gettysburg,PA,17325-1140,"(717) 334-2200",brewpub,http://www.abcbrew.com
+"Appalachian Brewing Co - Gettysburg Gateway","70 Presidential Cir",Gettysburg,PA,17325-8399,"(717) 398-2419",brewpub,http://www.abcbrew.com
+"Appalachian Brewing Co - Harrisburg","50 N Cameron St",Harrisburg,PA,17101-2407,"(717) 221-1080",micro,http://www.abcbrew.com
+"Appalachian Brewing Co - Lititz","55 N Water St",Lititz,PA,17543-1610,"(717) 221-1080",brewpub,http://www.abcbrew.com
+"Aries Craft Brewing Company",,Pottstown,PA,19465,,planning,http://www.ariesbrewing.com
+"Aurochs Brewing Company","8321 Ohio River Blvd",Pittsburgh,PA,15202-1451,"(724) 260-8737",micro,http://www.aurochsbrewing.com
+"Barley Creek Brewing Co","1774 Sullivan Trl RR 1po Box 185",Tannersville,PA,18372-7893,"(570) 629-9399",brewpub,http://www.barleycreek.com
+"Barren Hill Tavern and Brewery","646 Germantown Pike","Lafayette Hill",PA,19444-1641,,brewpub,https://www.facebook.com/barrenhillbeer
+"Battlefield Brew Works","248 Hunterstown Rd",Gettysburg,PA,17325-7840,"(724) 953-1112",brewpub,http://www.battlefieldbrewworks.com
+"BB Brewing Co",,"North Wales",PA,19454-2315,,planning,
+"Beaver Brewing Co","1820 7th Ave","Beaver Falls",PA,15010-4001,,brewpub,http://www.beaverbrewingcompany.com
+"Benny Brew @ Marty's Blue Room","100 Old Newport St",Nanticoke,PA,18634-1313,"(570) 735-4395",micro,http://www.martysblueroom.com
+"Berwick Brewing Co","328 W Front St",Berwick,PA,18603-4757,"(570) 752-4313",brewpub,http://www.berwickbrewing.com
+"Black Cap Brewing Company","5 W High St","Red Lion",PA,17356-1701,"(443) 418-9473",brewpub,http://www.blackcapbrew.com
+"Bloom Brew",,"West Newton",PA,15089-1542,,planning,
+"Blue Canoe Brewing Co","113 S Franklin St",Titusville,PA,16354-1737,"(814) 827-7181",brewpub,
+"Boxcar Brewing Co LLC","306 Westtown Rd Ste C","West Chester",PA,19382-4983,"(484) 887-0538",micro,http://www.boxcarbrewingcompany.com
+"Breaker Brewing Company","787 E Northampton St","Wilkes Barre",PA,18702-7521,"(570) 392-9078",micro,http://www.breakerbrewingcompany.com
+"Brewerie at Union Station, The","123 W 14th St",Erie,PA,16501-1717,"(814) 454-2200",brewpub,http://www.brewerie.com
+"Brewery In Planning - Bethlehem",,Bethlehem,PA,18017,,planning,
+"Brewery In Planning - Canonsburg",,Canonsburg,PA,15317,,planning,
+"Brewery In Planning - Danville",,Danville,PA,17821-9134,,planning,
+"Brewery In Planning - Downingtown",,,,,,planning,
+"Brewery In Planning - Easton",,Easton,PA,18045,,planning,
+"Brewery In Planning - Fleetwood",,Fleetwood,PA,19522,,planning,
+"Brewery In Planning - Franklin",,Franklin,PA,16323,,planning,
+"Brewery In Planning - Jefferson Hills",,,,,,planning,
+"Brewery In Planning - Kirkwood",,Kirkwood,PA,17536,"(717) 591-0912",planning,
+"Brewery In Planning - Lansdale",,,,,,planning,
+"Brewery In Planning - Lansdale",,Lansdale,PA,19446,,planning,
+"Brewery In Planning - Levittown, PA.",,Levittown,PA,19054-3704,,planning,
+"Brewery In Planning - Macungie",,Macungie,PA,18062-9239,,planning,
+"Brewery In Planning - Marysville",,Marysville,PA,17053,,planning,
+"Brewery In Planning - Media",,Media,PA,19063-6311,"(610) 952-0462",planning,
+"Brewery In Planning - Oil City",,"Oil City",PA,16301,,planning,
+"Brewery In Planning - Philadelphia",,Philadelphia,PA,19143-3431,,planning,
+"Brewery In Planning - Pittsburgh",,Pittsburgh,PA,15215,,planning,
+"Brewery In Planning - Pittsburgh",,,,,,planning,
+"Brewery In Planning - Sayre",,Sayre,PA,18840,,planning,
+"Brewery In Planning - Southampton",,Southampton,PA,18966,,planning,
+"Brewery In Planning - Springfield",,,,,,planning,
+"Brewery In Planning - Wilkes Barre",,"Wilkes Barre",PA,18702,,planning,
+"Brewery in Planning- Buffalo Ridge",,McMurray,PA,15317-6610,"(724) 941-4417",planning,
+"Brewery In Planning- Camp Hill, PA.",,"Camp Hill",PA,17011,"(717) 579-1121",planning,
+"Brewery In Planning- Claysburg, PA.",,,,,,planning,
+"Brewery In Planning- Exton",,Exton,PA,19341-1948,,planning,
+"Brixton Brewing",,Rochester,PA,15074-2203,,planning,http://www.brixtonbrewing.com
+"Broken Goblet Brewing","1500 Grundy Ln Bldg 1",Bristol,PA,19007-1521,"(609) 868-6385",micro,http://www.brokengoblet.com
+"Bubes Brewery","102 N Market St","Mount Joy",PA,17552-1306,"(717) 653-2056",brewpub,http://www.bubesbrewery.com
+"Bucks County Brewery","31 Appletree Ln",Pipersville,PA,18947-1083,"(609) 439-2468",micro,http://www.buckscountybrewery.com
+"Bullfrog Brewery","229 W 4th St",Williamsport,PA,17701-6112,"(570) 326-4700",brewpub,http://www.bullfrogbrewery.com
+"CERPASA Cervejaria Paraense Sa","Rodovia Arthur Berenardes 7699 Caiza Postal 744",,,,"(091) 231-6811",regional,
+"Chatty Monks Brewing Company","610 Penn Ave",Reading,PA,19611-1004,,micro,
+"Church Brew Works/Lawrenceville Brewery Inc.","3525 Liberty Ave",Pittsburgh,PA,15201-1324,"(412) 688-8282",brewpub,http://www.churchbrew.com
+"Columbia Kettle Works","40 N 3rd St",Columbia,PA,17512-1104,"(717) 342-2374",brewpub,http://www.columbiakettleworks.com
+"Conshohocken Brewing Co.","739 E Elm St Ste B",Conshohocken,PA,19428-2301,"(610) 897-8962",brewpub,http://www.conshohockenbrewing.com
+"Conyngham Brewing Company","PO Box AM 309 Main St",Conyngham,PA,18219-0910,"(570) 710-5752",micro,http://www.conynghambrewing.com
+"Copper Kettle Brewing Co","557 Greenfield Ave",Pittsburgh,PA,15207-1093,"(412) 906-9400",micro,http://www.copperkettlepgh.com
+"CoStar Brewing Inc.",,Pittsburgh,PA,15206,,planning,
+"Crime & Punishment Brewing Company",,Philadelphia,PA,19144,,planning,
+"Crowded Castle Brewing Co",,Exton,PA,19341,,planning,
+"Crystal Ball Brewing","1612 W King St",York,PA,17404-5618,,micro,http://www.crystalballbrewing.com
+"D. G. Yuengling and Son Inc","500 Mahantongo St",Pottsville,PA,17901,"(570) 622-4141",regional,http://www.yuengling.com
+"D. G. Yuengling and Son Inc","310 Mill Creek Ave",Pottsville,PA,17901-8692,"(215) 631-9461",regional,http://www.yuengling.com
+"Dabbler Brewing Company",,Philadelphia,PA,19116,,planning,
+"Daugherty Brewing Company",,Erie,PA,16510-3680,,planning,http://www.daughertybrewingcompany.com
+"Desperate Times Brewing Co",,Carlisle,PA,17013,,planning,
+"Do Good Brewing","3245 Amber St",Philadelphia,PA,19134-3235,"(267) 752-3548",micro,http://www.dogoodbrewing.com
+"Doc G's Brewing Company",,"Du Bois",PA,15801-2106,,planning,http://www.docgsbrewing.com
+"Dock Street Brewery","701 S 50th St Fl 1",Philadelphia,PA,19143-1689,"(215) 726-2337",brewpub,http://www.dockstreetbeer.com
+"Doylestown Brewing Co","22 South Main Street",Doylestown,PA,18901-4668,"(267) 614-1589",contract,http://www.doylestownbrewingcompany.com
+"Draai Laag Brewing","501 E Ohio Street",Pittsburgh,PA,15209,,micro,
+"Duquesne Brewing of Pittsburgh","932 W North Ave",Pittsburgh,PA,15233-1606,"(412) 831-2779",contract,
+"Earth Bread + Brewery","7136 Germantown Ave",Philadelphia,PA,19119-1843,"(215) 242-6666",brewpub,http://www.earthbreadbrewery.com
+"East End Brewing Co","147 Julius St",Pittsburgh,PA,15206-4131,"(412) 537-2337",micro,http://www.eastendbrewing.com
+"Eleventh Hour Brewing Co",,Pittsburgh,PA,15237,,planning,http://www.eleventhhourbrews.com
+"Elk Creek Cafe + Aleworks","PO Box 432",Millheim,PA,16854-0432,"(814) 349-8850",brewpub,http://www.elkcreekcafe.net
+"Erie Ale Works","416 W 12th St",Erie,PA,16501-1506,"(814) 314-9089",micro,http://www.eriealeworks.com
+"Erie Brewing Co","1213 Veshecco Dr",Erie,PA,16501-1570,"(814) 459-7741",micro,http://www.eriebrewingco.com
+"Evil Genius Beer Co","284 W Avondale Rd","West Grove",PA,19390-9728,,contract,http://www.evilgeniusbeer.com
+"Fegley's Brew Works","569 Main St",Bethlehem,PA,18018-5810,"(610) 882-1300",brewpub,http://www.thebrewworks.com
+"Flat Rock Brewing Co.","260 2nd St",Smithton,PA,15479,,contract,
+"Forest & Main Brewery and Pub","61 N Main St",Ambler,PA,19002-5728,"(215) 542-1776",brewpub,http://www.forestandmain.com
+"Four Seasons Brewing Co","745 Lloyd Ave",Latrobe,PA,15650-2648,"(724) 261-9664",micro,http://www.fsbrewing.com
+"Free Will Brewing Company","410 E Walnut St Ste 10",Perkasie,PA,18944-1683,"(267) 354-0813",micro,http://www.freewillbrewing.com
+"Full Pint Brewing Co","1963 Lincoln Hwy","North Versailles",PA,15137-2749,"(724) 396-9796",micro,http://www.fullpintbrewing.com
+"Funk Brewing Company","19 S 6th St",Emmaus,PA,18049-3741,"(610) 421-8270",micro,http://www.funkbrewing.com
+"GG Brewers",,,,,"(215) 887-0809",brewpub,http://www.ggbrewers.com
+"Golden Avalanche Brewing Co","272 W Main St",Kutztown,PA,19530-1604,"(610) 683-9600",brewpub,http://www.kutztowntavern.com
+"Grist House Brewing","10 Sherman St",Pittsburgh,PA,15209,"(412) 447-1442",brewpub,http://www.gristhousebrewing.com
+"Guild Hall Brewing Co","208 Old York Rd",Jenkintown,PA,19046,"(267) 287-8698",brewpub,
+"Gunpowder Falls Brewing Co","15556 Elm Dr","New Freedom",PA,17349-9344,"(717) 759-0330",micro,http://www.gunpowderfallsbrewing.com
+"Hanging Hills Brewing Company",,,,,,planning,
+"Happy Valley Brewing Company","137 Elmwood St","State College",PA,16801-6851,"(814) 234-4406",brewpub,http://www.happyvalleybeer.com
+"Haydts Brewing Co.",,,,,,planning,
+"Helltown Brewing","13 Henry C Frick St","Mount Pleasant",PA,15666-1343,"(724) 542-4339",micro,http://www.helltownbrewing.com
+"HiJinx Brewing Co","905 Harrison St",Allentown,PA,18103-3188,"(484) 714-0080",micro,http://www.hijinxbrewing.com
+"Hitchhiker Brewing Co.","190 Castle Shannon Blvd",Pittsburgh,PA,15228-2267,"(412) 343-1950",brewpub,http://www.hitchhikerbrewing.com
+"Hofbrauhaus Pittsburgh","3201 S Water St",Pittsburgh,PA,15203-,"(412) 224-2328",brewpub,http://www.hofbrauhauspittsburgh.com
+"Hop Farm Brewing Co","5601 Butler St",Pittsburgh,PA,15201-2326,"(412) 726-7912",micro,http://www.hopfarmbrewingco.com
+"Intercourse Brewing Co","4166 Ironbridge Drive",Collegeville,PA,19426-1188,"(610) 812-9426",contract,http://www.intercoursebrewingco.com
+"Iron Hill Brewery & Restaurant - Chestnut Hill","8400 Germantown Ave",Philadelphia,PA,19118-3328,"(215) 948-5600",brewpub,
+"Iron Hill Brewery & Restaurant - Lancaster","781 Harrisburg Ave",Lancaster,PA,17603-2655,"(717) 291-9800",brewpub,
+"Iron Hill Brewery & Restaurant - Media","30 E State St",Media,PA,19063-2904,"(610) 627-9000",brewpub,http://www.ironhillbrewery.com
+"Iron Hill Brewery & Restaurant - North Wales","1460 Bethlehem Pike","North Wales",PA,19454-2159,"(267) 708-2000",brewpub,http://www.ironhillbrewery.com
+"Iron Hill Brewery & Restaurant - Phoenixville","130 Bridge St # 138",Phoenixville,PA,19460-3448,"(610) 983-9333",brewpub,http://www.ironhillbrewery.com
+"Iron Hill Brewery & Restaurant - West Chester","3 W Gay St","West Chester",PA,19380-3010,"(610) 738-9600",brewpub,http://www.ironhillbrewery.com
+"JoBoy's Brew Pub","27 E Main St",Lititz,PA,17543-1926,"(717) 664-5402",brewpub,http://www.joboysbrewpub.com
+"Jones Brewing Co","PO Box 746 254 Second Street",Smithton,PA,15479-0746,,contract,http://www.stoneysbeer.com
+"Lancaster Brewing Co","302 N Plum St # 304",Lancaster,PA,17602-2402,"(717) 391-6258",micro,http://www.lancasterbrewing.com
+"Lavery Brewing Co","128 W 12th St",Erie,PA,16501-1750,"(814) 454-0405",micro,http://www.laverybrewing.com
+"Leisure Sports Brewing",,"Rural Ridge",PA,15075,"(724) 265-1181",planning,http://www.lsbrewpgh.com
+"Lion Brewery Inc, The","700 N Pennsylvania Ave","Wilkes Barre",PA,18705-2451,"(570) 823-8801",regional,http://www.lionbrewery.com
+"Liquid Hero Brewery","50 E North St",York,PA,17401-2421,"(717) 814-9250",micro,http://www.liquidhero.com
+"Locust Lane Craft Brewery",,Malvern,PA,19355,,planning,
+"Manayunk Brewing Co & Restaurant","4120 Main St",Philadelphia,PA,19127-1618,"(215) 483-0100",brewpub,http://www.manayunkbrewery.com
+"Market Cross Pub & Brewery","113 N Hanover St",Carlisle,PA,17013-2422,"(717) 258-1234",brewpub,http://www.marketcrosspub.com
+"Marley's Brewery & Grille","1323 Columbia Blvd",Bloomsburg,PA,17815-8860,"(570) 784-9600",brewpub,
+"Marzoni's Brick Oven and Brewery","164 Patchway Rd",Duncansville,PA,16635-8431,"(814) 695-1300",brewpub,http://www.marzonis.com
+"McKenzie Brew House","451 Wilmington Pike - W Chester Pike","Glen Mills",PA,19342-1249,"(610) 361-9800",brewpub,http://www.mckenziebrewhouse.com
+"McKenzie Brew House (#2)","240 Lancaster Ave",Malvern,PA,19355-1802,"(610) 296-2222",brewpub,http://www.mckenziebrewhouse.com
+"McKenzie Brew House (#3)","324 Swedesford Rd",Berwyn,PA,19312-1165,"(610) 361-9800",brewpub,
+"Milkman Brewing",,,,,,planning,http://www.milkmanbrewing.com
+"Millbock Brewing",,Harrisburg,PA,17112-2306,"(717) 469-5007",micro,http://www.millbock.com
+"Miscreation Brewing Company","6 Center Sq",Hanover,PA,17331,"(717) 698-3666",brewpub,http://www.miscreationbrewing.com
+"Monongahela Brewing Company","34 Sacred Heart Rd",Monongahela,PA,15063-3502,"(724) 565-5034",micro,http://www.monongahelabrewing.com
+"Mudhook Brewing Co","34 N Cherry Ln",York,PA,17401-5306,"(717) 542-4015",brewpub,http://www.mudhookbrewing.com
+"Naked Brewing Co","51 Buck Rd.","Huntingdon Valley",PA,19006-1501,"(310) 295-2157",micro,http://www.nakedbrewingcompany.com
+"Neshaminy Creek Brewing Co","909 Ray Ave",Croydon,PA,19021-7510,"(215) 458-7081",micro,http://www.neshaminycreekbrewing.com
+"Nimble Hill Brewing Co","219 Windswept Ln",Mehoopany,PA,18629-7885,"(570) 406-9265",micro,http://www.nimblehillbrewingcompany.com
+"Nodding Head Brewing Co","1516 Sansom St Fl 2",Philadelphia,PA,19102-2811,"(215) 569-9525",brewpub,http://www.noddinghead.com
+"North Country Brewing Co","141 S Main St","Slippery Rock",PA,16057-1246,"(724) 794-2337",brewpub,http://www.northcountrybrewing.com
+"Old Forge Brewing Co","298 Mill St Frnt",Danville,PA,17821-2090,"(570) 275-8151",brewpub,http://www.oldforgebrewingcompany.com
+"Old Forge Brewing Co","601 E Market St Ste 150",Danville,PA,17821-2092,"(570) 275-8151",micro,http://www.oldforgebrewingcompany.com
+"Ottos Pub & Brewery","2235 N Atherton St","State College",PA,16803-1529,"(814) 867-6886",brewpub,http://www.ottospubandbrewery.com
+"Pennsylvania Brewing Co","800 Vinial St",Pittsburgh,PA,15212-5151,"(412) 237-9402",micro,http://www.pennbrew.com
+"Philadelphia Brewing Co","2423 Amber St",Philadelphia,PA,19125-1606,"(215) 427-2739",micro,http://www.philadelphiabrewing.com
+"Pittsburgh Brewing Co","3340 Liberty Ave",Pittsburgh,PA,15201-1394,"(412) 682-7400",contract,http://www.pittsburghbrewing.com
+"Pizza Boy Brewing Co","4520 Valley St Unit C",Enola,PA,17025-1572,"(717) 728-3840",micro,http://www.pizzaboybrewing.com
+"Prism Brewing Company","810 Dickerson Rd Ste B","North Wales",PA,19454-2369,"(888) 424-9681",micro,http://www.prismbeer.com
+"Race Street Brew Works","511 Spruce St Ste 2",Clearfield,PA,16830-1923,"(814) 303-9286",brewpub,http://www.racestreetbrew.com
+"River House Brewpub","2890 Rt 405",Milton,PA,17847,"(570) 523-1900",brewpub,http://www.riverhousebrewpub.com
+"Rivertowne Brewery - Production Facility","5578 Old William Penn Hwy",Export,PA,15632,"(724) 519-2145",micro,http://www.myrivertowne.com
+"Rivertowne Pour House","312 Center Rd",Monroeville,PA,15146-1322,"(412) 372-8199",brewpub,http://www.myrivertowne.com
+"Robin Hood Brewing Co",,Bellefonte,PA,16823,,brewpub,
+"Rock Bottom Brewery - King Of Prussia","1001 King Of Prussia Plaza","King of Prussia",PA,19406-2941,"(610) 230-2739",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - Pittsburgh","171 E Bridge St",Homestead,PA,15120-5043,,brewpub,http://www.rockbottom.com
+"Rooney's Beer Company","800 Vinial St",Pittsburgh,PA,15212-5151,,contract,http://www.rooneysbeer.com
+"Round Guys Brewing Co","324 W Main St",Lansdale,PA,19446-2006,"(610) 715-1512",micro,http://www.roundguysbrewery.com
+"Roundabout Brewery","4901 Butler St",Pittsburgh,PA,15201-2718,,micro,http://www.roundaboutbeer.com
+"Roundabout Brewery",,,,,,planning,
+"Roy Pitz Brewing Co","301 Roy Pitz Ave Ste 3",Chambersburg,PA,17201-1668,"(717) 496-8753",brewpub,http://www.roypitz.com
+"Rumspringa Brewing Co","3174 Old Philadelphia Pike","Bird In Hand",PA,17505-9727,"(717) 768-7194",micro,
+"Rusty Rail Brewing",,Mifflinburg,PA,17844,,planning,
+"Saint Benjamin Brewing Co","1710 N 5th St",Philadelphia,PA,19122-2909,"(215) 232-4305",micro,http://www.stbenjaminbrewing.com
+"Saint Boniface Craft Brewing Co","1701 W Main St",Ephrata,PA,17522-1106,"(717) 721-1744",micro,
+"Samuel Adams Pennsylvania Brewing Co","7880 Penn Dr",Breinigsville,PA,18031-1508,"(610) 395-6811",regional,
+"Saucony Creek Brewing Company","15032 Kutztown Rd",Kutztown,PA,19530-9275,"(610) 683-3128",micro,http://www.sauconycreekbrewing.com
+"Schuylkill Valley Brewing Co.",,Douglassville,PA,19518,,planning,
+"Selins Grove Brewing Co","119 N Market St",Selinsgrove,PA,17870-1905,"(570) 374-7308",brewpub,http://www.selinsgrovebrewing.com
+"Shawnee Craft Brewery","1 River Rd","Shawnee on Delaware",PA,18356,"(570) 424-4000",brewpub,
+"Ship Bottom Brewery","209 Glendale Rd",Wallingford,PA,19086-6838,"(610) 368-5660",micro,http://www.shipbottombrewery.com
+"ShuBrew, LLC","210 S Main St",Zelienople,PA,16063-1150,"(724) 766-4426",brewpub,http://www.shubrew.com
+"Sly Fox Brewhouse and Eatery","520 Kimberton Rd Pikeland Village Square",Phoenixville,PA,19460-4737,"(610) 935-4540",brewpub,http://www.slyfoxbeer.com
+"Sly Fox Brewing Co","331 Circle of Progress Dr",Pottstown,PA,19464-3811,"(484) 524-8210",regional,http://www.slyfoxbeer.com
+"Snitz Creek Brewery","7 N 9th St",Lebanon,PA,17046-4902,"(717) 450-4467",brewpub,http://www.snitzcreekbrewery.com
+"Sobel's Obscure Brewery, LLC",,,,,,planning,
+"South County Brewing Co","104 Mill St","Fawn Grove",PA,17321-9654,"(717) 382-4016",micro,http://www.southcountybrewing.com
+"Spoonwood Brewing Company","5981 Baptist Rd.",Pittsburgh,PA,15236-3303,,micro,http://www.spoonwoodbrewing.com
+"Sprague Farm and Brew Works","22043 US Highway 6 and 19",Venango,PA,16440-2507,"(814) 398-2885",brewpub,http://www.sleepingchainsaw.com
+"Spring House Brewery","2519 Main St",Conestoga,PA,17516-9721,"(717) 872-0925",micro,http://www.springhousebeer.com
+"Stable 12 Brewing Company","368 Bridge St",Phoenixville,PA,19460,,micro,http://www.stable12.com
+"Stone Church Pizza & Brewpub",,"West Middlesex",PA,16159,,planning,
+"Stoudts Brewing Co","PO Box 880",Adamstown,PA,19501-0880,"(717) 484-4386",micro,http://www.stoudtsbeer.com
+"Straub Brewery","303 Sorg St","Saint Marys",PA,15857-1592,"(814) 834-2875",regional,http://www.straubbeer.com
+"Sturgis Haus Brewpub & Espresso Bar","43 E Main St",Lititz,PA,17543-1941,"(717) 627-7827",brewpub,http://www.thesturgishaus.com
+"Susquehanna Brewing Co","635 S Main St",Pittston,PA,18640-3215,"(570) 654-3557",micro,http://www.sbcbeer.com
+"Swashbuckler Brewing Co","2775 Lebanon Rd",Manheim,PA,17545-8711,"(717) 665-7021",brewpub,http://www.parenfaire.com
+"Tattered Flag Brewery & Still Works",,Middletown,PA,17057,,planning,http://www.tatteredflagbsw.com
+"The Brew Gentlemen Beer Co","512 Braddock Ave",Braddock,PA,15104-1806,"(808) 989-4352",micro,http://www.brewgentlemen.com
+"Timber Creek Tap & Table","11191 Highline Dr",Meadville,PA,16335-6589,"(814) 807-1005",brewpub,http://www.timbercreektapandtable.com
+"Tired Hands Brewing Co","16 Ardmore Ave",Ardmore,PA,19003-1302,"(610) 896-7621",brewpub,http://www.tiredhands.com
+"Triumph Brewing Co of New Hope","400 Union Square Dr","New Hope",PA,18938-1367,"(215) 862-8300",brewpub,http://www.triumphbrew.com
+"Troegs Brewing Co","200 E Hershey Park Dr",Hershey,PA,17033-2719,"(717) 232-1297",regional,http://www.troegs.com
+"Turkey Hill Brewing Co Pub & Grille","991 Central Rd",Bloomsburg,PA,17815-8990,"(570) 387-8422",brewpub,http://www.innatturkeyhill.com
+"Two Rivers Brewing Co","542 Northampton St",Easton,PA,18042-3517,,brewpub,http://www.tworiversbrewing.com
+"Union Barrel Works","PO Box 495",Reamstown,PA,17567-0495,"(717) 335-7837",brewpub,
+"Vault Brewing Co","10 S Main St",Morrisville,PA,19067-1511,"(267) 573-4291",brewpub,http://www.vaultbrewing.com
+"Victory Brewing Co","3127 Lower Valley Rd",Parkesburg,PA,19365-9617,"(610) 873-0881",regional,http://www.victorybeer.com
+"Victory Brewing Co","420 Acorn Ln",Downingtown,PA,19335-3040,"(610) 873-0881",regional,http://www.victorybeer.com
+"Victory Brewing Co","650 W Cypress St","Kennett Square",PA,19348,"(484) 730-1870",brewpub,http://www.victorybeer.com
+"Voodoo Brewing Co","215 1/2 Arch St",Meadville,PA,16335-3432,"(412) 468-0295",brewpub,http://www.voodoobrewery.com
+"Wacker Brewing Co","417 W Grant St",Lancaster,PA,17603-3710,"(717) 617-2711",micro,http://www.wackerbrewing.com
+"Wandering Oats Brewing Company- Central PA",,,,,,planning,http://www.wanderingoatsbrewing.com
+"Western Pennsylvania Brewing Co","119 Jefferson St",Latrobe,PA,15650,,regional,http://www.citybreiwng.com
+"Weyerbacher Brewing Co","905 Line St Ste G",Easton,PA,18042-7379,"(610) 559-5561",regional,http://www.weyerbacher.com
+"Wheatfield Brewing Company",,Duncannon,PA,17020,,planning,
+"Wissahickon Brewing Company",,,,,,planning,
+"Wyndridge Farms","885 S Pleasant Ave",Dallastown,PA,17313-9650,"(717) 244-9900",brewpub,http://www.wyndridge.com
+"Yards Brewing Co","901 N Delaware Ave",Philadelphia,PA,19123-3110,"(215) 634-2600",regional,http://www.yardsbrewing.com
+"Yorkholo Brewing Co","19 N Main St",Mansfield,PA,16933-1403,"(570) 404-5805",brewpub,http://www.yorkholobrewing.com
