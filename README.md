@@ -16,9 +16,9 @@ For one state: `./beer.sh "New York"`
 For all states: `./all.sh`
 
 # Data
-The script will create a file `./archive/New York/YYYYMMDD.csv` with current
-data from the brewery search function on brewersassociation.org. If any
-previous CSV files for the given state exist, you'll also get a diff from
+The script will create a file `./archive/New_York/New_York_YYYYMMDD.csv` with
+current data from the brewery search function on brewersassociation.org. If
+any previous CSV files for the given state exist, you'll also get a diff from
 the most recent version.
 
 The `./db` subdirectory contains manually edited tweaks to the CSV files
