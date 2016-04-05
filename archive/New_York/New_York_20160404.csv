@@ -24,7 +24,6 @@ name,address,city,state,zip,phone,type,url
 "Barrage Brewing Co","32 Allen Blvd Ste E",Farmingdale,NY,11735-5625,"(631) 335-7941",micro,http://www.barragebrewing.com
 "Barrier Brewing Co","3001 New St Ste A2",Oceanside,NY,11572-2747,"(516) 316-4429",micro,
 "Bashakill Vineyards & Farm Brewery","1131 South Rd",Wurtsboro,NY,12790-7437,"(845) 888-5858",micro,
-"Battle Hill Brewing Company","4 Charles St","Fort Ann",NY,12827,"",micro,http://battlehillbrewing.com
 "Beerwench Brewery",,"Staten Island",NY,10301-2707,,planning,
 "Bellport Brewing Company, Inc.","211a Main Street",Farmingdale,NY,11735,"(631) 909-4457",micro,http://www.bellportbrewing.com
 "Big Alice Brewing Company","808 43rd Rd","Long Island City",NY,11101-6820,"(347) 688-2337",micro,http://www.bigalicebrewing.com
@@ -186,6 +185,7 @@ Folksbier,,Brooklyn,NY,11231,,micro,http://www.folksbier.com
 "Interboro Spirits And Ales",,Brooklyn,NY,11211,"(646) 245-5417",planning,http://www.interboro.nyc
 "Iron Flamingo Brewery",,Corning,NY,14830-2074,"(607) 936-2337",planning,
 "Ithaca Beer Co","122 Ithaca Beer Dr",Ithaca,NY,14850-8813,"(607) 273-0766",regional,http://www.ithacabeer.com
+Jasonj@gmail.com,"New York",,,,,micro,http://548-125-7845
 "Jersey Cider Works",,,,,,planning,
 "John Harvards - Holiday Valley","Tamarack Club 6557 Holiday Valley Rd. Route 219",Ellicottville,NY,14731,"(800) 323-0020",brewpub,http://www.johnharvards.com
 "Journeyman Brewery",,Rochester,NY,14618-4507,"(910) 465-2862",planning,
@@ -244,7 +244,6 @@ Folksbier,,Brooklyn,NY,11231,,micro,http://www.folksbier.com
 "Prison City Brewing","28 State St",Auburn,NY,13021-3625,,brewpub,http://www.prisoncitybrewing.com
 "Pull Brewing Co","317 Springtown Rd","New Paltz",NY,12561-3020,,micro,http://www.pullbrewing.com
 "Queens Brewery","3730 Review Ave Ste QB","Long Island City",NY,11101-2018,,contract,http://www.queensbrewery.com
-"R.S. Taylor & Sons Brewery","3602 County Route 30",Salem,NY,12865,"(518) 209-0474",micro,http://www.rstaylorbrewing.com
 "Rabbit Room",,Rochester,NY,14618-2321,,planning,
 "Radiant Pig Beer","122 W 27th St Fl 10","New York",NY,10001-6227,"(978) 857-7860",contract,
 "Railhead Brewing Company","40 Park Dr",Hornell,NY,14843,"(607) 324-3286",brewpub,
@@ -333,5 +332,5 @@ Folksbier,,Brooklyn,NY,11231,,micro,http://www.folksbier.com
 "Woodland Hop Farm and Fermentation","6002 Trenton Rd",Utica,NY,13502,,micro,
 "WT Brews LLC","3 W Genesee St",Baldwinsville,NY,13027-1104,"(315) 430-2390",micro,http://www.wtbrews.com
 "Yard Owl Craft Brewery","19 Osprey Lane",Gardiner,NY,12525,"(845) 633-8576",brewpub,http://yardowlcraftbrewery.com
-"Yonkers Brewing Co","92 Main St",Yonkers,NY,10701-7065,"(914) 391-5805",brewpub,http://www.yonkersbrewing.com
+"Yonkers Brewing Co","92 Main St",Yonkers,NY,10701-7065,"(914) 391-5805",brewpub,http://www.%20yonkersbrewing.com
 "Z's Barrel House",,Massapequa,NY,11758-5507,"(516) 477-7089",planning,
