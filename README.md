@@ -11,9 +11,9 @@ source of data, and whipped up this code to scrape it and get it into a format
 I could import into Google Maps. Also, because beer.
 
 # Usage
-For one state: `./beer.sh "New York"`
+For one state: `./state.sh "New York"`
 
-For all states: `./all.sh`
+For all states: `./all_states.sh`
 
 # Data
 The script will create a file `./archive/New_York/New_York_YYYYMMDD.csv` with
