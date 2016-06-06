@@ -1,0 +1,13 @@
+name,address,city,state,zip,phone,type,url
+"Biloxi Brewing Co","296 Beauvoir Rd Ste 100-158",Biloxi,MS,39531-4051,,contract,
+"Chandeleur Brewing Company","2711 14th St",Gulfport,MS,39501-1928,,micro,http://www.chandeleurbrew.com
+"Crooked Letter Brewing Co","1805 Government St","Ocean Springs",MS,39564-3942,,micro,http://www.crookedletterbrewing.com
+"Lazy Magnolia Brewing Co, LLC","PO Box 1476",Kiln,MS,39556-1476,"(228) 467-2727",micro,http://www.lazymagnolia.com
+"Lucky Town Brewing Co","1710 N Mill st",Jackson,MS,39202,"(601) 790-0142",micro,http://www.luckytownbrewing.com
+"Mississippi Brewing Company","13247 D Seaway Rd",Gulfport,MS,39503-4663,"(228) 323-1336",contract,http://www.mississippibrewingcompany.com
+"Natchez Brewing Co","413 Franklin Street",Natchez,MS,39120-3264,"(828) 788-3315",micro,http://www.natchezbrew.com
+"Oxford Brewing",,,,,,contract,
+"Slowboat Brewing Company","318 W 5th St",Laurel,MS,39440-3461,,micro,http://www.slowboatbrewco.com
+"Southern Prohibition Brewing","301 Mobile St",Hattiesburg,MS,39401-3406,,micro,http://www.soprobrewing.com
+"The Gluckstadt Brewing Company",,Madison,MS,39110,"(601) 856-8439",planning,http://www.gluckstadtbrewing.com
+"Yalobusha Brewing Company","102 S Main St","Water Valley",MS,38965-2906,,micro,http://www.yalobrew.com

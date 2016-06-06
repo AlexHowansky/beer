@@ -1,0 +1,11 @@
+name,address,city,state,zip,phone,type,url
+"Amstel Brewery Hungary","Szabadsag Ut 117",,,,,,
+"Borsodi Sorgyar Rt","Rakoczi ut 81",,,,"(364) 631-8400",,
+"Brauerei Sopron","Vandor Su. 1",,,,,regional,
+"Brewery At Borsod Ltd.","Pf. 6",,,,,regional,
+"Brewery At Kobanya Rt","Maglodi Ut 17",,,,"1 157 2854",regional,
+"Brewery in Planning - Budapest","Maglódi út 47",,,,,contract,
+"Budapest Brewing Company",,,,,0036209119807,planning,
+"Dreher Breweries Ltd","Maglodi 17",,,,"(361) 432-9760",large,http://www.dreher.hu
+"Dreher Sorgyarak","H-1106 Maglodi Ut",,,,"(361) 261-1111",,
+"Sabmiller Europe","Dreher Sorgyarak Zrt Jaszberenyi Ut 7-11",,,,"(361) 432-9700",,

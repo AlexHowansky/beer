@@ -8,9 +8,9 @@ fi
 
 if ! grep -q "^${1}$" states
 then
-    echo "Error: Unknown state, please provide the full state"
-    echo "       name and not the abbreviation. If the state name"
-    echo "       has spaces, make sure you quote the paramter."
+    echo "Error: Unknown state, please provide the full state name and not the"
+    echo "       abbreviation. If the state name has spaces, make sure you"
+    echo "       quote the paramter. See the states file for a complete list."
     echo
     echo "Examples: ${0} Vermont"
     echo "          ${0} \"New York\""
@@ -26,7 +26,7 @@ LAST="archive/United_States/${STATE}/$(ls "archive/United_States/${STATE}" | sor
 
 curl --silent --data "action=get_breweries&search_by=statename&_id=${1}" "https://www.brewersassociation.org/wp-admin/admin-ajax.php" | ./extract.php > "${FILE}"
 
-if [ -n "${LAST}" -a "${LAST}" != "${FILE}" ]
+if [ "${LAST}" != "archive/United_States/${STATE}/" -a "${LAST}" != "${FILE}" ]
 then
     if cmp -s "${LAST}" "${FILE}"
     then
