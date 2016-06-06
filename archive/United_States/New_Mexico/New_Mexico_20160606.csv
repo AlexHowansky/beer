@@ -1,64 +1,64 @@
-name,address,city,state,zip,phone,type,url
-A,"5 Acoma Trail",ALBUQUERQUE,NM,87048,"(505) 400-1101",micro,
-"Abbey Brewing Company, LLC","PO Box 22779","Santa Fe",NM,87502-2779,"(505) 670-6802",micro,
-"ABQ Brew Pub","6601 Uptown Blvd NE Ste B",Albuquerque,NM,87110-4207,"(505) 884-1116",brewpub,http://www.abqbrewpub.com
-"Bathtub Row Brewing Co-op","163 Central Park Square","Los Alamos",NM,87544,"(505) 500-8381",micro,http://www.bathtubrowbrewing.coop
-"Bistronomy B2B Craft Brewery","3118 Central Ave SE",Albuquerque,NM,87106-2216,"(505) 262-2222",brewpub,http://www.bistronomyb2b.com
-"Blue Corn Cafe & Brewery","4056 Cerrillos Rd Ste G","Santa Fe",NM,87507-2605,"(505) 984-1800",brewpub,http://www.bluecorncafe.com
-"Blue Heron Brewing","2214 New Mexico 68",Embudo,NM,87531,"(505) 579-9188",micro,http://www.blueheronbrews.com
-"Boese Brothers Brewing","601 Gold Ave SW",Albuquerque,NM,87102,"(505) 382-7060",micro,
-"Bosque Brewing Co","8900 San Mateo Blvd NE Ste I",Albuquerque,NM,87113-2459,"(555) 750-7596",brewpub,http://www.bosquebrewingco.com
-"Bow and Arrow Brewing Co.",,,,,,planning,
-"Boxing Bear Brewing Company","10200 Corrales Rd NW",Albuquerque,NM,87114-9268,"(505) 897-2327",micro,http://www.boxingbearbrewing.com
-"Brewery In Planning - Albuquerque",,Albuquerque,NM,87110,,planning,
-"Brewery In Planning - Albuquerque",,,,,,planning,
-"Brewery In Planning - Albuquerque",,Albuquerque,NM,87112,,planning,
-"Brewery In Planning - Albuquerque",,Albuquerque,NM,87112,,planning,
-"Brewery In Planning - Albuquerque",,Albuquerque,NM,87108,,planning,
-"Brewery In Planning - Albuquerque",,Albuquerque,NM,87190,,planning,
-"Brewery in Planning - Albuquerue",,Albuquerue,NM,87108,,planning,
-"Brewery In Planning - Corrales",,Corrales,NM,87048,,planning,
-"Brewery in Planning - Las Cruces",,"Las Cruces",NM,88003,"(575) 915-2006",planning,
-"Brewery in Planning - Los Alamos",,"Los Alamos",NM,87544,"(505) 412-0900",planning,http://tbd
-"Brewery in Planning - New York",,"New York",NM,11217,,planning,
-"Brewery in Planning - Santa Fe",,"Santa Fe",NM,87507,"(281) 770-5952",planning,
-"Brewery In Planning - Santa Fe",,"Santa Fe",NM,87501-1827,,planning,
-"Brewery In Planning- Placitas, NM.",,,,,,planning,
-"Canteen Brewhouse","2381 Aztec Rd NE",Albuquerque,NM,87107-4207,"(505) 830-4629",brewpub,http://www.ilvicino.com
-"Chama River Brewing Company","4939 Pan American Fwy NE",Albuquerque,NM,87109-2230,"(505) 342-1800",brewpub,http://www.chamariverbrewery.com
-"Colfax Ale Cellar - In Planning",,Raton,NM,87740-3907,,planning,
-"Comanche Creek Brewing Co","PO Box 375","Eagle Nest",NM,87718-0375,"(575) 377-2337",micro,http://www.comanchecreekbrewingco.com
-"Corrales Bistro Brewery","4908 Corrales Rd",Corrales,NM,87048-8613,"(505) 897-1036",brewpub,http://www.cbbistro.com
-"De La Vega’s Pecan Grill and Brewery","500 S Telshor Blvd","Las Cruces",NM,88011-4613,"(575) 521-1099",contract,http://www.pecangrill.com
-"Duel Brewing Company","1228 Parkway Dr Ste D","Santa Fe",NM,87507-7319,"(505) 474-5301",brewpub,http://www.duelbrewing.com
-"Enchanted Circle Brewing Company","20 Sage Ln.","Angel Fire",NM,87710,"(505) 490-7868",brewpub,
-"Eskes Brew Pub","106 Des Georges Ln",Taos,NM,87571-6179,"(575) 758-1517",brewpub,http://www.eskesbrewpub.com
-"High Desert Brewing Co","1201 W Hadley Ave","Las Cruces",NM,88005-2422,"(575) 525-6752",brewpub,http://www.highdesertbrewingco.com
-"Kellys Brewery And BYOB","3222 Central Ave SE",Albuquerque,NM,87106-1458,"(505) 262-2739",brewpub,http://www.kellysbrewpub.com
-"La Cumbre Brewing Co","3313 Girard Blvd NE",Albuquerque,NM,87107-1930,"(505) 872-0225",micro,http://www.lacumbrebrewing.com
-"Las Cazuelas Brewing","4051 Sara Rd SE","Rio Rancho",NM,87124-1031,"(505) 994-9364",brewpub,http://www.cazuelasmexicangrill.com
-"Little Toad Creek Brewery & Distillery","200 N Bullard St","Silver City",NM,88061,,brewpub,http://www.littletoadcreek.com
-"Lizard Tail Brewing","9800 Montgomery Blvd NE",Albuquerque,NM,87111-3576,"(505) 717-1301",brewpub,
-"Marble Brewery","111 Marble Ave NW",Albuquerque,NM,87102-2315,"(505) 243-2739",micro,http://www.marblebrewery.com
-"New Mexico Craft Brewing Company","1212 Railroad Ave","Las Vegas",NM,87701-4541,"(505) 850-6839",micro,
-"Nexus Brewery","4730 Pan American NE Ste D",Albuquerque,NM,87109-2204,"(505) 480-4960",brewpub,http://www.nexusbrewery.com
-"Picacho Peak Brewing Company","3900 West Picacho Ave.","Las Cruces",NM,88007-4727,,brewpub,
-"Quarter Celtic Brewpub","1100 San Mateo Blvd. NE",Albuquerque,NM,87110,"(505) 503-1387",brewpub,http://www.quartercelticbrewery.com
-"Red Door Brewing Company","1001 Candelaria Rd NE",Albuquerque,NM,87107-2115,"(505) 633-6675",micro,http://www.reddoorbrewing.com
-"Rio Bravo Brewing Company","1912 2nd street NW",Albuquerque,NM,87102,"(505) 900-3909",micro,http://www.riobravobrewing.com
-"Roosevelt Brewing Company & Public House","201 S Main Ave",Portales,NM,88130-6216,"(575) 226-2739",brewpub,http://www.rooseveltbrewing.com
-"Sandia Chile Grill & Brewery","7120 Wyoming Blvd NE Ste 7D",Albuquerque,NM,87109-4869,"(505) 798-1970",brewpub,http://www.sandiachilegrill.com
-"Santa Fe Brewing Co","35 Fire Place","Santa Fe",NM,87508-4493,"(505) 424-3333",regional,http://www.santafebrewing.com
-"Second Street Brewery","1814 2nd St","Santa Fe",NM,87505-3848,"(505) 982-3030",brewpub,http://www.secondstreetbrewery.com
-"Sidetrack Brewing Company",,Albuquerque,NM,87102,"(505) 288-6468",planning,http://www.sidetrackbrewing.net
-"Sierra Blanca Brewing Co","1016 Industrial Rd",Moriarty,NM,87035-3567,"(505) 832-2337",micro,http://www.sierrablancabrewery.com
-"Spotted Dog Brewery","2920 Avenida De Mesilla","Las Cruces",NM,88005,"(575) 650-2729",micro,http://www.spotteddogbrewery.com
-"Starr Brothers Brewing Co.","5700 B San Antonio Dr. NE",Albuquerque,NM,87109-4128,"(505) 492-2792",brewpub,http://www.starrbrothersbrewing.com
-"Taos Ale House","401 Paseo del Pueblo Norte",Taos,NM,87571-5907,"(575) 758-5522",brewpub,http://www.taosalehouse.com
-"Taos Mesa Brewing Co","20 ABC Mesa Road","El Prado",NM,87529,"(575) 779-0449",brewpub,http://www.taosmesabrewing.com
-"The 377 Brewery","2027 Yale SE","Albuquerque ",NM,87106,"(505) 250-3388",,http://www.the377.com
-"Three Rivers Eatery and Brewery","101 E Main St",Farmington,NM,87401-2701,"(505) 324-2187",brewpub,http://www.threeriversbrewery.com
-"Tractor Brewing Co","1800 4th St NW",Albuquerque,NM,87102,"(505) 866-0477",brewpub,http://www.getplowed.com
-"Truth Or Consequences Brewing Company",,"Truth or Consequences",NM,87901,"(206) 317-9769",planning,http://www.torc.beer
-"Turtle Mountain Brewing Co","905 36th Pl SE Ste C","Rio Rancho",NM,87124-4850,"(505) 994-9497",brewpub,http://www.turtlemountainbrewing.com
-"Wellhead Restaurant/Brewpub","332 W Main St",Artesia,NM,88210-2161,"(575) 746-0640",brewpub,http://www.thewellhead.com
+name,address1,address2,city,state,zip,phone,type,url
+A,"5 Acoma Trail",,ALBUQUERQUE,NM,87048,"(505) 400-1101",micro,
+"Abbey Brewing Company, LLC","PO Box 22779",,"Santa Fe",NM,87502-2779,"(505) 670-6802",micro,
+"ABQ Brew Pub","6601 Uptown Blvd NE Ste B",,Albuquerque,NM,87110-4207,"(505) 884-1116",brewpub,http://www.abqbrewpub.com
+"Bathtub Row Brewing Co-op","163 Central Park Square",,"Los Alamos",NM,87544,"(505) 500-8381",micro,http://www.bathtubrowbrewing.coop
+"Bistronomy B2B Craft Brewery","3118 Central Ave SE",,Albuquerque,NM,87106-2216,"(505) 262-2222",brewpub,http://www.bistronomyb2b.com
+"Blue Corn Cafe & Brewery","4056 Cerrillos Rd Ste G",,"Santa Fe",NM,87507-2605,"(505) 984-1800",brewpub,http://www.bluecorncafe.com
+"Blue Heron Brewing","2214 New Mexico 68",,Embudo,NM,87531,"(505) 579-9188",micro,http://www.blueheronbrews.com
+"Boese Brothers Brewing","601 Gold Ave SW",,Albuquerque,NM,87102,"(505) 382-7060",micro,
+"Bosque Brewing Co","8900 San Mateo Blvd NE Ste I",,Albuquerque,NM,87113-2459,"(555) 750-7596",brewpub,http://www.bosquebrewingco.com
+"Bow and Arrow Brewing Co.",,"Albuquerque, NM",,,,,planning,
+"Boxing Bear Brewing Company","10200 Corrales Rd NW",,Albuquerque,NM,87114-9268,"(505) 897-2327",micro,http://www.boxingbearbrewing.com
+"Brewery In Planning - Albuquerque",,,Albuquerque,NM,87110,,planning,
+"Brewery In Planning - Albuquerque",,"Albuquerque, NM",,,,,planning,
+"Brewery In Planning - Albuquerque",,,Albuquerque,NM,87112,,planning,
+"Brewery In Planning - Albuquerque",,,Albuquerque,NM,87112,,planning,
+"Brewery In Planning - Albuquerque",,,Albuquerque,NM,87108,,planning,
+"Brewery In Planning - Albuquerque",,,Albuquerque,NM,87190,,planning,
+"Brewery in Planning - Albuquerue",,,Albuquerue,NM,87108,,planning,
+"Brewery In Planning - Corrales",,,Corrales,NM,87048,,planning,
+"Brewery in Planning - Las Cruces",,,"Las Cruces",NM,88003,"(575) 915-2006",planning,
+"Brewery in Planning - Los Alamos",,,"Los Alamos",NM,87544,"(505) 412-0900",planning,http://tbd
+"Brewery in Planning - New York",,,"New York",NM,11217,,planning,
+"Brewery in Planning - Santa Fe",,,"Santa Fe",NM,87507,"(281) 770-5952",planning,
+"Brewery In Planning - Santa Fe",,,"Santa Fe",NM,87501-1827,,planning,
+"Brewery In Planning- Placitas, NM.",,"Placitas, NM",,,,,planning,
+"Canteen Brewhouse","2381 Aztec Rd NE",,Albuquerque,NM,87107-4207,"(505) 830-4629",brewpub,http://www.ilvicino.com
+"Chama River Brewing Company","4939 Pan American Fwy NE",,Albuquerque,NM,87109-2230,"(505) 342-1800",brewpub,http://www.chamariverbrewery.com
+"Colfax Ale Cellar - In Planning",,,Raton,NM,87740-3907,,planning,
+"Comanche Creek Brewing Co","PO Box 375",,"Eagle Nest",NM,87718-0375,"(575) 377-2337",micro,http://www.comanchecreekbrewingco.com
+"Corrales Bistro Brewery","4908 Corrales Rd",,Corrales,NM,87048-8613,"(505) 897-1036",brewpub,http://www.cbbistro.com
+"De La Vega’s Pecan Grill and Brewery","500 S Telshor Blvd",,"Las Cruces",NM,88011-4613,"(575) 521-1099",contract,http://www.pecangrill.com
+"Duel Brewing Company","1228 Parkway Dr Ste D",,"Santa Fe",NM,87507-7319,"(505) 474-5301",brewpub,http://www.duelbrewing.com
+"Enchanted Circle Brewing Company","20 Sage Ln.",,"Angel Fire",NM,87710,"(505) 490-7868",brewpub,
+"Eskes Brew Pub","106 Des Georges Ln",,Taos,NM,87571-6179,"(575) 758-1517",brewpub,http://www.eskesbrewpub.com
+"High Desert Brewing Co","1201 W Hadley Ave",,"Las Cruces",NM,88005-2422,"(575) 525-6752",brewpub,http://www.highdesertbrewingco.com
+"Kellys Brewery And BYOB","3222 Central Ave SE",,Albuquerque,NM,87106-1458,"(505) 262-2739",brewpub,http://www.kellysbrewpub.com
+"La Cumbre Brewing Co","3313 Girard Blvd NE",,Albuquerque,NM,87107-1930,"(505) 872-0225",micro,http://www.lacumbrebrewing.com
+"Las Cazuelas Brewing","4051 Sara Rd SE",,"Rio Rancho",NM,87124-1031,"(505) 994-9364",brewpub,http://www.cazuelasmexicangrill.com
+"Little Toad Creek Brewery & Distillery","200 N Bullard St",,"Silver City",NM,88061,,brewpub,http://www.littletoadcreek.com
+"Lizard Tail Brewing","9800 Montgomery Blvd NE",,Albuquerque,NM,87111-3576,"(505) 717-1301",brewpub,
+"Marble Brewery","111 Marble Ave NW",,Albuquerque,NM,87102-2315,"(505) 243-2739",micro,http://www.marblebrewery.com
+"New Mexico Craft Brewing Company","1212 Railroad Ave",,"Las Vegas",NM,87701-4541,"(505) 850-6839",micro,
+"Nexus Brewery","4730 Pan American NE Ste D",,Albuquerque,NM,87109-2204,"(505) 480-4960",brewpub,http://www.nexusbrewery.com
+"Picacho Peak Brewing Company","3900 West Picacho Ave.",,"Las Cruces",NM,88007-4727,,brewpub,
+"Quarter Celtic Brewpub","1100 San Mateo Blvd. NE",,Albuquerque,NM,87110,"(505) 503-1387",brewpub,http://www.quartercelticbrewery.com
+"Red Door Brewing Company","1001 Candelaria Rd NE",,Albuquerque,NM,87107-2115,"(505) 633-6675",micro,http://www.reddoorbrewing.com
+"Rio Bravo Brewing Company","1912 2nd street NW",,Albuquerque,NM,87102,"(505) 900-3909",micro,http://www.riobravobrewing.com
+"Roosevelt Brewing Company & Public House","201 S Main Ave",,Portales,NM,88130-6216,"(575) 226-2739",brewpub,http://www.rooseveltbrewing.com
+"Sandia Chile Grill & Brewery","7120 Wyoming Blvd NE Ste 7D",,Albuquerque,NM,87109-4869,"(505) 798-1970",brewpub,http://www.sandiachilegrill.com
+"Santa Fe Brewing Co","35 Fire Place",,"Santa Fe",NM,87508-4493,"(505) 424-3333",regional,http://www.santafebrewing.com
+"Second Street Brewery","1814 2nd St",,"Santa Fe",NM,87505-3848,"(505) 982-3030",brewpub,http://www.secondstreetbrewery.com
+"Sidetrack Brewing Company",,,Albuquerque,NM,87102,"(505) 288-6468",planning,http://www.sidetrackbrewing.net
+"Sierra Blanca Brewing Co","1016 Industrial Rd",,Moriarty,NM,87035-3567,"(505) 832-2337",micro,http://www.sierrablancabrewery.com
+"Spotted Dog Brewery","2920 Avenida De Mesilla",,"Las Cruces",NM,88005,"(575) 650-2729",micro,http://www.spotteddogbrewery.com
+"Starr Brothers Brewing Co.","5700 B San Antonio Dr. NE",,Albuquerque,NM,87109-4128,"(505) 492-2792",brewpub,http://www.starrbrothersbrewing.com
+"Taos Ale House","401 Paseo del Pueblo Norte",,Taos,NM,87571-5907,"(575) 758-5522",brewpub,http://www.taosalehouse.com
+"Taos Mesa Brewing Co","20 ABC Mesa Road",,"El Prado",NM,87529,"(575) 779-0449",brewpub,http://www.taosmesabrewing.com
+"The 377 Brewery","2027 Yale SE",,"Albuquerque ",NM,87106,"(505) 250-3388",,http://www.the377.com
+"Three Rivers Eatery and Brewery","101 E Main St",,Farmington,NM,87401-2701,"(505) 324-2187",brewpub,http://www.threeriversbrewery.com
+"Tractor Brewing Co","1800 4th St NW",,Albuquerque,NM,87102,"(505) 866-0477",brewpub,http://www.getplowed.com
+"Truth Or Consequences Brewing Company",,,"Truth or Consequences",NM,87901,"(206) 317-9769",planning,http://www.torc.beer
+"Turtle Mountain Brewing Co","905 36th Pl SE Ste C",,"Rio Rancho",NM,87124-4850,"(505) 994-9497",brewpub,http://www.turtlemountainbrewing.com
+"Wellhead Restaurant/Brewpub","332 W Main St",,Artesia,NM,88210-2161,"(575) 746-0640",brewpub,http://www.thewellhead.com

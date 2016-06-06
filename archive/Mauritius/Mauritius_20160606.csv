@@ -1,2 +1,2 @@
-name,address,city,state,zip,phone,type,url
-"Mauritius Breweries Ltd.","Pont Fer",,,,,,http://www.phoenixbeveragesgroup.com
+name,address1,address2,city,state,zip,phone,type,url
+"Mauritius Breweries Ltd.","Pont Fer","Phoenix, Mauritius",,,,,,http://www.phoenixbeveragesgroup.com

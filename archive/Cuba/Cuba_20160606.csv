@@ -1,6 +1,6 @@
-name,address,city,state,zip,phone,type,url
-"Cerveceria Bucanero S.A.","Calle 49 No. 2817, Esq, A 49A Reparto Kohly, Playa",,,,"(537) 204-8557",regional,http://www.cervezacristal.com/spanish/index.html
-"Cerveceria Modelo S.A.","KI. 18 Carretera Central, Cotorro",,,,,regional,
-"Empresa Cervecera","Ave 41 No 4455 Playa",,,,"537-81-0677 X11",,
-Hatuey,"Carretera Central Km 18 Cotoro",,,,,,
-"Tropical Brewery","Nueva Fabrica De Hielo SA. P O Box 2817",,,,,regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Cerveceria Bucanero S.A.","Calle 49 No. 2817, Esq, A 49A Reparto Kohly, Playa","Cindad De La Habana, Cuba",,,,"(537) 204-8557",regional,http://www.cervezacristal.com/spanish/index.html
+"Cerveceria Modelo S.A.","KI. 18 Carretera Central, Cotorro","La Habana, Cuba",,,,,regional,
+"Empresa Cervecera","Ave 41 No 4455 Playa","C Habana, Cuba",,,,"537-81-0677 X11",,
+Hatuey,"Carretera Central Km 18 Cotoro","Habana, Cuba",,,,,,
+"Tropical Brewery","Nueva Fabrica De Hielo SA. P O Box 2817","Marianao, Cuba",,,,,regional,

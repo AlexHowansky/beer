@@ -1,5 +1,5 @@
-name,address,city,state,zip,phone,type,url
-"Brewery in Planning - Colorado Springs",,,,,,planning,
-"Cerveceria Y Malteria Paysandu","Instucciones Del Ano Xiii N 775",,,,"598 2 200 8521",large,
-"Compania Salus","Av Dr Luis A De Herrera 3113",,,,81-76-62,large,
-"Fabricas Nacionales De Cerveza","Entre Rios 1060 Casilla De Correo 85",,,,201681,regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery in Planning - Colorado Springs",,"Montevideo, Uruguay",,,,,planning,
+"Cerveceria Y Malteria Paysandu","Instucciones Del Ano Xiii N 775","Paysandu- 6000, Uruguay",,,,"598 2 200 8521",large,
+"Compania Salus","Av Dr Luis A De Herrera 3113","Montvideo, Uruguay",,,,81-76-62,large,
+"Fabricas Nacionales De Cerveza","Entre Rios 1060 Casilla De Correo 85","Montevideo, Uruguay",,,,201681,regional,

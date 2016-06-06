@@ -1,7 +1,7 @@
-name,address,city,state,zip,phone,type,url
-Aldaris,"44 Tvaika St",,,,"(371) 702-3201",,http://www.aldaris.lv
-"Aldaris Brewery","44 Tvaika Street",,,,"(371) 702-3231",,
-"Kimmels Riga","Rigas gatve 8 Adazi, Adazu pagasts,",,,,"(371) 751-7428",large,http://www.kimmel.lv
-"Latgales Alus","Daugavpils State Plant Dzirnavu Str. 22",,,,371-254-301-96,regional,
-"Riga State Brewery","Bruninieku Str. 2",,,,"(371) 227-3217",regional,
-"Varpa Riga State Brewery","Bruninieku Str. 2",,,,"(371) 227-3217",regional,
+name,address1,address2,city,state,zip,phone,type,url
+Aldaris,"44 Tvaika St","Riga, Latvia",,,,"(371) 702-3201",,http://www.aldaris.lv
+"Aldaris Brewery","44 Tvaika Street","Riga, Rige, Latvia",,,,"(371) 702-3231",,
+"Kimmels Riga","Rigas gatve 8 Adazi, Adazu pagasts,","Rigas rajons LV-2164, Latvia",,,,"(371) 751-7428",large,http://www.kimmel.lv
+"Latgales Alus","Daugavpils State Plant Dzirnavu Str. 22","Daugavpils, Latvia",,,,371-254-301-96,regional,
+"Riga State Brewery","Bruninieku Str. 2","Riga, Latvia",,,,"(371) 227-3217",regional,
+"Varpa Riga State Brewery","Bruninieku Str. 2","Riga, Latvia",,,,"(371) 227-3217",regional,

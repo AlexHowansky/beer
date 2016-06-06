@@ -1,9 +1,9 @@
-name,address,city,state,zip,phone,type,url
-"Arrabida Beer Company","Quinta Da Torre Vila Amelia",,,,,,http://www.arrabidabeercompany.pt
-"Central De Cervejas","A. Almirante Reis, 115",,,,535071,large,
-"Empresa De Cervejas Da Madeira","Rua Sta Luzia, 117 9000 Funchal",,,,"351 91 230 101",,
-"Frog at Expo","Rua da Pimenat 17 a 21 Parque das Nacoes",,,,"+351 21895 2898",brewpub,http://www.frogpubs.com
-IBESA,"Apartado 1044",,,,"351 22 905 2262",,
-"Uniao Cervejeira SA","Apartado 44",,,,02-901-1121,regional,
-"UNICER Bebidas de Portugal SA","Apartado 1044",,,,"+351.22. 9052100",large,http://www.unicer.pt
-"Unicer-Uniao Cervejeira","Ap. 44 4466 S Mamede De Infesta",,,,"(002) 902-2300",large,
+name,address1,address2,city,state,zip,phone,type,url
+"Arrabida Beer Company","Quinta Da Torre Vila Amelia","Quinta Do Anjo, Portugal",,,,,,http://www.arrabidabeercompany.pt
+"Central De Cervejas","A. Almirante Reis, 115","Vialonga, Portugal",,,,535071,large,
+"Empresa De Cervejas Da Madeira","Rua Sta Luzia, 117 9000 Funchal","Madeira, Portugal",,,,"351 91 230 101",,
+"Frog at Expo","Rua da Pimenat 17 a 21 Parque das Nacoes","Lisboa, Portugal",,,,"+351 21895 2898",brewpub,http://www.frogpubs.com
+IBESA,"Apartado 1044","S M Infesta, Portugal",,,,"351 22 905 2262",,
+"Uniao Cervejeira SA","Apartado 44","S. Mamede De Infesta, Portugal",,,,02-901-1121,regional,
+"UNICER Bebidas de Portugal SA","Apartado 1044","4466-955 S. Mamede de Infesta, Portugal",,,,"+351.22. 9052100",large,http://www.unicer.pt
+"Unicer-Uniao Cervejeira","Ap. 44 4466 S Mamede De Infesta","Leca Do Bailio, Portugal",,,,"(002) 902-2300",large,

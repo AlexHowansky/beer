@@ -1,4 +1,4 @@
-name,address,city,state,zip,phone,type,url
-"Karlovacka Pivovara","Dubovac 22",,,,+385-47-607-385,micro,
-"Karlovan Brewery","Faculty of Food Technology and Biotechno",,,,,,
-"The Garden Brewery Croatia",,,,,38598309739,planning,http://www.thegarden.hr
+name,address1,address2,city,state,zip,phone,type,url
+"Karlovacka Pivovara","Dubovac 22","Karlovac, Croatia",,,,+385-47-607-385,micro,
+"Karlovan Brewery","Faculty of Food Technology and Biotechno","Pierottieur, Zagreb, Croatia",,,,,,
+"The Garden Brewery Croatia",,"Zagreb, Croatia",,,,38598309739,planning,http://www.thegarden.hr

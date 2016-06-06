@@ -1,25 +1,25 @@
-name,address,city,state,zip,phone,type,url
-"Albani Bryggerierne A/S","Postbox 170",,,,"66 13 23 01",regional,
-"Alfa Laval Scandi-Brew Ltd A/S","5 Maskinvej",,,,"(453) 167-0044",regional,
-Braunstein,"Brogade 18c",,,,"(452) 048-4468",micro,
-"Brewery Group Denmark A/S","Torvegade 35",,,,"056 71 37 00",,
-"Bryggeriet Apollo","Verterbrogade 3",,,,33123313,,
-"Bryggeriet S.C. Fuglsang A/S","Bryggerivej 2",,,,"(457) 352-6100",micro,http://www.fuglsang.dk
-"Bryggeriet Slotsmollen Kolding","Fredericiagade 22",,,,"75 52 60 00",regional,
-"Bryggeriet Vestfyen A/S","Faaborgvej 4 Postbox 5",,,,"64 71 10 41",regional,
-"Bryghuset Mon","Luffes Gard - Storegade 18",,,,"(455) 581-2000",brewpub,http://www.bryghusetmoen.dk
-"Carlsberg Breweries A/S","100, Ny Carlsberg Vej",,,,"(453) 327-3300",large,http://www.carlsberg.com
-"Fredericia Bryggeri A/S","Vestre Ringvej",,,,"075 93 11 22",regional,
-"Hancock Bryggerierne A/S","Humlevej 32, Resen",,,,97522577,regional,
-"Harboes Btyggeri A/S","Spegerborgvej 34",,,,"53 59 40 40",,http://harboe-byrggeri.dk
-Johansen,Gersdorffslundvej1,,,,,regional,
-"Maribo Bryghus A/S","Vesterbrogade 11-13",,,,"53 88 00 19",regional,
-Mikkeller,"Vesterbrogade 20, 1.Th.",,,,"(453) 322-7997",micro,http://www.mikkeller.dk
-"Nibe Bryghus","cancel membership",,,,"(452) 925-9988",brewpub,
-"Norrebro Bryghus","Ryesgade 3",,,,"(453) 963-6050",brewpub,
-"Royal Unibrew A/S","Faxe Alle 1",,,,"5677 1500",large,http://www.royalunibrew.com
-"Scandi Brew","Rosenkaerat 18",,,,,,http://www.alfalaval.com
-"Soegaard Bryghus Aps","C.W. Obel Plads",,,,"(452) 191-3216",micro,http://www.soegaardsbryghus.dk
-"Soegaards Bryghus A/S","C W Obelsplads 1A",,,,"(459) 816-1114",brewpub,http://www.soegaardsbryghus.dk
-"Thor Bryggerierne","Royal Unibrew A/S Dybbolvej 5",,,,"(458) 712-4500",regional,
-"Wiibroes Bryggeri A/S","H.P. Christensensvej Postbox 49",,,,"(453) 327-3000",,http://www.wiibroe.dk
+name,address1,address2,city,state,zip,phone,type,url
+"Albani Bryggerierne A/S","Postbox 170","Odense, Denmark",,,,"66 13 23 01",regional,
+"Alfa Laval Scandi-Brew Ltd A/S","5 Maskinvej","Soborg, Denmark",,,,"(453) 167-0044",regional,
+Braunstein,"Brogade 18c","4600 Koge, Denmark",,,,"(452) 048-4468",micro,
+"Brewery Group Denmark A/S","Torvegade 35","4640 Fakse, Denmark",,,,"056 71 37 00",,
+"Bryggeriet Apollo","Verterbrogade 3","Copenhagen V, Denmark",,,,33123313,,
+"Bryggeriet S.C. Fuglsang A/S","Bryggerivej 2","Haderslev, Denmark",,,,"(457) 352-6100",micro,http://www.fuglsang.dk
+"Bryggeriet Slotsmollen Kolding","Fredericiagade 22","Kolding, Denmark",,,,"75 52 60 00",regional,
+"Bryggeriet Vestfyen A/S","Faaborgvej 4 Postbox 5","Assens, Denmark",,,,"64 71 10 41",regional,
+"Bryghuset Mon","Luffes Gard - Storegade 18","Stege, Denmark",,,,"(455) 581-2000",brewpub,http://www.bryghusetmoen.dk
+"Carlsberg Breweries A/S","100, Ny Carlsberg Vej","Copenhagen V, Denmark",,,,"(453) 327-3300",large,http://www.carlsberg.com
+"Fredericia Bryggeri A/S","Vestre Ringvej","7000 Fredericia, Denmark",,,,"075 93 11 22",regional,
+"Hancock Bryggerierne A/S","Humlevej 32, Resen","Skive, Denmark",,,,97522577,regional,
+"Harboes Btyggeri A/S","Spegerborgvej 34","SkFlskrr, Denmark",,,,"53 59 40 40",,http://harboe-byrggeri.dk
+Johansen,Gersdorffslundvej1,"Odder, Denmark",,,,,regional,
+"Maribo Bryghus A/S","Vesterbrogade 11-13","Maribo, Denmark",,,,"53 88 00 19",regional,
+Mikkeller,"Vesterbrogade 20, 1.Th.","Kobenhavn V, Denmark",,,,"(453) 322-7997",micro,http://www.mikkeller.dk
+"Nibe Bryghus","cancel membership",", Denmark",,,,"(452) 925-9988",brewpub,
+"Norrebro Bryghus","Ryesgade 3","Kobenhavn N, Denmark",,,,"(453) 963-6050",brewpub,
+"Royal Unibrew A/S","Faxe Alle 1","Faxe, Denmark",,,,"5677 1500",large,http://www.royalunibrew.com
+"Scandi Brew","Rosenkaerat 18","Suborg, Denmark",,,,,,http://www.alfalaval.com
+"Soegaard Bryghus Aps","C.W. Obel Plads","Aalborg, Denmark",,,,"(452) 191-3216",micro,http://www.soegaardsbryghus.dk
+"Soegaards Bryghus A/S","C W Obelsplads 1A","9000 Aalborg, Denmark",,,,"(459) 816-1114",brewpub,http://www.soegaardsbryghus.dk
+"Thor Bryggerierne","Royal Unibrew A/S Dybbolvej 5","Randers, Denmark",,,,"(458) 712-4500",regional,
+"Wiibroes Bryggeri A/S","H.P. Christensensvej Postbox 49","Helsingor, Denmark",,,,"(453) 327-3000",,http://www.wiibroe.dk

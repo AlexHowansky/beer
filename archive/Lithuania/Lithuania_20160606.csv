@@ -1,10 +1,10 @@
-name,address,city,state,zip,phone,type,url
-"AB Gubernija","Dvaro g. 179",,,,"+370 8 41 59 19 00",large,http://www.gubernija.lt
-"AB Kalnapilio Tauro grupe","Didlaukio G. 69 B",,,,"+370 4550 5223",,
-"AB Kalnapilis","Taikos Al 1, 5319",,,,"(370) 550-5254",,
-"AB Kalnapilis-Tauro grupe","Didlaukio G. 69 B",,,,"+370 4550 5223",large,http://www.kalnapilis.lt
-"Bravoru Kalnapilis","Taikos Aleja1",,,,,regional,
-"Brewery Ragutis","Kaunakiemio 2",,,,"(370) 720-0903",regional,
-"Shvyturys Brewery","Kuliu Vartai 7",,,,701-22-261-13904,regional,
-"Svyturys AB","Kuliu Vary 7",,,,"(370) 648-4000",,
-"UAB Svyturys-Utenos alus","Didlaukio Gatve 69B",,,,+3705-239-7606,large,http://www.utenosalus.lt
+name,address1,address2,city,state,zip,phone,type,url
+"AB Gubernija","Dvaro g. 179","5402 Siauliai, Lietuva, Lithuania",,,,"+370 8 41 59 19 00",large,http://www.gubernija.lt
+"AB Kalnapilio Tauro grupe","Didlaukio G. 69 B","LT-08300 Vilnius, Lithuania",,,,"+370 4550 5223",,
+"AB Kalnapilis","Taikos Al 1, 5319","Panevezys, Lithuania",,,,"(370) 550-5254",,
+"AB Kalnapilis-Tauro grupe","Didlaukio G. 69 B","LT-08300 Vilnius, Lithuania",,,,"+370 4550 5223",large,http://www.kalnapilis.lt
+"Bravoru Kalnapilis","Taikos Aleja1","Panevezys, Lithuania",,,,,regional,
+"Brewery Ragutis","Kaunakiemio 2","Kaunas, Lithuania",,,,"(370) 720-0903",regional,
+"Shvyturys Brewery","Kuliu Vartai 7","Klaipeda, Lithuania",,,,701-22-261-13904,regional,
+"Svyturys AB","Kuliu Vary 7","Klaipeda, Lithuania",,,,"(370) 648-4000",,
+"UAB Svyturys-Utenos alus","Didlaukio Gatve 69B","Vilnius, Lithuania",,,,+3705-239-7606,large,http://www.utenosalus.lt

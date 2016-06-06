@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Turks And Caicos Brewing","PO Box 262, Providenciales",,,,,,
-"Turks Head Brewery","Discovery Drive PO 617",,,,"(649) 231-0184",micro,
+name,address1,address2,city,state,zip,phone,type,url
+"Turks And Caicos Brewing","PO Box 262, Providenciales","British West Indies, Turks and Caicos Islands",,,,,,
+"Turks Head Brewery","Discovery Drive PO 617","Providenciales, Turks and Caicos Islands",,,,"(649) 231-0184",micro,

@@ -30,7 +30,7 @@ $config = [
 ];
 
 $fp = fopen('php://stdout', 'w');
-fputcsv($fp, ['name', 'address', 'city', 'state', 'zip', 'phone', 'type', 'url']);
+fputcsv($fp, ['name', 'address1', 'address2', 'city', 'state', 'zip', 'phone', 'type', 'url']);
 $xml = new SimpleXMLElement(tidy_repair_string(file_get_contents('php://stdin'), $config, 'utf8'));
 foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $block) {
 
@@ -38,13 +38,14 @@ foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $bl
 
     $addrBlock = $block->xpath('li[@class="address"]');
     if (empty($addrBlock)) {
-        $address = '';
-        $addr = filter((string) $block->xpath('li[@class="name"]/following-sibling::li')[0]);
+        $address1 = '';
+        $address2 = filter((string) $block->xpath('li[@class="name"]/following-sibling::li')[0]);
     } else {
-        $address = filter((string) $addrBlock[0]);
-        $addr = filter((string) $block->xpath('li[@class="address"]/following-sibling::li')[0]);
+        $address1 = filter((string) $addrBlock[0]);
+        $address2 = filter((string) $block->xpath('li[@class="address"]/following-sibling::li')[0]);
     }
-    if (preg_match('/^([^,]+)\s*,\s*([A-Z]{2})\s+([\d-]+)/', $addr, $match)) {
+    if (preg_match('/^([^,]+)\s*,\s*([A-Z]{2})\s+([\d-]+)/', $address2, $match)) {
+        $address2 = '';
         $city = $match[1];
         $state = $match[2];
         $zip = $match[3];
@@ -65,7 +66,8 @@ foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $bl
 
     $data = [
         'name' => $name,
-        'address' => $address,
+        'address1' => $address1,
+        'address2' => $address2,
         'city' => $city,
         'state' => $state,
         'zip' => $zip,

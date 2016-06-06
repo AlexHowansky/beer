@@ -1,248 +1,248 @@
-name,address,city,state,zip,phone,type,url
-"1789 Brewery and Taphouse",,Statesville,NC,28625,"(704) 450-5381",planning,
-"217 Brew Works",,Wilson,NC,27893-4911,"(513) 490-7472",planning,
-"4th Floor Brewing Company",,"Holly Springs",NC,27540,"(336) 317-3520",planning,http://4thfloorbrewing.com
-"Altamont Brewing","1042 Haywood Rd",Asheville,NC,28806-2639,"(828) 575-2400",micro,http://www.altamontbrewingcompany.com
-"American Beerworks",,Matthews,NC,28104,,planning,
-"Andrews Brewing Co At Calaboose Cellars","565 Aquone Rd",Andrews,NC,28901-7004,"(828) 321-2006",micro,http://www.calaboosecellars.com
-"Appalachian Mountain Brewery","163 Boone Creek Dr",Boone,NC,28607-7911,"(828) 263-1111",micro,http://www.appalachianmountainbrewery.com
-"Asheville Brewing Co","77 Coxe Ave",Asheville,NC,28801-3621,"(828) 255-4077",micro,http://www.ashevillepizza.com
-"Asheville Pizza and Brewing","675 Merrimon Ave",Asheville,NC,28804-3541,"(828) 254-1281",brewpub,http://www.ashevillepizza.com
-"Ass Clown Brewing Co","10620 Bailey Rd Ste E",Cornelius,NC,28031-9364,"(704) 995-7767",micro,http://www.assclownbrewery.com
-"Aviator Brewing Company","209 Technology Park Ln","Fuquay Varina",NC,27526-9311,"(919) 567-2337",micro,http://www.aviatorbrew.com
-"Backstage Brewing Co",,Clemmons,NC,27012,"(336) 766-2012",planning,http://www.backstagebrewing.com
-"Barking Duck Brewing Company",,,,,"(980) 936-6300",planning,http://www.barkingduckbrew.com
-"Bayne Brewing Company","19507 W. Catawba Ave.",Cornelius,NC,28031-0107,"(704) 897-6426",micro,http://www.baynebrewingcompany.com
-"Bear Creek Brews",,"Bear Creek",NC,27207,"(919) 200-3930",micro,http://www.bearcreekbrews.com
-"BearWaters Brewing Co","130 Frazier St Ste 7",Waynesville,NC,28786-3688,"(828) 246-0602",micro,http://www.bwbrewing.com
-"Beech Mountain Brewing Company","1007 Beech Mountain Parkway","Beech Mountain",NC,28604-8018,"(800) 438-2093",micro,http://www.beechmountainresort.com
-"Beer Army","313 Pollock St","New Bern",NC,28560-4944,,micro,
-"Bessemer City Brewing Co @ WHiskey Mill Bar & Grill",,"Bessemer City",NC,28016-2659,"(704) 629-2325",planning,http://www.whiskeymill.com
-"Bettler Brewing Company",,Mooresville,NC,28117,"(704) 519-6325",planning,http://www.bettlerbrewing.com
-"Big Boss Brewing Co","1249 Wicker Dr Ste A",Raleigh,NC,27604-1683,"(919) 834-0045",micro,http://www.bigbossbrewing.com
-"Biltmore Brewing Company","1 N Pack Sq C/O Biltmore Winery Estates",Asheville,NC,28801-3462,"(800) 411-3812",proprietor,http://www.biltmore.com
-"Birdsong Brewing","1016 North Davidson St",Charlotte,NC,28206,"(704) 332-1810",micro,http://www.birdsongbrewing.com
-"Blind Druid Brewing",,Greensboro,NC,27407,"(336) 587-7470",planning,http://www.facebook.com/blind-druid-brewing-359285814213084/
-"Blind Squirrel Brewery","4716 South US Highway 19 E Suite B",Plumtree,NC,28664-0173,"(828) 765-2739",micro,http://www.blindsquirrelbrewery.com
-"Blowing Rock Brewing Company","PO Box 2678","Blowing Rock",NC,28605-2678,"(828) 414-9600",brewpub,http://www.blowingrockbrewing.com
-"Blue Blaze Brewing",,Charlotte,NC,28208-4259,"(704) 717-8527",planning,http://www.blueblazebrewing.com
-"Blue Mountain Pizza and Brew Pub","55 N Main St.",Weaverville,NC,28787-6634,"(828) 658-8777",brewpub,http://www.bluemountainpizza.com
-"Blue Ridge Community College",,"Flat Rock",NC,28731,"(828) 694-1700",planning,http://www.blueridge.edu
-"Bombshell Beer Company","120 Quantum St","Holly Springs",NC,27540,"(919) 823-1933",micro,http://www.bombshellbeer.com
-"Bond Brothers Beer Company",,Cary,NC,27511-3440,"(919) 459-2670",planning,http://www.bondbrothersbeer.com
-"Boojum Brewing Company","357 Dayton Dr.",Waynesville,NC,28786-6931,,micro,http://www.boojumbrewing.com
-"Boondocks Brewing","108 S Jefferson Ave","West Jefferson",NC,28694-9524,,brewpub,http://www.boondocks-brewing.com
-"Booneshine Brewing Company","246 Wilson Dr Ste L",Boone,NC,28607,,micro,http://www.booneshine.beer
-"Bottle Tree Beer Co","10 N Trade St Ste A",Tryon,NC,28782-6781,"(864) 266-0133",contract,http://www.bottletree.net
-"Boylan Bridge Brewpub","201 S Boylan Ave",Raleigh,NC,27603-1803,"(919) 803-8927",brewpub,http://www.boylanbridge.com
-"Brevard Brewing Co","63 E Main St",Brevard,NC,28712-3746,,micro,http://www.brevard-brewing.com
-"Brewery 99","417 F Broad St.","New Bern",NC,28560-4900,"(252) 259-6393",micro,http://www.brewery99.com
-"Brewery Cursus Keme LLC","10 Munn Dr",Asheville,NC,28805-1526,,contract,
-"Brewery in Planning - Ahoskie",,Ahoskie,NC,27910,"(252) 332-6844",planning,http://www.quicktriggerbrewing.com
-"Brewery In Planning - Apex",,Apex,NC,27502,,planning,
-"Brewery In Planning - Asheville",,Asheville,NC,28805,,planning,
-"Brewery In Planning - Asheville",,Asheville,NC,28801-1100,,planning,
-"Brewery in Planning - Asheville",,Asheville,NC,28801,"(864) 363-7737",planning,
-"Brewery in Planning - Charlotte",,Charlotte,NC,28203,,planning,
-"Brewery in Planning - Charlotte",,Charlotte,NC,28202,"(225) 939-5471",planning,
-"Brewery in Planning - Charlotte",,Charlotte,NC,28205,"(908) 370-5481",planning,
-"Brewery In Planning - Charlotte",,Charlotte,NC,28204-2740,,planning,
-"Brewery In Planning - Charlotte",,Charlotte,NC,28205,,planning,
-"Brewery In Planning - Charlotte NC",,Charlotte,NC,28216-8503,,planning,
-"Brewery In Planning - Durham",,Durham,NC,27705,,planning,
-"Brewery In Planning - Fayetteville",,Fayetteville,NC,28303-4660,,planning,
-"Brewery In Planning - Huntersville",,Huntersville,NC,28078-2344,,planning,
-"Brewery In Planning - Matthews",,Matthews,NC,28105-2587,,planning,
-"Brewery in Planning - Mebane",,Mebane,NC,27302,"(336) 512-4361",planning,http://www.facebook.com/profile.php?id=29718430
-"Brewery in Planning - midland",,midland,NC,28107,"(704) 512-9167",planning,
-"Brewery in Planning - Mooresville",,Mooresville,NC,28117,17042008662,planning,
-"Brewery in Planning - Mooresville",,Mooresville,NC,28117,,planning,
-"Brewery in Planning - new orleans",,charlotte,NC,28269,,planning,
-"Brewery in Planning - Raleigh",,"Raleigh ",NC,27616,,planning,
-"Brewery in Planning - Raleigh",,Raleigh,NC,27609,"(919) 322-2789",planning,
-"Brewery in Planning - Raleigh","4507 Pale Moss Dr.",Raleigh,NC,27606,,,
-"Brewery In Planning - Raleigh",,Raleigh,NC,27612,,planning,
-"Brewery In Planning - Raleigh",,,,,,planning,
-"Brewery In Planning - Southern Pines",,,,,,planning,
-"Brewery In Planning - Wake Forest",,"Wake Forest",NC,27587-1808,,planning,
-"Brewery In Planning - Winston Salem",,WinstStatesville,NC,28625,,planning,
-"Brewery in Planning - Winston-Salem",,Winston-Salem,NC,27104,"(336) 407-9671",planning,
-"Brewery In Planning- Big Dan's Brew Shed",,"Pleasant Garden",NC,27313-9278,,planning,
-"Brewery In Planning- Cool Ridge, WV",,Charlotte,NC,28209-4743,,planning,
-"Brewery In Planning- Durham, NC.",,Durham,NC,27703-5133,"(919) 259-4469",planning,http://www.drinkmodern.com
-"Brewery In Planning- Mebane, NC.",,Mebane,NC,27302-8860,,planning,
-"Brewery In Planning- Stedman, NC.",,Stedman,NC,28391-8457,,planning,
-"Broomtail Craft Brewery","6404 Amsterdam Way, Ste 100",Wilmington,NC,28405-2563,"(910) 264-1369",micro,http://www.broomtailcraftbrewery.com
-"Brown Truck Brewing Co",,Greensboro,NC,27407-6504,,planning,
-"Brueprint Brewing Company LLC","1229 Perry Rd Ste 101",Apex,NC,27502-6898,"(919) 387-8075",micro,http://www.brueprint.com
-"Bull City Burger And Brewery","107 E Parrish St Ste 105",Durham,NC,27701-3318,"(919) 680-2333",brewpub,http://www.bullcityburgerandbrewery.com
-"Bull Durham Beer Co","409 Blackwell St.",Durham,NC,27701-3972,"(919) 744-3568",micro,http://www.bulldurhambeer.com
-"Burial Beer Co","40 Collier Ave",Asheville,NC,28801-4024,,micro,http://www.burialbeer.com
-"Cabarrus Brewing Company","329 McGill Ave NW",Concord,NC,28027-6149,"(704) 490-4487",micro,http://www.cabarrusbrewing.com
-"Carolina Brewery - Chapel Hill","PO Box 8","Chapel Hill",NC,27514-0008,"(919) 942-1800",brewpub,http://www.carolinabrewery.com
-"Carolina Brewery - Pittsboro","120 Lowes Dr Ste 100",Pittsboro,NC,27312-8872,"(919) 545-2337",micro,http://www.carolinabrewery.com
-"Carolina Brewing Co","140 Thomas Mill Rd","Holly Springs",NC,27540-9372,"(919) 557-2337",micro,http://www.carolinabrew.com
-"Catawba Brewing Co","212 S Green St",Morganton,NC,28655-3525,"(828) 430-6883",micro,http://www.catawbabrewing.com
-"Catawba Brewing Co - Asheville","63 Brook St",Asheville,NC,28803-2766,"(828) 430-6883",micro,http://www.catawbavalleybrewingcompany.com
-"Check Six Brewing Co","5130 Southport Supply Rd SE",Southport,NC,28461-9261,"(910) 477-9280",micro,http://www.checksixbeer.com
-"Clouds Brewing","1233 Front Street",Raleigh,NC,27609,"(919) 747-4863",micro,http://www.cloudsbrewing.com
-"Collection Brewing Company",,Raleigh,NC,27614,"(415) 810-8491",planning,
-"Compass Rose","3201 Northside Dr",Raleigh,NC,27615-4126,"(919) 875-5683",micro,http://www.compassrosebrewery.com
-"Crank Arm Brewing Co","319 W Davie St",Raleigh,NC,27601-1718,"(919) 291-0643",micro,http://www.crankarmbrewing.com
-"D9 Brewing Company","11138 Treynorth Dr Ste C",Cornelius,NC,28031-8186,"(704) 457-9368",micro,http://www.d9brewing.com
-"Deep River Brewing Company","700 W Main St Ste 102",Clayton,NC,27520-1617,,micro,http://www.deepriverbrewing.com
-"Dirtbag Ales Brewery and Taproom","3623 Legion Rd.","Hope Mills",NC,28348-8413,"(910) 426-2537",micro,http://www.dirtbagales.com
-"Double Barley Brewing","3174 US Highway 70 W",Smithfield,NC,27577-7613,"(919) 934-3433",brewpub,http://www.doublebarleybrewing.com
-"Draft Line Brewing Co","341 Broad St Ste 151","Fuquay Varina",NC,27526-1703,"(919) 557-7121",micro,http://www.draftlinebrewing.com
-"Dry County Brewing","585 Oak Ave","Spruce Pine",NC,28777-2727,"(828) 765-4583",brewpub,http://www.drycountybrewing.com
-"Duck Rabbit Craft Brewery","4519 West Pine St",Farmville,NC,27828-8526,"(252) 753-7745",micro,http://duckrabbitbrewery.com
-"DukBone Brewing",,Charlotte,NC,28206,"(843) 670-0011",planning,
-"Eleven Lakes Brewing Company",,Huntersville,NC,28078-3737,,planning,
-"Fainting Goat Brewing Company","330 S. Main ST.","Fuquay Varina",NC,27526-2225,"(919) 346-7915",micro,
-"Flat Top Brewing Company","567 Main St. E","Banner Elk",NC,28604,"(828) 898-8677",micro,http://www.flattopbrewing.com
-"Flytrap Brewing","319 Walnut St",Wilmington,NC,28411,,micro,http://www.flytrapbrewing.com
-"Fonta Flora Brewery","317 N Green St",Morganton,NC,28655-3324,"(828) 475-0153",micro,http://www.fontaflora.com
-"Foothills Brewing Co","638 W 4th St","Winston Salem",NC,27101-2730,"(336) 777-3348",brewpub,http://www.foothillsbrewing.com
-"Foothills Brewing Co","3800 Kimwell Dr","Winston Salem",NC,27103-6708,,regional,http://www.foothillsbrewing.com
-"Fortnight Brewing Company","211 Powers Ferry Rd",Cary,NC,27519-1510,"(919) 342-6604",micro,http://www.fortnightbrewing.com
-"Four Saints Brewing","218 S Fayetteville St",Asheboro,NC,27203-5725,"(336) 610-3722",micro,http://www.foursaintsbrewing.com
-"Four Thirds Brewing Company",,,,,,planning,http://www.fourthirdsbrewing.com
-"Free Range Brewing","2320 N Davidson Street",Charlotte,NC,28205-1832,,micro,
-"French Broad Brewing Co","101 Fairview Rd Ste D",Asheville,NC,28803-4301,"(828) 277-0222",micro,http://www.frenchbroadbrewery.com
-"Frog Level Brewing Co","56 Commerce St",Waynesville,NC,28786-5738,,micro,http://www.froglevelbrewing.com
-"Front Street Brewery","9 N Front St",Wilmington,NC,28401-4436,,brewpub,
-"Full Moon Brewery and Cafe","208 Queen Elizabeth Ave",Manteo,NC,27954-9230,,brewpub,http://www.thefullmooncafe.com
-"Fullsteam Brewery","726 Rigsbee Ave",Durham,NC,27701-2139,"(919) 682-2337",micro,http://www.fullsteam.ag
-"Ghostface Brewing Company","427 East Statesville Ave, Ste 100",Mooresville,NC,28115-2595,"(704) 799-7433",brewpub,http://www.ghostfacebrewing.com
-"Gibb's Hundred Brewing Company","117 W Lewis St",Greensboro,NC,27406-1343,"(336) 763-7087",micro,http://www.gibbshundred.com
-"Gizmo Brew Works","5907 Triangle Dr",Raleigh,NC,27617-4742,"(919) 782-2099",micro,http://www.gizmobrewworks.com
-"Good Hops Brewing","811 Harper Avenue At Dow Road","Carolina Beach",NC,28428,"(706) 713-1594",micro,http://www.goodhopsbrewing.com
-"Granite Falls Brewing Co.","47 Duke St","Granite Falls",NC,28630-1807,"(828) 212-1222",micro,http://www.granitefallsbrewing.com
-"Green Man Brewing Co","23 Buxton Ave",Asheville,NC,28801-4019,"(828) 252-5502",micro,http://www.greenmanbrewery.com
-"Hatchet Head Brewing Co.",,Mooresville,NC,28117,,planning,
-"Have Another Brewing Co.",,Clemmons,NC,27012,,planning,
-"Haw River Farmhouse Ales","PO Box 390",Saxapahaw,NC,27340-0390,,micro,
-"Heinzelmannchen Brewery","545 Mill St",Sylva,NC,28779-5546,"(828) 631-4466",micro,http://www.yourgnometownbrewery.com
-"Heist Brewery","2901 N Davidson St",Charlotte,NC,28205-1078,"(704) 375-8260",brewpub,http://www.heistbrewery.com
-"Hickory Brewery","883 Highland Ave SE",Hickory,NC,28602-1106,"(828) 414-9600",micro,
-"High Branch Brewing Co","325 McGill Ave, Suite 148",Concord,NC,28027-6181,"(704) 706-3807",micro,http://highbranchbrewing.com
-"Highland Brewing Co","12 Old Charlotte Hwy Ste H",Asheville,NC,28803-9419,"(828) 299-3370",regional,http://www.highlandbrewing.com
-"Hillman Beer",,Asheville,NC,28803,"(828) 772-5580",planning,http://www.hillmanbeer.com
-"Hi-Wire Brewing","197 Hilliard Ave",Asheville,NC,28801-3616,,micro,
-"HomeGrown Brewing Co",,Greensboro,NC,27407,"(336) 580-4558",planning,
-"HOOTS Beer Co.","840 Mill Works Street","Winston Salem",NC,27101-1243,"(336) 608-6026",micro,http://www.hootspublic.com
-"Howard Brewing Co","PO Box 1883",Lenoir,NC,28645-1883,"(828) 572-4449",micro,http://www.startabrewmance.com
-"Huske Hardware House Brewing Co","405 Hay St",Fayetteville,NC,28301-5537,"(912) 437-9905",brewpub,http://www.huskehardware.com
-"Innovation Brewing","414 W Main St",Sylva,NC,28779-5548,"(828) 586-9678",micro,http://www.innovationbrewing.com
-"Ironclad Brewery","115 North 2nd St.",Wilmington,NC,28401-3936,"(910) 769-0290",micro,http://www.ironcladbrewery.com
-"Ivory Tower Brewery","525 Rivers St",Boone,NC,28608-0001,"(828) 262-7847",micro,http://www.ivorytowerscience.com
-"Kernersville Brewing Company","210 N Main Street",Kernersville,NC,27284,"(336) 816-7283",micro,
-"Kind Beer Distributing","PO Box 2105",Wilmington,NC,28402-2105,"(910) 515-4140",contract,http://www.kindbeers.com
-"Koi Pond Brewing Co","1107 Falls Road","Rocky Mount",NC,27804-4407,"(252) 231-1660",micro,http://www.koipondbreiwngcompany.com
-"Lake Norman Brewing Company, LLC","159 Unit B Barley Park Ln",Mooresville,NC,28115,,micro,http://www.lakenormanbrewingcompany.com
-"Lazy Hiker Brewing Co.","188 W Main St",Franklin,NC,28734-2949,"(828) 349-2337",micro,http://www.lazyhikerbrewing.com
-"Legion Brewing Company","1906 Commonwealth Ave.",Charlotte,NC,28205-5020,"(844) 467-5683",micro,http://www.legionbrewing.com
-"Lenny Boy Brewing Co","2224 Hawkins St",Charlotte,NC,28203-4939,,micro,http://www.discoverlennyboy.com
-"Lexington Avenue Brewery - The LAB","39 N Lexington Ave",Asheville,NC,28801-2827,"(828) 252-0212",brewpub,http://www.lexavebrew.com
-"Liberty Brewery & Grill","914 Mall Loop Rd","High Point",NC,27262-7654,"(336) 882-4677",brewpub,
-"Lincoln Brewing Co","2912 N. Main Street","Fuquay Varina",NC,27526-5499,"(919) 285-2318",micro,http://www.lincolnbrewery.com
-"Little City Brewing Co",,Raleigh,NC,27603,"(704) 999-0577",planning,http://www.thelocalicon.com/little-city
-"Little City Brewing Co.",,Raleigh,NC,27603,"(704) 999-0577",planning,http://www.thelocaicon.com/little-city
-"Loe's Brewing Company","1048 Harper Ave",Lenoir,NC,28645-5085,"(828) 754-3652",brewpub,http://www.loesbrewing.com
-"Lonerider Brewing Co","8816 Gulf Ct Ste 100",Raleigh,NC,27617-4628,"(919) 423-5203",regional,http://www.loneriderbeer.com
-"Lookout Brewing Company","103 S Ridgeway Ave","Black Mountain",NC,28711-3550,"(828) 357-5169",micro,http://www.lookoutbrewing.com
-"Lost Province Brewing Company, LLC","130 N Depot St",Boone,NC,28607-3603,"(828) 265-3506",brewpub,http://www.lostprovince.com
-"Lynnwood Brewing Concern","4821 Grove Barton R",Raleigh,NC,27613,,brewpub,
-"Mash House Restaurant & Brewery","4150 Sycamore Dairy Rd",Fayetteville,NC,28303-3459,"(910) 867-9223",brewpub,http://www.themashhouse.com
-"Mill Whistle Brewing","4915 Arendell St, #313","Morehead City",NC,28557-2659,,micro,
-"MillerCoors Brewing Co - Eden","863 E Meadow Rd",Eden,NC,27288-3636,"(336) 627-2204",large,http://www.millerbrewing.com
-"Morgan Ridge Vineyards & Brewhouse","486 John Morgan Rd","Gold Hill",NC,28071-9758,"(704) 639-0911",brewpub,
-"Mother Earth Brewing","311 N Herritage St",Kinston,NC,28501-4823,"(252) 208-2437",regional,http://www.motherearthbrewing.com
-"Mountain Layers Brewing Company",,"Bryson City",NC,28713,,planning,
-"Mystery Brewing Co","437 Dimmocks Mill Rd Ste 41",Hillsborough,NC,27278-2379,"(919) 697-8379",micro,http://www.mysterybrewing.com
-"Nantahala Brewing Co","61 Depot St","Bryson City",NC,28713,"(828) 488-2337",micro,http://www.nantahalabrewing.com
-"Natty Greene's Brewing Co","1918 W Lee St",Greensboro,NC,27403-2615,"(336) 274-1373",regional,http://www.nattygreenes.com
-"Natty Greene's Pub & Brewing Co","345 S Elm St",Greensboro,NC,27401-2603,"(336) 856-6111",brewpub,http://www.nattygreenes.com
-"Natty Greene's Pub & Brewing Co","505 W Jones St",Raleigh,NC,27603-1428,"(919) 232-2477",brewpub,http://www.nattygreenes.com
-"Neuse River Brewing Company","518 Pershing Road",Raleigh,NC,27608,"(404) 386-7522",micro,http://www.neuseriverbrewing.com
-"New Belgium Brewing Co",,Asheville,NC,28806,"(970) 221-0524",planning,
-"New Sarum Brewing","109 N. Lee St",Salisbury,NC,28144-5033,"(704) 201-5048",,http://www.newsarumbrewing.com
-"Newgrass Brewing Company","213 S. Lafayette St.",Shelby,NC,28150,"(704) 477-2795",micro,http://www.newgrassbrewing.com
-"Nickelpoint Brewing Co","506 Pershing Road",Raleigh,NC,27608-2624,"(919) 916-5961",micro,http://www.nickelpointbrewing.com
-"NoDa Brewing Co","2229 N Davidson St",Charlotte,NC,28205-1829,"(704) 451-1394",micro,http://www.nodabrewing.com
-"Oden Brothers Brewing Co.",,Greensboro,NC,27403,"(910) 620-4011",planning,
-"Olde Hickory Brewery - Production","2 3rd St SW",Hickory,NC,28602-2941,,micro,
-"Olde Hickory Brewery & Amos Howards","2828 US Highway 70 SW",Hickory,NC,28602-4645,"(828) 323-8753",brewpub,http://www.amoshowards.com
-"Olde Mecklenburg Brewery, The","4150 Yancey Rd",Charlotte,NC,28217-1738,"(704) 525-5644",micro,http://www.oldemeckbrew.com
-"Ole Dallas Brewery",,Dallas,NC,28034-9793,"(704) 266-1472",micro,http://www.oledallasbrewery.com
-"One World Brewing","10 Patton Avenue",Asheville,NC,28801-3302,"(828) 785-5580",micro,http://www.oneworldbrewing.com
-"Oskar Blues Brewery - Brevard","342 Mountain Industrial Dr",Brevard,NC,28712,"(303) 776-0724",regional,http://www.oskarblues.com
-"Outer Banks Brewing Station","PO Box 2584","Kill Devil Hills",NC,27948-2584,"(252) 449-2739",brewpub,http://www.obbrewing.com
-"Oyster House Brewing Co.","625 Haywood Rd",Asheville,NC,28806-3255,"(828) 575-9370",brewpub,http://www.oysterhousebeers.com
-"PaperMill Brewing & Pub",,Canton,NC,28716-4438,,planning,
-"Pig Pounder Brewery","1107 Grecade St",Greensboro,NC,27408-8709,,micro,http://www.pigpounder.com
-"Pisgah Brewing Co","150 Eastside Dr","Black Mountain",NC,28711-8208,"(828) 669-0190",micro,http://www.pisgahbrewing.com
-"Pitt Street Brewing Company",,Franklin,NC,28734,"(770) 330-3280",planning,
-"Ponysaurus Brewing Company","219 Hood St",Durham,NC,27701,"(978) 482-7701",brewpub,http://www.ponysaurusbrewing.com
-"Preyer Brewing Company","600 Battleground Ave",Greensboro,NC,27401-2015,"(336) 256-9450",micro,http://www.preyerbrewing.com
-"Primal Brewery","16432 Old Statesville Rd",Huntersville,NC,28078-7245,"(704) 947-2920",micro,http://www.primalbrewery.com
-"Railhouse Brewery","105 E South St Unit C",Aberdeen,NC,28315-2735,"(910) 783-5280",micro,http://www.railhousebrewery.com
-"Raleigh Brewing Company","3709 Neil St",Raleigh,NC,27607-5415,"(919) 400-9086",micro,http://www.raleighbrewingcompany.com
-"Red Oak Brewing Co","6901 Konica Dr",Whitsett,NC,27377-9787,"(336) 299-3649",regional,http://www.redoakbrewery.com
-"Regulator Brewing Company",,,,,"(919) 589-2739",micro,http://www.regulatorbrewing.com
-"Rivermen Brewing Co","1500 River Drive",Belmont,NC,28012-3578,"(704) 363-4698",micro,http://www.rivermenbrewingcompany.com
-"Rock Bottom Brewery- Charlotte","401 N Tryon St Ste 100",Charlotte,NC,28202-2108,"(704) 334-2739",brewpub,
-"Ruff'ton Brewhouse","177 N. Main St.",Rutherfordton,NC,28139-2501,"(828) 375-2337",brewpub,http://www.rufftonbrewhouse.com
-"Rusted Mill Artisan Ales",,Gastonia,NC,28052,,planning,
-"Salud Beer Shop","3306-B N Davidson St",Charlotte,NC,28205-1036,"(704) 900-7767",brewpub,http://www.saludbeershop.com
-"Sanctuary Brewing Co","147 First Ave E",Hendersonville,NC,28792,"(828) 333-0742",brewpub,http://www.sanctuarybrewco.com
-"Sapphire Mountain Brewing Co","50 Slicers Ave",Sapphire,NC,28774-9405,"(828) 743-0220",contract,http://www.sapphiremountainbrewingcompany.com
-"Satulah Mountain Brewing Co","454 Carolina Wy",Highlands,NC,28741,"(828) 482-9794",brewpub,http://www.satulahmountainbrewing.com
-"Shade Tree Brewing Co",,,,,"(919) 904-4ALE",planning,http://www.shadetreebrew.com
-"Sierra Nevada Brewing Co","100 Sierra Nevada Wy","Mills River",NC,28732-8608,,regional,http://www.sierranevada.com
-"SIG LLC",,"Winston Salem",NC,27104,"(804) 614-8394",planning,
-"Skull Camp Brewing","1980 N Bridge St",Elkin,NC,28621-2106,"(336) 352-5595",micro,http://www.skullcampbrewing.com
-"Skull Camp Brewing","765 Round Peak Church Rd","Mount Airy",NC,27030-8421,"(336) 352-5595",micro,http://www.skullcampbrewing.com
-"Small Batch Beer Co","241 West 5th Street","Winston Salem",NC,27101-2825,"(336) 893-6395",brewpub,http://www.smallbatchws.com
-"South College - Ashville",,Asheville,NC,28803-1526,,planning,
-"Southern Appalachian Brewery","822 Locust St Ste 100",Hendersonville,NC,28792-3758,"(828) 684-1235",micro,http://www.sabrewery.com
-"Southern Peak Brewery","950 Windy Rd Ste 100",Apex,NC,27502,"(919) 208-4515",micro,http://www.southernpeakbrewery.com
-"Southern Pines Brewing Company","565 Air Tool Drive Ste E","Southern Pines",NC,28387,"(910) 693-7742",micro,http://www.southernpinesbrewing.com
-"Stags Head Brewing Co",,Hendersonville,NC,28792,,planning,http://www.stagsheadbrewing.com
-"Starpoint Brewing, LLC","901 Clarence Dr","Chapel Hill",NC,27516-3145,"(919) 942-3629",micro,http://www.starpointbrewing.com
-"Steel String Craft Brewery","106 S Greensboro St Ste A",Carrboro,NC,27510-2266,"(919) 370-6971",brewpub,http://www.steelstringbrewery.com
-"Sub Noir Brewing Company","2039 Progress Ct",Raleigh,NC,27608-2761,"(919) 480-2337",micro,http://www.subnoir.net
-"Sugar Creek Brewing Co.","215 Southside Dr",Charlotte,NC,28217-1727,"(704) 469-6349",micro,http://www.sugarcreekbrewing.com
-"Sweet Taters Brewing","1121 Falls Rd.","Rocky Mount",NC,27804,"(252) 220-5355",brewpub,http://sweettatersbrewing.com/
-"Sweeten Creek Brewing","1127 Sweeten Creek Rd.",Asheville,NC,28803-1728,"(828) 575-2785",brewpub,http://www.sweetencreekbrewing.com
-"Sycamore Brewing","2161 Hawkins St",Charlotte,NC,28203-5395,"(704) 910-3821",micro,http://www.sycamorebrew.com
-"Tarboro Brewing Company","526 N. Main Street",Tarboro,NC,27886,"(252) 885-6278",micro,http://www.tarborobrewingcompany.com
-"Terrell Brewing Co.",,Terrell,NC,28682,"(828) 234-5032",planning,
-"The Dreamchaser\\'s Brewery",,Waxhaw,NC,28173,"(704) 843-7326",planning,http://www.dreamchasersbrewery.com
-"The Drunken Poet",,Waxhaw,NC,28173,"(828) 455-6226",planning,http://www.the-drunken-poet.com
-"The Sneak E Squirrel","1315 W. Main St.",Sylva,NC,28779-5213,"(828) 586-6440",brewpub,
-"Thirsty Monk Pub & Brewery","92 Patton Ave",Asheville,NC,28801-3315,"(828) 254-5470",brewpub,http://www.monkpub.com
-"Thirsty Nomad Brewing",,Charlotte,NC,28217-1520,,planning,
-"Three Spirits Brewery","5046 Old Pineville Rd Ste 110",Charlotte,NC,28217-2155,"(980) 207-4881",micro,http://www.threespiritsbrewery.com
-"Tight Lines Pub & Brewing Co","709 Arendell St","Morehead City",NC,28557-4214,"(252) 773-0641",brewpub,http://www.tightlinesbrewing.com
-"Tipping Point Tavern","190 N Main St",Waynesville,NC,28786-3810,"(828) 246-9230",brewpub,http://www.tippingpointtavern.com
-"Top Of The Hill Restaurant and Brewery","100 E Franklin St Ste 300","Chapel Hill",NC,27514-3629,"(919) 929-8676",brewpub,http://www.thetopofthehill.com
-"Triple C Brewing","2900 Griffith St",Charlotte,NC,28203-5430,"(704) 372-3212",micro,http://www.triplecbrewing.com
-"Trollingwood Taproom & Brewery","707 Dickinson Ave",Greenville,NC,27834-3147,"(252) 210-6295",micro,http://www.trollingwoodbrewery.com
-"Trophy Brewing Company","827 W Morgan St",Raleigh,NC,27603-1613,"(919) 803-4849",brewpub,http://www.trophybrewing.com
-"Twin Leaf Brewery","144 Coxe Ave",Asheville,NC,28801-4026,"(973) 229-3946",micro,http://www.twinleafbrewery.com/
-"Unknown Brewing Company","1327 S Mint St",Charlotte,NC,28203-4121,"(980) 237-2628",micro,http://www.unknownbrewing.com
-"Waterline Brewing Co.","721 Surry St",Wilmington,NC,28401-5043,"(888) 993-7498",micro,http://www.waterlinebrewing.com
-"Wedge Brewing Co","37 Paynes Way Suite 100",Asheville,NC,28801,"(828) 505-2792",micro,http://www.wedgebrewing.com
-"Weeping Radish Farm Brewery","6810 Caratoke Hwy",Grandy,NC,27939-9635,"(252) 491-5205",micro,http://www.weepingradish.com
-"White Rabbit Brewing Company","219 Fish Dr",Angier,NC,27501-6077,,micro,http://www.whiterabbitbrewery.com
-"White Street Brewing Company","218 S White St","Wake Forest",NC,27588-2066,"(919) 647-9439",micro,http://www.whitestreetbrewing.com
-"Wicked Weed Brewing","91 Biltmore Ave",Asheville,NC,28801-3626,"(828) 575-9599",brewpub,http://www.wickedweedbrewing.com
-"Wicked Weed Brewing","145 Jacob Holm Way",Candler,NC,28715-0209,"(484) 678-9424",micro,
-"Wicked Weed Funkatorium","147 Coxe Ave",Asheville,NC,28801-4025,"(828) 575-9599",micro,http://www.wickedweedbrewing.com
-"Wilmington Brewing Company","824 South Kerr Ave",Wilmington,NC,28403-8426,"(910) 392-3315",micro,http://www.wilmingtonbeer.com
-"Wise Man Brewing",,"Winston Salem",NC,27101,"(215) 908-2797",planning,
-"Wooden Robot","1440 S Tryon St Suite 110",Charlotte,NC,28203-4263,"(772) 359-4993",micro,http://www.woodenrobotbrewery.com
-"Yester Years Brewery","300 E. Main Street Suite C",Carrboro,NC,27510,"(909) 904-7273",brewpub,http://www.yesteryearsbrewery.com
-"YesterYears Brewery","300 E. Main St.",Carrboro,NC,27510-2359,"(919) 904-7273",micro,http://www.yesteryearsbrewery.com
-"Zebulon Artisan Ales","8 Merchants Aly",Weaverville,NC,28787-8860,,micro,http://www.zebulonbrewing.com
+name,address1,address2,city,state,zip,phone,type,url
+"1789 Brewery and Taphouse",,,Statesville,NC,28625,"(704) 450-5381",planning,
+"217 Brew Works",,,Wilson,NC,27893-4911,"(513) 490-7472",planning,
+"4th Floor Brewing Company",,,"Holly Springs",NC,27540,"(336) 317-3520",planning,http://4thfloorbrewing.com
+"Altamont Brewing","1042 Haywood Rd",,Asheville,NC,28806-2639,"(828) 575-2400",micro,http://www.altamontbrewingcompany.com
+"American Beerworks",,,Matthews,NC,28104,,planning,
+"Andrews Brewing Co At Calaboose Cellars","565 Aquone Rd",,Andrews,NC,28901-7004,"(828) 321-2006",micro,http://www.calaboosecellars.com
+"Appalachian Mountain Brewery","163 Boone Creek Dr",,Boone,NC,28607-7911,"(828) 263-1111",micro,http://www.appalachianmountainbrewery.com
+"Asheville Brewing Co","77 Coxe Ave",,Asheville,NC,28801-3621,"(828) 255-4077",micro,http://www.ashevillepizza.com
+"Asheville Pizza and Brewing","675 Merrimon Ave",,Asheville,NC,28804-3541,"(828) 254-1281",brewpub,http://www.ashevillepizza.com
+"Ass Clown Brewing Co","10620 Bailey Rd Ste E",,Cornelius,NC,28031-9364,"(704) 995-7767",micro,http://www.assclownbrewery.com
+"Aviator Brewing Company","209 Technology Park Ln",,"Fuquay Varina",NC,27526-9311,"(919) 567-2337",micro,http://www.aviatorbrew.com
+"Backstage Brewing Co",,,Clemmons,NC,27012,"(336) 766-2012",planning,http://www.backstagebrewing.com
+"Barking Duck Brewing Company",,"Mint Hill, NC",,,,"(980) 936-6300",planning,http://www.barkingduckbrew.com
+"Bayne Brewing Company","19507 W. Catawba Ave.",,Cornelius,NC,28031-0107,"(704) 897-6426",micro,http://www.baynebrewingcompany.com
+"Bear Creek Brews",,,"Bear Creek",NC,27207,"(919) 200-3930",micro,http://www.bearcreekbrews.com
+"BearWaters Brewing Co","130 Frazier St Ste 7",,Waynesville,NC,28786-3688,"(828) 246-0602",micro,http://www.bwbrewing.com
+"Beech Mountain Brewing Company","1007 Beech Mountain Parkway",,"Beech Mountain",NC,28604-8018,"(800) 438-2093",micro,http://www.beechmountainresort.com
+"Beer Army","313 Pollock St",,"New Bern",NC,28560-4944,,micro,
+"Bessemer City Brewing Co @ WHiskey Mill Bar & Grill",,,"Bessemer City",NC,28016-2659,"(704) 629-2325",planning,http://www.whiskeymill.com
+"Bettler Brewing Company",,,Mooresville,NC,28117,"(704) 519-6325",planning,http://www.bettlerbrewing.com
+"Big Boss Brewing Co","1249 Wicker Dr Ste A",,Raleigh,NC,27604-1683,"(919) 834-0045",micro,http://www.bigbossbrewing.com
+"Biltmore Brewing Company","1 N Pack Sq C/O Biltmore Winery Estates",,Asheville,NC,28801-3462,"(800) 411-3812",proprietor,http://www.biltmore.com
+"Birdsong Brewing","1016 North Davidson St",,Charlotte,NC,28206,"(704) 332-1810",micro,http://www.birdsongbrewing.com
+"Blind Druid Brewing",,,Greensboro,NC,27407,"(336) 587-7470",planning,http://www.facebook.com/blind-druid-brewing-359285814213084/
+"Blind Squirrel Brewery","4716 South US Highway 19 E Suite B",,Plumtree,NC,28664-0173,"(828) 765-2739",micro,http://www.blindsquirrelbrewery.com
+"Blowing Rock Brewing Company","PO Box 2678",,"Blowing Rock",NC,28605-2678,"(828) 414-9600",brewpub,http://www.blowingrockbrewing.com
+"Blue Blaze Brewing",,,Charlotte,NC,28208-4259,"(704) 717-8527",planning,http://www.blueblazebrewing.com
+"Blue Mountain Pizza and Brew Pub","55 N Main St.",,Weaverville,NC,28787-6634,"(828) 658-8777",brewpub,http://www.bluemountainpizza.com
+"Blue Ridge Community College",,,"Flat Rock",NC,28731,"(828) 694-1700",planning,http://www.blueridge.edu
+"Bombshell Beer Company","120 Quantum St",,"Holly Springs",NC,27540,"(919) 823-1933",micro,http://www.bombshellbeer.com
+"Bond Brothers Beer Company",,,Cary,NC,27511-3440,"(919) 459-2670",planning,http://www.bondbrothersbeer.com
+"Boojum Brewing Company","357 Dayton Dr.",,Waynesville,NC,28786-6931,,micro,http://www.boojumbrewing.com
+"Boondocks Brewing","108 S Jefferson Ave",,"West Jefferson",NC,28694-9524,,brewpub,http://www.boondocks-brewing.com
+"Booneshine Brewing Company","246 Wilson Dr Ste L",,Boone,NC,28607,,micro,http://www.booneshine.beer
+"Bottle Tree Beer Co","10 N Trade St Ste A",,Tryon,NC,28782-6781,"(864) 266-0133",contract,http://www.bottletree.net
+"Boylan Bridge Brewpub","201 S Boylan Ave",,Raleigh,NC,27603-1803,"(919) 803-8927",brewpub,http://www.boylanbridge.com
+"Brevard Brewing Co","63 E Main St",,Brevard,NC,28712-3746,,micro,http://www.brevard-brewing.com
+"Brewery 99","417 F Broad St.",,"New Bern",NC,28560-4900,"(252) 259-6393",micro,http://www.brewery99.com
+"Brewery Cursus Keme LLC","10 Munn Dr",,Asheville,NC,28805-1526,,contract,
+"Brewery in Planning - Ahoskie",,,Ahoskie,NC,27910,"(252) 332-6844",planning,http://www.quicktriggerbrewing.com
+"Brewery In Planning - Apex",,,Apex,NC,27502,,planning,
+"Brewery In Planning - Asheville",,,Asheville,NC,28805,,planning,
+"Brewery In Planning - Asheville",,,Asheville,NC,28801-1100,,planning,
+"Brewery in Planning - Asheville",,,Asheville,NC,28801,"(864) 363-7737",planning,
+"Brewery in Planning - Charlotte",,,Charlotte,NC,28203,,planning,
+"Brewery in Planning - Charlotte",,,Charlotte,NC,28202,"(225) 939-5471",planning,
+"Brewery in Planning - Charlotte",,,Charlotte,NC,28205,"(908) 370-5481",planning,
+"Brewery In Planning - Charlotte",,,Charlotte,NC,28204-2740,,planning,
+"Brewery In Planning - Charlotte",,,Charlotte,NC,28205,,planning,
+"Brewery In Planning - Charlotte NC",,,Charlotte,NC,28216-8503,,planning,
+"Brewery In Planning - Durham",,,Durham,NC,27705,,planning,
+"Brewery In Planning - Fayetteville",,,Fayetteville,NC,28303-4660,,planning,
+"Brewery In Planning - Huntersville",,,Huntersville,NC,28078-2344,,planning,
+"Brewery In Planning - Matthews",,,Matthews,NC,28105-2587,,planning,
+"Brewery in Planning - Mebane",,,Mebane,NC,27302,"(336) 512-4361",planning,http://www.facebook.com/profile.php?id=29718430
+"Brewery in Planning - midland",,,midland,NC,28107,"(704) 512-9167",planning,
+"Brewery in Planning - Mooresville",,,Mooresville,NC,28117,17042008662,planning,
+"Brewery in Planning - Mooresville",,,Mooresville,NC,28117,,planning,
+"Brewery in Planning - new orleans",,,charlotte,NC,28269,,planning,
+"Brewery in Planning - Raleigh",,,"Raleigh ",NC,27616,,planning,
+"Brewery in Planning - Raleigh",,,Raleigh,NC,27609,"(919) 322-2789",planning,
+"Brewery in Planning - Raleigh","4507 Pale Moss Dr.",,Raleigh,NC,27606,,,
+"Brewery In Planning - Raleigh",,,Raleigh,NC,27612,,planning,
+"Brewery In Planning - Raleigh",,"Raleigh, NC",,,,,planning,
+"Brewery In Planning - Southern Pines",,", NC",,,,,planning,
+"Brewery In Planning - Wake Forest",,,"Wake Forest",NC,27587-1808,,planning,
+"Brewery In Planning - Winston Salem",,,WinstStatesville,NC,28625,,planning,
+"Brewery in Planning - Winston-Salem",,,Winston-Salem,NC,27104,"(336) 407-9671",planning,
+"Brewery In Planning- Big Dan's Brew Shed",,,"Pleasant Garden",NC,27313-9278,,planning,
+"Brewery In Planning- Cool Ridge, WV",,,Charlotte,NC,28209-4743,,planning,
+"Brewery In Planning- Durham, NC.",,,Durham,NC,27703-5133,"(919) 259-4469",planning,http://www.drinkmodern.com
+"Brewery In Planning- Mebane, NC.",,,Mebane,NC,27302-8860,,planning,
+"Brewery In Planning- Stedman, NC.",,,Stedman,NC,28391-8457,,planning,
+"Broomtail Craft Brewery","6404 Amsterdam Way, Ste 100",,Wilmington,NC,28405-2563,"(910) 264-1369",micro,http://www.broomtailcraftbrewery.com
+"Brown Truck Brewing Co",,,Greensboro,NC,27407-6504,,planning,
+"Brueprint Brewing Company LLC","1229 Perry Rd Ste 101",,Apex,NC,27502-6898,"(919) 387-8075",micro,http://www.brueprint.com
+"Bull City Burger And Brewery","107 E Parrish St Ste 105",,Durham,NC,27701-3318,"(919) 680-2333",brewpub,http://www.bullcityburgerandbrewery.com
+"Bull Durham Beer Co","409 Blackwell St.",,Durham,NC,27701-3972,"(919) 744-3568",micro,http://www.bulldurhambeer.com
+"Burial Beer Co","40 Collier Ave",,Asheville,NC,28801-4024,,micro,http://www.burialbeer.com
+"Cabarrus Brewing Company","329 McGill Ave NW",,Concord,NC,28027-6149,"(704) 490-4487",micro,http://www.cabarrusbrewing.com
+"Carolina Brewery - Chapel Hill","PO Box 8",,"Chapel Hill",NC,27514-0008,"(919) 942-1800",brewpub,http://www.carolinabrewery.com
+"Carolina Brewery - Pittsboro","120 Lowes Dr Ste 100",,Pittsboro,NC,27312-8872,"(919) 545-2337",micro,http://www.carolinabrewery.com
+"Carolina Brewing Co","140 Thomas Mill Rd",,"Holly Springs",NC,27540-9372,"(919) 557-2337",micro,http://www.carolinabrew.com
+"Catawba Brewing Co","212 S Green St",,Morganton,NC,28655-3525,"(828) 430-6883",micro,http://www.catawbabrewing.com
+"Catawba Brewing Co - Asheville","63 Brook St",,Asheville,NC,28803-2766,"(828) 430-6883",micro,http://www.catawbavalleybrewingcompany.com
+"Check Six Brewing Co","5130 Southport Supply Rd SE",,Southport,NC,28461-9261,"(910) 477-9280",micro,http://www.checksixbeer.com
+"Clouds Brewing","1233 Front Street",,Raleigh,NC,27609,"(919) 747-4863",micro,http://www.cloudsbrewing.com
+"Collection Brewing Company",,,Raleigh,NC,27614,"(415) 810-8491",planning,
+"Compass Rose","3201 Northside Dr",,Raleigh,NC,27615-4126,"(919) 875-5683",micro,http://www.compassrosebrewery.com
+"Crank Arm Brewing Co","319 W Davie St",,Raleigh,NC,27601-1718,"(919) 291-0643",micro,http://www.crankarmbrewing.com
+"D9 Brewing Company","11138 Treynorth Dr Ste C",,Cornelius,NC,28031-8186,"(704) 457-9368",micro,http://www.d9brewing.com
+"Deep River Brewing Company","700 W Main St Ste 102",,Clayton,NC,27520-1617,,micro,http://www.deepriverbrewing.com
+"Dirtbag Ales Brewery and Taproom","3623 Legion Rd.",,"Hope Mills",NC,28348-8413,"(910) 426-2537",micro,http://www.dirtbagales.com
+"Double Barley Brewing","3174 US Highway 70 W",,Smithfield,NC,27577-7613,"(919) 934-3433",brewpub,http://www.doublebarleybrewing.com
+"Draft Line Brewing Co","341 Broad St Ste 151",,"Fuquay Varina",NC,27526-1703,"(919) 557-7121",micro,http://www.draftlinebrewing.com
+"Dry County Brewing","585 Oak Ave",,"Spruce Pine",NC,28777-2727,"(828) 765-4583",brewpub,http://www.drycountybrewing.com
+"Duck Rabbit Craft Brewery","4519 West Pine St",,Farmville,NC,27828-8526,"(252) 753-7745",micro,http://duckrabbitbrewery.com
+"DukBone Brewing",,,Charlotte,NC,28206,"(843) 670-0011",planning,
+"Eleven Lakes Brewing Company",,,Huntersville,NC,28078-3737,,planning,
+"Fainting Goat Brewing Company","330 S. Main ST.",,"Fuquay Varina",NC,27526-2225,"(919) 346-7915",micro,
+"Flat Top Brewing Company","567 Main St. E",,"Banner Elk",NC,28604,"(828) 898-8677",micro,http://www.flattopbrewing.com
+"Flytrap Brewing","319 Walnut St",,Wilmington,NC,28411,,micro,http://www.flytrapbrewing.com
+"Fonta Flora Brewery","317 N Green St",,Morganton,NC,28655-3324,"(828) 475-0153",micro,http://www.fontaflora.com
+"Foothills Brewing Co","638 W 4th St",,"Winston Salem",NC,27101-2730,"(336) 777-3348",brewpub,http://www.foothillsbrewing.com
+"Foothills Brewing Co","3800 Kimwell Dr",,"Winston Salem",NC,27103-6708,,regional,http://www.foothillsbrewing.com
+"Fortnight Brewing Company","211 Powers Ferry Rd",,Cary,NC,27519-1510,"(919) 342-6604",micro,http://www.fortnightbrewing.com
+"Four Saints Brewing","218 S Fayetteville St",,Asheboro,NC,27203-5725,"(336) 610-3722",micro,http://www.foursaintsbrewing.com
+"Four Thirds Brewing Company",,"Wilmington, NC",,,,,planning,http://www.fourthirdsbrewing.com
+"Free Range Brewing","2320 N Davidson Street",,Charlotte,NC,28205-1832,,micro,
+"French Broad Brewing Co","101 Fairview Rd Ste D",,Asheville,NC,28803-4301,"(828) 277-0222",micro,http://www.frenchbroadbrewery.com
+"Frog Level Brewing Co","56 Commerce St",,Waynesville,NC,28786-5738,,micro,http://www.froglevelbrewing.com
+"Front Street Brewery","9 N Front St",,Wilmington,NC,28401-4436,,brewpub,
+"Full Moon Brewery and Cafe","208 Queen Elizabeth Ave",,Manteo,NC,27954-9230,,brewpub,http://www.thefullmooncafe.com
+"Fullsteam Brewery","726 Rigsbee Ave",,Durham,NC,27701-2139,"(919) 682-2337",micro,http://www.fullsteam.ag
+"Ghostface Brewing Company","427 East Statesville Ave, Ste 100",,Mooresville,NC,28115-2595,"(704) 799-7433",brewpub,http://www.ghostfacebrewing.com
+"Gibb's Hundred Brewing Company","117 W Lewis St",,Greensboro,NC,27406-1343,"(336) 763-7087",micro,http://www.gibbshundred.com
+"Gizmo Brew Works","5907 Triangle Dr",,Raleigh,NC,27617-4742,"(919) 782-2099",micro,http://www.gizmobrewworks.com
+"Good Hops Brewing","811 Harper Avenue At Dow Road",,"Carolina Beach",NC,28428,"(706) 713-1594",micro,http://www.goodhopsbrewing.com
+"Granite Falls Brewing Co.","47 Duke St",,"Granite Falls",NC,28630-1807,"(828) 212-1222",micro,http://www.granitefallsbrewing.com
+"Green Man Brewing Co","23 Buxton Ave",,Asheville,NC,28801-4019,"(828) 252-5502",micro,http://www.greenmanbrewery.com
+"Hatchet Head Brewing Co.",,,Mooresville,NC,28117,,planning,
+"Have Another Brewing Co.",,,Clemmons,NC,27012,,planning,
+"Haw River Farmhouse Ales","PO Box 390",,Saxapahaw,NC,27340-0390,,micro,
+"Heinzelmannchen Brewery","545 Mill St",,Sylva,NC,28779-5546,"(828) 631-4466",micro,http://www.yourgnometownbrewery.com
+"Heist Brewery","2901 N Davidson St",,Charlotte,NC,28205-1078,"(704) 375-8260",brewpub,http://www.heistbrewery.com
+"Hickory Brewery","883 Highland Ave SE",,Hickory,NC,28602-1106,"(828) 414-9600",micro,
+"High Branch Brewing Co","325 McGill Ave, Suite 148",,Concord,NC,28027-6181,"(704) 706-3807",micro,http://highbranchbrewing.com
+"Highland Brewing Co","12 Old Charlotte Hwy Ste H",,Asheville,NC,28803-9419,"(828) 299-3370",regional,http://www.highlandbrewing.com
+"Hillman Beer",,,Asheville,NC,28803,"(828) 772-5580",planning,http://www.hillmanbeer.com
+"Hi-Wire Brewing","197 Hilliard Ave",,Asheville,NC,28801-3616,,micro,
+"HomeGrown Brewing Co",,,Greensboro,NC,27407,"(336) 580-4558",planning,
+"HOOTS Beer Co.","840 Mill Works Street",,"Winston Salem",NC,27101-1243,"(336) 608-6026",micro,http://www.hootspublic.com
+"Howard Brewing Co","PO Box 1883",,Lenoir,NC,28645-1883,"(828) 572-4449",micro,http://www.startabrewmance.com
+"Huske Hardware House Brewing Co","405 Hay St",,Fayetteville,NC,28301-5537,"(912) 437-9905",brewpub,http://www.huskehardware.com
+"Innovation Brewing","414 W Main St",,Sylva,NC,28779-5548,"(828) 586-9678",micro,http://www.innovationbrewing.com
+"Ironclad Brewery","115 North 2nd St.",,Wilmington,NC,28401-3936,"(910) 769-0290",micro,http://www.ironcladbrewery.com
+"Ivory Tower Brewery","525 Rivers St",,Boone,NC,28608-0001,"(828) 262-7847",micro,http://www.ivorytowerscience.com
+"Kernersville Brewing Company","210 N Main Street",,Kernersville,NC,27284,"(336) 816-7283",micro,
+"Kind Beer Distributing","PO Box 2105",,Wilmington,NC,28402-2105,"(910) 515-4140",contract,http://www.kindbeers.com
+"Koi Pond Brewing Co","1107 Falls Road",,"Rocky Mount",NC,27804-4407,"(252) 231-1660",micro,http://www.koipondbreiwngcompany.com
+"Lake Norman Brewing Company, LLC","159 Unit B Barley Park Ln",,Mooresville,NC,28115,,micro,http://www.lakenormanbrewingcompany.com
+"Lazy Hiker Brewing Co.","188 W Main St",,Franklin,NC,28734-2949,"(828) 349-2337",micro,http://www.lazyhikerbrewing.com
+"Legion Brewing Company","1906 Commonwealth Ave.",,Charlotte,NC,28205-5020,"(844) 467-5683",micro,http://www.legionbrewing.com
+"Lenny Boy Brewing Co","2224 Hawkins St",,Charlotte,NC,28203-4939,,micro,http://www.discoverlennyboy.com
+"Lexington Avenue Brewery - The LAB","39 N Lexington Ave",,Asheville,NC,28801-2827,"(828) 252-0212",brewpub,http://www.lexavebrew.com
+"Liberty Brewery & Grill","914 Mall Loop Rd",,"High Point",NC,27262-7654,"(336) 882-4677",brewpub,
+"Lincoln Brewing Co","2912 N. Main Street",,"Fuquay Varina",NC,27526-5499,"(919) 285-2318",micro,http://www.lincolnbrewery.com
+"Little City Brewing Co",,,Raleigh,NC,27603,"(704) 999-0577",planning,http://www.thelocalicon.com/little-city
+"Little City Brewing Co.",,,Raleigh,NC,27603,"(704) 999-0577",planning,http://www.thelocaicon.com/little-city
+"Loe's Brewing Company","1048 Harper Ave",,Lenoir,NC,28645-5085,"(828) 754-3652",brewpub,http://www.loesbrewing.com
+"Lonerider Brewing Co","8816 Gulf Ct Ste 100",,Raleigh,NC,27617-4628,"(919) 423-5203",regional,http://www.loneriderbeer.com
+"Lookout Brewing Company","103 S Ridgeway Ave",,"Black Mountain",NC,28711-3550,"(828) 357-5169",micro,http://www.lookoutbrewing.com
+"Lost Province Brewing Company, LLC","130 N Depot St",,Boone,NC,28607-3603,"(828) 265-3506",brewpub,http://www.lostprovince.com
+"Lynnwood Brewing Concern","4821 Grove Barton R",,Raleigh,NC,27613,,brewpub,
+"Mash House Restaurant & Brewery","4150 Sycamore Dairy Rd",,Fayetteville,NC,28303-3459,"(910) 867-9223",brewpub,http://www.themashhouse.com
+"Mill Whistle Brewing","4915 Arendell St, #313",,"Morehead City",NC,28557-2659,,micro,
+"MillerCoors Brewing Co - Eden","863 E Meadow Rd",,Eden,NC,27288-3636,"(336) 627-2204",large,http://www.millerbrewing.com
+"Morgan Ridge Vineyards & Brewhouse","486 John Morgan Rd",,"Gold Hill",NC,28071-9758,"(704) 639-0911",brewpub,
+"Mother Earth Brewing","311 N Herritage St",,Kinston,NC,28501-4823,"(252) 208-2437",regional,http://www.motherearthbrewing.com
+"Mountain Layers Brewing Company",,,"Bryson City",NC,28713,,planning,
+"Mystery Brewing Co","437 Dimmocks Mill Rd Ste 41",,Hillsborough,NC,27278-2379,"(919) 697-8379",micro,http://www.mysterybrewing.com
+"Nantahala Brewing Co","61 Depot St",,"Bryson City",NC,28713,"(828) 488-2337",micro,http://www.nantahalabrewing.com
+"Natty Greene's Brewing Co","1918 W Lee St",,Greensboro,NC,27403-2615,"(336) 274-1373",regional,http://www.nattygreenes.com
+"Natty Greene's Pub & Brewing Co","345 S Elm St",,Greensboro,NC,27401-2603,"(336) 856-6111",brewpub,http://www.nattygreenes.com
+"Natty Greene's Pub & Brewing Co","505 W Jones St",,Raleigh,NC,27603-1428,"(919) 232-2477",brewpub,http://www.nattygreenes.com
+"Neuse River Brewing Company","518 Pershing Road",,Raleigh,NC,27608,"(404) 386-7522",micro,http://www.neuseriverbrewing.com
+"New Belgium Brewing Co",,,Asheville,NC,28806,"(970) 221-0524",planning,
+"New Sarum Brewing","109 N. Lee St",,Salisbury,NC,28144-5033,"(704) 201-5048",,http://www.newsarumbrewing.com
+"Newgrass Brewing Company","213 S. Lafayette St.",,Shelby,NC,28150,"(704) 477-2795",micro,http://www.newgrassbrewing.com
+"Nickelpoint Brewing Co","506 Pershing Road",,Raleigh,NC,27608-2624,"(919) 916-5961",micro,http://www.nickelpointbrewing.com
+"NoDa Brewing Co","2229 N Davidson St",,Charlotte,NC,28205-1829,"(704) 451-1394",micro,http://www.nodabrewing.com
+"Oden Brothers Brewing Co.",,,Greensboro,NC,27403,"(910) 620-4011",planning,
+"Olde Hickory Brewery - Production","2 3rd St SW",,Hickory,NC,28602-2941,,micro,
+"Olde Hickory Brewery & Amos Howards","2828 US Highway 70 SW",,Hickory,NC,28602-4645,"(828) 323-8753",brewpub,http://www.amoshowards.com
+"Olde Mecklenburg Brewery, The","4150 Yancey Rd",,Charlotte,NC,28217-1738,"(704) 525-5644",micro,http://www.oldemeckbrew.com
+"Ole Dallas Brewery",,,Dallas,NC,28034-9793,"(704) 266-1472",micro,http://www.oledallasbrewery.com
+"One World Brewing","10 Patton Avenue",,Asheville,NC,28801-3302,"(828) 785-5580",micro,http://www.oneworldbrewing.com
+"Oskar Blues Brewery - Brevard","342 Mountain Industrial Dr",,Brevard,NC,28712,"(303) 776-0724",regional,http://www.oskarblues.com
+"Outer Banks Brewing Station","PO Box 2584",,"Kill Devil Hills",NC,27948-2584,"(252) 449-2739",brewpub,http://www.obbrewing.com
+"Oyster House Brewing Co.","625 Haywood Rd",,Asheville,NC,28806-3255,"(828) 575-9370",brewpub,http://www.oysterhousebeers.com
+"PaperMill Brewing & Pub",,,Canton,NC,28716-4438,,planning,
+"Pig Pounder Brewery","1107 Grecade St",,Greensboro,NC,27408-8709,,micro,http://www.pigpounder.com
+"Pisgah Brewing Co","150 Eastside Dr",,"Black Mountain",NC,28711-8208,"(828) 669-0190",micro,http://www.pisgahbrewing.com
+"Pitt Street Brewing Company",,,Franklin,NC,28734,"(770) 330-3280",planning,
+"Ponysaurus Brewing Company","219 Hood St",,Durham,NC,27701,"(978) 482-7701",brewpub,http://www.ponysaurusbrewing.com
+"Preyer Brewing Company","600 Battleground Ave",,Greensboro,NC,27401-2015,"(336) 256-9450",micro,http://www.preyerbrewing.com
+"Primal Brewery","16432 Old Statesville Rd",,Huntersville,NC,28078-7245,"(704) 947-2920",micro,http://www.primalbrewery.com
+"Railhouse Brewery","105 E South St Unit C",,Aberdeen,NC,28315-2735,"(910) 783-5280",micro,http://www.railhousebrewery.com
+"Raleigh Brewing Company","3709 Neil St",,Raleigh,NC,27607-5415,"(919) 400-9086",micro,http://www.raleighbrewingcompany.com
+"Red Oak Brewing Co","6901 Konica Dr",,Whitsett,NC,27377-9787,"(336) 299-3649",regional,http://www.redoakbrewery.com
+"Regulator Brewing Company",,"Hillsbourough, NC",,,,"(919) 589-2739",micro,http://www.regulatorbrewing.com
+"Rivermen Brewing Co","1500 River Drive",,Belmont,NC,28012-3578,"(704) 363-4698",micro,http://www.rivermenbrewingcompany.com
+"Rock Bottom Brewery- Charlotte","401 N Tryon St Ste 100",,Charlotte,NC,28202-2108,"(704) 334-2739",brewpub,
+"Ruff'ton Brewhouse","177 N. Main St.",,Rutherfordton,NC,28139-2501,"(828) 375-2337",brewpub,http://www.rufftonbrewhouse.com
+"Rusted Mill Artisan Ales",,,Gastonia,NC,28052,,planning,
+"Salud Beer Shop","3306-B N Davidson St",,Charlotte,NC,28205-1036,"(704) 900-7767",brewpub,http://www.saludbeershop.com
+"Sanctuary Brewing Co","147 First Ave E",,Hendersonville,NC,28792,"(828) 333-0742",brewpub,http://www.sanctuarybrewco.com
+"Sapphire Mountain Brewing Co","50 Slicers Ave",,Sapphire,NC,28774-9405,"(828) 743-0220",contract,http://www.sapphiremountainbrewingcompany.com
+"Satulah Mountain Brewing Co","454 Carolina Wy",,Highlands,NC,28741,"(828) 482-9794",brewpub,http://www.satulahmountainbrewing.com
+"Shade Tree Brewing Co",,"Durham, NC",,,,"(919) 904-4ALE",planning,http://www.shadetreebrew.com
+"Sierra Nevada Brewing Co","100 Sierra Nevada Wy",,"Mills River",NC,28732-8608,,regional,http://www.sierranevada.com
+"SIG LLC",,,"Winston Salem",NC,27104,"(804) 614-8394",planning,
+"Skull Camp Brewing","1980 N Bridge St",,Elkin,NC,28621-2106,"(336) 352-5595",micro,http://www.skullcampbrewing.com
+"Skull Camp Brewing","765 Round Peak Church Rd",,"Mount Airy",NC,27030-8421,"(336) 352-5595",micro,http://www.skullcampbrewing.com
+"Small Batch Beer Co","241 West 5th Street",,"Winston Salem",NC,27101-2825,"(336) 893-6395",brewpub,http://www.smallbatchws.com
+"South College - Ashville",,,Asheville,NC,28803-1526,,planning,
+"Southern Appalachian Brewery","822 Locust St Ste 100",,Hendersonville,NC,28792-3758,"(828) 684-1235",micro,http://www.sabrewery.com
+"Southern Peak Brewery","950 Windy Rd Ste 100",,Apex,NC,27502,"(919) 208-4515",micro,http://www.southernpeakbrewery.com
+"Southern Pines Brewing Company","565 Air Tool Drive Ste E",,"Southern Pines",NC,28387,"(910) 693-7742",micro,http://www.southernpinesbrewing.com
+"Stags Head Brewing Co",,,Hendersonville,NC,28792,,planning,http://www.stagsheadbrewing.com
+"Starpoint Brewing, LLC","901 Clarence Dr",,"Chapel Hill",NC,27516-3145,"(919) 942-3629",micro,http://www.starpointbrewing.com
+"Steel String Craft Brewery","106 S Greensboro St Ste A",,Carrboro,NC,27510-2266,"(919) 370-6971",brewpub,http://www.steelstringbrewery.com
+"Sub Noir Brewing Company","2039 Progress Ct",,Raleigh,NC,27608-2761,"(919) 480-2337",micro,http://www.subnoir.net
+"Sugar Creek Brewing Co.","215 Southside Dr",,Charlotte,NC,28217-1727,"(704) 469-6349",micro,http://www.sugarcreekbrewing.com
+"Sweet Taters Brewing","1121 Falls Rd.",,"Rocky Mount",NC,27804,"(252) 220-5355",brewpub,http://sweettatersbrewing.com/
+"Sweeten Creek Brewing","1127 Sweeten Creek Rd.",,Asheville,NC,28803-1728,"(828) 575-2785",brewpub,http://www.sweetencreekbrewing.com
+"Sycamore Brewing","2161 Hawkins St",,Charlotte,NC,28203-5395,"(704) 910-3821",micro,http://www.sycamorebrew.com
+"Tarboro Brewing Company","526 N. Main Street",,Tarboro,NC,27886,"(252) 885-6278",micro,http://www.tarborobrewingcompany.com
+"Terrell Brewing Co.",,,Terrell,NC,28682,"(828) 234-5032",planning,
+"The Dreamchaser\\'s Brewery",,,Waxhaw,NC,28173,"(704) 843-7326",planning,http://www.dreamchasersbrewery.com
+"The Drunken Poet",,,Waxhaw,NC,28173,"(828) 455-6226",planning,http://www.the-drunken-poet.com
+"The Sneak E Squirrel","1315 W. Main St.",,Sylva,NC,28779-5213,"(828) 586-6440",brewpub,
+"Thirsty Monk Pub & Brewery","92 Patton Ave",,Asheville,NC,28801-3315,"(828) 254-5470",brewpub,http://www.monkpub.com
+"Thirsty Nomad Brewing",,,Charlotte,NC,28217-1520,,planning,
+"Three Spirits Brewery","5046 Old Pineville Rd Ste 110",,Charlotte,NC,28217-2155,"(980) 207-4881",micro,http://www.threespiritsbrewery.com
+"Tight Lines Pub & Brewing Co","709 Arendell St",,"Morehead City",NC,28557-4214,"(252) 773-0641",brewpub,http://www.tightlinesbrewing.com
+"Tipping Point Tavern","190 N Main St",,Waynesville,NC,28786-3810,"(828) 246-9230",brewpub,http://www.tippingpointtavern.com
+"Top Of The Hill Restaurant and Brewery","100 E Franklin St Ste 300",,"Chapel Hill",NC,27514-3629,"(919) 929-8676",brewpub,http://www.thetopofthehill.com
+"Triple C Brewing","2900 Griffith St",,Charlotte,NC,28203-5430,"(704) 372-3212",micro,http://www.triplecbrewing.com
+"Trollingwood Taproom & Brewery","707 Dickinson Ave",,Greenville,NC,27834-3147,"(252) 210-6295",micro,http://www.trollingwoodbrewery.com
+"Trophy Brewing Company","827 W Morgan St",,Raleigh,NC,27603-1613,"(919) 803-4849",brewpub,http://www.trophybrewing.com
+"Twin Leaf Brewery","144 Coxe Ave",,Asheville,NC,28801-4026,"(973) 229-3946",micro,http://www.twinleafbrewery.com/
+"Unknown Brewing Company","1327 S Mint St",,Charlotte,NC,28203-4121,"(980) 237-2628",micro,http://www.unknownbrewing.com
+"Waterline Brewing Co.","721 Surry St",,Wilmington,NC,28401-5043,"(888) 993-7498",micro,http://www.waterlinebrewing.com
+"Wedge Brewing Co","37 Paynes Way Suite 100",,Asheville,NC,28801,"(828) 505-2792",micro,http://www.wedgebrewing.com
+"Weeping Radish Farm Brewery","6810 Caratoke Hwy",,Grandy,NC,27939-9635,"(252) 491-5205",micro,http://www.weepingradish.com
+"White Rabbit Brewing Company","219 Fish Dr",,Angier,NC,27501-6077,,micro,http://www.whiterabbitbrewery.com
+"White Street Brewing Company","218 S White St",,"Wake Forest",NC,27588-2066,"(919) 647-9439",micro,http://www.whitestreetbrewing.com
+"Wicked Weed Brewing","91 Biltmore Ave",,Asheville,NC,28801-3626,"(828) 575-9599",brewpub,http://www.wickedweedbrewing.com
+"Wicked Weed Brewing","145 Jacob Holm Way",,Candler,NC,28715-0209,"(484) 678-9424",micro,
+"Wicked Weed Funkatorium","147 Coxe Ave",,Asheville,NC,28801-4025,"(828) 575-9599",micro,http://www.wickedweedbrewing.com
+"Wilmington Brewing Company","824 South Kerr Ave",,Wilmington,NC,28403-8426,"(910) 392-3315",micro,http://www.wilmingtonbeer.com
+"Wise Man Brewing",,,"Winston Salem",NC,27101,"(215) 908-2797",planning,
+"Wooden Robot","1440 S Tryon St Suite 110",,Charlotte,NC,28203-4263,"(772) 359-4993",micro,http://www.woodenrobotbrewery.com
+"Yester Years Brewery","300 E. Main Street Suite C",,Carrboro,NC,27510,"(909) 904-7273",brewpub,http://www.yesteryearsbrewery.com
+"YesterYears Brewery","300 E. Main St.",,Carrboro,NC,27510-2359,"(919) 904-7273",micro,http://www.yesteryearsbrewery.com
+"Zebulon Artisan Ales","8 Merchants Aly",,Weaverville,NC,28787-8860,,micro,http://www.zebulonbrewing.com

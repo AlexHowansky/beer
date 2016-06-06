@@ -1,30 +1,30 @@
-name,address,city,state,zip,phone,type,url
-"Casa Cervecera Puerto Montt","Alberto Peters Hitschfeld Chainquihue Alto Km 15",,,,,contract,http://www.ccpm.cl
-"Cervecera d’Olbek","Avenida Gral. Baquedano 1899 Interior Coyhaique,",,,,"(566) 723-2947",micro,http://www.dolbek.cl
-"Cervecera del Norte","Av Arturo Prat 889, Dpto 42",,,,"(565) 751-5903",micro,
-"Cervecera Del Puerto","Blanco 1136",,,,"56 32 2231598",micro,http://www.cerveceradelpuerto.com
-"Cervecera Kunstmann S.A","Ruta T-250 No 950",,,,"(566) 322-2570",regional,http://www.cerveza-kunstmann.cl
-"Cerveceria Calle-Calle","Casilla 1351",,,,,micro,
-"Cerveceria Capital",,,,,,brewpub,http://www.cervezacapital.cl
-"Cerveceria Chile SA","Panamericana Norte 9600, Quilicura",,,,"2 623 4023",regional,
-"Cerveceria Del Mar",,,,,56982489180,planning,http://www.viejolobo.cl
-"Cerveceria Unidas","Vitacura 2670",,,,"(562) 427-3000",large,http://www.ccu.cl
-"Cerveceria Y Embotelladora Pol","Patagona 508-Casilla 64",,,,"(219) 742-4696",large,
-"Cervecerias Unidas SA","Vitacura 2670",,,,"(562) 427-3000",large,http://www.ccu.cl
-"Cervejaria Unidas","Ahumada 131, 2nd Flr",,,,,large,
-"Cerveza Austral.","Patagona 508",,,,,micro,http://www.cervezaaustral.cl
-"Cerveza Crater","Cervecera Lago Villarrica Por Commercial El Gauchuto",,,,,contract,
-"Cerveza Los Colonos","Sco. Cervecera Toloral Ltda. Km 4, Camino Llanquihue",,,,,micro,
-"Cerveza Szot","Via Anibal Hevia Vitacura 7777 of - 505",,,,"(569) 436-9493",micro,
-"Cerveza Yakima","Paris 824",,,,,micro,http://www.cervezayakima.cl
-"Chester Beer Brewing Company","Linea Nueva 93",,,,56965195684,micro,http://www.chesterbeer.cl
-"Cia. Cerveceria Unidas Sa","Calle Paseo Ahumada 131 Casilla 1977",,,,,large,
-"Comercial Olmue",,,,,0056998495867,planning,
-"Del Puerto","Blanco 1136",,,,56977191134,micro,http://www.cerveceradelpuerto.cl
-"Embottelladoros Polar, SA","Patagona #508 Punta Arenas",,,,"(566) 124-7048",,
-"J. Bello Cerveza Artesenal",,,,,"(566) 324-6751",micro,
-"Los Andes Brewpub","Casilla 6",,,,,,
-"Microcervecerias sudamericanas s.a.","espoz 2334",,,,228-6755,,http://www.brewtop.c.cl
-"Southern Brewing Co. SA","Avenida Santa Maria 5888",,,,,micro,
-Tropera,"Paseo Horn 47-D",,,,56966684588,micro,http://www.tropera.cl
-Valbier,,,,,"+ (63) 27 45 45.",micro,http://www.valbier.cl
+name,address1,address2,city,state,zip,phone,type,url
+"Casa Cervecera Puerto Montt","Alberto Peters Hitschfeld Chainquihue Alto Km 15","Puerto Montt, Chile",,,,,contract,http://www.ccpm.cl
+"Cervecera d’Olbek","Avenida Gral. Baquedano 1899 Interior Coyhaique,","XI Region, Chile",,,,"(566) 723-2947",micro,http://www.dolbek.cl
+"Cervecera del Norte","Av Arturo Prat 889, Dpto 42","Iquique, Chile",,,,"(565) 751-5903",micro,
+"Cervecera Del Puerto","Blanco 1136","Valparaiso, Chile",,,,"56 32 2231598",micro,http://www.cerveceradelpuerto.com
+"Cervecera Kunstmann S.A","Ruta T-250 No 950","Valdivia, Niebla, Chile",,,,"(566) 322-2570",regional,http://www.cerveza-kunstmann.cl
+"Cerveceria Calle-Calle","Casilla 1351","Valdivia, Chile",,,,,micro,
+"Cerveceria Capital",,", Chile",,,,,brewpub,http://www.cervezacapital.cl
+"Cerveceria Chile SA","Panamericana Norte 9600, Quilicura","Santiago, Chile",,,,"2 623 4023",regional,
+"Cerveceria Del Mar",,"Pichilemu, Chile",,,,56982489180,planning,http://www.viejolobo.cl
+"Cerveceria Unidas","Vitacura 2670","Las Condes. Santiago, Chile",,,,"(562) 427-3000",large,http://www.ccu.cl
+"Cerveceria Y Embotelladora Pol","Patagona 508-Casilla 64","Punta Arenas, Chile",,,,"(219) 742-4696",large,
+"Cervecerias Unidas SA","Vitacura 2670","Las Condes, Santiago, Chile",,,,"(562) 427-3000",large,http://www.ccu.cl
+"Cervejaria Unidas","Ahumada 131, 2nd Flr","Santiago, Chile",,,,,large,
+"Cerveza Austral.","Patagona 508","Punta Arenas, P.A., Chile",,,,,micro,http://www.cervezaaustral.cl
+"Cerveza Crater","Cervecera Lago Villarrica Por Commercial El Gauchuto","Blanco 1136, Valpraiso, Chile",,,,,contract,
+"Cerveza Los Colonos","Sco. Cervecera Toloral Ltda. Km 4, Camino Llanquihue","Toloral – X Region, Chile",,,,,micro,
+"Cerveza Szot","Via Anibal Hevia Vitacura 7777 of - 505","Vitacura, Chile",,,,"(569) 436-9493",micro,
+"Cerveza Yakima","Paris 824","Santiago, Chile",,,,,micro,http://www.cervezayakima.cl
+"Chester Beer Brewing Company","Linea Nueva 93","Puerto Varas, Chile",,,,56965195684,micro,http://www.chesterbeer.cl
+"Cia. Cerveceria Unidas Sa","Calle Paseo Ahumada 131 Casilla 1977","Santiago, Chile",,,,,large,
+"Comercial Olmue",,"Santiago, Chile",,,,0056998495867,planning,
+"Del Puerto","Blanco 1136","Valparaiso, Chile",,,,56977191134,micro,http://www.cerveceradelpuerto.cl
+"Embottelladoros Polar, SA","Patagona #508 Punta Arenas","Santiago, Chile",,,,"(566) 124-7048",,
+"J. Bello Cerveza Artesenal",,"Valdivia, Chile",,,,"(566) 324-6751",micro,
+"Los Andes Brewpub","Casilla 6","Valdivia, Chile",,,,,,
+"Microcervecerias sudamericanas s.a.","espoz 2334","Santiago, Chile",,,,228-6755,,http://www.brewtop.c.cl
+"Southern Brewing Co. SA","Avenida Santa Maria 5888","Santiago, Chile",,,,,micro,
+Tropera,"Paseo Horn 47-D","Coyhaique, Chile",,,,56966684588,micro,http://www.tropera.cl
+Valbier,,", Chile",,,,"+ (63) 27 45 45.",micro,http://www.valbier.cl

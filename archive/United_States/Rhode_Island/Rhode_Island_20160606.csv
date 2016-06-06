@@ -1,25 +1,25 @@
-name,address,city,state,zip,phone,type,url
-"Brewery in Planning - Cranston",,Cranston,RI,02910,"(401) 300-9716",planning,
-"Brewery in Planning - Providence",,Providence,RI,02818,"(713) 791-2090",planning,http://boozeandcheers.com
-"Brewery In Planning - Warwick",,Warwick,RI,02888,,planning,
-"Brewery in Planning - Westerly",,Westerly,RI,02891,"(401) 596-7871",planning,http://www.84tavern.com
-Brutopia,"505 Atwood Ave",Cranston,RI,02920,"(401) 464-8877",brewpub,http://www.brutopiabrewery.com
-"Buttonwoods Craft Brewing",,Warwick,RI,02886,"(703) 346-0729",planning,http://www.buttonwoodsbrewery.com
-"Coastal Extreme Brewing Co","293 JT Connell Rd",Newport,RI,02840,"(401) 849-5232",micro,http://www.newportstorm.com
-"Coddington Brewing Co","210 Coddington Hwy",Middletown,RI,02842-4884,"(401) 847-6690",brewpub,http://www.newport-brewery.com
-"Crooked Current Brewery","560 Mineral Spring Ave",Pawtucket,RI,02860-3363,"(401) 473-8312",micro,http://www.crookedcurrentbrewery.com
-"Foolproof Brewing Company","241 Grotto Ave",Pawtucket,RI,02860-3403,"(401) 721-5970",micro,http://www.foolproofbrewing.com
-"Fredricks Brew",,Warwick,RI,02889,"(585) 307-1426",planning,
-"Grey Sail Brewing Co. LLC","63 Canal St",Westerly,RI,02891-1552,"(410) 212-7592",micro,http://www.greysailbrewing.com
-"Isle Brewers Guild",,Providence,RI,02860-2913,,planning,
-"Mohegan Cafe and Brewery","213 Water St","Block Island",RI,02807,"(401) 466-5911",brewpub,
-"Narragansett Brewing Co","60 Ship St",Providence,RI,02903-4219,"(401) 437-8970",proprietor,http://www.narragansettbeer.net
-"Proclamation Ale Company","141 Fairgrounds Rd","West Kingston",RI,02892-1512,"(401) 787-6450",micro,http://www.proclamationaleco.com
-"Ravenous Brewing Company","840 Cumberland Hill Rd",Woonsocket,RI,02895-5657,,micro,http://www.ravenousbrew.com
-"Revival Brewing","PO Box 5938",Providence,RI,02903-0938,"(401) 372-7009",contract,http://www.revivalbrewing.com
-"The Bucket Brewery","545 Pawtucket Ave",Pawtucket,RI,02860-6046,,micro,http://www.bucketbrewery.com
-"The Providence Brewing Co",,Providence,RI,02908,,planning,
-"Tilted Barn Brewery","1 Hemsley Place",Exeter,RI,02822-3740,,micro,http://www.tiltedbarnbrewery.com
-"Trinity Brewhouse","186 Fountain St",Providence,RI,02903-1813,"(401) 453-2337",brewpub,http://www.trinitybrewhouse.com
-"Union Station Brewery","36 Exchange Ter Ste 2",Providence,RI,02903-1798,"(401) 274-2739",brewpub,http://www.johnharvards.com
-"Whaler's Brewing Company","1070 Kingstown Rd.",Wakefield,RI,02879-2431,"(401) 284-7785",micro,http://www.whalersbrewing.com
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery in Planning - Cranston",,,Cranston,RI,02910,"(401) 300-9716",planning,
+"Brewery in Planning - Providence",,,Providence,RI,02818,"(713) 791-2090",planning,http://boozeandcheers.com
+"Brewery In Planning - Warwick",,,Warwick,RI,02888,,planning,
+"Brewery in Planning - Westerly",,,Westerly,RI,02891,"(401) 596-7871",planning,http://www.84tavern.com
+Brutopia,"505 Atwood Ave",,Cranston,RI,02920,"(401) 464-8877",brewpub,http://www.brutopiabrewery.com
+"Buttonwoods Craft Brewing",,,Warwick,RI,02886,"(703) 346-0729",planning,http://www.buttonwoodsbrewery.com
+"Coastal Extreme Brewing Co","293 JT Connell Rd",,Newport,RI,02840,"(401) 849-5232",micro,http://www.newportstorm.com
+"Coddington Brewing Co","210 Coddington Hwy",,Middletown,RI,02842-4884,"(401) 847-6690",brewpub,http://www.newport-brewery.com
+"Crooked Current Brewery","560 Mineral Spring Ave",,Pawtucket,RI,02860-3363,"(401) 473-8312",micro,http://www.crookedcurrentbrewery.com
+"Foolproof Brewing Company","241 Grotto Ave",,Pawtucket,RI,02860-3403,"(401) 721-5970",micro,http://www.foolproofbrewing.com
+"Fredricks Brew",,,Warwick,RI,02889,"(585) 307-1426",planning,
+"Grey Sail Brewing Co. LLC","63 Canal St",,Westerly,RI,02891-1552,"(410) 212-7592",micro,http://www.greysailbrewing.com
+"Isle Brewers Guild",,,Providence,RI,02860-2913,,planning,
+"Mohegan Cafe and Brewery","213 Water St",,"Block Island",RI,02807,"(401) 466-5911",brewpub,
+"Narragansett Brewing Co","60 Ship St",,Providence,RI,02903-4219,"(401) 437-8970",proprietor,http://www.narragansettbeer.net
+"Proclamation Ale Company","141 Fairgrounds Rd",,"West Kingston",RI,02892-1512,"(401) 787-6450",micro,http://www.proclamationaleco.com
+"Ravenous Brewing Company","840 Cumberland Hill Rd",,Woonsocket,RI,02895-5657,,micro,http://www.ravenousbrew.com
+"Revival Brewing","PO Box 5938",,Providence,RI,02903-0938,"(401) 372-7009",contract,http://www.revivalbrewing.com
+"The Bucket Brewery","545 Pawtucket Ave",,Pawtucket,RI,02860-6046,,micro,http://www.bucketbrewery.com
+"The Providence Brewing Co",,,Providence,RI,02908,,planning,
+"Tilted Barn Brewery","1 Hemsley Place",,Exeter,RI,02822-3740,,micro,http://www.tiltedbarnbrewery.com
+"Trinity Brewhouse","186 Fountain St",,Providence,RI,02903-1813,"(401) 453-2337",brewpub,http://www.trinitybrewhouse.com
+"Union Station Brewery","36 Exchange Ter Ste 2",,Providence,RI,02903-1798,"(401) 274-2739",brewpub,http://www.johnharvards.com
+"Whaler's Brewing Company","1070 Kingstown Rd.",,Wakefield,RI,02879-2431,"(401) 284-7785",micro,http://www.whalersbrewing.com

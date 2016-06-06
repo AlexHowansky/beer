@@ -1,7 +1,7 @@
-name,address,city,state,zip,phone,type,url
-"Berralbac SA","Str. Moinesti 214",,,,3115010,regional,
-"Brauunion Romania","Hargita Str 100 Miercurea-Ciuc",,,,,,
-"Fabrica De Bere Ursus SA","Manastur 2",,,,5167994,regional,
-"Pitbeer SA","Nicolae Balcescu 138",,,,976-331-43,,
-"S.C. Malbera SA","Str Industriala 1",,,,91620527,regional,
-"SC BARICADE PUB SRL",,,,,40766467676,planning,
+name,address1,address2,city,state,zip,phone,type,url
+"Berralbac SA","Str. Moinesti 214","Bacau, Romania",,,,3115010,regional,
+"Brauunion Romania","Hargita Str 100 Miercurea-Ciuc","Jud Hargita, Romania",,,,,,
+"Fabrica De Bere Ursus SA","Manastur 2","Cluj-Napoca, Romania",,,,5167994,regional,
+"Pitbeer SA","Nicolae Balcescu 138","Pitesti, Romania",,,,976-331-43,,
+"S.C. Malbera SA","Str Industriala 1","Constanta, Romania",,,,91620527,regional,
+"SC BARICADE PUB SRL",,"BUCHAREST, Romania",,,,40766467676,planning,

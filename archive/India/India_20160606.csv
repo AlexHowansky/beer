@@ -1,31 +1,31 @@
-name,address,city,state,zip,phone,type,url
-"Arbor Brewing Company India","8 Magrath Road, Allied Grande Plaza 3rd",,,,,brewpub,
-"Associated Breweries & Distl.","Regd. Office Meher House 1st Flr 15 C. Patel St",,,,287-3184,,
-"Blossom Industries Ltd.","Village Jani Vankad",,,,+91-260-222-1050,micro,
-"Bombay Breweries Ltd.","Plot M1, MIDC Industrial Area Taloja, District Raigad",,,,,,
-"Brewery in Planning - Kolkata",,,,,"(983) 020-2412",planning,
-"Brewery in Planning - kolkata",,,,,,planning,
-"Brewery in Planning - Mumbai",,,,,,planning,
-"Brewery in Planning - Porvorim",,,,,"(735) 028-8997",planning,
-"Brewery In Planning- Mumbai.",,,,,,planning,
-"Castle Breweries Ltd","Diamond Harbour Rd PO Pailan South 24",,,,,,
-"Cerana Beverages Pvt Ltd","A 43 Zamrudpur Ground Floor Greater Kailash I",,,,,,
-Delete,,,,,919820436842,planning,http://www.islandcitybrewery.com
-Goa,"Bethora Ponda",,,,,,
-"Golden Hill Breweries Ltd","Riico Industrial Area Shiwar",,,,642-0202,regional,
-"Haryana Breweries Ltd","Stone G.T. Rd Murthal",,,,3314196,regional,
-"Hindustan Breweries & Bottling","C 23-24 Wagle Industrial Estate",,,,5323421,regional,
-"Independence Brewing Co","Company Zero One 79/1, Pingle Vasti, Mundhwa Road",,,,,brewpub,http://www.independencebrewco.com
-"ISLAND CITY BREWERY PRIVATE LIMITED",,,,,919820436842,planning,http://www.islandcitybrewery.com
-"Jupiter Breweries Ind. Ltd.","Diamond Harbor Rd PO Pailan",,,,61-54-89,regional,
-"Karnataka Breweries & Distilleries Pvt. Ltd.","20th mile Tumkur Rd Nelamangala",,,,,,
-"Mohan Meakin Ltd","Mohan Nagar",,,,0592-225,regional,
-"Mount Shivalik Breweries Ltd.","Monhangram, PO Bhankarpur",,,,,,http://www.mountshivalik.com
-"Mysore Breweries Ltd.","PO Box No 2211 Jalahali Camp Rd, Yeshwathpur",,,,,,
-"Narang Breweries Exec Offices","28 Sardar Patel Marg",,,,301-41-44,regional,
-"Shawwallace Breweries Ltd.","Ayyankutty Palayam Muthira Palayam",,,,,,http://www.sabmiller.com
-"Solan Brewery","District Solan (H.P.) Himachai",,,,,,http://www.mohmeaks@hclinfinet.com
-"Toit Brewpub","298, 100 Feet Road Indiranagar 560038",,,,+918042198630,brewpub,
-"United Breweries Ltd.","PO Box 5104, 24 Grant Rd",,,,,large,
-"Windmills Craftworks","No 331, Road 5B EPIP Zone Whitefield",,,,+919900027600,,http://www.windmillscraftworks.com
-"Yuksom Breweries Ltd","A-14 Kalumal Estate A.B. Nair Rd",,,,"620 2042",regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Arbor Brewing Company India","8 Magrath Road, Allied Grande Plaza 3rd","Bangalore, India",,,,,brewpub,
+"Associated Breweries & Distl.","Regd. Office Meher House 1st Flr 15 C. Patel St","Bombay 400 001, India",,,,287-3184,,
+"Blossom Industries Ltd.","Village Jani Vankad","Nani Daman, India",,,,+91-260-222-1050,micro,
+"Bombay Breweries Ltd.","Plot M1, MIDC Industrial Area Taloja, District Raigad","Mahrashtra, India",,,,,,
+"Brewery in Planning - Kolkata",,"Kolkata, India",,,,"(983) 020-2412",planning,
+"Brewery in Planning - kolkata",,"kolkata, India",,,,,planning,
+"Brewery in Planning - Mumbai",,"Mumbai, India",,,,,planning,
+"Brewery in Planning - Porvorim",,"Porvorim, India",,,,"(735) 028-8997",planning,
+"Brewery In Planning- Mumbai.",,"Mumbai, India",,,,,planning,
+"Castle Breweries Ltd","Diamond Harbour Rd PO Pailan South 24","Parganas, West Bengal, India",,,,,,
+"Cerana Beverages Pvt Ltd","A 43 Zamrudpur Ground Floor Greater Kailash I","New Delhi, India",,,,,,
+Delete,,"Mumbai, India",,,,919820436842,planning,http://www.islandcitybrewery.com
+Goa,"Bethora Ponda","Gao, India",,,,,,
+"Golden Hill Breweries Ltd","Riico Industrial Area Shiwar","Sawai madhopur, India",,,,642-0202,regional,
+"Haryana Breweries Ltd","Stone G.T. Rd Murthal","Sonepat, Haryana, India",,,,3314196,regional,
+"Hindustan Breweries & Bottling","C 23-24 Wagle Industrial Estate","Thane, Maharashtra, India",,,,5323421,regional,
+"Independence Brewing Co","Company Zero One 79/1, Pingle Vasti, Mundhwa Road","Mundhwa, India",,,,,brewpub,http://www.independencebrewco.com
+"ISLAND CITY BREWERY PRIVATE LIMITED",,"MUMBAI, India",,,,919820436842,planning,http://www.islandcitybrewery.com
+"Jupiter Breweries Ind. Ltd.","Diamond Harbor Rd PO Pailan","Parganas-24 South, West Bengal, India",,,,61-54-89,regional,
+"Karnataka Breweries & Distilleries Pvt. Ltd.","20th mile Tumkur Rd Nelamangala","Bangalore, India",,,,,,
+"Mohan Meakin Ltd","Mohan Nagar","Ghaziabad, UP, India",,,,0592-225,regional,
+"Mount Shivalik Breweries Ltd.","Monhangram, PO Bhankarpur","Distt Patiala, India",,,,,,http://www.mountshivalik.com
+"Mysore Breweries Ltd.","PO Box No 2211 Jalahali Camp Rd, Yeshwathpur","Bangalore, India",,,,,,
+"Narang Breweries Exec Offices","28 Sardar Patel Marg","New Deli 110 020, India",,,,301-41-44,regional,
+"Shawwallace Breweries Ltd.","Ayyankutty Palayam Muthira Palayam","PO, Pondicherry, India",,,,,,http://www.sabmiller.com
+"Solan Brewery","District Solan (H.P.) Himachai","Pradesh, India",,,,,,http://www.mohmeaks@hclinfinet.com
+"Toit Brewpub","298, 100 Feet Road Indiranagar 560038","Bangalore, India",,,,+918042198630,brewpub,
+"United Breweries Ltd.","PO Box 5104, 24 Grant Rd","Bangalore, India",,,,,large,
+"Windmills Craftworks","No 331, Road 5B EPIP Zone Whitefield","Bangalore, India",,,,+919900027600,,http://www.windmillscraftworks.com
+"Yuksom Breweries Ltd","A-14 Kalumal Estate A.B. Nair Rd","Juhu, Bombay, India",,,,"620 2042",regional,

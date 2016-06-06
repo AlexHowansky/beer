@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Brewery in Planning - roatan",,,,,,planning,
-"Cerveceria Hondurena, S.A.","Apdo Postal 86",,,,"(504) 550-0100",large,http://www.cerhon.com
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery in Planning - roatan",,"roatan, Honduras",,,,,planning,
+"Cerveceria Hondurena, S.A.","Apdo Postal 86","San Pedro Sula, Honduras",,,,"(504) 550-0100",large,http://www.cerhon.com

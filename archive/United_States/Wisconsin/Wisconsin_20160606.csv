@@ -1,170 +1,170 @@
-name,address,city,state,zip,phone,type,url
-"3 Sheeps Brewing Co","1327 Huron Ave",Sheboygan,WI,53081-3282,"(920) 395-3583",micro,http://www.3sheepsbrewing.com
-"841 Brewhouse","841 E Milwaukee St",Whitewater,WI,53190-2126,"(262) 473-8000",brewpub,
-"Agonic Brewing",,,,,,planning,
-"Ahnapee Brewery","115 Navarino St",Algoma,WI,54201-1246,"(920) 487-5208",micro,http://www.ahnapeebrewery.com
-"Ale Asylum","2002 Pankratz St",Madison,WI,53704-4024,"(608) 663-3926",regional,http://www.aleasylum.com
-"Angry Minnow, The","10440 Florida Ave",Hayward,WI,54843-7112,"(715) 934-3055",brewpub,http://www.angryminnow.com
-"Appleton Beer Factory","603 W College Ave",Appleton,WI,54911-5803,"(920) 364-9931",brewpub,http://www.appletonbeerfactory.com
-"Badger State Brewing Company","990 Tony Canadeo Run","Green Bay",WI,54304-3762,"(920) 634-5687",micro,http://www.badgerstatebrewing.com
-"Bare Bones Brewery","4362 County Rd S",Oshkosh,WI,54904-9575,"(920) 744-8045",brewpub,http://www.barebonesbrewery.us
-"Barley Johns Brewpub","1280 Madison Ave","New Richmond",WI,54017,"(715) 246-4677",micro,http://www.barleyjohnsbrewery.com
-"Batavian Brewpub",,Holmen,WI,54636-9425,,planning,
-"Bent Kettle Brewing Company","1507 Montclair Pl","Fort Atkinson",WI,53538,"(920) 390-9038",micro,http://www.bentkettle.com
-"Big Bay Brewing Co","4517 N Oakland Ave",Shorewood,WI,53211-1216,"(888) 964-2869",proprietor,http://www.bigbaybrewing.com
-"Big Head Brewing Co.","6204 W State St",Milwaukee,WI,53213-2906,"(608) 235-9636",micro,http://www.bigheadbrewingco.com
-"Biloba Brewing","18720 Pleasant St",Brookfield,WI,53045-3447,"(262) 309-5820",micro,http://www.bilobabrewing.com
-"Black Husky Brewing LLC","W5951 Steffen Ln",Pembine,WI,54156-9411,"(715) 324-5152",micro,http://www.blackhuskybrewing.com
-"Bloomer Brewing Co","1526 Martin Rd",Bloomer,WI,54724-1738,"(715) 271-3967",micro,
-"Blue Heron Brew Pub","108 W 9th St",Marshfield,WI,54449-4111,"(715) 389-1868",brewpub,http://www.blueheronbrewpub.com
-"Brenner Brewing","706 S 5th St",Milwaukee,WI,53204-1705,"(414) 465-8469",micro,http://www.brennerbrewing.com
-"Brewery Creek Inn, Restaurant and Brewery","23 Commerce St","Mineral Point",WI,53565-1368,"(608) 987-3298",brewpub,http://www.brewerycreek.com
-"Brewery in Planning - Burlington",,Burlington,WI,53105,"(262) 287-3422",planning,
-"Brewery In Planning - Delavan",,,,,,planning,
-"Brewery In Planning - Madison",,Madison,WI,53718-3098,,planning,
-"Brewery in Planning - Madison",,Madison,WI,53711,,planning,
-"Brewery in Planning - Manitowoc",,Manitowoc,WI,54220,"(920) 901-3282",planning,
-"Brewery in Planning - marathon",,Marathon,WI,54448-9781,"(715) 218-7232",planning,
-"Brewery in Planning - Mequon",,"Mequon ",WI,53012,,planning,
-"Brewery In Planning - Milwaukee",,Milwaukee,WI,53207-2222,,planning,
-"Brewery In Planning - Milwaukee",,,,,,planning,
-"Brewery In Planning - Milwaukee",,Milwaukee,WI,53212,,planning,
-"Brewery In Planning - Milwaukee",,Milwaukee,WI,53202,,planning,
-"Brewery In Planning - Oregon WI",,Oregon,WI,53575,,planning,
-"Brewery in Planning - Somerset",,Somerset,WI,54025,"(651) 795-9439",planning,
-"Brewery in Planning - waukesha",,waukesha,WI,53189,"(262) 613-3363",planning,
-"Brewery in Planning - West Allis",,"West Allis",WI,53214,,planning,
-"Brewery In Planning - Whitehall, WI.",,Whitehall,WI,54773-8822,,planning,
-"Brewery In Planning- Appleton, WI.",,,,,,planning,
-"Brewery In Planning- Edgerton",,,,,,planning,
-"Buffalo Water Beer Co","PO Box 1346",Milwaukee,WI,53201-1346,"(414) 978-8024",contract,http://www.buffalowaterbeer.com
-"Bull Falls Brewery LLC","901 E Thomas St",Wausau,WI,54403-6450,715-842-BEER,micro,http://www.bullfallsbrewery.com
-"Capital Brewery Co Inc","7734 Terrace Ave",Middleton,WI,53562-3163,"(608) 836-7100",regional,http://www.capital-brewery.com
-"Central Waters Brewing Co","351 Allen St",Amherst,WI,54406-8954,"(715) 824-2739",micro,http://www.centralwaters.com
-"City Brewing Co","925 3rd St S","La Crosse",WI,54601-4411,"(608) 785-4200",regional,http://www.citybrewery.com
-"City Lights Brewing Co",,Milwaukee,WI,53233,"(414) 520-9692",planning,http://citylightsbrewing.com
-"City Lights Brewing Co.","2200 W Mt Vernon Ave",milwaukee,WI,53233,"(414) 520-9692",contract,http://citylightsbrewing.com
-"Company Brewing Co","735 E Center St",Milwaukee,WI,53212-2944,"(414) 264-3630",brewpub,
-"Corner Pub","100 E Main St Lowr",Reedsburg,WI,53959-1967,"(608) 524-8989",brewpub,
-"Courthouse Pub","1001 S 8th St",Manitowoc,WI,54220-5307,"(920) 686-1166",brewpub,http://www.courthousepub.com
-"Cross Plains Brewery Inc.","2109 Hickory St","Cross Plains",WI,53528-9700,"(608) 798-3911",contract,http://www.essersbest.com
-"Custom Craft Brew",,Madison,WI,53705,"(608) 960-7234",planning,http://www.freehandbeer.com
-"Dave's Brew Farm","2470 Wilson St",Wilson,WI,54027-3950,"(612) 432-8130",micro,http://www.brewfarm.com
-"Delafield Brewhaus","3832 Hillside Dr",Delafield,WI,53018-2174,"(262) 646-7821",brewpub,http://www.delafield-brewhaus.com
-"Dissident Brewing",,Milwaukee,WI,53207,"(414) 517-1845",planning,http://www.dissidentbrewing.com
-"District 14 Brewery & Pub","2273 S Howell Ave",Milwaukee,WI,53207,"(414) 744-0399",micro,
-"Door County Brewing Co.","PO Box 201 2434 Cnty Rd F","Baileys Harbor",WI,54202-0201,"(920) 839-1515",contract,http://www.doorcountybrewingco.com
-"Driftless Brewing Co","102 Sunbeam Blvd E","Soldiers Grove",WI,54655-7559,"(608) 624-5577",micro,
-"Fat Boy Brewing Co","2851 S Stratton Dr",Milwaukee,WI,53219-2759,"(414) 761-6366",contract,http://www.fatboybeer.com
-"Fountain City Brewing Co / Monarch Public House","19 N Main St","Fountain City",WI,54629-8703,"(608) 687-4231",contract,http://www.monarchtavern.com
-"Fox Head Brewing LLC","2132 S West Ave",Waukesha,WI,53189-7917,,micro,
-"Fox River Brewing Co","1501 Arboretum Dr",Oshkosh,WI,54901-2791,"(920) 232-2337",brewpub,http://www.foxriverbrewing.com
-"Fox River Brewing Co and Restaurant","4301 W Wisconsin Ave Ste 189",Appleton,WI,54913-6530,"(920) 991-0000",brewpub,http://www.supplerestaurantgroup.com
-"Funk Factory Geuzeria","1604 Gilson St",Madison,WI,53715,,micro,http://www.funkfactorygeuzeria.com
-"Furthermore Beer","PO Box 776","Spring Green",WI,53588-0776,"(608) 588-3300",contract,http://www.furthermorebeer.com
-"Geneva Lake Brewing Co","750 Veterans Pkwy Unit 107","Lake Geneva",WI,53147-4950,"(262) 215-4955",micro,http://www.genevalakebrewingcompany.com
-"Good City Brewing Company","2108 N Farwell Avenue",Milwaukee,WI,53202,"(262) 388-4169",brewpub,http://www.goodcitybrewing.com
-"Granite City Food & Brewery (#18)","72 W Towne Mall",Madison,WI,53719-1019,,brewpub,http://www.gcfb.net
-"Gray Brewing Co","4021 Southwyck Dr",Janesville,WI,53546-2014,"(608) 756-5430",micro,
-"Great Dane Pub and Brewing Co - Downtown","123 E Doty St Ste 1",Madison,WI,53703-5134,"(608) 284-0000",brewpub,http://www.greatdanepub.com
-"Great Dane Pub and Brewing Co - Fitchburg","2980 Cahill Main",Fitchburg,WI,53711-7146,"(608) 442-9000",brewpub,http://www.greatdanepub.com
-"Great Dane Pub and Brewing Co -- Hilldale","357 Price Pl",Madison,WI,53705-3208,"(608) 661-9400",brewpub,http://www.greatdanepub.com
-"Great Dane Pub and Brewing Co- Wausau","2305 Sherman St",Wausau,WI,54401-1708,"(715) 845-3000",brewpub,http://www.greatdanepub.com
-"Greenview Brewing LLC","1808 Wright Street",Madison,WI,53704-2522,"(608) 352-3373",micro,http://www.greenviewbrewing.com
-"Grumpy Troll, The","105 S 2nd St","Mount Horeb",WI,53572-2105,"(608) 437-2739",brewpub,http://www.thegrumpytroll.com
-"Hanson Brewing Company",,Hudson,WI,54016,"(715) 821-0869",planning,http://www.hansonbrewingcompany.com
-"Hinterland Brewery","313 Dousman St","Green Bay",WI,54303-2713,"(920) 438-8050",micro,http://www.hinterlandbeer.com
-"Hop Haus Brewing Co","231 S Main St",Verona,WI,53593,"(608) 497-3165",brewpub,http://www.hophausbrewing.com
-"Hopsmith Brewing Company",,"Lake Mills",WI,53551,"(920) 650-8579",planning,
-"Horny Goat Brewing Co","2011 S 1st St",Milwaukee,WI,53207-1101,"(414) 467-6584",brewpub,http://www.hornygoatbrewing.com
-"House of Brews","4539 Helgesen Dr",Madison,WI,53718-6747,"(608) 347-7243",micro,
-"Jacob Leinenkugel Brewing Co","PO Box 368","Chippewa Falls",WI,54729-0368,"(715) 723-5558",large,http://www.leinie.com
-"Karben4 Brewing","3698 Kinsman Blvd",Madison,WI,53704-2509,"(608) 241-4811",brewpub,http://www.karben4.com
-"Kozy Yak Brewery & Fresar Winery","197 N Main St",Rosholt,WI,54473-9741,"(715) 677-3082",brewpub,http://www.kozyyak.com
-"Lake Louie Brewing Co","7556 Pine Rd",Arena,WI,53503-9236,"(608) 753-2675",micro,http://www.lakelouie.com
-"Lakefront Brewery Inc","1872 N Commerce St",Milwaukee,WI,53212-3701,"(414) 372-8800",regional,http://www.lakefrontbrewery.com
-"Lazy Monk Brewing","320 Putnam St Unit 4","Eau Claire",WI,54703-3896,,micro,http://www.lazymonkbrewing.com
-"Legends Brewhouse and Eatery (#1)","2840 Shawano Ave","Green Bay",WI,54313-6725,"(920) 662-1111",brewpub,http://www.legendseatery.com
-"Leinenkugel's 10th Street Brewery","1515 N 10th St",Milwaukee,WI,53205-2157,"(414) 931-3900",large,http://www.leinie.com
-"Like Minds Brewing Co.","823 E. Hamilton St",Milwaukee,WI,53202,,micro,http://www.likemindsbrewingco.com
-"Lion's Tail Brewing",,Greenville,WI,54942,,planning,
-"Lucette Brewing Co","910 Hudson Rd",Menomonie,WI,54751-1748,,micro,http://www.lucettebrewing.com
-"Melms Brewing Co",,,,,,micro,http://www.melmsbrewery.com
-"MillerCoors, LLC","3939 W Highland Blvd PO Box 482",Milwaukee,WI,53208-2816,"(414) 931-2000",large,http://www.millerbrewing.com
-"Milwaukee Brewing Co - Production facility","613 S 2nd St",Milwaukee,WI,53204-1616,"(414) 226-2337",micro,http://www.ale-house.com
-"Milwaukee Brewing Company","613 S 2nd St",Milwaukee,WI,53204-1616,"(414) 226-2336",brewpub,http://www.ale-house.com
-"Milwaukee Premium Brewing Co","6591 N. Sidney PL",Glendale,WI,53209-3215,"(414) 362-5000",contract,
-"Mines Creek Brewing","5345 Hidden Fox Ct","Spring Valley",WI,54767,"(615) 778-5513",micro,http://www.minescreekbrewing.jimdo.com
-"Minhas Craft Brewery","PO Box 277",Monroe,WI,53566-0277,"(608) 325-3191",regional,http://www.minhasbrewery.com
-"Minocqua Brewing Co","PO Box 81 238 Lake Shore Dr",Minocqua,WI,54548-0081,"(715) 356-2600",brewpub,http://www.minocquabrewingcompany.com
-"MobCraft Beer Inc","505 S 5th St",Milwaukee,WI,53204,"(608) 346-3003",proprietor,http://www.mobcraftbeer.com
-"New Avalon Brewing Co",,Somerset,WI,54025,"(651) 795-9439",planning,http://www.newavalonbrewing.com
-"New Glarus Brewing Co - Hilltop","2400 State Highway 69","New Glarus",WI,53574,"(608) 527-5850",regional,http://www.newglarusbrewing.com
-"New Glarus Brewing Co - Riverside","PO Box 759 119 County Rd W Hwy 69","New Glarus",WI,53574-0759,"(608) 527-5851",micro,http://www.newglarusbrewing.com
-"Next Door Brewing Company","2439 Atwood Ave",Madison,WI,53704-5604,"(608) 729-3683",brewpub,http://www.nextdoorbrewing.com
-"Noble Roots Brewing",,"Green Bay",WI,54311,,planning,
-"North Abbey Brewing Company",,Mosinee,WI,54455-1111,"(715) 693-2782",planning,http://www.northabbey.com
-"Northwoods Brewpub and Grill","PO Box 1006","Eau Claire",WI,54702-1006,"(715) 552-0510",brewpub,http://www.northwoodsbrewpub.com
-"Octopi Brewing / 3rd Sign Brewery","1131 Uniek Dr",Waunakee,WI,53597,"(608) 620-4705",micro,http://www.octopibrewing.com
-"Old Bavarian Brewing Co","1515 Greendale St",Menasha,WI,54952-2620,"(920) 730-0202",contract,http://www.oldbavarian.com
-"Oliphant Brewing","350 Main St Ste 2",Somerset,WI,54025,"(651) 307-7881",micro,http://www.oliphantbrewing.com
-"One Barrel Brewing Company","2001 Atwood Ave.",Madison,WI,53704-5324,"(608) 630-9286",micro,http://www.onebarrelbrewing.com
-"O'so Brewing","3028 Village Park Dr",Plover,WI,54467-4300,"(715) 254-2163",micro,http://www.osobrewing.com
-"Parched Eagle Brewpub","5440 Willow Rd Ste 112",Waunakee,WI,53597,,brewpub,
-"Pearl Street Brewery","1401 Saint Andrew St","La Crosse",WI,54603-2866,,micro,
-"Pigeon River Brewing","W12710 US Highway 45",Marion,WI,54950-9153,"(715) 256-7721",brewpub,http://www.pigeonriverbrewing.com
-"Pitchfork Brewing","709 Rodeo Dr Ste 104",Hudson,WI,54016-4700,"(715) 245-3675",micro,http://www.pitchforkbrewing.com
-"Plymouth Brewing Co","222 E Mill St",Plymouth,WI,53073-1706,920,micro,http://www.plymouthbrewingcompany.com
-"Port Huron Brewing Co","805 Business Park Dr","Wisconsin Dells",WI,53965-9440,"(608) 253-0340",micro,http://www.porthuronbeer.com
-"Potosi Brewing Co","PO Box 177",Potosi,WI,53820-0177,,micro,
-"Public Craft Brewing Co","716 58th St",Kenosha,WI,53140-4137,"(262) 818-4460",micro,http://www.publiccraftbrewing.com
-"Railhouse Restaurant and Brewery","2029 Old Peshtigo Ct",Marinette,WI,54143-1066,"(715) 732-4646",brewpub,http://www.railhousebrewpub.com
-"Raised Grain Brewing Company","2244 W Bluemound Rd Ste E",Waukesha,WI,53186-2921,,micro,
-"Raw Deal","603 S Broadway",Menomonie,WI,54751-2457,"(715) 231-3255",brewpub,http://www.rawdealwi.weebly.com
-"Red Eye Brewing Co","612 Washington St",Wausau,WI,54403-5439,"(715) 843-7334",brewpub,http://www.redeyebrewing.com
-"Rhinelander Brewing Co","59 S Brown St",Rhinelander,WI,54501-3450,"(715) 550-2337",contract,http://www.rhinelanderbrewery.com
-"Riverside Brewery & Restaurant","255 S Main St","West Bend",WI,53095-3323,"(262) 334-2739",brewpub,
-"Rock Bottom Brewery - Milwaukee","740 N Plankinton Ave Fl 1",Milwaukee,WI,53203-2403,"(414) 276-3030",brewpub,http://www.rockbottom.com
-"RockPere Brewing Co.","2284 Laddie Trl","De Pere",WI,54115-8472,,micro,http://www.rockpere.beer
-"Rocky Reef Brewing Company","1101 1st Ave",Woodruff,WI,54568-0615,"(262) 339-1230",micro,http://www.rockyreefbrewing.com
-"Rowlands Calumet Brewery Co","25 N Madison St",Chilton,WI,53014-1451,"(920) 849-2534",micro,
-"Rowlands Calumet Brewery Co (#2)","57 School St",Chilton,WI,53014-1345,"(920) 849-2534",micro,
-"Rush River Brewing Co","990 Antler Ct","River Falls",WI,54022-4880,"(715) 426-2054",micro,http://www.rushriverbeer.com
-"Rustic Road Brewing Co","510 56th St",Kenosha,WI,53140-3702,"(213) 537-6350",micro,http://www.rusticbrewing.com
-"Sand Creek Brewing Co","PO Box 187","Black River Falls",WI,54615-0187,"(715) 284-7553",micro,http://www.sandcreekbrewing.com
-"Sawmill Brewing Co",,Merrill,WI,54452,"(715) 772-0230",planning,
-"Sconnie Beverage","PO Box 2537",Madison,WI,53701-2537,"(608) 556-3112",contract,http://www.sconniebeer.com
-"Second Salem Brewing Company","111 W Whitewater St",Whitewater,WI,53190-1935,,brewpub,
-"Shipwrecked Restaurant and Brewery","PO Box 87","Egg Harbor",WI,54209-0087,"(920) 868-2767",brewpub,http://www.shipwreckedmicrobrew.com
-"Silver Creek Brewing Co","N57W6172 Portland Rd",Cedarburg,WI,53012,"(262) 375-4444",micro,http://www.silvercreekbrewing.com
-"South Shore Brewery","808 Main St W",Ashland,WI,54806-1404,"(715) 682-9199",brewpub,http://www.southshorebrewery.com
-"Sprecher Brewing Co","701 W Glendale Ave",Glendale,WI,53209-6509,"(414) 964-7837",regional,http://www.sprecherbrewery.com
-"St. Francis Brewing Company","3825 S Kinnickinnic Ave","Saint Francis",WI,53235-4225,"(414) 744-4448",brewpub,http://www.stfrancisbrewery.com
-"Starboard Brewing Co","151 N 3rd Ave","Sturgeon Bay",WI,54235-2415,"(920) 508-0044",brewpub,http://www.starboardbrewing.com
-"Steel Squared Brewing Company","1597 tiffany ct","de pere",WI,54115,,contract,
-"Stevens Point Brewery","2617 Water St","Stevens Point",WI,54481-5248,"(715) 344-9310",regional,http://www.pointbeer.com
-"Stillmank Brewing Company","215 N Henry St","Green Bay",WI,54302-2613,,micro,http://www.stillmankbrewing.com
-"Stone Cellar Brewpub / Stone Arch Brewery","1004 S Olde Oneida St Uppr",Appleton,WI,54915-1753,"(920) 731-3322",brewpub,http://www.stonecellarbrewpub.com
-"Sweet Mullets Brewing Co","N58 W39800 Industrial Rd Ste D",Oconomowoc,WI,53066,"(262) 456-2843",brewpub,http://www.sweetmulletsbrewing.com
-"Sweet Mullets Brewing Company","N58W39800 Industrial Rd, Ste D",Oconomowoc,WI,53066,"(262) 456-2843",brewpub,http://www.sweetmulletsbrewing.com
-"The Brewing Projekt","2000 N Oxford Ave BLDG 3 BOX 7","Eau Claire",WI,54703-5187,"(715) 214-3728",micro,http://www.thebrewingprojekt.com
-"The Fermentorium","7481 Hwy 60",Cedarburg,WI,53012-9702,,micro,
-"The Hop Garden","N8668 County Road D",Belleville,WI,53508-9626,"(608) 516-9649",contract,http://www.thehopgarden.net
-"The Lone Girl Brewing Company",,Waunakee,WI,53597,"(608) 850-7175",planning,http://thelonegirl.com
-"Third Space Brewing",,Brookfield,WI,53005-5222,,planning,
-"Thirsty Pagan Brewing Co","1623 Broadway St",Superior,WI,54880-1616,"(715) 394-2500",brewpub,http://www.thirstypaganbrewing.com
-"Titletown Brewing Co","200 Dousman St","Green Bay",WI,54303-2712,"(920) 437-2337",brewpub,http://www.titletownbrewing.com
-"Trap Rock Brewing Co.",,"Saint Croix Falls",WI,54024,,planning,http://www.traprockbrewing.com
-"Tribute Brewing Co","1106 N Bluebird Rd","Eagle River",WI,54521-7557,"(715) 480-2337",micro,http://www.tributebrewing.com
-"Turtle Stack Brewery","125 South 2nd St","La Crosse",WI,54601-3206,"(608) 519-2284",micro,http://www.turtlestackbrewery.com
-"Tyranena Brewing Co","PO Box 736","Lake Mills",WI,53551-0736,"(920) 648-8699",micro,http://www.tyranena.com
-"Valkyrie Brewing","234 W Dallas St",Dallas,WI,54733-9706,"(715) 837-1824",micro,http://www.valkyriebrewery.com
-"Viking Brewpub","211 E Main St",Stoughton,WI,53589-1700,"(608) 719-5041",brewpub,
-"Vintage Brewing Co","674 S Whitney Way",Madison,WI,53711-1035,"(608) 204-2739",brewpub,http://www.vintagebrewingco.com
-"Water Street Brewery","1101 N Water St",Milwaukee,WI,53202-3107,,micro,
-"Water Street Brewery - Grafton","2615 Washington St 143 & Highway 60",Grafton,WI,53024-9004,"(262) 375-2222",brewpub,http://www.waterstreetbrewery.com
-"Water Street Brewery Lake County","3191 Golf Rd",Delafield,WI,53018-2156,"(262) 646-7878",brewpub,http://www.waterstreetbrewery.com
-"West Bend Lithia Beer Co","825 Schoenhaar Dr","West Bend",WI,53090-2633,"(262) 334-3000",contract,http://www.lithiabeer.com
-"Whistle Stop Restaurant and Brewery","401 Main St",Woodman,WI,53827-9729,"(608) 533-2200",brewpub,http://www.woodmanwi.com
-"Wisconsin Brewing Co","1079 American Way",Verona,WI,53593-9384,"(608) 848-1079",micro,http://www.wisconsinbrewingcompany.com
-"Wisconsin Dells Brewing Company","110 Wisconsin Dells Pkwy S","Wisconsin Dells",WI,53965-8304,"(608) 254-1122",brewpub,http://www.dellsmoosejaw.com
+name,address1,address2,city,state,zip,phone,type,url
+"3 Sheeps Brewing Co","1327 Huron Ave",,Sheboygan,WI,53081-3282,"(920) 395-3583",micro,http://www.3sheepsbrewing.com
+"841 Brewhouse","841 E Milwaukee St",,Whitewater,WI,53190-2126,"(262) 473-8000",brewpub,
+"Agonic Brewing",,"Rice Lake, WI",,,,,planning,
+"Ahnapee Brewery","115 Navarino St",,Algoma,WI,54201-1246,"(920) 487-5208",micro,http://www.ahnapeebrewery.com
+"Ale Asylum","2002 Pankratz St",,Madison,WI,53704-4024,"(608) 663-3926",regional,http://www.aleasylum.com
+"Angry Minnow, The","10440 Florida Ave",,Hayward,WI,54843-7112,"(715) 934-3055",brewpub,http://www.angryminnow.com
+"Appleton Beer Factory","603 W College Ave",,Appleton,WI,54911-5803,"(920) 364-9931",brewpub,http://www.appletonbeerfactory.com
+"Badger State Brewing Company","990 Tony Canadeo Run",,"Green Bay",WI,54304-3762,"(920) 634-5687",micro,http://www.badgerstatebrewing.com
+"Bare Bones Brewery","4362 County Rd S",,Oshkosh,WI,54904-9575,"(920) 744-8045",brewpub,http://www.barebonesbrewery.us
+"Barley Johns Brewpub","1280 Madison Ave",,"New Richmond",WI,54017,"(715) 246-4677",micro,http://www.barleyjohnsbrewery.com
+"Batavian Brewpub",,,Holmen,WI,54636-9425,,planning,
+"Bent Kettle Brewing Company","1507 Montclair Pl",,"Fort Atkinson",WI,53538,"(920) 390-9038",micro,http://www.bentkettle.com
+"Big Bay Brewing Co","4517 N Oakland Ave",,Shorewood,WI,53211-1216,"(888) 964-2869",proprietor,http://www.bigbaybrewing.com
+"Big Head Brewing Co.","6204 W State St",,Milwaukee,WI,53213-2906,"(608) 235-9636",micro,http://www.bigheadbrewingco.com
+"Biloba Brewing","18720 Pleasant St",,Brookfield,WI,53045-3447,"(262) 309-5820",micro,http://www.bilobabrewing.com
+"Black Husky Brewing LLC","W5951 Steffen Ln",,Pembine,WI,54156-9411,"(715) 324-5152",micro,http://www.blackhuskybrewing.com
+"Bloomer Brewing Co","1526 Martin Rd",,Bloomer,WI,54724-1738,"(715) 271-3967",micro,
+"Blue Heron Brew Pub","108 W 9th St",,Marshfield,WI,54449-4111,"(715) 389-1868",brewpub,http://www.blueheronbrewpub.com
+"Brenner Brewing","706 S 5th St",,Milwaukee,WI,53204-1705,"(414) 465-8469",micro,http://www.brennerbrewing.com
+"Brewery Creek Inn, Restaurant and Brewery","23 Commerce St",,"Mineral Point",WI,53565-1368,"(608) 987-3298",brewpub,http://www.brewerycreek.com
+"Brewery in Planning - Burlington",,,Burlington,WI,53105,"(262) 287-3422",planning,
+"Brewery In Planning - Delavan",,"Delavan, WI",,,,,planning,
+"Brewery In Planning - Madison",,,Madison,WI,53718-3098,,planning,
+"Brewery in Planning - Madison",,,Madison,WI,53711,,planning,
+"Brewery in Planning - Manitowoc",,,Manitowoc,WI,54220,"(920) 901-3282",planning,
+"Brewery in Planning - marathon",,,Marathon,WI,54448-9781,"(715) 218-7232",planning,
+"Brewery in Planning - Mequon",,,"Mequon ",WI,53012,,planning,
+"Brewery In Planning - Milwaukee",,,Milwaukee,WI,53207-2222,,planning,
+"Brewery In Planning - Milwaukee",,"Milwaukee, WI",,,,,planning,
+"Brewery In Planning - Milwaukee",,,Milwaukee,WI,53212,,planning,
+"Brewery In Planning - Milwaukee",,,Milwaukee,WI,53202,,planning,
+"Brewery In Planning - Oregon WI",,,Oregon,WI,53575,,planning,
+"Brewery in Planning - Somerset",,,Somerset,WI,54025,"(651) 795-9439",planning,
+"Brewery in Planning - waukesha",,,waukesha,WI,53189,"(262) 613-3363",planning,
+"Brewery in Planning - West Allis",,,"West Allis",WI,53214,,planning,
+"Brewery In Planning - Whitehall, WI.",,,Whitehall,WI,54773-8822,,planning,
+"Brewery In Planning- Appleton, WI.",,"Appleton, WI",,,,,planning,
+"Brewery In Planning- Edgerton",,"Edgerton, WI",,,,,planning,
+"Buffalo Water Beer Co","PO Box 1346",,Milwaukee,WI,53201-1346,"(414) 978-8024",contract,http://www.buffalowaterbeer.com
+"Bull Falls Brewery LLC","901 E Thomas St",,Wausau,WI,54403-6450,715-842-BEER,micro,http://www.bullfallsbrewery.com
+"Capital Brewery Co Inc","7734 Terrace Ave",,Middleton,WI,53562-3163,"(608) 836-7100",regional,http://www.capital-brewery.com
+"Central Waters Brewing Co","351 Allen St",,Amherst,WI,54406-8954,"(715) 824-2739",micro,http://www.centralwaters.com
+"City Brewing Co","925 3rd St S",,"La Crosse",WI,54601-4411,"(608) 785-4200",regional,http://www.citybrewery.com
+"City Lights Brewing Co",,,Milwaukee,WI,53233,"(414) 520-9692",planning,http://citylightsbrewing.com
+"City Lights Brewing Co.","2200 W Mt Vernon Ave",,milwaukee,WI,53233,"(414) 520-9692",contract,http://citylightsbrewing.com
+"Company Brewing Co","735 E Center St",,Milwaukee,WI,53212-2944,"(414) 264-3630",brewpub,
+"Corner Pub","100 E Main St Lowr",,Reedsburg,WI,53959-1967,"(608) 524-8989",brewpub,
+"Courthouse Pub","1001 S 8th St",,Manitowoc,WI,54220-5307,"(920) 686-1166",brewpub,http://www.courthousepub.com
+"Cross Plains Brewery Inc.","2109 Hickory St",,"Cross Plains",WI,53528-9700,"(608) 798-3911",contract,http://www.essersbest.com
+"Custom Craft Brew",,,Madison,WI,53705,"(608) 960-7234",planning,http://www.freehandbeer.com
+"Dave's Brew Farm","2470 Wilson St",,Wilson,WI,54027-3950,"(612) 432-8130",micro,http://www.brewfarm.com
+"Delafield Brewhaus","3832 Hillside Dr",,Delafield,WI,53018-2174,"(262) 646-7821",brewpub,http://www.delafield-brewhaus.com
+"Dissident Brewing",,,Milwaukee,WI,53207,"(414) 517-1845",planning,http://www.dissidentbrewing.com
+"District 14 Brewery & Pub","2273 S Howell Ave",,Milwaukee,WI,53207,"(414) 744-0399",micro,
+"Door County Brewing Co.","PO Box 201 2434 Cnty Rd F",,"Baileys Harbor",WI,54202-0201,"(920) 839-1515",contract,http://www.doorcountybrewingco.com
+"Driftless Brewing Co","102 Sunbeam Blvd E",,"Soldiers Grove",WI,54655-7559,"(608) 624-5577",micro,
+"Fat Boy Brewing Co","2851 S Stratton Dr",,Milwaukee,WI,53219-2759,"(414) 761-6366",contract,http://www.fatboybeer.com
+"Fountain City Brewing Co / Monarch Public House","19 N Main St",,"Fountain City",WI,54629-8703,"(608) 687-4231",contract,http://www.monarchtavern.com
+"Fox Head Brewing LLC","2132 S West Ave",,Waukesha,WI,53189-7917,,micro,
+"Fox River Brewing Co","1501 Arboretum Dr",,Oshkosh,WI,54901-2791,"(920) 232-2337",brewpub,http://www.foxriverbrewing.com
+"Fox River Brewing Co and Restaurant","4301 W Wisconsin Ave Ste 189",,Appleton,WI,54913-6530,"(920) 991-0000",brewpub,http://www.supplerestaurantgroup.com
+"Funk Factory Geuzeria","1604 Gilson St",,Madison,WI,53715,,micro,http://www.funkfactorygeuzeria.com
+"Furthermore Beer","PO Box 776",,"Spring Green",WI,53588-0776,"(608) 588-3300",contract,http://www.furthermorebeer.com
+"Geneva Lake Brewing Co","750 Veterans Pkwy Unit 107",,"Lake Geneva",WI,53147-4950,"(262) 215-4955",micro,http://www.genevalakebrewingcompany.com
+"Good City Brewing Company","2108 N Farwell Avenue",,Milwaukee,WI,53202,"(262) 388-4169",brewpub,http://www.goodcitybrewing.com
+"Granite City Food & Brewery (#18)","72 W Towne Mall",,Madison,WI,53719-1019,,brewpub,http://www.gcfb.net
+"Gray Brewing Co","4021 Southwyck Dr",,Janesville,WI,53546-2014,"(608) 756-5430",micro,
+"Great Dane Pub and Brewing Co - Downtown","123 E Doty St Ste 1",,Madison,WI,53703-5134,"(608) 284-0000",brewpub,http://www.greatdanepub.com
+"Great Dane Pub and Brewing Co - Fitchburg","2980 Cahill Main",,Fitchburg,WI,53711-7146,"(608) 442-9000",brewpub,http://www.greatdanepub.com
+"Great Dane Pub and Brewing Co -- Hilldale","357 Price Pl",,Madison,WI,53705-3208,"(608) 661-9400",brewpub,http://www.greatdanepub.com
+"Great Dane Pub and Brewing Co- Wausau","2305 Sherman St",,Wausau,WI,54401-1708,"(715) 845-3000",brewpub,http://www.greatdanepub.com
+"Greenview Brewing LLC","1808 Wright Street",,Madison,WI,53704-2522,"(608) 352-3373",micro,http://www.greenviewbrewing.com
+"Grumpy Troll, The","105 S 2nd St",,"Mount Horeb",WI,53572-2105,"(608) 437-2739",brewpub,http://www.thegrumpytroll.com
+"Hanson Brewing Company",,,Hudson,WI,54016,"(715) 821-0869",planning,http://www.hansonbrewingcompany.com
+"Hinterland Brewery","313 Dousman St",,"Green Bay",WI,54303-2713,"(920) 438-8050",micro,http://www.hinterlandbeer.com
+"Hop Haus Brewing Co","231 S Main St",,Verona,WI,53593,"(608) 497-3165",brewpub,http://www.hophausbrewing.com
+"Hopsmith Brewing Company",,,"Lake Mills",WI,53551,"(920) 650-8579",planning,
+"Horny Goat Brewing Co","2011 S 1st St",,Milwaukee,WI,53207-1101,"(414) 467-6584",brewpub,http://www.hornygoatbrewing.com
+"House of Brews","4539 Helgesen Dr",,Madison,WI,53718-6747,"(608) 347-7243",micro,
+"Jacob Leinenkugel Brewing Co","PO Box 368",,"Chippewa Falls",WI,54729-0368,"(715) 723-5558",large,http://www.leinie.com
+"Karben4 Brewing","3698 Kinsman Blvd",,Madison,WI,53704-2509,"(608) 241-4811",brewpub,http://www.karben4.com
+"Kozy Yak Brewery & Fresar Winery","197 N Main St",,Rosholt,WI,54473-9741,"(715) 677-3082",brewpub,http://www.kozyyak.com
+"Lake Louie Brewing Co","7556 Pine Rd",,Arena,WI,53503-9236,"(608) 753-2675",micro,http://www.lakelouie.com
+"Lakefront Brewery Inc","1872 N Commerce St",,Milwaukee,WI,53212-3701,"(414) 372-8800",regional,http://www.lakefrontbrewery.com
+"Lazy Monk Brewing","320 Putnam St Unit 4",,"Eau Claire",WI,54703-3896,,micro,http://www.lazymonkbrewing.com
+"Legends Brewhouse and Eatery (#1)","2840 Shawano Ave",,"Green Bay",WI,54313-6725,"(920) 662-1111",brewpub,http://www.legendseatery.com
+"Leinenkugel's 10th Street Brewery","1515 N 10th St",,Milwaukee,WI,53205-2157,"(414) 931-3900",large,http://www.leinie.com
+"Like Minds Brewing Co.","823 E. Hamilton St",,Milwaukee,WI,53202,,micro,http://www.likemindsbrewingco.com
+"Lion's Tail Brewing",,,Greenville,WI,54942,,planning,
+"Lucette Brewing Co","910 Hudson Rd",,Menomonie,WI,54751-1748,,micro,http://www.lucettebrewing.com
+"Melms Brewing Co",,"Milwaukee, WI",,,,,micro,http://www.melmsbrewery.com
+"MillerCoors, LLC","3939 W Highland Blvd PO Box 482",,Milwaukee,WI,53208-2816,"(414) 931-2000",large,http://www.millerbrewing.com
+"Milwaukee Brewing Co - Production facility","613 S 2nd St",,Milwaukee,WI,53204-1616,"(414) 226-2337",micro,http://www.ale-house.com
+"Milwaukee Brewing Company","613 S 2nd St",,Milwaukee,WI,53204-1616,"(414) 226-2336",brewpub,http://www.ale-house.com
+"Milwaukee Premium Brewing Co","6591 N. Sidney PL",,Glendale,WI,53209-3215,"(414) 362-5000",contract,
+"Mines Creek Brewing","5345 Hidden Fox Ct",,"Spring Valley",WI,54767,"(615) 778-5513",micro,http://www.minescreekbrewing.jimdo.com
+"Minhas Craft Brewery","PO Box 277",,Monroe,WI,53566-0277,"(608) 325-3191",regional,http://www.minhasbrewery.com
+"Minocqua Brewing Co","PO Box 81 238 Lake Shore Dr",,Minocqua,WI,54548-0081,"(715) 356-2600",brewpub,http://www.minocquabrewingcompany.com
+"MobCraft Beer Inc","505 S 5th St",,Milwaukee,WI,53204,"(608) 346-3003",proprietor,http://www.mobcraftbeer.com
+"New Avalon Brewing Co",,,Somerset,WI,54025,"(651) 795-9439",planning,http://www.newavalonbrewing.com
+"New Glarus Brewing Co - Hilltop","2400 State Highway 69",,"New Glarus",WI,53574,"(608) 527-5850",regional,http://www.newglarusbrewing.com
+"New Glarus Brewing Co - Riverside","PO Box 759 119 County Rd W Hwy 69",,"New Glarus",WI,53574-0759,"(608) 527-5851",micro,http://www.newglarusbrewing.com
+"Next Door Brewing Company","2439 Atwood Ave",,Madison,WI,53704-5604,"(608) 729-3683",brewpub,http://www.nextdoorbrewing.com
+"Noble Roots Brewing",,,"Green Bay",WI,54311,,planning,
+"North Abbey Brewing Company",,,Mosinee,WI,54455-1111,"(715) 693-2782",planning,http://www.northabbey.com
+"Northwoods Brewpub and Grill","PO Box 1006",,"Eau Claire",WI,54702-1006,"(715) 552-0510",brewpub,http://www.northwoodsbrewpub.com
+"Octopi Brewing / 3rd Sign Brewery","1131 Uniek Dr",,Waunakee,WI,53597,"(608) 620-4705",micro,http://www.octopibrewing.com
+"Old Bavarian Brewing Co","1515 Greendale St",,Menasha,WI,54952-2620,"(920) 730-0202",contract,http://www.oldbavarian.com
+"Oliphant Brewing","350 Main St Ste 2",,Somerset,WI,54025,"(651) 307-7881",micro,http://www.oliphantbrewing.com
+"One Barrel Brewing Company","2001 Atwood Ave.",,Madison,WI,53704-5324,"(608) 630-9286",micro,http://www.onebarrelbrewing.com
+"O'so Brewing","3028 Village Park Dr",,Plover,WI,54467-4300,"(715) 254-2163",micro,http://www.osobrewing.com
+"Parched Eagle Brewpub","5440 Willow Rd Ste 112",,Waunakee,WI,53597,,brewpub,
+"Pearl Street Brewery","1401 Saint Andrew St",,"La Crosse",WI,54603-2866,,micro,
+"Pigeon River Brewing","W12710 US Highway 45",,Marion,WI,54950-9153,"(715) 256-7721",brewpub,http://www.pigeonriverbrewing.com
+"Pitchfork Brewing","709 Rodeo Dr Ste 104",,Hudson,WI,54016-4700,"(715) 245-3675",micro,http://www.pitchforkbrewing.com
+"Plymouth Brewing Co","222 E Mill St",,Plymouth,WI,53073-1706,920,micro,http://www.plymouthbrewingcompany.com
+"Port Huron Brewing Co","805 Business Park Dr",,"Wisconsin Dells",WI,53965-9440,"(608) 253-0340",micro,http://www.porthuronbeer.com
+"Potosi Brewing Co","PO Box 177",,Potosi,WI,53820-0177,,micro,
+"Public Craft Brewing Co","716 58th St",,Kenosha,WI,53140-4137,"(262) 818-4460",micro,http://www.publiccraftbrewing.com
+"Railhouse Restaurant and Brewery","2029 Old Peshtigo Ct",,Marinette,WI,54143-1066,"(715) 732-4646",brewpub,http://www.railhousebrewpub.com
+"Raised Grain Brewing Company","2244 W Bluemound Rd Ste E",,Waukesha,WI,53186-2921,,micro,
+"Raw Deal","603 S Broadway",,Menomonie,WI,54751-2457,"(715) 231-3255",brewpub,http://www.rawdealwi.weebly.com
+"Red Eye Brewing Co","612 Washington St",,Wausau,WI,54403-5439,"(715) 843-7334",brewpub,http://www.redeyebrewing.com
+"Rhinelander Brewing Co","59 S Brown St",,Rhinelander,WI,54501-3450,"(715) 550-2337",contract,http://www.rhinelanderbrewery.com
+"Riverside Brewery & Restaurant","255 S Main St",,"West Bend",WI,53095-3323,"(262) 334-2739",brewpub,
+"Rock Bottom Brewery - Milwaukee","740 N Plankinton Ave Fl 1",,Milwaukee,WI,53203-2403,"(414) 276-3030",brewpub,http://www.rockbottom.com
+"RockPere Brewing Co.","2284 Laddie Trl",,"De Pere",WI,54115-8472,,micro,http://www.rockpere.beer
+"Rocky Reef Brewing Company","1101 1st Ave",,Woodruff,WI,54568-0615,"(262) 339-1230",micro,http://www.rockyreefbrewing.com
+"Rowlands Calumet Brewery Co","25 N Madison St",,Chilton,WI,53014-1451,"(920) 849-2534",micro,
+"Rowlands Calumet Brewery Co (#2)","57 School St",,Chilton,WI,53014-1345,"(920) 849-2534",micro,
+"Rush River Brewing Co","990 Antler Ct",,"River Falls",WI,54022-4880,"(715) 426-2054",micro,http://www.rushriverbeer.com
+"Rustic Road Brewing Co","510 56th St",,Kenosha,WI,53140-3702,"(213) 537-6350",micro,http://www.rusticbrewing.com
+"Sand Creek Brewing Co","PO Box 187",,"Black River Falls",WI,54615-0187,"(715) 284-7553",micro,http://www.sandcreekbrewing.com
+"Sawmill Brewing Co",,,Merrill,WI,54452,"(715) 772-0230",planning,
+"Sconnie Beverage","PO Box 2537",,Madison,WI,53701-2537,"(608) 556-3112",contract,http://www.sconniebeer.com
+"Second Salem Brewing Company","111 W Whitewater St",,Whitewater,WI,53190-1935,,brewpub,
+"Shipwrecked Restaurant and Brewery","PO Box 87",,"Egg Harbor",WI,54209-0087,"(920) 868-2767",brewpub,http://www.shipwreckedmicrobrew.com
+"Silver Creek Brewing Co","N57W6172 Portland Rd",,Cedarburg,WI,53012,"(262) 375-4444",micro,http://www.silvercreekbrewing.com
+"South Shore Brewery","808 Main St W",,Ashland,WI,54806-1404,"(715) 682-9199",brewpub,http://www.southshorebrewery.com
+"Sprecher Brewing Co","701 W Glendale Ave",,Glendale,WI,53209-6509,"(414) 964-7837",regional,http://www.sprecherbrewery.com
+"St. Francis Brewing Company","3825 S Kinnickinnic Ave",,"Saint Francis",WI,53235-4225,"(414) 744-4448",brewpub,http://www.stfrancisbrewery.com
+"Starboard Brewing Co","151 N 3rd Ave",,"Sturgeon Bay",WI,54235-2415,"(920) 508-0044",brewpub,http://www.starboardbrewing.com
+"Steel Squared Brewing Company","1597 tiffany ct",,"de pere",WI,54115,,contract,
+"Stevens Point Brewery","2617 Water St",,"Stevens Point",WI,54481-5248,"(715) 344-9310",regional,http://www.pointbeer.com
+"Stillmank Brewing Company","215 N Henry St",,"Green Bay",WI,54302-2613,,micro,http://www.stillmankbrewing.com
+"Stone Cellar Brewpub / Stone Arch Brewery","1004 S Olde Oneida St Uppr",,Appleton,WI,54915-1753,"(920) 731-3322",brewpub,http://www.stonecellarbrewpub.com
+"Sweet Mullets Brewing Co","N58 W39800 Industrial Rd Ste D",,Oconomowoc,WI,53066,"(262) 456-2843",brewpub,http://www.sweetmulletsbrewing.com
+"Sweet Mullets Brewing Company","N58W39800 Industrial Rd, Ste D",,Oconomowoc,WI,53066,"(262) 456-2843",brewpub,http://www.sweetmulletsbrewing.com
+"The Brewing Projekt","2000 N Oxford Ave BLDG 3 BOX 7",,"Eau Claire",WI,54703-5187,"(715) 214-3728",micro,http://www.thebrewingprojekt.com
+"The Fermentorium","7481 Hwy 60",,Cedarburg,WI,53012-9702,,micro,
+"The Hop Garden","N8668 County Road D",,Belleville,WI,53508-9626,"(608) 516-9649",contract,http://www.thehopgarden.net
+"The Lone Girl Brewing Company",,,Waunakee,WI,53597,"(608) 850-7175",planning,http://thelonegirl.com
+"Third Space Brewing",,,Brookfield,WI,53005-5222,,planning,
+"Thirsty Pagan Brewing Co","1623 Broadway St",,Superior,WI,54880-1616,"(715) 394-2500",brewpub,http://www.thirstypaganbrewing.com
+"Titletown Brewing Co","200 Dousman St",,"Green Bay",WI,54303-2712,"(920) 437-2337",brewpub,http://www.titletownbrewing.com
+"Trap Rock Brewing Co.",,,"Saint Croix Falls",WI,54024,,planning,http://www.traprockbrewing.com
+"Tribute Brewing Co","1106 N Bluebird Rd",,"Eagle River",WI,54521-7557,"(715) 480-2337",micro,http://www.tributebrewing.com
+"Turtle Stack Brewery","125 South 2nd St",,"La Crosse",WI,54601-3206,"(608) 519-2284",micro,http://www.turtlestackbrewery.com
+"Tyranena Brewing Co","PO Box 736",,"Lake Mills",WI,53551-0736,"(920) 648-8699",micro,http://www.tyranena.com
+"Valkyrie Brewing","234 W Dallas St",,Dallas,WI,54733-9706,"(715) 837-1824",micro,http://www.valkyriebrewery.com
+"Viking Brewpub","211 E Main St",,Stoughton,WI,53589-1700,"(608) 719-5041",brewpub,
+"Vintage Brewing Co","674 S Whitney Way",,Madison,WI,53711-1035,"(608) 204-2739",brewpub,http://www.vintagebrewingco.com
+"Water Street Brewery","1101 N Water St",,Milwaukee,WI,53202-3107,,micro,
+"Water Street Brewery - Grafton","2615 Washington St 143 & Highway 60",,Grafton,WI,53024-9004,"(262) 375-2222",brewpub,http://www.waterstreetbrewery.com
+"Water Street Brewery Lake County","3191 Golf Rd",,Delafield,WI,53018-2156,"(262) 646-7878",brewpub,http://www.waterstreetbrewery.com
+"West Bend Lithia Beer Co","825 Schoenhaar Dr",,"West Bend",WI,53090-2633,"(262) 334-3000",contract,http://www.lithiabeer.com
+"Whistle Stop Restaurant and Brewery","401 Main St",,Woodman,WI,53827-9729,"(608) 533-2200",brewpub,http://www.woodmanwi.com
+"Wisconsin Brewing Co","1079 American Way",,Verona,WI,53593-9384,"(608) 848-1079",micro,http://www.wisconsinbrewingcompany.com
+"Wisconsin Dells Brewing Company","110 Wisconsin Dells Pkwy S",,"Wisconsin Dells",WI,53965-8304,"(608) 254-1122",brewpub,http://www.dellsmoosejaw.com

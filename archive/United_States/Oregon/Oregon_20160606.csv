@@ -1,263 +1,263 @@
-name,address,city,state,zip,phone,type,url
-"10 Barrel Brewing Co","62970 18th St",Bend,OR,97701-9847,"(541) 585-1007",large,http://www.10barrel.com
-"10 Barrel Brewing Co","1411 NW Flanders St",Portland,OR,97209-2620,"(541) 585-1007",large,http://www.10barrel.com
-"1188 Brewing Co","141 E Main St","John Day",OR,97845-1210,"(541) 575-1188",brewpub,http://www.1188brewing.com
-"13 Virtues Brewing Co","6410 SE Milwaukie Ave",Portland,OR,97202-5518,"(503) 239-3831",brewpub,http://www.13virtuesbrewing.com
-"3 Sheets Brewing Company",,,,,"(541) 619-0183",micro,http://www.facebook.com/3sheetsbrewery
-"7 Devils Brewing Co","249 S 2nd St","Coos Bay",OR,97420-1642,"(541) 808-3738",brewpub,http://www.7devilsbrewery.com
-"Agrarian Ales, LLC","31115 W Crossroads Ln",Eugene,OR,97408-9220,,micro,http://www.agales.com
-"Alameda Brewing Co","4765 NE Fremont St",Portland,OR,97213-1724,"(503) 460-9025",micro,http://www.alamedabrewing.com
-"Alameda Brewing Co","4736 SE 24th Ave",Portland,OR,97202-4787,"(503) 460-9025",micro,
-"AleSong Brewing and Blending","1000 Conger St. Unit C",Eugene,OR,97402,,micro,http://www.alesongbrewing.com
-"Ambacht Brewing","1060 NE 25th Ave Ste B",Hillsboro,OR,97124-4903,"(503) 828-1400",micro,http://www.ambacht.us
-"Arch Rock Brewing Co","28779 Hunter Creek Loop","Gold Beach",OR,97444-9626,"(541) 247-0555",micro,http://www.archrockbrewingcompany.com
-"Arlington Club","811 SW Salmon St",Portland,OR,97205-3094,"(503) 223-4141",micro,http://www.thearlingtonclub.com
-"Astoria Brewery Company","1196 Marine St",Astoria,OR,97103-4112,"(503) 325-6975",brewpub,
-"Back Pedal Brewing Company","1425 NW Flanders St",Portland,OR,97209-2620,"(971) 400-5950",micro,http://www.facebook.com/backpedalpdx
-"Backside Brewing Co","1640 NE Odell Ave",Roseburg,OR,97470-3320,"(541) 580-1906",brewpub,http://www.backsidebrewingco.com
-"Badland Brewery",,Bend,OR,97702,"(602) 686-7750",planning,
-"Baerlic Brewing Co","2235 SE 11th Ave",Portland,OR,97214-5303,"(503) 477-9418",micro,http://www.baerlicbrewing.com
-"Baker City Brewing Co","2200 Main St","Baker City",OR,97814-2657,"(541) 523-2337",micro,http://www.barleybrowns.com
-"Barley Browns Brewpub","2190 Main St","Baker City",OR,97814-2655,"(541) 523-4266",brewpub,http://www.barleybrowns.com
-"Base Camp Brewing Co","930 SE Oak St",Portland,OR,97214-1307,"(503) 477-7479",micro,http://www.basecampbrewingco.com
-"Beer Valley Brewing Co","937 SE 12th Ave",Ontario,OR,97914-4473,"(541) 881-9088",micro,http://www.beervalleybrewing.com
-"Bend Brewing Co","1019 NW Brooks St",Bend,OR,97701-2018,"(541) 383-1599",brewpub,http://www.bendbrewingco.com
-"Bent Shovel Brewing","21678 Latourette Rd","Oregon City",OR,97045,"(503) 898-0220",micro,http://www.bentshovelbrewing.com
-"Big Horse Brewpub","115 State St","Hood River",OR,97031-2315,"(541) 386-4411",brewpub,
-"Bill's Tavern and Brewhouse","188 N Hemlock St","Cannon Beach",OR,97110-3037,"(503) 436-2202",brewpub,http://www.billstavernandbrewhouse.com
-"Block 15","300 SW Jefferson Ave",Corvallis,OR,97333-4607,"(541) 758-2077",brewpub,
-"Block 15 Brewery & Tap Room","3415 SW Deschutes St.",Corvallis,OR,97333-9283,"(541) 752-2337",brewpub,http://www.block15.com
-"Boneyard Beer Co","63067 Plateau Dr",Bend,OR,97701-3789,"(541) 323-2325",regional,http://www.boneyardbeer.com
-"Boring Brewing Co","PO Box 569",Boring,OR,97009-0569,"(503) 427-8619",micro,http://www.boringbrewing.com
-"Breakside Brewery","820 NE Dekum St",Portland,OR,97211-3630,"(503) 719-6475",brewpub,http://www.breakside.com
-"Breakside Brewery & Taproom","5821 SE International Way",Milwaukie,OR,97222-4633,"(503) 719-6475",micro,http://www.breakside.com
-"Brewers Union Local 180","PO Box 739",Oakridge,OR,97463-0739,"(541) 782-2024",brewpub,http://www.brewersunion.com
-"Brewery In Planning - Bend",,Bend,OR,97702-2783,,planning,
-"Brewery In Planning - Carlton",,Carlton,OR,97111-9514,,planning,
-"Brewery in Planning - Coburg",,"Coburg ",OR,97408,"(707) 570-9593",planning,
-"Brewery In Planning - Corvallis",,Corvallis,OR,97330,,planning,
-"Brewery In Planning - Eugene",,,,,,planning,
-"Brewery in Planning - eugene",,eugene,OR,97301,,planning,
-"Brewery In Planning - Molalla",,Molalla,OR,97038,,planning,
-"Brewery In Planning - Portland",,Portland,OR,97202,,planning,
-"Brewery In Planning - Portland",,,,,,planning,
-"Brewery In Planning - Portland",,Portland,OR,97214-4800,,planning,
-"Brewery In Planning - Portland",,Portland,OR,97213,,planning,
-"Brewery in Planning - Portland",,Portland,OR,97214,,planning,
-"Brewery In Planning - Portland",,Portland,OR,97206,,planning,
-"Brewery In Planning - Salem",,Salem,OR,97306,,planning,
-"Brewery In Planning - Warren OR",,Warren,OR,97053-9766,,planning,
-"Brewery In Planning- Bend, OR.",,Bend,OR,97701-8514,,planning,
-"Brewery In Planning- Portland, OR.",,,,,,planning,
-"Brewery In Planning- Tualatin, OR.",,Tualatin,OR,97062-6857,,planning,
-"Bricktowne Brewing Co","111 E 8th St",Medford,OR,97501-7201,"(541) 973-2377",brewpub,http://www.bricktownebeer.com
-"Bridge 99 Brewery","61123 Tapadera St",Bend,OR,97702-2672,"(541) 280-1690",micro,
-"BridgePort Brewing Co","1318 NW Northrup St",Portland,OR,97209-2808,"(503) 241-7179",regional,http://www.bridgeportbrew.com
-"BTU Brasserie","5846 NE Sandy Blvd",Portland,OR,97213,,brewpub,
-"Buckman Botanical Brewery / Green Dragon","909 SE Yamhill St",Portland,OR,97214-2533,"(503) 241-3800",micro,http://www.buckmanbrewing.com
-Bunsenbrewer,"16506 362nd St",Sandy,OR,97055-9279,"(503) 308-3150",brewpub,http://www.bunsenbrewer.com
-"Buoy Beer Company","1 Eighth St",Astoria,OR,97103-4200,"(503) 325-4540",brewpub,http://www.buoybeer.com
-"Burnside Brewing Co","701 E Burnside St",Portland,OR,97214-1218,"(503) 208-3476",micro,http://www.burnsidebrewco.com
-"Calapooia Brewing Co / Siletz Ales","140 NE Hill St",Albany,OR,97321-3002,"(541) 928-1931",micro,http://www.calapooiabrewing.com
-"Caldera Brewing Co","590 Clover Ln",Ashland,OR,97520-3709,"(541) 482-4677",micro,http://www.calderabrewing.com
-"Captured by Porches Brewing Co","40 Cowlitz St # B","Saint Helens",OR,97051-2603,"(503) 757-8359",micro,http://www.capturedbyporches.com
-"Cascade Brewing / Raccoon Lodge and Brewpub","7424 SW Beaverton Hillsdale Hwy",Portland,OR,97225-2149,"(503) 296-0110",brewpub,http://www.cascadebrewing.com
-"Cascade Lakes Brewing Co","2141 SW 1st St",Redmond,OR,97756-7131,"(541) 923-3110",micro,http://www.cascadelakes.com
-"CFD, LLC.",,Portland,OR,97214,"(503) 718-2337",planning,http://www.wayfinder.beer
-"Chatoe Rogue Farmstead Brewery","3590 Wigrich Rd",Independence,OR,97351-9708,"(503) 838-9813",micro,http://www.rogue.com
-"Chehalem Valley Brewery","2515 Portland Rd Ste B",Newberg,OR,97132-1940,"(971) 832-8131",brewpub,http://www.chehalemvalleybrewery.com
-"Chetco Brewing Company","16883 Yellow Brick Rd",Brookings,OR,97415,"(541) 661-5347",brewpub,http://www.chetcobrew.com
-"Claim 52 Brewing","1030 Tyinn St Ste 1",Eugene,OR,97402-6933,"(541) 554-6786",micro,
-"Climate City Brewing Co.","509 SW G St","Grants Pass",OR,97526-2472,,brewpub,http://www.climatecitybrewing.com
-"Coalition Brewing Co","2705 SE Ankeny St Suite C",Portland,OR,97214-1818,"(503) 894-8080",brewpub,http://www.coalitionbrewing.com
-"Cold Fire Brewing","263 Mill Street",Eugene,OR,97401-2410,,micro,http://www.hughesbrothersbrewing.com
-"Columbia County Brewing","164 S 15th St","Saint Helens",OR,97051-1702,"(503) 896-7776",brewpub,http://www.coulumbiacountybrewing.com
-"Columbia River Brewing Co","1728 NE 40th Ave",Portland,OR,97212-5306,"(503) 943-6157",micro,http://www.columbiariverbrewpub.com
-"Commons Brewery, The","630 SE Belmont St",Portland,OR,97214-2372,"(503) 819-0758",micro,http://www.commonsbrewery.com
-"Conner Fields Brewing","121 SW H St","Grants Pass",OR,97526-2505,,micro,http://www.connerfields.com
-"Conversion Brewing","833 S Main St.",Lebanon,OR,97355-3211,,brewpub,http://www.conversionbrewingcompany.com
-"Covalent Brewing",,Portland,OR,97239-1956,,planning,
-"Craft Brew Alliance","929 N Russell St",Portland,OR,97227-1733,"(503) 281-2437",regional,http://www.widmer.com
-"Craft Brew Alliance - Widmer Rose Garden","1 N Center Court St",Portland,OR,97227-2102,"(503) 232-5343",brewpub,http://www.widmer.com
-"Craft Kitchen and Brewery","803 SW Industrial Way # 202",Bend,OR,97702,"(541) 647-2772",brewpub,http://www.craftkitchenandbrewery.com
-"Crux Fermentation Project","50 SW Division St",Bend,OR,97702-1600,"(541) 388-7558",micro,http://www.cruxfermentation.com
-"Culmination Brewing Co",,,,,,contract,
-"De Garde Brewing","6000 Blimp Blvd Ste A",Tillamook,OR,97141-8043,"(541) 301-8109",micro,
-"Deception Brewing Company","1174 SW Highway 99W",Dundee,OR,97115,,brewpub,http://www.deceptionbrewingco.com
-"Defiance Brewery",,"The Dalles",OR,97058-2424,,planning,http://www.defiancebrewery.com
-"Deluxe Brewing Co","635 Water Ave NE Ste B",Albany,OR,97321-2764,"(541) 639-4257",micro,http://www.deluxebrewing.com
-"Deschutes Brewery","901 SW Simpson Ave",Bend,OR,97702-3118,"(541) 385-8606",regional,http://www.deschutesbrewery.com
-"Deschutes Brewery & Public House","1044 NW Bond St",Bend,OR,97701-2002,"(541) 382-9242",brewpub,http://www.deschutesbrewery.com
-"Deschutes Brewery & Public House","210 NW 11th Ave",Portland,OR,97209-2929,"(503) 296-4906",brewpub,http://www.deschutesbrewery.com
-"Dirt Road Brewing Company",,Corvallis,OR,97330,"(541) 598-4221",planning,
-"Doppelganger Brewing Inc.",,McMinnville,OR,97128,"(503) 835-5322",planning,http://www.doppelgangerbrewinginc.com
-"Double Mountain Brewery","8 4th St Ste 204","Hood River",OR,97031-2123,"(541) 387-0042",micro,http://www.doublemountainbrewery.com
-"Dragon's Gate Brewery","52288 Sunquist Rd","Milton Freewater",OR,97862-6856,"(541) 215-2622",micro,http://www.dragonsgatebrewery.com
-"Draper Brewing","7752 Highway 42",Tenmile,OR,97481-9755,,micro,http://www.draperbrewing.com
-"Drinking Horse Brewing Company","11517 SE Highway 212",Clackamas,OR,97015-9053,"(503) 564-8165",micro,http://www.drinkinghorsebeer.com
-"Ecliptic Brewing","825 N Cook St",Portland,OR,97227-1503,"(503) 265-8002",brewpub,http://www.eclipticbrewing.com
-"Elk Horn Brewery","686 E Broadway",Eugene,OR,97401-3340,"(541) 505-8356",brewpub,http://www.elkhornbrewery.com
-"Ex Novo Brewing Co","2326 N Flint Ave",Portland,OR,97227-1905,"(503) 894-8251",brewpub,http://www.exnovobrew.com
-"Falling Sky Brewing","30 E 13th Ave",Eugene,OR,97401-3535,"(541) 505-7096",brewpub,http://www.fallingskybrewing.com
-"FAS Brewing",,Troutdale,OR,97060,"(503) 729-5936",planning,
-"Fat Head's Brewery & Saloon","131 NW 13th Ave",Portland,OR,97209-4110,"(440) 801-1001",brewpub,http://www.fatheadsportland.com
-"Fearless Brewing Co","PO Box 1883 326 S Broadway",Estacada,OR,97023-1883,"(503) 630-2337",brewpub,http://www.fearless1.com/
-"Feckin Brewery","415 S McLoughlin Blvd","Oregon City",OR,97045-3101,"(503) 880-5608",micro,http://www.fecknbrew.com
-"Fire Mountain Brew House/Outlaw Brew House","10800 NW Rex Brown Rd",Carlton,OR,97111,"(503) 852-7378",micro,http://www.firemountainbrewery.com
-"Fire On the Mountain Brewing Co","3443 NE 57th Ave",Portland,OR,97213-3351,"(503) 894-8973",brewpub,http://www.portlandwings.com
-"Flat Tail Brewing Co","202 SW 1st St",Corvallis,OR,97333-4727,"(541) 758-2229",brewpub,http://www.flattailcorvallis.com
-"FlyBoy Brewing","15630 Boones Ferry Rd Ste 1A","Lake Oswego",OR,97035-3455,"(503) 908-1281",micro,http://www.flyboybeer.com
-"Fort George Brewery","1483 Duane St",Astoria,OR,97103-3819,"(503) 325-7468",micro,http://www.fortgeorgebrewery.com
-"Freebridge Brewing",,"The Dalles",OR,97058,,planning,
-"Fresh Tracks Brewing Company","20750 High Desert Ln #107",Bend,OR,97701,"(541) 383-2222",micro,http://www.freshtracksbrews.com
-"Full Sail Brewery - Riverplace","0307 SW Montgomery St",Portland,OR,97201-5125,"(503) 222-5343",micro,http://www.fullsailbrewing.com
-"Full Sail Brewing Co","506 Columbia St","Hood River",OR,97031-2000,"(541) 386-2281",regional,http://www.fullsailbrewing.com
-"Gigantic Brewing Co","5224 SE 26th Ave",Portland,OR,97202-4627,"(503) 208-3416",micro,http://www.giganticbrewing.com
-"Gilgamesh Brewing Co","2065 Madrona Ave SE",Salem,OR,97302-1010,"(503) 385-1985",micro,http://www.gilgameshbrewing.com
-"Golden Valley Brewery and Pub","980 NE 4th St",McMinnville,OR,97128-4308,"(503) 472-2739",brewpub,http://www.goldenvalleybrewery.com
-"GoodLife Brewing Company","70 SW Century Ave 100-464",Bend,OR,97701,"(541) 306-8980",regional,http://www.goodlifebrewing.com
-"Grain Station Brew Works","755 NE Alpine Ave Ste 200",McMinnville,OR,97128-4102,"(503) 687-2739",brewpub,http://www.grainstation.com
-"Great Notion Brewing","2204 NE Alberta #101",Portland,OR,97211,,brewpub,http://greatnotionpdx.com/
-"Griess Family Brews, LLC","220 SW H St","Grants Pass",OR,97526-2508,"(541) 450-9090",micro,http://www.gfbrews.com
-"Groundbreaker Brewing","715 SE Lincoln St",Portland,OR,97214-4600,"(503) 928-4195",micro,http://www.harvesterbrewing.com
-"Hair of the Dog Brewing Co","61 SE Yamhill St",Portland,OR,97214-2134,"(503) 232-6585",micro,http://www.hairofthedog.com
-"Hard Knocks Brewing, LLC","1024 E Main St Ste 4","Cottage Grove",OR,97424-2230,"(541) 942-3631",brewpub,http://www.hardknocksbrewing.com
-"Heater Allen Brewery","907 NE 10th Ave",McMinnville,OR,97128-4003,"(503) 472-4898",micro,http://www.%20heaterallen.com
-"Hermiston Brewing Co","125 N 1st St",Hermiston,OR,97838-1850,"(541) 289-7415",brewpub,
-"High Gravity Brewing, LLC.",,Portland,OR,97225,,planning,
-"Hondo's Brew and Cork Pub","2703 Marine Dr",Astoria,OR,97103-2900,"(503) 325-2234",micro,http://www.hondosbrew.net
-"Hop Cycle Brewing Company",,Banks,OR,97106-9030,"(503) 277-0997",planning,http://www.hopcyclebrewing.com
-"Hop Valley Brewing Co","990 W 1st Ave",Eugene,OR,97402-4904,"(541) 485-2337",regional,http://www.hopvalleybrewing.com
-"Hop Valley Brewing Co","980 Kruse Way",Springfield,OR,97477-1073,"(541) 744-3330",brewpub,http://www.hopvalleybrewing.com
-"Hopworks Urban Brewery","2944 SE Powell Blvd",Portland,OR,97202-2054,"(503) 232-4677",micro,http://www.hopworksbeer.com
-"Humble Brewing","7419 N Hurst Ave",Portland,OR,97203-4731,"(503) 753-5975",micro,http://www.humblebrewing.com
-"JD's Sports Pub and Brewery","690 Redwood Hwy","Grants Pass",OR,97527-5582,"(541) 471-0383",brewpub,http://www.jdssportsbarandbrewery.com
-"Juniper Brewing Company","1950 SW Badger Ave Ste 103",Redmond,OR,97756-7490,"(541) 548-2739",micro,http://www.juniperbrewing.com
-"Kell's Brew Pub","210 NW 21st Ave",Portland,OR,97209-1004,"(503) 227-5931",brewpub,http://www.kellsbrewpub.com
-"Klamath Basin Brewing Co","1320 Main St","Klamath Falls",OR,97601-5914,"(541) 273-5222",brewpub,http://www.kbbrewing.com
-"Krauski's Brewskis / The Hoppy Brewer","328 N Main Ave",Gresham,OR,97030-7210,"(503) 328-8474",micro,http://www.oregonshoppyplace.com
-"Laurelwood Pizza Co","6716 SE Milwaukie Ave",Portland,OR,97202-5618,"(503) 943-6157",brewpub,
-"Laurelwood Public House and Brewery - NE","5115 NE Sandy Blvd",Portland,OR,97213-2525,"(503) 282-0622",micro,http://www.laurelwoodbrewpub.com
-"Leikam Brewing",,,,,"(503) 230-9636",micro,http://www.leikambrewing.com
-"Logsdon Farmhouse Ales","4785 Booth Hill Rd","Hood River",OR,97031-7411,"(541) 490-9161",micro,http://www.farmhousebeer.com
-"Lompoc Brewing, LLC/ The 5th Quadrant","3901 N Williams Ave Ste B",Portland,OR,97227-1465,"(503) 288-3996",brewpub,http://www.newoldlompoc.com/5thquadranthome.html
-"Long Brewing LLC",,Newberg,OR,97132,"(503) 349-8341",micro,http://www.longbrewing.com
-"Lucky Labrador Beer Hall","1945 NW Quimby St",Portland,OR,97209-1712,"(503) 517-4352",brewpub,http://www.luckylab.com
-"Lucky Labrador Brewpub","915 SE Hawthorne Blvd",Portland,OR,97214-3545,"(503) 236-3555",brewpub,http://www.luckylab.com
-"Mancave Brewing Company","540 Fillmore St",Eugene,OR,97402,"(541) 632-3967",micro,http://www.mancavebrewingcompany.com
-"Max's Fanno Creek Brew Pub","12562 SW Main St",Portland,OR,97223-6195,"(503) 624-9400",brewpub,http://www.maxsfannocreek.com
-"Mazama Brewing Co","33930 SE Eastgate Cir Unit A",Corvallis,OR,97333-2272,"(541) 230-1810",micro,http://www.mazamabrewing.com
-"McKenzie Brewing Company","199 E 5th Ave",Eugene,OR,97401-8715,"(541) 686-2739",brewpub,http://www.steelheadbrewery.com
-"McMenamins Concordia Brewery at Kennedy School","5736 NE 33rd Ave",Portland,OR,97211-7302,"(503) 288-1937",brewpub,http://www.mcmenamins.com
-"McMenamins Cornelius Pass Roadhouse","4045 NW Cornelius Pass Rd",Hillsboro,OR,97124-9367,"(503) 640-6174",brewpub,http://www.mcmenamins.com
-"McMenamins Crystal Ballroom Brewery","1332 W Burnside St",Portland,OR,97209-2612,"(503) 778-5625",brewpub,http://www.mcmenamins.com
-"McMenamins Edgefield Brewery","2126 SW Halsey St",Troutdale,OR,97060-1026,"(503) 667-4352",micro,http://www.mcmenamins.com
-"McMenamins Fulton Pub and Brewery","0618 SW Nebraska St",Portland,OR,97239-3556,"(503) 246-4363",micro,http://www.mcmenamins.com
-"McMenamins High Street Brewery","1243 High St",Eugene,OR,97401-3207,"(541) 345-4913",brewpub,http://www.mcmenamins.com
-"McMenamins Highland Pub and Brewery","4225 SE 182nd Ave",Gresham,OR,97030-5082,"(503) 665-3015",brewpub,http://www.mcmenamins.com
-"McMenamins Hillsdale Brewery and Public House","1505 SW Sunset Blvd",Portland,OR,97239-2625,"(503) 293-1753",micro,http://www.mcmenamins.com
-"McMenamins John Barleycorns","14610 SW Sequoia Pkwy",Tigard,OR,97224-7185,"(503) 684-6253",brewpub,http://www.mcmenamins.com
-"McMenamins Lighthouse Brewery","4157 N Hwy 101, Ste 117","Lincoln City",OR,97367,"(541) 994-9628",brewpub,http://www.mcmenamins.com
-"McMenamins Oak Hills Brewery","14740 NW Cornell Rd Ste 80",Portland,OR,97229-5400,"(503) 645-0117",micro,http://www.mcmenamins.com
-"McMenamins Old Church Brewery","30340 SW Boones Ferry Rd",Wilsonville,OR,97070-6759,"(503) 427-2505",brewpub,http://www.mcmenamins.com/wilsonville
-"McMenamins Old St. Francis School","700 NW Bond St",Bend,OR,97701-2702,"(541) 382-5174",brewpub,http://www.mcmenamins.com
-"McMenamins on Monroe","2001 NW Monroe Ave Ste 106",Corvallis,OR,97330-5567,"(541) 758-0880",brewpub,
-"McMenamins Roseburg Station Brewery","700 SE Sheridan St",Roseburg,OR,97470-3470,"(541) 672-1934",micro,http://www.mcmenamins.com
-"McMenamins Thompson Brewery","3575 Liberty Rd S",Salem,OR,97302-5621,"(503) 371-2945",micro,http://www.mcmenamins.com
-"McMenamins West Linn Brewery","2090 8th Ave","West Linn",OR,97068-4612,"(503) 656-2935",micro,http://www.mcmenamins.com
-"Mia and Pias Pizzeria/Brewhouse","3545 Summers Ln","Klamath Falls",OR,97603-7411,"(541) 884-4880",brewpub,http://www.miapia.com
-"Migration Brewing Co","2828 NE Gilsan St",Portland,OR,97232,"(503) 206-5221",brewpub,http://www.migrationbrewing.com
-"Misty Mountain Brewery","15440 Museum Rd Unit B",Harbor,OR,97415,"(541) 813-2599",micro,
-"Monkless Belgian Ales","1178 NW Remarkable Dr",Bend,OR,97701-5523,"(541) 610-5492",micro,
-"Montavilla Brew Works","7805 SE Stark St",Portland,OR,97215,,micro,http://www.montavillabrew.com
-"Mount Hood Brewing Co","87304 E Government Camp Loop","Government Camp",OR,97028-0108,"(503) 272-3272",micro,http://www.iceaxegrill.com/mthoodbrewco.php
-"Mutiny Brewing Co","PO Box 883",Joseph,OR,97846-0883,"(541) 432-5274",brewpub,http://www.mutinybrewing.blogspot.com
-"Natian Brewery","1321 NE Couch St",Portland,OR,97232-3007,"(971) 678-7116",micro,http://www.natianbrewery.com
-"Ninkasi Brewing Co","155 Blair Blvd",Eugene,OR,97402-4146,"(541) 344-2739",regional,http://www.ninkasibrewing.com
-"North Rim Brewing","20650 High Desert Ln Ste 7",Bend,OR,97701-8514,"(541) 263-1144",micro,
-"Oakshire Brewing","1055 Madera St",Eugene,OR,97402-2019,"(541) 688-4555",micro,http://www.oakbrew.com
-"Oblivion Brewing Co","63027 Plateau Dr Ste 4",Bend,OR,97701-3855,"(541) 728-3509",micro,http://www.oblivionbrewingco.com
-"Occidental Brewing","6635 N Baltimore Ave Ste 100",Portland,OR,97203-5465,"(503) 719-7102",micro,http://www.occidentalbrewing.com
-"Ochoco Brewing Co","234 N Main St",Prineville,OR,97754-1852,"(541) 233-0883",micro,http://www.solsticebrewing.com
-"Old 99 Brewing Co","3750 Hooker Rd Suite A",Roseburg,OR,97470-4501,"(541) 670-9260",micro,http://www.old99brewing.com
-"Old Market Pub and Brewery","6959 SW Multnomah Blvd",Portland,OR,97223-3439,"(503) 244-0450",brewpub,http://www.drinkbeerhere.com
-"Old Town Brewing","5201 NE M L King Blvd",Portland,OR,97211-3235,"(503) 200-5988",brewpub,http://www.oldtownpizza.com
-"Opposition Brewing Company","545 Rossanley Dr Ste 106",Medford,OR,97501-1771,"(541) 210-8550",micro,http://www.oppositionbrewing.com
-"Ordnance Brewing","405 N Olson Rd",Boardman,OR,97818-8100,"(541) 481-2231",micro,http://www.ordnancebrewing.com
-"Oregon City Brewing Company","1401 Washington St","Oregon City",OR,97045-1650,,micro,
-"Oregon Trail Brewery","341 SW 2nd St",Corvallis,OR,97333-4640,"(541) 758-3527",micro,http://www.oregontrailbrewery.com
-"Pelican Brewing Company","PO Box 189","Pacific City",OR,97135-0189,"(503) 965-7007",brewpub,http://www.pelicanbrewery.com
-"Pelican Brewing Company","1708 1st St",Tillamook,OR,97141,"(503) 965-7007",micro,
-"PFriem Family Brewers","707 Portway Ave Ste 101","Hood River",OR,97031-1218,"(541) 321-0490",micro,http://www.pfriembeer.com
-"PINTS Brewing Company and Urban Taproom","412 NW 5th Ave",Portland,OR,97209-3816,"(503) 564-2739",brewpub,http://www.pintsbrewing.com
-"Plank Town Brewing","346 Main St",Springfield,OR,97477-5362,"(541) 746-1890",brewpub,http://www.planktownbrewing.com
-"Plough Monday","25327 Jeans Rd",Veneta,OR,97487-9644,"(541) 935-4004",micro,http://www.ploughmonday.com
-"Portal Brewing Co","100 E 6th St",Medford,OR,97501-5902,"(541) 941-0240",brewpub,http://www.portalbrewingco.com
-"Portland U-Brew & Pub","6237 SE Milwaukie Ave",Portland,OR,97202-5416,"(503) 943-2727",brewpub,http://www.portlandubrewandpub.com
-"Prodigal Son Brewery and Pub, The","230 SE Court Ave",Pendleton,OR,97801-2349,"(541) 276-6090",brewpub,http://www.prodigalsonbrewery.com
-"Pyramid Brewery/North American Breweries","2730 NW 31st Ave",Portland,OR,97210-1718,"(503) 226-7623",regional,http://www.portlandbrewing.com
-"RAM/Big Horn Brewery - Clackamas","9073 SE Sunnyside Rd",Clackamas,OR,97015-9759,"(503) 659-1282",brewpub,
-"RAM/Big Horn Brewery - Salem","515 12th St SE",Salem,OR,97301-4034,"(503) 363-1904",brewpub,http://www.theram.com
-"Rat Hole Brewing","17349 Harlquin Dr.",Bend,OR,97707-2318,"(541) 389-2739",brewpub,
-"Red Ox Brewing","9795 SW Murdock St",Portland,OR,97224-4731,"(503) 310-8033",micro,http://www.redoxbrewing.com
-"RiverBend Brewing Pub","2650 NE Division St",Bend,OR,97701-3569,"(541) 550-7550",brewpub,http://www.riverbendbrewing.com
-"Rock Bottom Brewery - Portland","206 SW Morrison St",Portland,OR,97204-3107,"(503) 796-2739",brewpub,http://www.rockbottom.com
-"Rogue Ales Brewery & Headquarters","2320 SE Osu Dr",Newport,OR,97365-5261,"(541) 867-3660",regional,http://www.rogue.com
-"Rosenstadt Brewery LLC","4110 SE Hawthorne #735",Portland,OR,97214-5246,,brewpub,http://www.rosenstadtbrewery.com
-"Rox Brewing Company",,Medford,OR,97504,"(415) 793-3013",planning,http://www.roxbrewing.com
-"Royale Brewing Company","55 NE Farragut #6",Portland,OR,97211,"(971) 279-5587",micro,http://www.royalebeer.com
-"Rudderless Brewing Company",,Beaverton,OR,97008,,planning,
-"Ruse Brewing, LLC.",,,,,,micro,
-"Rusty Bucket Brewing","2019 Griffin Creek Rd",Medford,OR,97501-4131,"(541) 840-5233",micro,http://www.rustybucketbrewing.com
-"Rusty Truck Brewing Company","4649 SW Highway 101","Lincoln City",OR,97367-1557,"(541) 994-7729",brewpub,http://www.rustytruckbrewing.com
-"Salem Ale Works","2027 25th St SE",Salem,OR,97302-1130,"(503) 990-8486",micro,http://www.aleinsalem.com
-"Sam Bond's Brewing Co","540 E 8th Ave",Eugene,OR,97401-3344,"(541) 246-8162",micro,http://www.sambondsbrewing.com
-"Santiam Brewing Co","2544 19th St SE",Salem,OR,97302-1501,"(503) 559-0044",micro,http://www.santiambrewing.com
-"Sasquatch Brewery","6327 SW Capitol Hwy Ste C PMB 202",Portland,OR,97239-1974,"(503) 679-1961",brewpub,http://www.sasquatchbrewery.com
-"Scout Brewing",,Beaverton,OR,97007,,planning,
-"Seaside Brewery","851 Broadway St",Seaside,OR,97138-6823,,brewpub,http://www.seasidebrewery.com
-"Seven Brides Brewery","PO Box 1118",Silverton,OR,97381-0029,"(503) 874-4677",micro,http://www.sevenbridesbrewing.com
-"Shade Tree Brewing","580 Hemlock Ave NE Suite 106",Redmond,OR,97756,"(541) 383-3730",micro,
-"Silver Falls Brewery","1103 Western Ave.",Silverton,OR,97381,"(971) 227-8765",,http://www.silverfallsbrewery@gmail.com
-"Silver Moon Brewing & Taproom","24 NW Greenwood Ave",Bend,OR,97701-2027,"(541) 388-8331",micro,http://www.silvermoonbrewing.com
-"Sky High Brewing","160 NW Jackson Ave",Corvallis,OR,97330-4827,"(541) 207-3277",micro,http://www.skyhighbrewing.com
-"Smith Rock Brewing","546 NW 7th St",Redmond,OR,97756-1628,"(541) 279-7005",brewpub,http://www.smithrockbrewing.com
-"Solera Brewery","4945 Baseline Dr","Mount Hood Parkdale",OR,97041-8703,"(541) 352-5500",micro,http://www.solerabrewery.com
-"Southern Oregon Brewing Co","1922 United Way",Medford,OR,97504-4970,,micro,http://www.sobrewing.com
-"Splash Brewery","904 NW Couch St",Portland,OR,97209,"(503) 893-5551",brewpub,http://www.splashbarpdx.com
-"Standing Stone Brewing Co","101 Oak St",Ashland,OR,97520-1802,"(541) 482-2448",brewpub,http://www.standingstonebrewing.com
-"Steens Mountain Brewing Company","150 W Washington St",Burns,OR,97720,"(541) 589-1159",micro,http://www.facebook.com/steens-mountain-brewing-company-443737905738875
-"Stickmen Brewery","40 N State St","Lake Oswego",OR,97034-3926,"(503) 344-4449",brewpub,http://www.stickmenbeer.com
-"StormBreaker Brewing","832 NE Beech St",Portland,OR,97227,"(971) 703-4516",brewpub,http://www.stormbreakerbrewing.com
-"Sunriver Brewing","PO Box 3340",Sunriver,OR,97707-0340,,micro,
-"Swing Tree Brewing Company","300 E Hersey St Ste 7",Ashland,OR,97520-6200,"(541) 591-8584",micro,http://www.swingtreebrewing.com
-"Table Rock Brewing LLC",,"Central Point",OR,97502-0060,,planning,
-"Tandem Brewing Co","298 S Oregon St",Ontario,OR,97914-2810,"(541) 889-4166",brewpub,http://www.tandembrewing.com
-"Terminal Gravity Brewing Co","803 SE School St",Enterprise,OR,97828-1674,,micro,http://www.terminalgravitybrewing.com
-"The Ale Apothecary","61517 River Rd",Bend,OR,97701-5930,"(541) 408-1525",micro,http://www.thealeapothecary.com
-"The Labrewatory",,Portland,OR,97227-1728,"(503) 236-4500",planning,http://www.thelabrewatory.com
-"The Viking Braggot Company","520 Commercial St Ste F",Eugene,OR,97402-5347,"(541) 653-8371",micro,http://www.drinkviking.com
-"Three Creeks Brewing Co","721 Desperado Ct",Sisters,OR,97759-9514,"(541) 549-1963",brewpub,http://www.threecreeksbrewing.com
-"Three Mugs Brewing Company","2020 NW Aloclek Dr Ste 108",Hillsboro,OR,97124-8053,"(971) 322-0232",micro,http://www.threemugsbrewing.com
-"Thunder Island Brewing","515 NW Portage Rd","Cascade Locks",OR,97014-6699,"(971) 231-4599",micro,http://www.thunderislandbrewing.com
-"Tugboat Brewing Co.","711 SW Ankeny St",Portland,OR,97205-3703,"(503) 226-2508",brewpub,http://www.d2m.com/tugwebsite/future.htm
-"Twisted Snout Brewery and Public House","318 S Main St",Toledo,OR,97391-1544,"(541) 336-1833",brewpub,http://www.twistedsnout.com
-"Two Kilts Brewing","14841 SW Tualatin Sherwood Rd Ste 501",Sherwood,OR,97140-7127,"(503) 625-1700",micro,http://www.twokiltsbrewing.com
-"Two-Shy Brewing","PO Box 1081 1308 NW Park St /",Roseburg,OR,97470-0248,,micro,http://www.twoshybrewing.com
-"Upright Brewing Co","240 N Broadway St Ste 2",Portland,OR,97227-1880,,micro,http://www.uprightbrewing.com
-"Uptown Market Brewing","6620 SW Scholls Ferry Rd",Beaverton,OR,97223-7166,"(503) 336-4783",micro,http://www.uptownmarketpdx.com
-"Vagabond Brewing","2195 Hyacinth St NE STE 172",Salem,OR,97301-3115,"(503) 512-9007",micro,http://www.vagabondbrewing.com
-"Vanguard Brewing Company","27501 SW 95th Ave",Wilsonville,OR,97070-2905,,micro,http://www.vanguardbrewing.com
-"Vertigo Brewing","21420 NW Nicholas Ct # SUITE # D-7",Hillsboro,OR,97124-6633,"(503) 645-6644",micro,http://www.vertigobrew.com
-"Walkabout Brewing Co","5204 Dobrot Way","Central Point",OR,97502-1612,"(541) 664-7763",micro,
-"Waltz Brewing","1900 A St","Forest Grove",OR,97116,"(503) 896-6057",micro,
-"Washington Street Steakhouse",,dallas,OR,97338,"(503) 559-5440",planning,http://www.washingtonststeakhouse.com
-"Wet Dog Cafe & Brewery","144 11th St",Astoria,OR,97103-4104,"(503) 325-6975",brewpub,
-"Wild Ride Brewing","332 SW 5th St",Redmond,OR,97756-2103,"(541) 516-8544",micro,http://www.wildridebrew.com
-"Wild River Brewing and Pizza Co","249 N Redwood Hwy","Cave Junction",OR,97523-9023,"(541) 592-3556",brewpub,http://www.wildriverbrewing.com
-"Wild River Brewing and Pizza Co - Grants Pass","595 NE E St","Grants Pass",OR,97526-2356,"(541) 471-7487",brewpub,http://www.wildriverbrewing.com
-"Wolf Tree Brewery","199 N Wolkau Rd","Seal Rock",OR,97376,"(541) 961-2030",micro,
-"Wolves & People Farmhouse Brewery",,Newberg,OR,97132-6910,,planning,
-"Worthy Brewing Company","495 NE Bellevue Dr",Bend,OR,97701-7412,"(541) 639-4772",micro,http://www.worthybrewing.com
-"Yachats Brewing","348 Highway 101 North",Yachats,OR,97498,,micro,http://www.yachatsbrewing.com
-"Zymurgy Craft Co.",,Portland,OR,97217-8282,,planning,
+name,address1,address2,city,state,zip,phone,type,url
+"10 Barrel Brewing Co","62970 18th St",,Bend,OR,97701-9847,"(541) 585-1007",large,http://www.10barrel.com
+"10 Barrel Brewing Co","1411 NW Flanders St",,Portland,OR,97209-2620,"(541) 585-1007",large,http://www.10barrel.com
+"1188 Brewing Co","141 E Main St",,"John Day",OR,97845-1210,"(541) 575-1188",brewpub,http://www.1188brewing.com
+"13 Virtues Brewing Co","6410 SE Milwaukie Ave",,Portland,OR,97202-5518,"(503) 239-3831",brewpub,http://www.13virtuesbrewing.com
+"3 Sheets Brewing Company",,"Albany, OR",,,,"(541) 619-0183",micro,http://www.facebook.com/3sheetsbrewery
+"7 Devils Brewing Co","249 S 2nd St",,"Coos Bay",OR,97420-1642,"(541) 808-3738",brewpub,http://www.7devilsbrewery.com
+"Agrarian Ales, LLC","31115 W Crossroads Ln",,Eugene,OR,97408-9220,,micro,http://www.agales.com
+"Alameda Brewing Co","4765 NE Fremont St",,Portland,OR,97213-1724,"(503) 460-9025",micro,http://www.alamedabrewing.com
+"Alameda Brewing Co","4736 SE 24th Ave",,Portland,OR,97202-4787,"(503) 460-9025",micro,
+"AleSong Brewing and Blending","1000 Conger St. Unit C",,Eugene,OR,97402,,micro,http://www.alesongbrewing.com
+"Ambacht Brewing","1060 NE 25th Ave Ste B",,Hillsboro,OR,97124-4903,"(503) 828-1400",micro,http://www.ambacht.us
+"Arch Rock Brewing Co","28779 Hunter Creek Loop",,"Gold Beach",OR,97444-9626,"(541) 247-0555",micro,http://www.archrockbrewingcompany.com
+"Arlington Club","811 SW Salmon St",,Portland,OR,97205-3094,"(503) 223-4141",micro,http://www.thearlingtonclub.com
+"Astoria Brewery Company","1196 Marine St",,Astoria,OR,97103-4112,"(503) 325-6975",brewpub,
+"Back Pedal Brewing Company","1425 NW Flanders St",,Portland,OR,97209-2620,"(971) 400-5950",micro,http://www.facebook.com/backpedalpdx
+"Backside Brewing Co","1640 NE Odell Ave",,Roseburg,OR,97470-3320,"(541) 580-1906",brewpub,http://www.backsidebrewingco.com
+"Badland Brewery",,,Bend,OR,97702,"(602) 686-7750",planning,
+"Baerlic Brewing Co","2235 SE 11th Ave",,Portland,OR,97214-5303,"(503) 477-9418",micro,http://www.baerlicbrewing.com
+"Baker City Brewing Co","2200 Main St",,"Baker City",OR,97814-2657,"(541) 523-2337",micro,http://www.barleybrowns.com
+"Barley Browns Brewpub","2190 Main St",,"Baker City",OR,97814-2655,"(541) 523-4266",brewpub,http://www.barleybrowns.com
+"Base Camp Brewing Co","930 SE Oak St",,Portland,OR,97214-1307,"(503) 477-7479",micro,http://www.basecampbrewingco.com
+"Beer Valley Brewing Co","937 SE 12th Ave",,Ontario,OR,97914-4473,"(541) 881-9088",micro,http://www.beervalleybrewing.com
+"Bend Brewing Co","1019 NW Brooks St",,Bend,OR,97701-2018,"(541) 383-1599",brewpub,http://www.bendbrewingco.com
+"Bent Shovel Brewing","21678 Latourette Rd",,"Oregon City",OR,97045,"(503) 898-0220",micro,http://www.bentshovelbrewing.com
+"Big Horse Brewpub","115 State St",,"Hood River",OR,97031-2315,"(541) 386-4411",brewpub,
+"Bill's Tavern and Brewhouse","188 N Hemlock St",,"Cannon Beach",OR,97110-3037,"(503) 436-2202",brewpub,http://www.billstavernandbrewhouse.com
+"Block 15","300 SW Jefferson Ave",,Corvallis,OR,97333-4607,"(541) 758-2077",brewpub,
+"Block 15 Brewery & Tap Room","3415 SW Deschutes St.",,Corvallis,OR,97333-9283,"(541) 752-2337",brewpub,http://www.block15.com
+"Boneyard Beer Co","63067 Plateau Dr",,Bend,OR,97701-3789,"(541) 323-2325",regional,http://www.boneyardbeer.com
+"Boring Brewing Co","PO Box 569",,Boring,OR,97009-0569,"(503) 427-8619",micro,http://www.boringbrewing.com
+"Breakside Brewery","820 NE Dekum St",,Portland,OR,97211-3630,"(503) 719-6475",brewpub,http://www.breakside.com
+"Breakside Brewery & Taproom","5821 SE International Way",,Milwaukie,OR,97222-4633,"(503) 719-6475",micro,http://www.breakside.com
+"Brewers Union Local 180","PO Box 739",,Oakridge,OR,97463-0739,"(541) 782-2024",brewpub,http://www.brewersunion.com
+"Brewery In Planning - Bend",,,Bend,OR,97702-2783,,planning,
+"Brewery In Planning - Carlton",,,Carlton,OR,97111-9514,,planning,
+"Brewery in Planning - Coburg",,,"Coburg ",OR,97408,"(707) 570-9593",planning,
+"Brewery In Planning - Corvallis",,,Corvallis,OR,97330,,planning,
+"Brewery In Planning - Eugene",,"Eugene, OR",,,,,planning,
+"Brewery in Planning - eugene",,,eugene,OR,97301,,planning,
+"Brewery In Planning - Molalla",,,Molalla,OR,97038,,planning,
+"Brewery In Planning - Portland",,,Portland,OR,97202,,planning,
+"Brewery In Planning - Portland",,"Portland, OR",,,,,planning,
+"Brewery In Planning - Portland",,,Portland,OR,97214-4800,,planning,
+"Brewery In Planning - Portland",,,Portland,OR,97213,,planning,
+"Brewery in Planning - Portland",,,Portland,OR,97214,,planning,
+"Brewery In Planning - Portland",,,Portland,OR,97206,,planning,
+"Brewery In Planning - Salem",,,Salem,OR,97306,,planning,
+"Brewery In Planning - Warren OR",,,Warren,OR,97053-9766,,planning,
+"Brewery In Planning- Bend, OR.",,,Bend,OR,97701-8514,,planning,
+"Brewery In Planning- Portland, OR.",,"Portland, OR",,,,,planning,
+"Brewery In Planning- Tualatin, OR.",,,Tualatin,OR,97062-6857,,planning,
+"Bricktowne Brewing Co","111 E 8th St",,Medford,OR,97501-7201,"(541) 973-2377",brewpub,http://www.bricktownebeer.com
+"Bridge 99 Brewery","61123 Tapadera St",,Bend,OR,97702-2672,"(541) 280-1690",micro,
+"BridgePort Brewing Co","1318 NW Northrup St",,Portland,OR,97209-2808,"(503) 241-7179",regional,http://www.bridgeportbrew.com
+"BTU Brasserie","5846 NE Sandy Blvd",,Portland,OR,97213,,brewpub,
+"Buckman Botanical Brewery / Green Dragon","909 SE Yamhill St",,Portland,OR,97214-2533,"(503) 241-3800",micro,http://www.buckmanbrewing.com
+Bunsenbrewer,"16506 362nd St",,Sandy,OR,97055-9279,"(503) 308-3150",brewpub,http://www.bunsenbrewer.com
+"Buoy Beer Company","1 Eighth St",,Astoria,OR,97103-4200,"(503) 325-4540",brewpub,http://www.buoybeer.com
+"Burnside Brewing Co","701 E Burnside St",,Portland,OR,97214-1218,"(503) 208-3476",micro,http://www.burnsidebrewco.com
+"Calapooia Brewing Co / Siletz Ales","140 NE Hill St",,Albany,OR,97321-3002,"(541) 928-1931",micro,http://www.calapooiabrewing.com
+"Caldera Brewing Co","590 Clover Ln",,Ashland,OR,97520-3709,"(541) 482-4677",micro,http://www.calderabrewing.com
+"Captured by Porches Brewing Co","40 Cowlitz St # B",,"Saint Helens",OR,97051-2603,"(503) 757-8359",micro,http://www.capturedbyporches.com
+"Cascade Brewing / Raccoon Lodge and Brewpub","7424 SW Beaverton Hillsdale Hwy",,Portland,OR,97225-2149,"(503) 296-0110",brewpub,http://www.cascadebrewing.com
+"Cascade Lakes Brewing Co","2141 SW 1st St",,Redmond,OR,97756-7131,"(541) 923-3110",micro,http://www.cascadelakes.com
+"CFD, LLC.",,,Portland,OR,97214,"(503) 718-2337",planning,http://www.wayfinder.beer
+"Chatoe Rogue Farmstead Brewery","3590 Wigrich Rd",,Independence,OR,97351-9708,"(503) 838-9813",micro,http://www.rogue.com
+"Chehalem Valley Brewery","2515 Portland Rd Ste B",,Newberg,OR,97132-1940,"(971) 832-8131",brewpub,http://www.chehalemvalleybrewery.com
+"Chetco Brewing Company","16883 Yellow Brick Rd",,Brookings,OR,97415,"(541) 661-5347",brewpub,http://www.chetcobrew.com
+"Claim 52 Brewing","1030 Tyinn St Ste 1",,Eugene,OR,97402-6933,"(541) 554-6786",micro,
+"Climate City Brewing Co.","509 SW G St",,"Grants Pass",OR,97526-2472,,brewpub,http://www.climatecitybrewing.com
+"Coalition Brewing Co","2705 SE Ankeny St Suite C",,Portland,OR,97214-1818,"(503) 894-8080",brewpub,http://www.coalitionbrewing.com
+"Cold Fire Brewing","263 Mill Street",,Eugene,OR,97401-2410,,micro,http://www.hughesbrothersbrewing.com
+"Columbia County Brewing","164 S 15th St",,"Saint Helens",OR,97051-1702,"(503) 896-7776",brewpub,http://www.coulumbiacountybrewing.com
+"Columbia River Brewing Co","1728 NE 40th Ave",,Portland,OR,97212-5306,"(503) 943-6157",micro,http://www.columbiariverbrewpub.com
+"Commons Brewery, The","630 SE Belmont St",,Portland,OR,97214-2372,"(503) 819-0758",micro,http://www.commonsbrewery.com
+"Conner Fields Brewing","121 SW H St",,"Grants Pass",OR,97526-2505,,micro,http://www.connerfields.com
+"Conversion Brewing","833 S Main St.",,Lebanon,OR,97355-3211,,brewpub,http://www.conversionbrewingcompany.com
+"Covalent Brewing",,,Portland,OR,97239-1956,,planning,
+"Craft Brew Alliance","929 N Russell St",,Portland,OR,97227-1733,"(503) 281-2437",regional,http://www.widmer.com
+"Craft Brew Alliance - Widmer Rose Garden","1 N Center Court St",,Portland,OR,97227-2102,"(503) 232-5343",brewpub,http://www.widmer.com
+"Craft Kitchen and Brewery","803 SW Industrial Way # 202",,Bend,OR,97702,"(541) 647-2772",brewpub,http://www.craftkitchenandbrewery.com
+"Crux Fermentation Project","50 SW Division St",,Bend,OR,97702-1600,"(541) 388-7558",micro,http://www.cruxfermentation.com
+"Culmination Brewing Co",,"Portland, OR",,,,,contract,
+"De Garde Brewing","6000 Blimp Blvd Ste A",,Tillamook,OR,97141-8043,"(541) 301-8109",micro,
+"Deception Brewing Company","1174 SW Highway 99W",,Dundee,OR,97115,,brewpub,http://www.deceptionbrewingco.com
+"Defiance Brewery",,,"The Dalles",OR,97058-2424,,planning,http://www.defiancebrewery.com
+"Deluxe Brewing Co","635 Water Ave NE Ste B",,Albany,OR,97321-2764,"(541) 639-4257",micro,http://www.deluxebrewing.com
+"Deschutes Brewery","901 SW Simpson Ave",,Bend,OR,97702-3118,"(541) 385-8606",regional,http://www.deschutesbrewery.com
+"Deschutes Brewery & Public House","1044 NW Bond St",,Bend,OR,97701-2002,"(541) 382-9242",brewpub,http://www.deschutesbrewery.com
+"Deschutes Brewery & Public House","210 NW 11th Ave",,Portland,OR,97209-2929,"(503) 296-4906",brewpub,http://www.deschutesbrewery.com
+"Dirt Road Brewing Company",,,Corvallis,OR,97330,"(541) 598-4221",planning,
+"Doppelganger Brewing Inc.",,,McMinnville,OR,97128,"(503) 835-5322",planning,http://www.doppelgangerbrewinginc.com
+"Double Mountain Brewery","8 4th St Ste 204",,"Hood River",OR,97031-2123,"(541) 387-0042",micro,http://www.doublemountainbrewery.com
+"Dragon's Gate Brewery","52288 Sunquist Rd",,"Milton Freewater",OR,97862-6856,"(541) 215-2622",micro,http://www.dragonsgatebrewery.com
+"Draper Brewing","7752 Highway 42",,Tenmile,OR,97481-9755,,micro,http://www.draperbrewing.com
+"Drinking Horse Brewing Company","11517 SE Highway 212",,Clackamas,OR,97015-9053,"(503) 564-8165",micro,http://www.drinkinghorsebeer.com
+"Ecliptic Brewing","825 N Cook St",,Portland,OR,97227-1503,"(503) 265-8002",brewpub,http://www.eclipticbrewing.com
+"Elk Horn Brewery","686 E Broadway",,Eugene,OR,97401-3340,"(541) 505-8356",brewpub,http://www.elkhornbrewery.com
+"Ex Novo Brewing Co","2326 N Flint Ave",,Portland,OR,97227-1905,"(503) 894-8251",brewpub,http://www.exnovobrew.com
+"Falling Sky Brewing","30 E 13th Ave",,Eugene,OR,97401-3535,"(541) 505-7096",brewpub,http://www.fallingskybrewing.com
+"FAS Brewing",,,Troutdale,OR,97060,"(503) 729-5936",planning,
+"Fat Head's Brewery & Saloon","131 NW 13th Ave",,Portland,OR,97209-4110,"(440) 801-1001",brewpub,http://www.fatheadsportland.com
+"Fearless Brewing Co","PO Box 1883 326 S Broadway",,Estacada,OR,97023-1883,"(503) 630-2337",brewpub,http://www.fearless1.com/
+"Feckin Brewery","415 S McLoughlin Blvd",,"Oregon City",OR,97045-3101,"(503) 880-5608",micro,http://www.fecknbrew.com
+"Fire Mountain Brew House/Outlaw Brew House","10800 NW Rex Brown Rd",,Carlton,OR,97111,"(503) 852-7378",micro,http://www.firemountainbrewery.com
+"Fire On the Mountain Brewing Co","3443 NE 57th Ave",,Portland,OR,97213-3351,"(503) 894-8973",brewpub,http://www.portlandwings.com
+"Flat Tail Brewing Co","202 SW 1st St",,Corvallis,OR,97333-4727,"(541) 758-2229",brewpub,http://www.flattailcorvallis.com
+"FlyBoy Brewing","15630 Boones Ferry Rd Ste 1A",,"Lake Oswego",OR,97035-3455,"(503) 908-1281",micro,http://www.flyboybeer.com
+"Fort George Brewery","1483 Duane St",,Astoria,OR,97103-3819,"(503) 325-7468",micro,http://www.fortgeorgebrewery.com
+"Freebridge Brewing",,,"The Dalles",OR,97058,,planning,
+"Fresh Tracks Brewing Company","20750 High Desert Ln #107",,Bend,OR,97701,"(541) 383-2222",micro,http://www.freshtracksbrews.com
+"Full Sail Brewery - Riverplace","0307 SW Montgomery St",,Portland,OR,97201-5125,"(503) 222-5343",micro,http://www.fullsailbrewing.com
+"Full Sail Brewing Co","506 Columbia St",,"Hood River",OR,97031-2000,"(541) 386-2281",regional,http://www.fullsailbrewing.com
+"Gigantic Brewing Co","5224 SE 26th Ave",,Portland,OR,97202-4627,"(503) 208-3416",micro,http://www.giganticbrewing.com
+"Gilgamesh Brewing Co","2065 Madrona Ave SE",,Salem,OR,97302-1010,"(503) 385-1985",micro,http://www.gilgameshbrewing.com
+"Golden Valley Brewery and Pub","980 NE 4th St",,McMinnville,OR,97128-4308,"(503) 472-2739",brewpub,http://www.goldenvalleybrewery.com
+"GoodLife Brewing Company","70 SW Century Ave 100-464",,Bend,OR,97701,"(541) 306-8980",regional,http://www.goodlifebrewing.com
+"Grain Station Brew Works","755 NE Alpine Ave Ste 200",,McMinnville,OR,97128-4102,"(503) 687-2739",brewpub,http://www.grainstation.com
+"Great Notion Brewing","2204 NE Alberta #101",,Portland,OR,97211,,brewpub,http://greatnotionpdx.com/
+"Griess Family Brews, LLC","220 SW H St",,"Grants Pass",OR,97526-2508,"(541) 450-9090",micro,http://www.gfbrews.com
+"Groundbreaker Brewing","715 SE Lincoln St",,Portland,OR,97214-4600,"(503) 928-4195",micro,http://www.harvesterbrewing.com
+"Hair of the Dog Brewing Co","61 SE Yamhill St",,Portland,OR,97214-2134,"(503) 232-6585",micro,http://www.hairofthedog.com
+"Hard Knocks Brewing, LLC","1024 E Main St Ste 4",,"Cottage Grove",OR,97424-2230,"(541) 942-3631",brewpub,http://www.hardknocksbrewing.com
+"Heater Allen Brewery","907 NE 10th Ave",,McMinnville,OR,97128-4003,"(503) 472-4898",micro,http://www.%20heaterallen.com
+"Hermiston Brewing Co","125 N 1st St",,Hermiston,OR,97838-1850,"(541) 289-7415",brewpub,
+"High Gravity Brewing, LLC.",,,Portland,OR,97225,,planning,
+"Hondo's Brew and Cork Pub","2703 Marine Dr",,Astoria,OR,97103-2900,"(503) 325-2234",micro,http://www.hondosbrew.net
+"Hop Cycle Brewing Company",,,Banks,OR,97106-9030,"(503) 277-0997",planning,http://www.hopcyclebrewing.com
+"Hop Valley Brewing Co","990 W 1st Ave",,Eugene,OR,97402-4904,"(541) 485-2337",regional,http://www.hopvalleybrewing.com
+"Hop Valley Brewing Co","980 Kruse Way",,Springfield,OR,97477-1073,"(541) 744-3330",brewpub,http://www.hopvalleybrewing.com
+"Hopworks Urban Brewery","2944 SE Powell Blvd",,Portland,OR,97202-2054,"(503) 232-4677",micro,http://www.hopworksbeer.com
+"Humble Brewing","7419 N Hurst Ave",,Portland,OR,97203-4731,"(503) 753-5975",micro,http://www.humblebrewing.com
+"JD's Sports Pub and Brewery","690 Redwood Hwy",,"Grants Pass",OR,97527-5582,"(541) 471-0383",brewpub,http://www.jdssportsbarandbrewery.com
+"Juniper Brewing Company","1950 SW Badger Ave Ste 103",,Redmond,OR,97756-7490,"(541) 548-2739",micro,http://www.juniperbrewing.com
+"Kell's Brew Pub","210 NW 21st Ave",,Portland,OR,97209-1004,"(503) 227-5931",brewpub,http://www.kellsbrewpub.com
+"Klamath Basin Brewing Co","1320 Main St",,"Klamath Falls",OR,97601-5914,"(541) 273-5222",brewpub,http://www.kbbrewing.com
+"Krauski's Brewskis / The Hoppy Brewer","328 N Main Ave",,Gresham,OR,97030-7210,"(503) 328-8474",micro,http://www.oregonshoppyplace.com
+"Laurelwood Pizza Co","6716 SE Milwaukie Ave",,Portland,OR,97202-5618,"(503) 943-6157",brewpub,
+"Laurelwood Public House and Brewery - NE","5115 NE Sandy Blvd",,Portland,OR,97213-2525,"(503) 282-0622",micro,http://www.laurelwoodbrewpub.com
+"Leikam Brewing",,"Portland, OR",,,,"(503) 230-9636",micro,http://www.leikambrewing.com
+"Logsdon Farmhouse Ales","4785 Booth Hill Rd",,"Hood River",OR,97031-7411,"(541) 490-9161",micro,http://www.farmhousebeer.com
+"Lompoc Brewing, LLC/ The 5th Quadrant","3901 N Williams Ave Ste B",,Portland,OR,97227-1465,"(503) 288-3996",brewpub,http://www.newoldlompoc.com/5thquadranthome.html
+"Long Brewing LLC",,,Newberg,OR,97132,"(503) 349-8341",micro,http://www.longbrewing.com
+"Lucky Labrador Beer Hall","1945 NW Quimby St",,Portland,OR,97209-1712,"(503) 517-4352",brewpub,http://www.luckylab.com
+"Lucky Labrador Brewpub","915 SE Hawthorne Blvd",,Portland,OR,97214-3545,"(503) 236-3555",brewpub,http://www.luckylab.com
+"Mancave Brewing Company","540 Fillmore St",,Eugene,OR,97402,"(541) 632-3967",micro,http://www.mancavebrewingcompany.com
+"Max's Fanno Creek Brew Pub","12562 SW Main St",,Portland,OR,97223-6195,"(503) 624-9400",brewpub,http://www.maxsfannocreek.com
+"Mazama Brewing Co","33930 SE Eastgate Cir Unit A",,Corvallis,OR,97333-2272,"(541) 230-1810",micro,http://www.mazamabrewing.com
+"McKenzie Brewing Company","199 E 5th Ave",,Eugene,OR,97401-8715,"(541) 686-2739",brewpub,http://www.steelheadbrewery.com
+"McMenamins Concordia Brewery at Kennedy School","5736 NE 33rd Ave",,Portland,OR,97211-7302,"(503) 288-1937",brewpub,http://www.mcmenamins.com
+"McMenamins Cornelius Pass Roadhouse","4045 NW Cornelius Pass Rd",,Hillsboro,OR,97124-9367,"(503) 640-6174",brewpub,http://www.mcmenamins.com
+"McMenamins Crystal Ballroom Brewery","1332 W Burnside St",,Portland,OR,97209-2612,"(503) 778-5625",brewpub,http://www.mcmenamins.com
+"McMenamins Edgefield Brewery","2126 SW Halsey St",,Troutdale,OR,97060-1026,"(503) 667-4352",micro,http://www.mcmenamins.com
+"McMenamins Fulton Pub and Brewery","0618 SW Nebraska St",,Portland,OR,97239-3556,"(503) 246-4363",micro,http://www.mcmenamins.com
+"McMenamins High Street Brewery","1243 High St",,Eugene,OR,97401-3207,"(541) 345-4913",brewpub,http://www.mcmenamins.com
+"McMenamins Highland Pub and Brewery","4225 SE 182nd Ave",,Gresham,OR,97030-5082,"(503) 665-3015",brewpub,http://www.mcmenamins.com
+"McMenamins Hillsdale Brewery and Public House","1505 SW Sunset Blvd",,Portland,OR,97239-2625,"(503) 293-1753",micro,http://www.mcmenamins.com
+"McMenamins John Barleycorns","14610 SW Sequoia Pkwy",,Tigard,OR,97224-7185,"(503) 684-6253",brewpub,http://www.mcmenamins.com
+"McMenamins Lighthouse Brewery","4157 N Hwy 101, Ste 117",,"Lincoln City",OR,97367,"(541) 994-9628",brewpub,http://www.mcmenamins.com
+"McMenamins Oak Hills Brewery","14740 NW Cornell Rd Ste 80",,Portland,OR,97229-5400,"(503) 645-0117",micro,http://www.mcmenamins.com
+"McMenamins Old Church Brewery","30340 SW Boones Ferry Rd",,Wilsonville,OR,97070-6759,"(503) 427-2505",brewpub,http://www.mcmenamins.com/wilsonville
+"McMenamins Old St. Francis School","700 NW Bond St",,Bend,OR,97701-2702,"(541) 382-5174",brewpub,http://www.mcmenamins.com
+"McMenamins on Monroe","2001 NW Monroe Ave Ste 106",,Corvallis,OR,97330-5567,"(541) 758-0880",brewpub,
+"McMenamins Roseburg Station Brewery","700 SE Sheridan St",,Roseburg,OR,97470-3470,"(541) 672-1934",micro,http://www.mcmenamins.com
+"McMenamins Thompson Brewery","3575 Liberty Rd S",,Salem,OR,97302-5621,"(503) 371-2945",micro,http://www.mcmenamins.com
+"McMenamins West Linn Brewery","2090 8th Ave",,"West Linn",OR,97068-4612,"(503) 656-2935",micro,http://www.mcmenamins.com
+"Mia and Pias Pizzeria/Brewhouse","3545 Summers Ln",,"Klamath Falls",OR,97603-7411,"(541) 884-4880",brewpub,http://www.miapia.com
+"Migration Brewing Co","2828 NE Gilsan St",,Portland,OR,97232,"(503) 206-5221",brewpub,http://www.migrationbrewing.com
+"Misty Mountain Brewery","15440 Museum Rd Unit B",,Harbor,OR,97415,"(541) 813-2599",micro,
+"Monkless Belgian Ales","1178 NW Remarkable Dr",,Bend,OR,97701-5523,"(541) 610-5492",micro,
+"Montavilla Brew Works","7805 SE Stark St",,Portland,OR,97215,,micro,http://www.montavillabrew.com
+"Mount Hood Brewing Co","87304 E Government Camp Loop",,"Government Camp",OR,97028-0108,"(503) 272-3272",micro,http://www.iceaxegrill.com/mthoodbrewco.php
+"Mutiny Brewing Co","PO Box 883",,Joseph,OR,97846-0883,"(541) 432-5274",brewpub,http://www.mutinybrewing.blogspot.com
+"Natian Brewery","1321 NE Couch St",,Portland,OR,97232-3007,"(971) 678-7116",micro,http://www.natianbrewery.com
+"Ninkasi Brewing Co","155 Blair Blvd",,Eugene,OR,97402-4146,"(541) 344-2739",regional,http://www.ninkasibrewing.com
+"North Rim Brewing","20650 High Desert Ln Ste 7",,Bend,OR,97701-8514,"(541) 263-1144",micro,
+"Oakshire Brewing","1055 Madera St",,Eugene,OR,97402-2019,"(541) 688-4555",micro,http://www.oakbrew.com
+"Oblivion Brewing Co","63027 Plateau Dr Ste 4",,Bend,OR,97701-3855,"(541) 728-3509",micro,http://www.oblivionbrewingco.com
+"Occidental Brewing","6635 N Baltimore Ave Ste 100",,Portland,OR,97203-5465,"(503) 719-7102",micro,http://www.occidentalbrewing.com
+"Ochoco Brewing Co","234 N Main St",,Prineville,OR,97754-1852,"(541) 233-0883",micro,http://www.solsticebrewing.com
+"Old 99 Brewing Co","3750 Hooker Rd Suite A",,Roseburg,OR,97470-4501,"(541) 670-9260",micro,http://www.old99brewing.com
+"Old Market Pub and Brewery","6959 SW Multnomah Blvd",,Portland,OR,97223-3439,"(503) 244-0450",brewpub,http://www.drinkbeerhere.com
+"Old Town Brewing","5201 NE M L King Blvd",,Portland,OR,97211-3235,"(503) 200-5988",brewpub,http://www.oldtownpizza.com
+"Opposition Brewing Company","545 Rossanley Dr Ste 106",,Medford,OR,97501-1771,"(541) 210-8550",micro,http://www.oppositionbrewing.com
+"Ordnance Brewing","405 N Olson Rd",,Boardman,OR,97818-8100,"(541) 481-2231",micro,http://www.ordnancebrewing.com
+"Oregon City Brewing Company","1401 Washington St",,"Oregon City",OR,97045-1650,,micro,
+"Oregon Trail Brewery","341 SW 2nd St",,Corvallis,OR,97333-4640,"(541) 758-3527",micro,http://www.oregontrailbrewery.com
+"Pelican Brewing Company","PO Box 189",,"Pacific City",OR,97135-0189,"(503) 965-7007",brewpub,http://www.pelicanbrewery.com
+"Pelican Brewing Company","1708 1st St",,Tillamook,OR,97141,"(503) 965-7007",micro,
+"PFriem Family Brewers","707 Portway Ave Ste 101",,"Hood River",OR,97031-1218,"(541) 321-0490",micro,http://www.pfriembeer.com
+"PINTS Brewing Company and Urban Taproom","412 NW 5th Ave",,Portland,OR,97209-3816,"(503) 564-2739",brewpub,http://www.pintsbrewing.com
+"Plank Town Brewing","346 Main St",,Springfield,OR,97477-5362,"(541) 746-1890",brewpub,http://www.planktownbrewing.com
+"Plough Monday","25327 Jeans Rd",,Veneta,OR,97487-9644,"(541) 935-4004",micro,http://www.ploughmonday.com
+"Portal Brewing Co","100 E 6th St",,Medford,OR,97501-5902,"(541) 941-0240",brewpub,http://www.portalbrewingco.com
+"Portland U-Brew & Pub","6237 SE Milwaukie Ave",,Portland,OR,97202-5416,"(503) 943-2727",brewpub,http://www.portlandubrewandpub.com
+"Prodigal Son Brewery and Pub, The","230 SE Court Ave",,Pendleton,OR,97801-2349,"(541) 276-6090",brewpub,http://www.prodigalsonbrewery.com
+"Pyramid Brewery/North American Breweries","2730 NW 31st Ave",,Portland,OR,97210-1718,"(503) 226-7623",regional,http://www.portlandbrewing.com
+"RAM/Big Horn Brewery - Clackamas","9073 SE Sunnyside Rd",,Clackamas,OR,97015-9759,"(503) 659-1282",brewpub,
+"RAM/Big Horn Brewery - Salem","515 12th St SE",,Salem,OR,97301-4034,"(503) 363-1904",brewpub,http://www.theram.com
+"Rat Hole Brewing","17349 Harlquin Dr.",,Bend,OR,97707-2318,"(541) 389-2739",brewpub,
+"Red Ox Brewing","9795 SW Murdock St",,Portland,OR,97224-4731,"(503) 310-8033",micro,http://www.redoxbrewing.com
+"RiverBend Brewing Pub","2650 NE Division St",,Bend,OR,97701-3569,"(541) 550-7550",brewpub,http://www.riverbendbrewing.com
+"Rock Bottom Brewery - Portland","206 SW Morrison St",,Portland,OR,97204-3107,"(503) 796-2739",brewpub,http://www.rockbottom.com
+"Rogue Ales Brewery & Headquarters","2320 SE Osu Dr",,Newport,OR,97365-5261,"(541) 867-3660",regional,http://www.rogue.com
+"Rosenstadt Brewery LLC","4110 SE Hawthorne #735",,Portland,OR,97214-5246,,brewpub,http://www.rosenstadtbrewery.com
+"Rox Brewing Company",,,Medford,OR,97504,"(415) 793-3013",planning,http://www.roxbrewing.com
+"Royale Brewing Company","55 NE Farragut #6",,Portland,OR,97211,"(971) 279-5587",micro,http://www.royalebeer.com
+"Rudderless Brewing Company",,,Beaverton,OR,97008,,planning,
+"Ruse Brewing, LLC.",,"Portland, OR",,,,,micro,
+"Rusty Bucket Brewing","2019 Griffin Creek Rd",,Medford,OR,97501-4131,"(541) 840-5233",micro,http://www.rustybucketbrewing.com
+"Rusty Truck Brewing Company","4649 SW Highway 101",,"Lincoln City",OR,97367-1557,"(541) 994-7729",brewpub,http://www.rustytruckbrewing.com
+"Salem Ale Works","2027 25th St SE",,Salem,OR,97302-1130,"(503) 990-8486",micro,http://www.aleinsalem.com
+"Sam Bond's Brewing Co","540 E 8th Ave",,Eugene,OR,97401-3344,"(541) 246-8162",micro,http://www.sambondsbrewing.com
+"Santiam Brewing Co","2544 19th St SE",,Salem,OR,97302-1501,"(503) 559-0044",micro,http://www.santiambrewing.com
+"Sasquatch Brewery","6327 SW Capitol Hwy Ste C PMB 202",,Portland,OR,97239-1974,"(503) 679-1961",brewpub,http://www.sasquatchbrewery.com
+"Scout Brewing",,,Beaverton,OR,97007,,planning,
+"Seaside Brewery","851 Broadway St",,Seaside,OR,97138-6823,,brewpub,http://www.seasidebrewery.com
+"Seven Brides Brewery","PO Box 1118",,Silverton,OR,97381-0029,"(503) 874-4677",micro,http://www.sevenbridesbrewing.com
+"Shade Tree Brewing","580 Hemlock Ave NE Suite 106",,Redmond,OR,97756,"(541) 383-3730",micro,
+"Silver Falls Brewery","1103 Western Ave.",,Silverton,OR,97381,"(971) 227-8765",,http://www.silverfallsbrewery@gmail.com
+"Silver Moon Brewing & Taproom","24 NW Greenwood Ave",,Bend,OR,97701-2027,"(541) 388-8331",micro,http://www.silvermoonbrewing.com
+"Sky High Brewing","160 NW Jackson Ave",,Corvallis,OR,97330-4827,"(541) 207-3277",micro,http://www.skyhighbrewing.com
+"Smith Rock Brewing","546 NW 7th St",,Redmond,OR,97756-1628,"(541) 279-7005",brewpub,http://www.smithrockbrewing.com
+"Solera Brewery","4945 Baseline Dr",,"Mount Hood Parkdale",OR,97041-8703,"(541) 352-5500",micro,http://www.solerabrewery.com
+"Southern Oregon Brewing Co","1922 United Way",,Medford,OR,97504-4970,,micro,http://www.sobrewing.com
+"Splash Brewery","904 NW Couch St",,Portland,OR,97209,"(503) 893-5551",brewpub,http://www.splashbarpdx.com
+"Standing Stone Brewing Co","101 Oak St",,Ashland,OR,97520-1802,"(541) 482-2448",brewpub,http://www.standingstonebrewing.com
+"Steens Mountain Brewing Company","150 W Washington St",,Burns,OR,97720,"(541) 589-1159",micro,http://www.facebook.com/steens-mountain-brewing-company-443737905738875
+"Stickmen Brewery","40 N State St",,"Lake Oswego",OR,97034-3926,"(503) 344-4449",brewpub,http://www.stickmenbeer.com
+"StormBreaker Brewing","832 NE Beech St",,Portland,OR,97227,"(971) 703-4516",brewpub,http://www.stormbreakerbrewing.com
+"Sunriver Brewing","PO Box 3340",,Sunriver,OR,97707-0340,,micro,
+"Swing Tree Brewing Company","300 E Hersey St Ste 7",,Ashland,OR,97520-6200,"(541) 591-8584",micro,http://www.swingtreebrewing.com
+"Table Rock Brewing LLC",,,"Central Point",OR,97502-0060,,planning,
+"Tandem Brewing Co","298 S Oregon St",,Ontario,OR,97914-2810,"(541) 889-4166",brewpub,http://www.tandembrewing.com
+"Terminal Gravity Brewing Co","803 SE School St",,Enterprise,OR,97828-1674,,micro,http://www.terminalgravitybrewing.com
+"The Ale Apothecary","61517 River Rd",,Bend,OR,97701-5930,"(541) 408-1525",micro,http://www.thealeapothecary.com
+"The Labrewatory",,,Portland,OR,97227-1728,"(503) 236-4500",planning,http://www.thelabrewatory.com
+"The Viking Braggot Company","520 Commercial St Ste F",,Eugene,OR,97402-5347,"(541) 653-8371",micro,http://www.drinkviking.com
+"Three Creeks Brewing Co","721 Desperado Ct",,Sisters,OR,97759-9514,"(541) 549-1963",brewpub,http://www.threecreeksbrewing.com
+"Three Mugs Brewing Company","2020 NW Aloclek Dr Ste 108",,Hillsboro,OR,97124-8053,"(971) 322-0232",micro,http://www.threemugsbrewing.com
+"Thunder Island Brewing","515 NW Portage Rd",,"Cascade Locks",OR,97014-6699,"(971) 231-4599",micro,http://www.thunderislandbrewing.com
+"Tugboat Brewing Co.","711 SW Ankeny St",,Portland,OR,97205-3703,"(503) 226-2508",brewpub,http://www.d2m.com/tugwebsite/future.htm
+"Twisted Snout Brewery and Public House","318 S Main St",,Toledo,OR,97391-1544,"(541) 336-1833",brewpub,http://www.twistedsnout.com
+"Two Kilts Brewing","14841 SW Tualatin Sherwood Rd Ste 501",,Sherwood,OR,97140-7127,"(503) 625-1700",micro,http://www.twokiltsbrewing.com
+"Two-Shy Brewing","PO Box 1081 1308 NW Park St /",,Roseburg,OR,97470-0248,,micro,http://www.twoshybrewing.com
+"Upright Brewing Co","240 N Broadway St Ste 2",,Portland,OR,97227-1880,,micro,http://www.uprightbrewing.com
+"Uptown Market Brewing","6620 SW Scholls Ferry Rd",,Beaverton,OR,97223-7166,"(503) 336-4783",micro,http://www.uptownmarketpdx.com
+"Vagabond Brewing","2195 Hyacinth St NE STE 172",,Salem,OR,97301-3115,"(503) 512-9007",micro,http://www.vagabondbrewing.com
+"Vanguard Brewing Company","27501 SW 95th Ave",,Wilsonville,OR,97070-2905,,micro,http://www.vanguardbrewing.com
+"Vertigo Brewing","21420 NW Nicholas Ct # SUITE # D-7",,Hillsboro,OR,97124-6633,"(503) 645-6644",micro,http://www.vertigobrew.com
+"Walkabout Brewing Co","5204 Dobrot Way",,"Central Point",OR,97502-1612,"(541) 664-7763",micro,
+"Waltz Brewing","1900 A St",,"Forest Grove",OR,97116,"(503) 896-6057",micro,
+"Washington Street Steakhouse",,,dallas,OR,97338,"(503) 559-5440",planning,http://www.washingtonststeakhouse.com
+"Wet Dog Cafe & Brewery","144 11th St",,Astoria,OR,97103-4104,"(503) 325-6975",brewpub,
+"Wild Ride Brewing","332 SW 5th St",,Redmond,OR,97756-2103,"(541) 516-8544",micro,http://www.wildridebrew.com
+"Wild River Brewing and Pizza Co","249 N Redwood Hwy",,"Cave Junction",OR,97523-9023,"(541) 592-3556",brewpub,http://www.wildriverbrewing.com
+"Wild River Brewing and Pizza Co - Grants Pass","595 NE E St",,"Grants Pass",OR,97526-2356,"(541) 471-7487",brewpub,http://www.wildriverbrewing.com
+"Wolf Tree Brewery","199 N Wolkau Rd",,"Seal Rock",OR,97376,"(541) 961-2030",micro,
+"Wolves & People Farmhouse Brewery",,,Newberg,OR,97132-6910,,planning,
+"Worthy Brewing Company","495 NE Bellevue Dr",,Bend,OR,97701-7412,"(541) 639-4772",micro,http://www.worthybrewing.com
+"Yachats Brewing","348 Highway 101 North",,Yachats,OR,97498,,micro,http://www.yachatsbrewing.com
+"Zymurgy Craft Co.",,,Portland,OR,97217-8282,,planning,

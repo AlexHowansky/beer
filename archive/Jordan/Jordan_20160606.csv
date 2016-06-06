@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Arab Breweries Co., Ltd.","PO Box 168-182001",,,,,large,
-"General Investment Co., Ltd.","Abujaber Building Prince Mohammed St,PO Box 312",,,,,large,
+name,address1,address2,city,state,zip,phone,type,url
+"Arab Breweries Co., Ltd.","PO Box 168-182001","Amman, Jordan",,,,,large,
+"General Investment Co., Ltd.","Abujaber Building Prince Mohammed St,PO Box 312","Amman, Jordan",,,,,large,

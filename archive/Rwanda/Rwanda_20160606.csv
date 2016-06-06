@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Brasseries Et Limonaderies","Malteries Du Zaire BP 21",,,,227,regional,
-"Brasseries Et Limonaderies Du","Rwanda BP 1331",,,,,large,
+name,address1,address2,city,state,zip,phone,type,url
+"Brasseries Et Limonaderies","Malteries Du Zaire BP 21","Boma, Rwanda",,,,227,regional,
+"Brasseries Et Limonaderies Du","Rwanda BP 1331","Kigali, Rwanda",,,,,large,

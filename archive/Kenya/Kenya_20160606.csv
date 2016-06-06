@@ -1,6 +1,6 @@
-name,address,city,state,zip,phone,type,url
-"Castle Brewing Kenya Limited","PO Box 1761-01000",,,,9254-151-22-650,,
-"East African Breweries Ltd.","PO Box 30161",,,,,large,
-"KBL Kenya Breweries Ltd","Tusker House PO Box 301 61",,,,80-27-01,regional,
-"Kenya Breweries Ltd.","PO Box 30161",,,,,large,
-"Kisumu Brewery","PO Box 1412",,,,42421,regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Castle Brewing Kenya Limited","PO Box 1761-01000","Thika, Kenya",,,,9254-151-22-650,,
+"East African Breweries Ltd.","PO Box 30161","Nairobi, Kenya",,,,,large,
+"KBL Kenya Breweries Ltd","Tusker House PO Box 301 61","Nairobi, Kenya",,,,80-27-01,regional,
+"Kenya Breweries Ltd.","PO Box 30161","Nairobi, Kenya",,,,,large,
+"Kisumu Brewery","PO Box 1412","Kisumu, Kenya",,,,42421,regional,

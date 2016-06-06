@@ -1,9 +1,9 @@
-name,address,city,state,zip,phone,type,url
-"Brewery De Koninck N.V.","Mechelsesteenweg 281",,,,,,
-"Brweery Duvel Moortgat","Breendonkdorp 58",,,,,,
-"Likerovodochnij Zavod","Revolujzionnaja 45",,,,"641 31",regional,
-"Objedinenie Pivprom","Trollejbusnaja 17",,,,565071,regional,
-"Pivovarennij Bugulma","Fabritschnaja 7 Tatarskaja",,,,,regional,
-"Pivovarennij Zavod","Lljinskogo 25a",,,,"653 93",regional,
-"Zavod Bezalkogolnich Napitkov","Parnikovaja 2a",,,,641773,regional,
-"Zavok Shampanskich Vin","Radianlnaja 50",,,,463118,regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery De Koninck N.V.","Mechelsesteenweg 281","Antwerpen, Belarus",,,,,,
+"Brweery Duvel Moortgat","Breendonkdorp 58","Puurs, Belarus",,,,,,
+"Likerovodochnij Zavod","Revolujzionnaja 45","Vitebsk, Belarus",,,,"641 31",regional,
+"Objedinenie Pivprom","Trollejbusnaja 17","Gomelj, Belarus",,,,565071,regional,
+"Pivovarennij Bugulma","Fabritschnaja 7 Tatarskaja","Bugulma, Belarus",,,,,regional,
+"Pivovarennij Zavod","Lljinskogo 25a","Vitebsk, Belarus",,,,"653 93",regional,
+"Zavod Bezalkogolnich Napitkov","Parnikovaja 2a","Minsk, Belarus",,,,641773,regional,
+"Zavok Shampanskich Vin","Radianlnaja 50","Minsk, Belarus",,,,463118,regional,

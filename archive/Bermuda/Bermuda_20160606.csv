@@ -1,4 +1,4 @@
-name,address,city,state,zip,phone,type,url
-"Bermuda Brewing Co","17 Industrial Park Rd",,,,"(441) 238-5793",micro,
-"Dockyard Brewing Co Ltd","PO Box HM 462 Suite 302, 54 Reid St",,,,"(441) 295-3648",brewpub,
-"North Rock Brewing Co","10 South Road",,,,"(441) 236-6633",brewpub,http://www.bermudashorts.bm/northrock
+name,address1,address2,city,state,zip,phone,type,url
+"Bermuda Brewing Co","17 Industrial Park Rd","Southhampton, Bermuda",,,,"(441) 238-5793",micro,
+"Dockyard Brewing Co Ltd","PO Box HM 462 Suite 302, 54 Reid St","Hamilton, Bermuda",,,,"(441) 295-3648",brewpub,
+"North Rock Brewing Co","10 South Road","Smiths Parish, Bermuda",,,,"(441) 236-6633",brewpub,http://www.bermudashorts.bm/northrock

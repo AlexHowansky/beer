@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Zambia Breweries","P. O. Box 31293",,,,246555/244501,regional,
-"Zikomo Brewing Co Ltd","PO Box 31730",,,,"(260) 126-2810",,
+name,address1,address2,city,state,zip,phone,type,url
+"Zambia Breweries","P. O. Box 31293","Lusaka, Zambia",,,,246555/244501,regional,
+"Zikomo Brewing Co Ltd","PO Box 31730","Lusaka, Zambia",,,,"(260) 126-2810",,

@@ -1,4 +1,4 @@
-name,address,city,state,zip,phone,type,url
-"Brasserie Du Corsaire","ZAC Houelbourg Voie Verte",,,,"+590 2672 28",regional,
-"La Brasseurs de Guadeloupe","291 A Route de la Grippiere",,,,"+ 590 (0)5 90 38 39 59",micro,
-Sagba,"ZI De Jerry/97122 Baie Mahault",,,,,large,
+name,address1,address2,city,state,zip,phone,type,url
+"Brasserie Du Corsaire","ZAC Houelbourg Voie Verte","F-97122 BAIE-MAHAULT, Guadeloupe",,,,"+590 2672 28",regional,
+"La Brasseurs de Guadeloupe","291 A Route de la Grippiere","Petit-Bourg, Guadeloupe",,,,"+ 590 (0)5 90 38 39 59",micro,
+Sagba,"ZI De Jerry/97122 Baie Mahault",", Guadeloupe",,,,,large,

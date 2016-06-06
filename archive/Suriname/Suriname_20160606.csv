@@ -1,2 +1,2 @@
-name,address,city,state,zip,phone,type,url
-"Surinaamse Brouwerij Nv","PO Box 1854",,,,79955,large,
+name,address1,address2,city,state,zip,phone,type,url
+"Surinaamse Brouwerij Nv","PO Box 1854","Paramaribo, Suriname",,,,79955,large,

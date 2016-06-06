@@ -1,3 +1,3 @@
-name,address,city,state,zip,phone,type,url
-"Bar Le Terminal","104 Rue Ernest Deproge 97200 Fort-de-france",,,,,,
-"Brasserie Lorraine","Quartier Union",,,,+596-511-955,large,http://www.brasserielorraine.com
+name,address1,address2,city,state,zip,phone,type,url
+"Bar Le Terminal","104 Rue Ernest Deproge 97200 Fort-de-france","Martinique, Martinique",,,,,,
+"Brasserie Lorraine","Quartier Union","97232 Le Lamentin, Martinique",,,,+596-511-955,large,http://www.brasserielorraine.com

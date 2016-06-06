@@ -1,2 +1,2 @@
-name,address,city,state,zip,phone,type,url
-"Belize Brewing Co","PO Box 1068 1 King St",,,,"(501) 227-7031",large,
+name,address1,address2,city,state,zip,phone,type,url
+"Belize Brewing Co","PO Box 1068 1 King St","Belize City, Belize",,,,"(501) 227-7031",large,

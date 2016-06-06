@@ -1,2 +1,2 @@
-name,address,city,state,zip,phone,type,url
-"Monrovia Breweries Inc","PO Box 437 100 Monrovia 10",,,,874-76-254-56-10,,
+name,address1,address2,city,state,zip,phone,type,url
+"Monrovia Breweries Inc","PO Box 437 100 Monrovia 10",", Liberia",,,,874-76-254-56-10,,

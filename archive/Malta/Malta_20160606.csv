@@ -1,4 +1,4 @@
-name,address,city,state,zip,phone,type,url
-"LBM Breweries Ltd.","Triq l-Iljun",,,,,,
-"Simonds Farsons Cisk plc/The Brewery","Notabile Road",,,,"+356 4811 4114",large,http://www.farsons.com
-"Trans World Enterprises","37 Valletta Rd",,,,"+356 80 93 02",,
+name,address1,address2,city,state,zip,phone,type,url
+"LBM Breweries Ltd.","Triq l-Iljun","Qormi, Malta",,,,,,
+"Simonds Farsons Cisk plc/The Brewery","Notabile Road","Mriehel, Malta",,,,"+356 4811 4114",large,http://www.farsons.com
+"Trans World Enterprises","37 Valletta Rd","Luqa, Malta",,,,"+356 80 93 02",,

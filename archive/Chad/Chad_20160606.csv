@@ -1,2 +1,2 @@
-name,address,city,state,zip,phone,type,url
-"Brasseries De Logone","P. O. Box 170",,,,,large,
+name,address1,address2,city,state,zip,phone,type,url
+"Brasseries De Logone","P. O. Box 170","Moundou, Chad",,,,,large,

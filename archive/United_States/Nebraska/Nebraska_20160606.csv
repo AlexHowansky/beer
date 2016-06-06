@@ -1,52 +1,52 @@
-name,address,city,state,zip,phone,type,url
-"Aletheia Beer Company",,Omaha,NE,68116,,planning,
-Arms,,Omaha,NE,68131,"(712) 490-3415",planning,http://www.armsandammobrewing.com
-"Beaver View Brew Co","2558 Salebarn Rd",Albion,NE,68620-5102,"(402) 741-9080",micro,
-"Benson Brewery","6059 Maple St",Omaha,NE,68104-4050,"(402) 934-8668",brewpub,http://www.bensonbrewery.com
-"Blue Blood Brewing Company","500 W South St Ste 8",Lincoln,NE,68522-1744,"(402) 477-2337",micro,http://www.bluebloodbrewing.com
-"Boiler Brewing Company","129 N 10th Street, Suite 8",Lincoln,NE,68508-3633,"(402) 261-8775",micro,http://www.boilerbrewingcompany.com
-"Bolo Beer Co","112 N Main St",Valentine,NE,69201,,micro,http://www.bolobeer.com
-"Bottle Rocket Brewing Co","230 S. 5th St",Seward,NE,68434-2520,"(402) 304-5673",micro,http://www.bottlerocketbrewing.com
-"Brewery In Planning - Bellevue",,Bellevue,NE,68005,"(402) 293-7999",planning,
-"Brewery In Planning - Firth",,Firth,NE,68358-6234,,planning,
-"Brewery In Planning - Hastings",,Hastings,NE,68901,,planning,http://www.firststreetbrewing.com
-"Brewery in Planning - Lincoln",,Lincoln,NE,68510,"(404) 953-3996",planning,
-"Brewery in Planning - Omaha",,Omaha,NE,68132,"(402) 305-4435",planning,
-"Brewery in Planning - Omaha",,"Omaha ",NE,68104,,planning,
-"Brewery In Planning - Omaha",,Omaha,NE,68102,,planning,
-"Brickway Brewery and Distillery","1116 Jackson St",Omaha,NE,68102-2825,"(402) 933-2613",micro,http://www.drinkbrickway.com
-"Broken Arrow Cellars","73892 332 Ave",Imperial,NE,69033-3034,"(308) 882-7772",brewpub,
-"Brush Creek Brewing Company",,Atkinson,NE,68713,,planning,
-"Empyrean Brewing Co","729 Q St",Lincoln,NE,68508-1331,"(402) 434-5960",micro,http://www.empyreanbrewingco.com
-"Fairfield Opera House Brewery & Grill","415 N D St.",Fairfield,NE,68938-2114,"(402) 726-2447",brewpub,http://www.fairfield-opera-house.com
-"Farnam House Brewing Company","3558 Farnam St",Omaha,NE,68131-3304,"(402) 293-3985",brewpub,http://www.farnamhousebrewing.com
-"Gottberg Brew Pub","2804 13th St",Columbus,NE,68601-4919,"(402) 562-6488",brewpub,http://www.dustersrestaurant.com
-"Granite City Food & Brewery (#16)","1001 N 102nd St",Omaha,NE,68114-2155,"(402) 393-5000",brewpub,http://www.gcfb.net
-"Granite City Food & Brewery (#7)","6150 O St",Lincoln,NE,68510-2240,"(402) 466-1900",brewpub,http://www.gcfb.net
-"Infusion Brewing Company","6115 Maple St",Omaha,NE,68104-4043,,micro,http://www.infusionbrewing.com
-"Jaipur Restaurant and Brewpub","10922 Elm St",Omaha,NE,68144-4822,"(402) 392-7331",brewpub,http://www.jaipurbrewhouse.com
-"JGR Enterprises Inc",,Omaha,NE,68135-6215,"(402) 861-0174",planning,
-"Jukes Ale Works LLC",,Elkhorn,NE,68022,"(402) 339-2200",planning,
-"Kinkaider Brewing Co","43860 Paulsen Rd.","Broken Bow",NE,68822-7120,"(308) 872-8348",micro,http://www.kinkaiderbrewing.com
-"Kros Strain Brewing Company",,Bennington,NE,68007,,planning,http://www.krosstrainbrewing.com
-"Lazlo's Brewery & Grill - Haymarket","210 N 7th St",Lincoln,NE,68508-1301,"(402) 434-5636",brewpub,
-"Lazy Horse Brewing","211 Road 20",Ohiowa,NE,68416,"(402) 314-5266",brewpub,http://lazyhorsebrewing.com
-"Loop Brewing Co","404 W A St","Mc Cook",NE,69001-3516,"(308) 345-5198",brewpub,http://www.loopbrewingcompany.com
-"Lucky Bucket Brewing Co","11941 Centennial Rd Ste 1","La Vista",NE,68128-5623,"(402) 763-8868",micro,http://www.luckybucketbrewing.com
-"Midwest Hop Producers LLC",,Plattsmouth,NE,68048-7233,"(402) 296-0633",planning,http://www.midwesthopproducers.com
-"Mistys Steakhouse & Brewery / Modern Monk Brewery","200 N 11th St",Lincoln,NE,68508-1451,"(402) 476-7766",brewpub,http://www.mistyslincoln.com
-"Nebraska Brewing Co","Shadow Lake Towne Center 7474 Towne Ctr Pkwy, Suite 101",Papillion,NE,68046-4805,"(402) 934-7100",brewpub,http://www.nebraskabrewingco.com
-"Nebraska Brewing Co","6946 S 108th St","La Vista",NE,68128-5701,"(402) 934-0950",micro,http://www.nebraskabrewingco.com
-"Nehawka Brewing Company","417 Elm",Nehawka,NE,68413,"(402) 968-1942",micro,
-"Ploughshare Brewing Co","1630 P St",Lincoln,NE,68508-1644,"(402) 318-1689",brewpub,http://www.ploughsharebrewing.com
-"SchillingBridge Winery & Microbrewery","62193 710th Rd","Pawnee City",NE,68420-3584,"(402) 852-2400",micro,http://www.schillingbridgewinery.com
-"Scratchtown Brewing Company","141 S 16th St",Ord,NE,68862-1415,"(308) 728-5050",micro,http://www.scratchtownbrewingcompany.com
-"Scriptown Brewing Company","3922 Farnam Street Blackstone District",Omaha,NE,68131-3014,"(402) 991-0506",micro,http://www.scriptownbrewing.com
-"Soaring Wings Brewing","17111 S 138th St",Springfield,NE,68059-4810,"(402) 253-2479",micro,http://www.soaringwingswine.com
-"Spilker Ales","PO Box 11 300 W 4th St",Cortland,NE,68331-0011,"(402) 798-7445",micro,http://www.spilkerales.com
-"The Brewery At Divots","4200 W. Norfolk Ave",Norfolk,NE,68701,"(402) 844-2980",brewpub,http://www.divotsconference.com
-"Thunderhead Brewing Co","18 E 21st St",Kearney,NE,68847-5402,"(308) 237-1558",brewpub,http://www.thunderheadbrewing.com
-"Thunderhead Brewing Co (#2) / Chicken Coop","120 E 3rd St","Grand Island",NE,68801-5910,"(308) 398-2500",brewpub,http://www.thunderheadbrewing.com
-"Upstream Brewing Co (#1)","514 S 11th St",Omaha,NE,68102-2808,"(402) 344-0200",brewpub,http://www.upstreambrewing.com
-"Upstream Brewing Co (#2)","17070 Wright Plz",Omaha,NE,68130-2083,"(402) 778-0100",brewpub,http://www.upstreambrewing.com
-"Zipline Brewing Co","2100 Magnum Cir Ste 1",Lincoln,NE,68522-1027,"(402) 475-1001",micro,http://www.ziplinebrewing.com
+name,address1,address2,city,state,zip,phone,type,url
+"Aletheia Beer Company",,,Omaha,NE,68116,,planning,
+Arms,,,Omaha,NE,68131,"(712) 490-3415",planning,http://www.armsandammobrewing.com
+"Beaver View Brew Co","2558 Salebarn Rd",,Albion,NE,68620-5102,"(402) 741-9080",micro,
+"Benson Brewery","6059 Maple St",,Omaha,NE,68104-4050,"(402) 934-8668",brewpub,http://www.bensonbrewery.com
+"Blue Blood Brewing Company","500 W South St Ste 8",,Lincoln,NE,68522-1744,"(402) 477-2337",micro,http://www.bluebloodbrewing.com
+"Boiler Brewing Company","129 N 10th Street, Suite 8",,Lincoln,NE,68508-3633,"(402) 261-8775",micro,http://www.boilerbrewingcompany.com
+"Bolo Beer Co","112 N Main St",,Valentine,NE,69201,,micro,http://www.bolobeer.com
+"Bottle Rocket Brewing Co","230 S. 5th St",,Seward,NE,68434-2520,"(402) 304-5673",micro,http://www.bottlerocketbrewing.com
+"Brewery In Planning - Bellevue",,,Bellevue,NE,68005,"(402) 293-7999",planning,
+"Brewery In Planning - Firth",,,Firth,NE,68358-6234,,planning,
+"Brewery In Planning - Hastings",,,Hastings,NE,68901,,planning,http://www.firststreetbrewing.com
+"Brewery in Planning - Lincoln",,,Lincoln,NE,68510,"(404) 953-3996",planning,
+"Brewery in Planning - Omaha",,,Omaha,NE,68132,"(402) 305-4435",planning,
+"Brewery in Planning - Omaha",,,"Omaha ",NE,68104,,planning,
+"Brewery In Planning - Omaha",,,Omaha,NE,68102,,planning,
+"Brickway Brewery and Distillery","1116 Jackson St",,Omaha,NE,68102-2825,"(402) 933-2613",micro,http://www.drinkbrickway.com
+"Broken Arrow Cellars","73892 332 Ave",,Imperial,NE,69033-3034,"(308) 882-7772",brewpub,
+"Brush Creek Brewing Company",,,Atkinson,NE,68713,,planning,
+"Empyrean Brewing Co","729 Q St",,Lincoln,NE,68508-1331,"(402) 434-5960",micro,http://www.empyreanbrewingco.com
+"Fairfield Opera House Brewery & Grill","415 N D St.",,Fairfield,NE,68938-2114,"(402) 726-2447",brewpub,http://www.fairfield-opera-house.com
+"Farnam House Brewing Company","3558 Farnam St",,Omaha,NE,68131-3304,"(402) 293-3985",brewpub,http://www.farnamhousebrewing.com
+"Gottberg Brew Pub","2804 13th St",,Columbus,NE,68601-4919,"(402) 562-6488",brewpub,http://www.dustersrestaurant.com
+"Granite City Food & Brewery (#16)","1001 N 102nd St",,Omaha,NE,68114-2155,"(402) 393-5000",brewpub,http://www.gcfb.net
+"Granite City Food & Brewery (#7)","6150 O St",,Lincoln,NE,68510-2240,"(402) 466-1900",brewpub,http://www.gcfb.net
+"Infusion Brewing Company","6115 Maple St",,Omaha,NE,68104-4043,,micro,http://www.infusionbrewing.com
+"Jaipur Restaurant and Brewpub","10922 Elm St",,Omaha,NE,68144-4822,"(402) 392-7331",brewpub,http://www.jaipurbrewhouse.com
+"JGR Enterprises Inc",,,Omaha,NE,68135-6215,"(402) 861-0174",planning,
+"Jukes Ale Works LLC",,,Elkhorn,NE,68022,"(402) 339-2200",planning,
+"Kinkaider Brewing Co","43860 Paulsen Rd.",,"Broken Bow",NE,68822-7120,"(308) 872-8348",micro,http://www.kinkaiderbrewing.com
+"Kros Strain Brewing Company",,,Bennington,NE,68007,,planning,http://www.krosstrainbrewing.com
+"Lazlo's Brewery & Grill - Haymarket","210 N 7th St",,Lincoln,NE,68508-1301,"(402) 434-5636",brewpub,
+"Lazy Horse Brewing","211 Road 20",,Ohiowa,NE,68416,"(402) 314-5266",brewpub,http://lazyhorsebrewing.com
+"Loop Brewing Co","404 W A St",,"Mc Cook",NE,69001-3516,"(308) 345-5198",brewpub,http://www.loopbrewingcompany.com
+"Lucky Bucket Brewing Co","11941 Centennial Rd Ste 1",,"La Vista",NE,68128-5623,"(402) 763-8868",micro,http://www.luckybucketbrewing.com
+"Midwest Hop Producers LLC",,,Plattsmouth,NE,68048-7233,"(402) 296-0633",planning,http://www.midwesthopproducers.com
+"Mistys Steakhouse & Brewery / Modern Monk Brewery","200 N 11th St",,Lincoln,NE,68508-1451,"(402) 476-7766",brewpub,http://www.mistyslincoln.com
+"Nebraska Brewing Co","Shadow Lake Towne Center 7474 Towne Ctr Pkwy, Suite 101",,Papillion,NE,68046-4805,"(402) 934-7100",brewpub,http://www.nebraskabrewingco.com
+"Nebraska Brewing Co","6946 S 108th St",,"La Vista",NE,68128-5701,"(402) 934-0950",micro,http://www.nebraskabrewingco.com
+"Nehawka Brewing Company","417 Elm",,Nehawka,NE,68413,"(402) 968-1942",micro,
+"Ploughshare Brewing Co","1630 P St",,Lincoln,NE,68508-1644,"(402) 318-1689",brewpub,http://www.ploughsharebrewing.com
+"SchillingBridge Winery & Microbrewery","62193 710th Rd",,"Pawnee City",NE,68420-3584,"(402) 852-2400",micro,http://www.schillingbridgewinery.com
+"Scratchtown Brewing Company","141 S 16th St",,Ord,NE,68862-1415,"(308) 728-5050",micro,http://www.scratchtownbrewingcompany.com
+"Scriptown Brewing Company","3922 Farnam Street Blackstone District",,Omaha,NE,68131-3014,"(402) 991-0506",micro,http://www.scriptownbrewing.com
+"Soaring Wings Brewing","17111 S 138th St",,Springfield,NE,68059-4810,"(402) 253-2479",micro,http://www.soaringwingswine.com
+"Spilker Ales","PO Box 11 300 W 4th St",,Cortland,NE,68331-0011,"(402) 798-7445",micro,http://www.spilkerales.com
+"The Brewery At Divots","4200 W. Norfolk Ave",,Norfolk,NE,68701,"(402) 844-2980",brewpub,http://www.divotsconference.com
+"Thunderhead Brewing Co","18 E 21st St",,Kearney,NE,68847-5402,"(308) 237-1558",brewpub,http://www.thunderheadbrewing.com
+"Thunderhead Brewing Co (#2) / Chicken Coop","120 E 3rd St",,"Grand Island",NE,68801-5910,"(308) 398-2500",brewpub,http://www.thunderheadbrewing.com
+"Upstream Brewing Co (#1)","514 S 11th St",,Omaha,NE,68102-2808,"(402) 344-0200",brewpub,http://www.upstreambrewing.com
+"Upstream Brewing Co (#2)","17070 Wright Plz",,Omaha,NE,68130-2083,"(402) 778-0100",brewpub,http://www.upstreambrewing.com
+"Zipline Brewing Co","2100 Magnum Cir Ste 1",,Lincoln,NE,68522-1027,"(402) 475-1001",micro,http://www.ziplinebrewing.com

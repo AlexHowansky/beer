@@ -1,10 +1,10 @@
-name,address,city,state,zip,phone,type,url
-"Asia Pacific Brewery Co Ltd, The","111 Moo 2 Bangbauthong-Suphanburi Rd",,,,,,http://www.heinekenthai.com
-"Beer Thai (1991) Co Ltd","15 SangSom Bldg. Viphavadi-Rangsit Rd",,,,"2 272 2051",regional,
-"Boon Rawd Brewery Co., Ltd.","999 Samsen Road, Dusit, PO Box 907",,,,"(662) 669-2050",large,http://www.boonrawd.co.th
-"Boonrawd Trading Co (Singha Beer)","1003 Samsen Rd",,,,,,
-"Carlsberg Brewery Thailand Co., Ltd.","77 Moo 1 Phaholyothin Rd, K.M. 54 Amphur Wang Noi",,,,"+66 35 28 70 804",large,
-"Full Moon Brew Work","193 Unit #2110 2210 Raj-u-thit 200 Pee Road",,,,"076 366 753",brewpub,http://www.fullmoonbrewwork.com
-"Kronenbrauhaus-Hotel Sofitel Raja Orchid","9/9 Prachasumran Rd Nai Muang",,,,,,http://www.sofitelkhonkaen.com
-"Micro-Brew Asia Co., Ltd.","Unit A, 23rd Floor, SM Tower 979/61 Phayathai Rd",,,,"(662) 298-0848",,
-"Thai Amarit Brewery Ltd.","3726/24 Liab Mae-nam Rd Rama III",,,,"(662) 587-0121",regional,
+name,address1,address2,city,state,zip,phone,type,url
+"Asia Pacific Brewery Co Ltd, The","111 Moo 2 Bangbauthong-Suphanburi Rd","Nonthaburi, Thailand",,,,,,http://www.heinekenthai.com
+"Beer Thai (1991) Co Ltd","15 SangSom Bldg. Viphavadi-Rangsit Rd","Chatujak, Bangkok, Thailand",,,,"2 272 2051",regional,
+"Boon Rawd Brewery Co., Ltd.","999 Samsen Road, Dusit, PO Box 907","Bangkok, Thailand",,,,"(662) 669-2050",large,http://www.boonrawd.co.th
+"Boonrawd Trading Co (Singha Beer)","1003 Samsen Rd","Bangkok, Thailand",,,,,,
+"Carlsberg Brewery Thailand Co., Ltd.","77 Moo 1 Phaholyothin Rd, K.M. 54 Amphur Wang Noi","Ayutthaya 13170, Thailand",,,,"+66 35 28 70 804",large,
+"Full Moon Brew Work","193 Unit #2110 2210 Raj-u-thit 200 Pee Road","Phuket, Thailand",,,,"076 366 753",brewpub,http://www.fullmoonbrewwork.com
+"Kronenbrauhaus-Hotel Sofitel Raja Orchid","9/9 Prachasumran Rd Nai Muang","Muang Khon Kaen, Thailand",,,,,,http://www.sofitelkhonkaen.com
+"Micro-Brew Asia Co., Ltd.","Unit A, 23rd Floor, SM Tower 979/61 Phayathai Rd","Bangkok, Thailand",,,,"(662) 298-0848",,
+"Thai Amarit Brewery Ltd.","3726/24 Liab Mae-nam Rd Rama III","Bangkok 10 800, Thailand",,,,"(662) 587-0121",regional,
