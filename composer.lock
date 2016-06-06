@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "99c2ff58cea21d3854b209ecab6936cf",
+    "content-hash": "7f29cdc76797f57105467626ec5c92b0",
+    "packages": [
+        {
+            "name": "ork/base",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AlexHowansky/ork-base.git",
+                "reference": "0dfc89dd09789336883753195f1695efa0abf310"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AlexHowansky/ork-base/zipball/0dfc89dd09789336883753195f1695efa0abf310",
+                "reference": "0dfc89dd09789336883753195f1695efa0abf310",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": ">=1.5",
+                "ork/phpcs": ">=1.0",
+                "phpunit/phpunit": ">=4.6"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ork\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Howansky",
+                    "email": "alex.howansky@gmail.com",
+                    "homepage": "https://github.com/AlexHowansky"
+                }
+            ],
+            "description": "A PHP utility library used by Ork packages.",
+            "homepage": "http://github.com/AlexHowansky/ork-base",
+            "time": "2015-06-29 16:20:42"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

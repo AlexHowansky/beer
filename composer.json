@@ -1,0 +1,17 @@
+{
+    "name": "ork/beer",
+    "type": "library",
+    "description": "Mmmm, beer.",
+    "homepage": "http://github.com/AlexHowansky/beer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Howansky",
+            "email": "alex.howansky@gmail.com",
+            "homepage": "https://github.com/AlexHowansky"
+        }
+    ],
+    "require": {
+        "ork/base": "*"
+    }
+}
