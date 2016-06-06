@@ -4,8 +4,7 @@
 // Scans the latest CSV for each state, and makes one big CSV,
 // excluding breweries where type=planning or address is missing.
 // If you provide command line parameters, they'll be taken as
-// regexes to match state names against. (Google Maps allows
-// only 2000 points per map.)
+// states to include. (Google Maps allows only 2000 points per map.)
 
 require_once __DIR__ . '/vendor/autoload.php';
 
@@ -13,7 +12,7 @@ $out = new \Ork\Csv\Writer([
     'file' => 'gmap.csv'
 ]);
 
-$patterns = array_slice($argv, 1);
+$states = array_map(function($s) { return str_replace(' ', '_', ucwords(strtolower($s))); }, array_slice($argv, 1));
 
 foreach (scandir(__DIR__ . '/archive/United_States', SCANDIR_SORT_ASCENDING) as $state) {
 
@@ -21,18 +20,7 @@ foreach (scandir(__DIR__ . '/archive/United_States', SCANDIR_SORT_ASCENDING) as 
         continue;
     }
 
-    if (empty($patterns) === true) {
-        $include = true;
-    } else {
-        $include = false;
-        foreach ($patterns as $pattern) {
-            if (preg_match('/' . $pattern. '/i', $state) > 0) {
-                $include = true;
-                break;
-            }
-        }
-    }
-    if ($include === false) {
+    if (empty($states) === false && in_array($state, $states) === false) {
         continue;
     }
 
