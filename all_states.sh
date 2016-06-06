@@ -3,6 +3,6 @@
 while read STATE
 do
     echo -n "$STATE... "
-    ./beer.sh "$STATE"
+    ./state.sh "$STATE"
     echo done
 done < states
