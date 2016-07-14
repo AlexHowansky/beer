@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "99c2ff58cea21d3854b209ecab6936cf",
-    "content-hash": "7f29cdc76797f57105467626ec5c92b0",
+    "hash": "bb4a74bc7921dc901fc170fb3edf305f",
+    "content-hash": "6faf074efbb2fd9d1b0c3bc31642f65c",
     "packages": [
         {
             "name": "ork/base",
@@ -57,6 +57,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-tidy": "*"
+    },
     "platform-dev": []
 }
