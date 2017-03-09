@@ -1,0 +1,56 @@
+name,address1,address2,city,state,zip,phone,type,url
+"23rd Street Brewery","3512 Clinton Pkwy",,Lawrence,KS,66047-2145,"(785) 856-2337",brewpub,http://www.brew23.com
+"Aero Plains Brewing","117 N Handley St",,Wichita,KS,67203-6114,"(316) 448-2811",micro,http://www.aeroplainsbrewing.com
+"Blind Tiger Brewery & Restaurant","417 SW 37th St",,Topeka,KS,66611-2354,"(785) 267-2739",brewpub,http://www.blindtiger.com
+"Blue Skye Brewery & Eats","116 N Santa Fe Ave",,Salina,KS,67401-2614,"(785) 404-2159",brewpub,http://www.blueskyebrewery.com
+"Brew Lab","8004 Foster St",,"Overland Park",KS,66204-3613,"(913) 400-2343",micro,http://www.brewlabkc.com
+"Brewery in Planning - Altoona",,,Altoona,KS,66710,,planning,
+"Brewery in Planning - Burlington",,,Burlington,KS,66839-1134,"(785) 633-2062",planning,
+"Brewery in Planning - Hutchinson",,,Hutchinson,KS,67501-7419,"(316) 650-4256",planning,
+"Brewery In Planning - Hutchinson",,,Hutchinson,KS,67502,,planning,
+"Brewery in Planning - Olathe",,,Olathe,KS,66061-9091,"(913) 530-5972",planning,
+"Brewery In Planning - Shawnee Mission",,,"Shawnee Mission",KS,66203,,planning,
+"Brewery In Planning - Tecumseh","830 N Kansas Ave",,Topeka,KS,66608-1211,"(785) 783-3999",micro,http://www.norsemenbrewingco.com
+"Brewery in Planning - Wellington",,,Wellington,KS,67152-3949,"(620) 440-7379",planning,
+"Brewery in Planning - Wichita",,,Wichita,KS,67212-5831,"(316) 204-5226",planning,http://www.augustinobrew.com
+"Brewery In Planning - Wichita",,,Wichita,KS,67206,,planning,
+"Brewery In Planning- Shawnee",,,"Shawnee Mission",KS,66216,,planning,
+"Central Standard Brewing","156 S Greenwood St",,Wichita,KS,67211-1815,"(316) 260-8515",micro,http://www.drinkcsb.com
+"Defiance Brewing Co.","2050 E US Highway 40",,Hays,KS,67601-9310,"(785) 301-2337",micro,http://www.defiancebeer.com
+"Dodge City Brewing",,,"Dodge City",KS,67801-2714,"(620) 338-7247",planning,http://www.dodgecitybrewing.com
+"Fields & Ivy Brewing Company, LLC",,,Olathe,KS,66061-7464,"(913) 671-0349",planning,
+"Flint Hills Brewing",,,Topeka,KS,66604-1916,,planning,
+"Free State Brewing Co","636 Massachusetts St",,Lawrence,KS,66044-2236,"(785) 843-4555",brewpub,http://www.freestatebrewing.com
+"Free State Brewing Co - Production","1923 Moodie Rd",,Lawrence,KS,66046-3167,,micro,
+"Gella's Diner & Liquid Bread Brewing Co","117 E 11th St",,Hays,KS,67601-3603,"(785) 621-2739",brewpub,http://www.lbbrewing.com
+"Granite City Food & Brewery (#12)","1701 Village West Pkwy",,"Kansas City",KS,66111-1879,"(913) 334-2255",brewpub,http://www.gcfb.net
+"Granite City Food & Brewery (#13)","15085 W 119th St",,Olathe,KS,66062-9628,"(913) 829-6060",brewpub,http://www.gcfb.net
+"Granite City Food & Brewery (#14)","2661 Noth Maize",,"West Wichita",KS,67205,"(316) 721-8500",brewpub,http://www.gcfb.net
+"Granite City Food & Brewery (#9)","2244 N Webb Rd",,Wichita,KS,67226-8102,"(316) 636-5050",brewpub,http://www.gcfb.net
+"Grinder’s High Noon","206 Choctaw St",,Leavenworth,KS,66048-2821,"(913) 682-4876",brewpub,http://www.thehighnoon.com
+"Hank Is Wiser Brewery","213 N Main St PO Box 400",,Cheney,KS,67025-9730,"(316) 542-0113",brewpub,http://www.hankiswiserbrewery.com
+"Happy Basset Brewing Company","6044 SW 29th St",,Topeka,KS,66614-4268,"(785) 783-3688",micro,http://www.happybassetbrewingco.com
+"Hopping Gnome Brewing Company","1710 E Douglas Ave",,Wichita,KS,67214-4212,,micro,http://www.hoppinggnome.com
+"Kansas City Breweries Company","12650 S Pflumm Rd Ste 202",,Olathe,KS,66062-3895,"(816) 301-6313",proprietor,http://www.kclite.com
+"Kansas Territory Brewing","310 C St",,Washington,KS,66968-1909,"(785) 325-3300",micro,
+"Lawrence Beer Company",,,Lawrence,KS,66049-2155,"(785) 331-6966",planning,
+"Limestone Beer Co.",,,Wichita,KS,67203,"(316) 371-0283",planning,http://www.limestonebeerco.com
+"Limitless Brewing",,,"Overland Park",KS,66204-3746,"(913) 526-3258",planning,http://www.limitlessbrewing.com
+"Little Apple Brewing Co","1110 Westloop Pl",,Manhattan,KS,66502-2838,"(785) 539-5500",brewpub,http://www.littleapplebrewery.com
+"Norsemen Brewing Company","830 N Kansas Ave",,Topeka,KS,66608-1211,"(785) 783-3999",micro,http://www.norsemenbreiwngco.com
+"Radius Brewing Company","610 Merchant St",,Emporia,KS,66801-2859,"(620) 481-7389",brewpub,http://radiusbrewing.com
+"River City Brewing Co","150 N Mosley St",,Wichita,KS,67202-2804,"(316) 263-2739",brewpub,http://rivercitybrewingco.com
+"Shawnee Mission Brewing",,,Shawnee,KS,66203-2244,,planning,
+"Six Sixty Six Brewing Co.",,"Topeka, KS",,,,"(785) 224-5170",planning,http://www.666brew.com
+"Stingray Brewing",,,Leavenworth,KS,66048-7328,"(910) 988-9648",planning,
+"Tallgrass Brewing Co","5960 Dry Hop Cir",,Manhattan,KS,66503-9815,"(785) 537-1131",regional,http://www.tallgrassbeer.com
+"Tallgrass Taphouse Co","320 Poyntz Ave",,Manhattan,KS,66502-6038,"(785) 320-2933",brewpub,http://www.tallgrasstaphouse.com
+"The Jolly Fox Brewery",,,Pittsburg,KS,66762,,planning,
+"Third Place Brewing","630 E Douglas Ave Ste 150",,Wichita,KS,67202-3537,"(316) 393-6608",micro,
+"Three Rings Brewery","536 South Old Highway 81",,McPherson,KS,67401-6026,"(620) 504-5022",micro,
+"Walnut River Brewing Company","111 W Locust Ave",,"El Dorado",KS,67042-3513,"(316) 351-8086",micro,http://www.walnutriverbrewing.com
+"White Baer Brewing Company",,,Topeka,KS,66608-2044,"(785) 969-4228",planning,http://www.whitebaerbrewing.com
+"Wichita Brewing Co & Pizzeria","535 N Woodlawn St",,Wichita,KS,67208-3668,"(316) 440-4885",brewpub,http://www.wichitabrew.com
+"Wichita Brewing Co & Pizzeria","8815 W 13th St N Ste 100",,Wichita,KS,67212-4072,"(316) 210-1641",brewpub,http://www.wichitabrew.com
+"Wichita Brewing Co Production, LLC","727 E Osie St",,Wichita,KS,67211-4327,,micro,
+"Willcott Brewing Company",,,Holton,KS,66436,,planning,

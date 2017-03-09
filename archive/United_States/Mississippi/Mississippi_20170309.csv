@@ -1,0 +1,16 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Biloxi Brewing Co","186 Bohn St",,Biloxi,MS,39530-3812,,contract,
+"Bishop Bottom Brewing Company.",,,Iuka,MS,38852-8183,"(662) 660-4897",planning,
+"Chandeleur Brewing Company","2711 14th St",,Gulfport,MS,39501-1928,"(228) 701-9985",micro,http://www.chandeleurbrew.com
+"Crooked Letter Brewing Co","1805 Government St",,"Ocean Springs",MS,39564-3942,,micro,http://www.crookedletterbrewing.com
+"Lazy Magnolia Brewing Co, LLC","PO Box 1476",,Kiln,MS,39556-1476,,regional,
+"Lucky Town Brewing Co","1710 N Mill St",,Jackson,MS,39202-1536,"(601) 790-0142",micro,http://www.luckytownbrewing.com
+"Mayhew Junction Brewing Company","106 Eckford Dr",,Starkville,MS,39759-3710,"(662) 546-0510",micro,http://www.mayhewjunction.com
+"Mighty Miss Brewing Co.",,,Greenville,MS,38701-,"(217) 372-0445",planning,http://www.mightymissbeer.com
+"Mississippi Brewing Company","13247D Seaway Rd",,Gulfport,MS,39503-,"(228) 323-1336",contract,http://www.mississippibrewingcompany.com
+"Natchez Brewing Co","207 High St",,Natchez,MS,39120-3222,"(828) 713-5311",micro,http://www.natchezbrew.com
+"Oxford Brewing",,"Winona, MS",,,,,contract,
+"Slowboat Brewing Company","318 W 5th St",,Laurel,MS,39440-3461,"(601) 433-2723",micro,http://www.slowboatbrewco.com
+"Southern Prohibition Brewing","301 Mobile St",,Hattiesburg,MS,39401-3406,"(601) 467-1057",micro,http://www.soprobrewing.com
+"The Gluckstadt Brewing Company",,,Madison,MS,39110-9066,"(601) 856-8439",planning,http://www.gluckstadtbrewing.com
+"Yalobusha Brewing Company","102 S Main St",,"Water Valley",MS,38965-2906,"(855) 925-6273",micro,http://www.yalobrew.com

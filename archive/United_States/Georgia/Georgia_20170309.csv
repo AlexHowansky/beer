@@ -1,0 +1,112 @@
+name,address1,address2,city,state,zip,phone,type,url
+"5 Seasons Brewing Co - North","3655 Old Milton Pkwy",,Alpharetta,GA,30005-4487,"(770) 521-5551",brewpub,http://www.5seasonsbrewing.com
+"5 Seasons Brewing Co - Prado","5600 Roswell Rd",,"Sandy Springs",GA,30342-1150,"(404) 255-5911",brewpub,http://www.5seasonsbrewing.com
+"5 Seasons Brewing Co - Westside","1000 Marietta St NW Ste 204",,Atlanta,GA,30318-0683,"(404) 875-3232",brewpub,http://www.5seasonsbrewing.com
+"Abbey of the Holy Goats","4000 Northfield Way Ste 800",,Roswell,GA,30076-4980,"(470) 282-1444",brewpub,http://www.abbeyoftheholygoats.com
+"Abide Brewing Company","130 Werz Industrial Blvd",,Newnan,GA,30263-5802,"(678) 972-6747",micro,http://www.abidebrewing.com
+"Anheuser-Busch Inc – Cartersville","100 Busch Dr NE",,Cartersville,GA,30121-7217,"(770) 386-2000",large,
+"Arches Brewing","3361 Dogwood Dr",,Hapeville,GA,30354-1439,"(678) 653-2739",micro,http://www.archesbrewing.com
+"Beer Republic Brewing",,,Roswell,GA,30076-3295,"(678) 778-0212",planning,http://www.beerrepublicbrewing.com
+"Big O Brewery",,,Canton,GA,30114-5889,"(404) 644-2718",planning,
+"Black Rock Brews",,,Athens,GA,30606,,planning,
+"BlueTarp Brewing Co","731 E College Ave",,Decatur,GA,30030-5365,"(404) 669-6740",micro,http://www.bluetarpbrew.com
+"Brewery in Planning - Atlanta1",,,Roswell,GA,30076-2264,,planning,
+"Brewery in Planning - Augusta",,,Augusta,GA,30909-2307,"(918) 315-1442",planning,
+"Brewery in Planning - Braselton",,,Braselton,GA,30517-5052,"(706) 870-1458",planning,
+"Brewery in Planning - Buford",,,Buford,GA,30515-0568,"(707) 338-3654",planning,
+"Brewery In Planning - Cochran",,,Cochran,GA,31014,,planning,
+"Brewery in Planning - Cumming",,,Cumming,GA,30028,,planning,
+"Brewery in Planning - Kennesaw",,,Kennesaw,GA,30144-5002,,planning,
+"Brewery In Planning - Lilburn",,,Lilburn,GA,30047-7029,,planning,
+"Brewery in Planning - Marietta",,,Marietta,GA,30068-4868,,planning,
+"Brewery in Planning - peachtree city",,,"peachtree city",GA,30269,,planning,
+"Brewery in Planning - peachtree city",,,"Peachtree City",GA,30269-4020,,planning,
+"Brewery in Planning - peachtree city",,,"peachtree city",GA,30269,,planning,
+"Brewery in Planning - Rome",,,Rome,GA,30161-3005,,planning,
+"Brewery in Planning - Roswell",,,Alpharetta,GA,30022-4032,,planning,
+"Brewery in Planning - Sandy Springs",,,"Sandy Springs",GA,30350-1114,"(678) 602-2626",planning,
+"Brewery in Planning - Sugar Hill",,,"Sugar Hill",GA,30518-6729,"(770) 654-8619",planning,
+"Brewery in Planning - Suwanee",,,Suwanee,GA,30024-4515,"(678) 689-8355",planning,
+"Brewery In Planning Suwanee",,,Suwanee,GA,30024-7325,,planning,
+"Brother's Keeper Brewing Company, LLC",,,White,GA,30184-2892,"(404) 919-7907",planning,http://www.brotherskeeperbrewing.com
+"Burnt Hickory Brewery","2260 Moon Station Ct NW Ste 210",,Kennesaw,GA,30144-5653,"(770) 514-8812",micro,http://www.burnthickorybrewery.com
+"Cannon Brewpub","1041 Broadway",,Columbus,GA,31901-5256,"(706) 653-2337",brewpub,
+"Chattabrewchee Southern Brewhouse",,,"West Point",GA,31833-1506,,planning,
+"Coastal Empire Beer Co","79 Ross Rd",,Savannah,GA,31405-1660,"(912) 428-7911",micro,http://www.coastalempirebeer.com
+"Copper Creek Brewing Company","140 E Washington St PO Box 8111",,Athens,GA,30601-2747,"(706) 546-1102",brewpub,http://www.classiccitybrew.com/burntstone.html
+"Craft Beverage Concepts",,,Lagrange,GA,30240-4504,"(678) 914-4619",planning,http://www.wildleap.com
+"Creature Comforts Brewing Co.","271 W Hancock Ave",,Athens,GA,30601-2727,"(706) 410-1043",micro,http://www.creaturecomfortsbeer.com
+Delete.,"1922 Harrison Park Dr",,Atlanta,GA,30341-4845,"(704) 929-3821",proprietor,http://pontoonbrewing.com
+"Dockside Brewery",,"Savannah, GA",,,,,planning,http://www.docksidebrewery.com
+"Dry County Brewing Company","1500 Lockhart Drive",,kennesaw,GA,30144,"(404) 579-9846",micro,http://www.drycountybrewco.com
+"Eagle Creek Brewing Company","106 Savannah Ave Ste B",,Statesboro,GA,30458-7162,"(912) 489-2337",micro,http://www.eaglecreekbrewingco.com
+"Elbow Bend Brewing, LLC",,,"Sandy Springs",GA,30358-1153,"(404) 396-5686",planning,http://elbowbend.com
+EuroBevs,"2255 Cumberland Pkwy SE",,Atlanta,GA,30339-4515,"(770) 437-1285",contract,http://www.eurobevs.com
+"Eventide Brewing Co","1015 Grant St SE",,Atlanta,GA,30315-2014,"(404) 907-4543",micro,http://www.eventidebrewing.com
+"Fannin Brewing","3758 East 1st St",,"Blue Ridge",GA,30513,"(706) 258-2762",micro,http://www.fanninbrewingcompany.com
+"Gate City Brewing Company","43 Magnolia St",,Roswell,GA,30075-4289,,proprietor,http://www.gatecitybrewingco.com
+"Georgia Beer Co",,,Valdosta,GA,31601-9017,"(912) 399-5883",planning,http://www.georgiabeerco.com
+"Good Word Brewing",,,Duluth,GA,30096,"(404) 668-2525",planning,http://www.thegoodwordbrewing.com
+"Gordon Biersch Brewery Restaurant - Atlanta","3242 Peachtree Rd NE",,Atlanta,GA,30305-2425,"(404) 264-0253",brewpub,http://www.craftworksrestaurants.com
+"Gordon Biersch Brewery Restaurant - Midtown","848 Peachtree St NE",,Atlanta,GA,30308-1202,"(404) 870-0805",brewpub,http://www.gordonbiersch.com/restaurants
+"Greater Good",,,Atlanta,GA,30341-4715,,planning,
+"GRITS Brewing",,,Chamblee,GA,30341-2024,,planning,
+"Grumpy Old Men Brewing","1315 E Main St",,"Blue Ridge",GA,30513-8506,"(770) 331-8870",micro,http://www.grumpyoldmenbrewing.com
+"Hop Alley Brew Pub","25 S Main St",,Alpharetta,GA,30009-1965,"(770) 696-2097",brewpub,http://www.hopalleybrew.com
+Hopstix,,,Chamblee,GA,30341-2444,"(404) 409-0086",planning,http://www.hopstix.com
+"Ironmonger Brewing","2129 Northwest Pkwy SE Ste 105",,Marietta,GA,30067-9223,"(678) 742-8551",micro,http://www.ironmongerbrewing.com
+"Ironwood Creek",,,Evans,GA,30809-8239,,planning,
+"Jailhouse Brewing Co","14 Cherry St",,Hampton,GA,30228-5575,"(404) 729-7681",micro,http://www.jailhousebrewing.com
+"Jekyll Brewing","2855 Marconi Dr Ste 350",,Alpharetta,GA,30005-2051,"(770) 596-8788",micro,http://www.jekyllbrewing.com
+"Left Nut Brewing Co","2100 Atlanta Highway",,Gainesville,GA,30504-7168,,micro,http://www.leftnutbreiwng.com
+"Liberty Brewing Company",,,Brunswick,GA,31520-,"(912) 266-2303",planning,
+"Macon Beer Company","345 Oglethorpe St",,Macon,GA,31201-3274,"(415) 295-2337",micro,http://www.maconbeercompany.com
+"Max Lager's Wood Fired Grill & Brewery","320 Peachtree St NE",,Atlanta,GA,30308-3210,"(404) 525-4400",brewpub,http://www.maxlagers.com
+"MAZURT Brewing Company",,"Atlanta, GA",,,,,contract,http://www.mazurt.com
+"MillerCoors Brewing Co - Albany","405 Cordele Rd",,Albany,GA,31705-2109,,large,
+"Monday Night Brewing","670 Trabert Ave NW",,Atlanta,GA,30318-4230,"(404) 352-7703",micro,http://www.mondaynightbrewing.com
+"Monkey Wrench Brewing Company LLC",,,Snellville,GA,30078-6503,"(678) 521-2142",planning,http://www.monkeywrenchbrewing.com
+"Moon River Brewing Co","21 W Bay St",,Savannah,GA,31401-1106,"(912) 447-0943",brewpub,http://www.moonriverbrewing.com
+"Native Sons Brewing Co.",,,Columbus,GA,31901,,planning,
+"Normaltown Artisinal Beers",,,Decatur,GA,30033-4408,"(212) 731-9900",planning,http://www.normal.town
+"Ocmulgee Brewpub",,,Macon,GA,31201-2734,,planning,http://www.ocmulgeebrewpub.com
+"Oconee Brewing Company",,,Mcdonough,GA,30253,,planning,
+"O'Dempsey's Brewing Co","PO Box 28347",,Atlanta,GA,30358-0347,"(404) 845-0059",contract,http://www.odempseys.com
+"Omaha Brewing Company","265 Brew St",,Omaha,GA,31821-2258,"(229) 838-4779",micro,http://www.omahabrewingcompany.com
+"Orpheus Brewing","1440 Dutch Valley Pl NE",,Atlanta,GA,30324-5366,"(404) 394-6246",micro,http://www.orpheusbrewing.com
+"Park Tavern Brewery","500 10th St NE",,Atlanta,GA,30309-4272,"(404) 249-0001",brewpub,http://www.parktavern.com
+"Phantom Horse Brewing","56-A Fieldstone Village Dr",,"Rock Spring",GA,30739,"(423) 314-4978",brewpub,http://www.phantomhorsebrewing.com
+"Piedmont Brewery and Kitchen",,,Macon,GA,31201,"(478) 254-2337",planning,http://www.piedmontbrerwery.com
+"Pontoon Brewing Company","8601 Dunwoody Place Building 500 Suite 100",,Atlanta,GA,30350-2551,"(704) 929-3821",contract,http://www.pontoonbrewing.com
+"Pretoria Fields Brewery",,,Albany,GA,31701-2529,"(706) 202-2077",planning,
+"Printer's Ale Manufacturing Co.",,,Carrollton,GA,30117-8780,,planning,http://www.printers-ale.com
+"Red Brick Brewing Co / Atlanta Brewing Co","2323 Defoor Hills Rd NW",,Atlanta,GA,30318-2207,"(404) 355-5558",micro,http://www.atlantabrewing.com
+"Red Hare Brewing Co","1998 Delk Industrial Blvd SE",,Marietta,GA,30067-8904,"(770) 331-8763",micro,http://www.redharebrewing.com
+"Reformation Brewery","500 Arnold Mill Way Ste A",,Woodstock,GA,30188-6842,"(678) 341-0828",micro,http://www.reformationbrewery.com
+"Rick Tanner's Grille & Bar/Cherry Street Brewing Cooperative","5810 Bond St # E-2",,Cumming,GA,30040-0301,"(770) 205-5512",brewpub,http://www.rtanners.com
+"Riverwatch Brewery","1150 5th St Bldg 61",,Augusta,GA,30901-5861,"(706) 496-3263",micro,http://www.riverwatchbrewery.com
+"Savannah River Brewing Company",,,Augusta,GA,30901-1029,,planning,
+"Scofflaw Brewing Co","1738 Macarthur Blvd NW",,Atlanta,GA,30318-2022,"(404) 915-3392",micro,http://www.scofflawbeer.com
+"Second Self Brewing","1311 Logan Cir NW",,Atlanta,GA,30318-2858,"(678) 916-8035",micro,http://www.secondselfbeer.com
+"Service Brewing Company","574 Indian St",,Savannah,GA,31401-1121,"(845) 242-5355",micro,http://www.servicebrewing.com
+"Southbound Brewing Co","107 E Lathrop Ave",,Savannah,GA,31415-2182,,micro,http://www.southboundbrewingco.com
+"Southern Brewing Company","231 Collins Industrial Blvd",,Athens,GA,30601-1517,"(706) 548-7183",micro,http://www.sobrewco.com
+"Southern Sky Brewing Co","1590 N Roberts Rd NW Ste 208",,Kennesaw,GA,30144-3636,,micro,http://www.southernskybrewing.com
+"Standing Pitch Brewing Company",,,"Avondale Estates",GA,30002,"(770) 880-9757",planning,
+"Steady Hand Beer Co.",,"Atlanta, GA",,,,,planning,http://www.steadyhandbeer.com
+"Strawn Brewing Co","27 Word St",,Fairburn,GA,30213-1545,"(678) 545-3775",micro,http://www.strawnbrewing.com
+"SweetWater Brewing Co","195 Ottley Dr NE",,Atlanta,GA,30324-3924,"(404) 691-2537",regional,http://www.sweetwaterbrew.com
+"Terrapin Beer Co","265 Newton Bridge Rd",,Athens,GA,30607-1145,"(706) 549-3377",large,http://www.terrapinbeer.com
+"The Lost Druid",,,Atlanta,GA,30307-2758,,planning,
+"The Parish Brewpub",,,Marietta,GA,30060-1977,,planning,
+"The Split Batch Brewery",,,Buford,GA,30519-2236,"(404) 983-4303",planning,http://www.splitbatchbrewery.com
+"The Village Corner","6655 James B Rivers Dr",,"Stone Mountain",GA,30083-2232,"(770) 498-0329",brewpub,http://www.germanresturant.com
+"The Wrecking Bar Brewpub","292 Moreland Ave NE",,Atlanta,GA,30307-1953,"(404) 221-2600",brewpub,http://www.wreckingbarbrewpub.com
+"Three Taverns Craft Brewery","121 New St",,Decatur,GA,30030-4131,"(404) 600-3355",micro,http://www.threetavernsbrewery.com
+"Torched Hop Brewing","249 Ponce de Leon Ave NE",,Atlanta,GA,30308-1937,"(404) 835-2040",brewpub,http://www.torchedhopbrewing.com
+"Transformation Brewing Company",,,Kathleen,GA,31047-2170,"(478) 662-8766",planning,
+"Twain's Billiards and Tap","211 E Trinity Pl",,Decatur,GA,30030-3414,,brewpub,http://www.twains.net
+"Two Robert",,,Martinez,GA,30907-1619,,planning,
+"Variant Brewing Company",,,Roswell,GA,30075,,planning,
+"Wild Heaven Craft Beers","135B Maple St",,Decatur,GA,30030-3953,"(404) 997-8589",micro,http://www.wildheavencraftbeers.com
+"Yes Face Beer",,"Sun City Peachtree, GA",,,,"(404) 213-3867",contract,
