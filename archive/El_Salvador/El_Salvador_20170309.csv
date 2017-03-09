@@ -1,0 +1,7 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Bevco Ltd","Apartado Postal No. 12 Condominio Galerias II","San Salvador, El Salvador",,,,,,http://www.sabmiller.com
+"Cadejo Brewing Co.","Calle La Reforma #222","Zona Rosa, El Salvador",,,,,brewpub,
+"Cerveceria El Salvador",,"San Salvador, El Salvador",,,,"(203) 940-1883",planning,
+"Industrias a Constancia","Avenida Independenci #526","San Salvador, El Salvador",,,,"(503) 231-5156",,
+"Industrias La Constancia","Av. Independencia # 526","San Salvador, El Salvador",,,,"503 - 2231 5155",micro,
+"La Constancia","Apartado (06) 101 Avenida Independencia #526","San Salvador, El Salvador",,,,"(503) 271-0733",large,

@@ -1,0 +1,7 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Cerveceria Agelaner",,"Santiago, Dominican Republic",,,,,planning,
+"Cerveceria Bohemia Sa","Apartado 2470","Santo Domingo, Dominican Republic",,,,,large,
+"Cerveceria Nacional Dominicana","PO Box 1086","Santo Domingo, Dominican Republic",,,,"(809) 535-5555",large,
+"Cerveceria Vegana SA","Avenida General Juan Rodriguez Ap 128","La Vega, Dominican Republic",,,,"(809) 573-3151",large,
+"Coral Reef Brewing Co","Pedro L. Cedeno #174","Santo Domingo, Dominican Republic",,,,"(829) 962-7618",micro,http://www.coralreefbeer.com
+"Republica Brewing","Ave. Bolivar #41","Santo Domingo, Dominican Republic",,,,"(829) 986-9215",micro,
