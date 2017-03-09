@@ -23,10 +23,11 @@ function phone($value)
 $config = [
     'add-xml-decl' => true,
     'add-xml-space' => true,
-    'output-xml' => true,
     'indent' => true,
     'indent-cdata' => true,
     'indent-spaces' => 4,
+	'output-xml' => true,
+	'quote-nbsp' => false,
 ];
 
 $fp = fopen('php://stdout', 'w');
