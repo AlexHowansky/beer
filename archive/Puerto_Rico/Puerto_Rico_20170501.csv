@@ -1,0 +1,5 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery in Planning - San Juan",,"San Juan, Puerto Rico",,,,"(787) 925-3341",planning,
+"Cervecera De Puerto Rico","100 Boulevard Alfonso Valdes","Mayaguez, Puerto Rico",,,,"(787) 834-1000",,http://www.cerveceradepr.com
+"Cervezas del Sur","1129 Hostos Ave","Ponce, Puerto Rico",,,,,micro,http://www.cervezasdelsur.com
+"Companía Cervecera de Puerto Rico","PO Box 1690","Mayaguez, Puerto Rico",,,,"(787) 834-1000",regional,

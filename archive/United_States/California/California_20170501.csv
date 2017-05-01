@@ -1,0 +1,843 @@
+name,address1,address2,city,state,zip,phone,type,url
+"101 North Brewing Company","1304 Scott St Ste D",,Petaluma,CA,94954-7100,"(707) 778-8384",micro,http://www.101northbeer.com
+"2 Tread Brewing Co",,,"Santa Rosa",CA,95401-6399,"(415) 233-0857",planning,http://www.2treadbrewing.com
+"21st Amendment Brewery","2010 Williams St Unit A",,"San Leandro",CA,94577-2334,"(510) 595-2111",regional,http://www.21st-amendment.com
+"21st Amendment Brewery Cafe","563 2nd St",,"San Francisco",CA,94107-1411,"(415) 369-0900",brewpub,http://www.21st-amendment.com
+"2Kids Brewing Company","8680 Miralani Dr Ste 123",,"San Diego",CA,92126-6391,"(858) 480-5437",micro,http://www.2kidsbrewing.com
+"3 Disciples Brewing","5511 Volkerts Rd",,Sebastopol,CA,95472-5937,"(707) 228-7309",micro,http://www.3disciplesbrewing.com/home
+"3 Iron Brewing Company","898 Via Lata Dr Suite A",,Colton,CA,92324-3920,"(909) 533-4892",micro,http://www.3ironbrewingco.com
+"32 North Brewing Co","8655 Production Ave Ste A",,"San Diego",CA,92121-2258,"(714) 791-8973",micro,http://www.32northbrew.com
+"8bit Brewing","26755 Jefferson Avenue, Suite F","Murrieta, CA |",,,,"(951) 677-2322",brewpub,
+"8one8 Brewing Company","8951 de Soto Ave",,"Canoga Park",CA,91304-5901,"(818) 835-2286",micro,http://www.818brewing.com/home
+"927 Beer Company","821 Cornwall St",,Cambria,CA,93428-2434,"(805) 203-5265",micro,http://www.cambriabeerco.com
+"980 Brewing Company",,,Chico,CA,95926-3950,"(530) 809-2634",planning,
+"Abnormal Beer Company","16990 Via Tazon Ste 123",,"San Diego",CA,92127-1649,"(858) 618-2463",brewpub,
+"Absolution Brewing Co","2878 Columbia St",,Torrance,CA,90503-3808,"(310) 490-4860",micro,http://www.absolutionbrewingcompany.com
+"Acoustic Ales Brewing Experiment","1795 Hancock St Ste P1",,"San Diego",CA,92110-2006,"(619) 299-2537",micro,http://www.acousticales.com
+"Adobe Creek Brewing Company",,,"Los Altos Hills",CA,94022-4443,"(650) 823-3992",planning,http://www.adobecreekbrewing.com
+"Aftershock Brewing Co","28822 Old Town Front St Ste 107",,Temecula,CA,92590-2893,"(951) 972-2256",micro,http://www.aftershockbrewingco.com
+"Alameda Island Brewing Company","1716 Park St",,Alameda,CA,94501-1416,"(510) 217-8885",micro,http://www.alamedaislandbrewingcompany.com
+"Ale House Brewing Co","4020 Colmery Ct",,"San Jose",CA,95118-1605,"(408) 390-7574",micro,
+"Ale Industries","3096 E 10th St",,Oakland,CA,94601-2960,"(925) 470-5280",micro,http://www.aleindustries.com
+"Alement Brewing LLC",,,Carmichael,CA,95608-5615,"(916) 541-6677",planning,
+"AleSmith Brewing Co","9990 Alesmith Ct",,"San Diego",CA,92126-4200,"(858) 549-9888",regional,http://www.alesmith.com
+"Almanac Beer Company","2325 Third Street, STE 222",,"San Francisco",CA,94107-3198,,contract,http://almanacbeer.com
+"Alosta Brewing Co","692 Arrow Grand Cir",,Covina,CA,91722-2122,"(909) 455-8707",micro,http://www.alostabrewing.com
+"Alpenglow Beer Co",,,Lafayette,CA,94549-4621,,contract,http://www.buckwildbrew.com
+"Alpha Acid Brewing Co","121 Industrial Way Ste 12",,Belmont,CA,94002-8208,,micro,
+"Alpine Beer Co","6550 Mira Mesa Blvd",,"San Diego",CA,92121-4100,"(619) 445-2337",brewpub,http://www.alpinebrewing.com
+"Alta Brewing Company",,,"San Diego",CA,92113,"(619) 795-7300",planning,http://www.altabrewing.com
+"Altamont Beer Works","2402 Research Dr",,Livermore,CA,94550-3850,"(925) 294-8970",micro,http://www.altamontbeerworks.com
+"Alvarado Street Brewery","426 Alvarado St",,Monterey,CA,93940-2711,"(831) 655-2337",brewpub,http://www.alvaradostreetbrewery.com
+"Alvarado Street Brewery","1315 Dayton St Ste E",,Salinas,CA,93901-4400,,micro,
+"Amador Brewing Company","9659 Main St",,Plymouth,CA,95669-9570,"(209) 507-1900",micro,http://www.amadorbrewing.com
+"American River Brewing Co","11151 Trade Center Dr Ste 104",,"Rancho Cordova",CA,95670-6403,"(916) 508-0098",micro,
+"Amplified Ale Works","4150 Mission Blvd Ste 208",,"San Diego",CA,92109-5054,"(619) 587-1400",brewpub,http://www.amplifiedales.com
+"Amplified Ale Works Miramar Studio","9030 Kenamar Dr Ste 309",,"San Diego",CA,92121-2432,"(650) 380-4220",micro,
+"Anacapa Brewing Co","472 E Main St",,Ventura,CA,93001-2627,"(805) 643-2337",brewpub,http://www.anacapabrewing.com
+"Anaheim Brewery","336 S Anaheim Blvd",,Anaheim,CA,92805-3830,"(714) 780-1888",micro,http://www.anaheimbrew.com
+"Anchor Brewing Co","1705 Mariposa St",,"San Francisco",CA,94107-2334,"(415) 863-8350",regional,http://www.anchorbrewing.com
+"Anderson Valley Brewing Co","PO Box 505",,Boonville,CA,95415-0505,"(707) 895-2337",regional,http://www.avbc.com
+"Angel City Brewery","216 S Alameda St",,"Los Angeles",CA,90012-4201,"(213) 622-1261",micro,http://www.angelcitybrewery.com
+"Angry Horse Brewing","603 W Whittier Blvd",,Montebello,CA,90640-5235,"(323) 530-0015",micro,http://angryhorsebrewing.com
+"Anheuser-Busch Inc – Fairfield","3101 Busch Dr",,Fairfield,CA,94534-9726,"(707) 429-2000",large,
+"Anheuser-Busch Inc - Los Angeles","15800 Roscoe Blvd",,"Van Nuys",CA,91406-1350,"(818) 989-5300",large,
+"Arcana Brewing Company","5621 Palmer Way Ste C",,Carlsbad,CA,92010-7254,,micro,http://www.arcanabrewing.com
+"Archaic Craft Brewery At Centro","140 E Main St","Tustin, CA |",,,,"(714) 258-8817",brewpub,
+"Area 51 Craft Brewery","7123 Arlington Ave Ste A",,Riverside,CA,92503-1521,"(939) 936-5010",micro,http://www.area51craftbrewery.com
+"Armstrong Brewing Co","415 Grand Ave Ste 2",,"South San Francisco",CA,94080-3614,"(650) 989-8447",micro,http://www.armstrongbrewing.com
+"Artifex Brewing Company","919 Calle Amanecer Ste A",,"San Clemente",CA,92673-6298,"(949) 429-7805",micro,http://www.artifexbrewing.com
+"Artisanal Brewers Collective",,,Burbank,CA,91502,"(747) 241-8200",planning,http://www.artisanalbrewerscollective.com
+"Arts District Brewing Company","828 Traction Ave",,"Los Angeles",CA,90013-,,brewpub,
+"At Ease Brewing",,"Sacramento, CA",,,,"(916) 736-2267",planning,
+"Auburn Alehouse","289 Washington St",,Auburn,CA,95603-5036,"(530) 885-2537",brewpub,http://www.auburnalehouse.com
+"Automatic Brewing Co. / Blind Lady Alehouse","3416 Adams Ave",,"San Diego",CA,92116-2428,"(619) 200-7522",brewpub,http://www.blindlady.blogspot.com
+"Aztec Brewing Company","2330 La Mirada Dr Ste 300",,Vista,CA,92081-7871,"(760) 598-7720",micro,http://www.aztecbrewery.com
+"Babe's Bar-B-Que and Brewhouse","71800 Highway 111 Ste A176",,"Rancho Mirage",CA,92270-4495,"(760) 346-8738",brewpub,
+"Back Street Brewery & Tasting Room","1884 S Santa Cruz St",,Anaheim,CA,92805-6726,"(657) 236-4050",micro,http://www.backstreetbrew.com
+"Bad Doggy Brewing Company",,,Fresno,CA,93711,,planning,
+"Baeltane Brewing","401 Bel Marin Keys Blvd Ste B",,Novato,CA,94949-5645,"(415) 883-2040",micro,http://www.baeltanebrewing.com
+"Bagby Beer Company","1548 La Vine Ln",,Vista,CA,92084-7268,"(760) 270-9075",brewpub,http://www.bagbybeer.com
+"Ballast Point Brewing Co / Home Brew Mart","5401 Linda Vista Rd Ste 406",,"San Diego",CA,92110-2402,"(619) 851-7681",large,http://www.ballastpoint.com
+"Ballast Point Brewing Company","9045 Carroll Way",,"San Diego",CA,92121-2405,"(858) 695-2739",large,http://www.ballastpoint.com
+"Ballast Point Brewing Company","10051 Old Grove Rd Ste B",,"San Diego",CA,92131-1654,"(858) 695-2739",large,
+"Ballast Point Brewing Company","110 N Marina Dr",,"Long Beach",CA,90803-4601,"(858) 695-2739",large,http://www.ballastpoint.com
+"Ballast Point Tasting Room & Kitchen","2215 India St",,"San Diego",CA,92101-1725,"(619) 255-7213",large,http://www.ballastpoint.com
+"Bang the Drum Brewery","950 Orcutt Rd",,"San Luis Obispo",CA,93401-6740,"(858) 776-2973",micro,http://www.bangthedrumbrewery.com
+"Barebottle Brewing Company","1525 Cortland Ave",,"San Francisco",CA,94110-5714,"(415) 926-8617",micro,http://www.barebottlebeer.com
+"Barley Forge Brewing","2957 Randolph Ave Ste B",,"Costa Mesa",CA,92626-4375,"(714) 641-2084",micro,http://www.barleyforge.com
+"Barley Lodge Brewing","720 E Arrow Hwy Ste C",,Covina,CA,91722-2103,,micro,
+"Barn Brewery","2850 El Cajon Blvd Ste 3",,"San Diego",CA,92104-1389,"(619) 955-8228",micro,http://www.thebarnbrew.com
+"Barrel Brothers Brewing Company","399 Business Park Ct Ste 506",,Windsor,CA,95492-6652,"(707) 696-9487",micro,http://www.barrelbrothersbrewing.com
+"Barrel Harbor Brewing Co.","2575 Pioneer Ave Ste 104",,Vista,CA,92081-8450,"(760) 734-3949",micro,http://www.barrelharborbrewing.com
+"Barrel Head Brewhouse","1785 Fulton St",,"San Francisco",CA,94117-1202,"(415) 416-6989",brewpub,http://www.barrelheadsf.com
+"Barrelhouse Brewing","3055 Limestone Way",,"Paso Robles",CA,93446-5988,"(805) 296-1128",micro,http://www.barrelhousebrewing.com
+"Bartlett Hall","242 Ofarrell St",,"San Francisco",CA,94102-2119,"(415) 433-4332",brewpub,http://www.bartletthall.com
+"Bay City Brewing Co.","3760 Hancock St Ste A",,"San Diego",CA,92110-4326,"(619) 727-4926",micro,http://www.baycitybrewingco.com
+"Beach Chalet Brewing Co","1000 Great Hwy",,"San Francisco",CA,94121-3268,"(415) 386-8439",brewpub,http://www.beachchalet.com
+"Beachwood BBQ & Brewing","210 E 3rd St Ste A",,"Long Beach",CA,90802-3197,"(562) 436-4020",brewpub,http://www.beachwoodbbq.com
+"Beachwood Blendery","247 Long Beach Blvd",,"Long Beach",CA,90802-,,micro,http://beachwoodbbq.com/blendery.html
+"Beachwood Brewing","7631 Woodwind Dr Ste B",,"Huntington Beach",CA,92647-7117,"(510) 326-9575",micro,http://www.beachwoodbbq.com
+"Bear Republic Brewing Co","345 Healdsburg Ave",,Healdsburg,CA,95448-4105,"(707) 433-2337",regional,http://www.bearrepublic.com
+"Bear Republic Brewing Co - Production facility","110 Sandholm Ln Ste 10",,Cloverdale,CA,95425-4439,"(707) 894-2722",regional,http://www.bearrepublic.com
+"Bear Roots Brewing Company","1213 S Santa Fe Ave",,Vista,CA,92083-7230,"(760) 726-4204",micro,http://www.bearrootsbrewing.com
+"Beer Company, The","602 Broadway Ste 101",,"San Diego",CA,92101-5449,"(619) 398-0707",brewpub,
+"Belching Beaver Brewery","1334 Rocky Point Dr",,Oceanside,CA,92056-5864,"(760) 599-5832",micro,
+"Belching Beaver Brewery Tavern & Grill","302 E Broadway",,Vista,CA,92084-6020,"(760) 599-5832",brewpub,
+"Belching Beaver Brewery Vista","1334 ROCKY POINT DR",,OCEANSIDE,CA,920565864,"(760) 599-5832",micro,http://www.belchingbeaver.com
+"Belmont Brewing Co","25 39th Pl",,"Long Beach",CA,90803-2806,"(562) 433-3891",brewpub,http://www.belmontbrewing.com
+"Benchmark Brewing Co","6190 Fairmount Ave Ste G",,"San Diego",CA,92120-3428,,micro,http://www.benchmarkbrewing.com
+"Benoit-Casper Brewing","2784 Homestead Rd",,"Santa Clara",CA,95051-5353,,micro,http://www.bcbrewing.com
+"Berryessa Brewing Co","27260 State Highway 128",,Winters,CA,95694-9066,"(530) 304-2202",micro,http://www.berryessabrewingco.com
+"Big Bear Lake Brewing Co","40827 Stone Rd",,"Big Bear Lake",CA,92315,"(909) 878-0283",brewpub,http://www.bblbc.com
+"Big Bear Mountain Brewery","40260 Big Bear Blvd",,"Big Bear Lake",CA,92315,"(909) 866-2337",brewpub,http://www.mountainbrewery.com
+"Big Meadow Brewing Co",,,Bridgeport,CA,93517-0582,"(951) 265-4553",planning,
+"Big Sexy Brewing Company","5861 88th St Ste 800",,Sacramento,CA,95828-1131,"(916) 374-7332",micro,http://www.bigsexybrewing.com
+"Big Stump Brewing Company","1716 L St",,Sacramento,CA,95811-4024,,micro,http://www.bigstumpbrewco.com
+"Bike Dog Brewing Co","2534 Industrial Blvd Ste 110",,"West Sacramento",CA,95691-3471,"(916) 432-3376",micro,http://www.bikedogbrewing.com
+"Birchwood Brewing",,,"Trabuco Canyon",CA,92679-4318,,planning,
+"Bison Brewing Co","1627 South 7th Street",,"San Jose",CA,95112-5932,"(510) 812-5996",contract,http://bisonbrew.com
+"Bitter Brothers Brewing Co.","4170 Morena Blvd Ste F",,"San Diego",CA,92117-5252,"(619) 961-6690",micro,http://www.bitterbrothers.com
+"Bittersweet Brewing Company, LLC",,,"Los Osos",CA,93402,,planning,
+"BJs Restaurant & Brewery - Brea","600 Brea Mall Dr",,Brea,CA,92821-5764,"(714) 990-2095",brewpub,http://www.bjsrestaurants.com
+"BJs Restaurant & Brewery - West Covina","2917 E Eastland Ctr Dr",,"West Covina",CA,91791-1603,"(626) 858-0054",brewpub,http://www.bjsrestaurants.com
+"Black Diamond Brewing Co","2470 Bates Ave Ste C",,Concord,CA,94520-8505,"(925) 356-0120",micro,http://www.bdbrewing.com
+"Black Doubt Brewing Company","PO Box 3642",,"Mammoth Lakes",CA,93546-3642,"(760) 484-7845",micro,http://www.blackdoubtbrewing.com
+"Black Gold Brewing Co","508 Center St",,Taft,CA,93268-3109,"(661) 765-6550",brewpub,
+"Black Hammer Brewing","544 Bryant St",,"San Francisco",CA,94107-1217,,micro,http://www.blackhammerbrewing.com
+"Black Magic Brewing",,,Anaheim,CA,92808-1678,,planning,http://blackmagicbrewingco.com
+"Black Market Brewing Co","41740 Enterprise Cir N Ste 109",,Temecula,CA,92590-5652,"(951) 296-5039",micro,http://www.blackmarketbrew.com
+"Black Plague Brewing",,,Oceanside,CA,92056-3592,,planning,http://www.blackplaguebrewing.com
+"Black Sands Brewery","701 Haight St",,"San Francisco",CA,94117-3316,"(415) 534-5194",micro,
+"Black Vinyl Ale Project","4810 Granite Dr Ste 1A",,Rocklin,CA,95677-2838,"(916) 672-6292",brewpub,http://www.blackvinylale.com
+"Blue Frog Brewing Company","1740 Travis Blvd",,Fairfield,CA,94533-3431,"(707) 429-2337",micro,http://www.bluefrogbrewingcompany.com
+"Blue Note Brewing Company","750 Dead Cat Aly",,Woodland,CA,95695-3435,"(530) 358-4677",micro,http://www.bluenotebrewingcompany.com
+"BNS Brewing & Distilling Co.","10960 Wheatlands Ave Ste 101",,Santee,CA,92071-5617,"(619) 956-0952",micro,http://www.bnsbrewinganddistilling.com
+"Bolt Brewery","8179 Center St",,"La Mesa",CA,91942-2907,"(619) 303-7837",micro,http://www.boltbrewery.com
+"Bonaventure Brewing Co","404 S Figueroa St Ste 418A",,"Los Angeles",CA,90071-1797,"(213) 236-0802",brewpub,http://www.bonaventurebrewing.com
+"Boomtown Brewery","700 Jackson St",,"Los Angeles",CA,90012-3443,"(213) 617-8497",micro,http://www.boomtownbrew.com
+"Bootleggers Brewery","1100 E Truslow Ave",,Fullerton,CA,92831-4626,"(714) 871-2337",micro,http://www.bootleggersbrewery.com
+"Bootleggers Brewery","130 S Highland Ave",,Fullerton,CA,92832-1803,"(714) 871-2337",micro,
+"Booze Brothers Brewing Co.","2545 Progress St",,Vista,CA,92081-8483,"(760) 295-0217",micro,http://www.boozebrothersbrewery.com
+"Border X Brewing","2181 Logan Ave",,"San Diego",CA,92113-2203,"(619) 501-0503",brewpub,http://www.borderxbrewing.com
+"Border X Logan","2181 Logan Ave",,"San Diego",CA,92113-2203,"(858) 405-0528",brewpub,http://www.borderxbrewing.com
+"Bottle Logic Brewing","1072 N Armando St",,Anaheim,CA,92806-2605,714-660-ALES,micro,http://www.bottlelogic.com
+"Boulder Creek Brewing Co","13040 Highway 9",,"Boulder Creek",CA,95006-9154,"(831) 338-7882",brewpub,http://www.bouldercreekbrewery.net
+"Boyle Heights BevCo",,,"Los Angeles",CA,90033-3916,"(323) 267-4490",planning,http://ringthealarm.tv
+"Brasserie Saint James","742 Valencia St",,"San Francisco",CA,94110-1735,"(415) 655-9868",brewpub,http://brasseriesaintjames.com
+"Bravery Brewing","42705 8th St W",,Lancaster,CA,93534-7184,"(661) 951-4677",micro,http://www.braverybrewing.com
+"Breakwater Brewing Co","101 N Coast Hwy Ste C140",,Oceanside,CA,92054-3015,"(760) 433-6064",brewpub,http://www.breakwaterbrewing.com
+"BREW CREW INC","11626 Sterling Ave Ste G",,Riverside,CA,92503-4991,"(951) 352-2739",micro,http://www.brewcrewinc.com
+"Brew Rebellion","195 N Del Rosa Dr",,"San Bernardino",CA,92408-0120,,micro,
+"Brew Rebellion","33 S. San Gorgonio",,Banning,CA,92220-6001,"(951) 907-4844",micro,
+BrewBakers,"7242 Heil Ave",,"Huntington Beach",CA,92647-4466,"(714) 596-5506",brewpub,http://www.brewbakers1.com
+"Brewbakers Brewing Co","219 E Main St",,Visalia,CA,93291-6355,"(559) 627-2739",brewpub,http://www.brewbakersbrewingco.com
+"Brewcaipa Brewing Co.","35058 Yucaipa Blvd",,Yucaipa,CA,92399-4337,,micro,http://www.brewcaipa.com
+"Brewery At Abigaile","1301 Manhattan Ave",,"Hermosa Beach",CA,90254-3666,"(310) 798-8227",brewpub,http://www.abigailerestaurant.com
+"Brewery At Lake Tahoe","3542 Lake Tahoe Blvd",,"South Lake Tahoe",CA,96150-8900,"(530) 544-4369",brewpub,http://www.brewerylaketahoe.com
+"Brewery At Simmzys Burbank",,,Burbank,CA,91505-4537,"(818) 962-2500",planning,http://www.simmzys.com
+"Brewery in Planning - Aliso Viejo",,,"Aliso Viejo",CA,92656-2980,,planning,
+"Brewery In Planning - Anaheim",,,"Buena Park",CA,90621-2105,"(714) 296-2550",planning,http://www.ambitiousales.com
+"Brewery in Planning - Bakersfield",,,Bakersfield,CA,93312-5449,"(619) 518-9226",planning,
+"Brewery in Planning - Chico",,,Chico,CA,95973-9032,,planning,
+"Brewery In Planning - Chico",,,Chico,CA,95926,"(916) 709-4820",planning,http://secrettrailbrewing.com
+"Brewery In Planning - Chino",,,Anaheim,CA,92808-1683,,planning,
+"Brewery in Planning - corcoran",,,Corcoran,CA,93212-9716,"(559) 362-4349",planning,
+"Brewery In Planning - Corona",,,Claremont,CA,91711-1764,,planning,
+"Brewery in Planning - Culver City",,,"Culver City",CA,90230-4108,,planning,
+"Brewery in Planning - El Cajon",,,"San Diego",CA,92111-2223,858-634-ALES,planning,http://www.circle9brewing.com
+"Brewery In Planning - Elk Grove",,,"Elk Grove",CA,95624-6066,,planning,
+"Brewery In Planning - La Habra",,,"La Habra",CA,90631,,planning,
+"Brewery in Planning - La Habra Hts.",,,"La Habra",CA,90631,"(562) 217-7116",planning,
+"Brewery in Planning - Livermore",,,Livermore,CA,94550-5523,"(408) 835-8794",planning,http://gridlockbrewing.beer
+"Brewery in Planning - Long Beach",,,"Long Beach",CA,90808-3125,,planning,
+"Brewery in Planning - Long Beach",,,"Long Beach",CA,90814-2708,"(562) 209-1158",planning,
+"Brewery in Planning - Los Angeles","1111 S. Figueroa Street",,"Los Angeles ",CA,90015,,,
+"Brewery in Planning - Los Angeles",,,"Los Angeles",CA,90049-1620,"(310) 779-6045",planning,
+"Brewery in Planning - Los Gatos",,,"Los Gatos",CA,95033-8034,"(408) 375-1719",planning,
+"Brewery in Planning - Malibu",,,Malibu,CA,90265-5114,"(310) 721-2361",planning,
+"Brewery in Planning - Manhattan Beach",,,"Manhattan Beach",CA,90266-4532,,planning,
+"Brewery in Planning - Monte Sereno",,,"Monte Sereno",CA,95030-3048,,planning,
+"Brewery in Planning - Napa",,,Napa,CA,94559,"(707) 205-7483",planning,
+"Brewery in Planning - newport beach","746 tustin ace",,"newport beach",CA,92663,,,
+"Brewery In Planning - Novato CA",,,Novato,CA,94949-6291,"(510) 853-3513",planning,
+"Brewery in Planning - Oakland",,,Oakland,CA,94611-5570,,planning,
+"Brewery in Planning - ontario",,,Ontario,CA,91761-7768,,planning,
+"Brewery in Planning - Pebble Beach",,,"Pebble Beach",CA,93953,"(972) 571-4491",planning,
+"Brewery in Planning - Princeton",,,Princeton,CA,95970-9519,"(530) 624-6053",planning,
+"Brewery in Planning - Rancho Cucamonga",,,"Rancho Cucamonga ",CA,91730,"(909) 466-1555",planning,http://www.penwal.com
+"Brewery in Planning - Riverside",,,Riverside,CA,92501-2211,,planning,
+"Brewery in Planning - Riverside",,,Riverside,CA,92506-3208,,planning,
+"Brewery In Planning - Riverside",,,Riverside,CA,92503-6758,,planning,
+"Brewery In Planning - Sacramento",,,Sacramento,CA,95821-5841,,planning,
+"Brewery in Planning - Sacramento",,,Sacramento,CA,95831-2538,"(916) 813-7267",planning,http://www.switchboardbrewing.com
+"Brewery In Planning - Sacramento CA",,,Sacramento,CA,95815-3804,,planning,
+"Brewery In Planning - San Diego",,,"San Diego",CA,92123-3528,,planning,
+"Brewery in Planning - San Diego",,,"San Diego",CA,92130-6945,,planning,
+"Brewery in Planning - San Diego",,,"San Diego",CA,92131-2003,,planning,
+"Brewery in Planning - San Diego",,,"San Diego",CA,92104-2047,"(619) 206-4725",planning,
+"Brewery in Planning - San Francisco",,,"San Francisco",CA,94103,,planning,
+"Brewery in Planning - San Francisco",,,"San Francisco",CA,94122,,planning,
+"Brewery In Planning - Scotts Valley",,,"Scotts Valley",CA,95066-3716,,planning,http://handsomebadgerbrewing.com/
+"Brewery In Planning - Seaside",,,Monterey,CA,93940-2306,,planning,
+"Brewery in Planning - Shasta Lake",,,"Shasta Lake",CA,96089,,planning,
+"Brewery in Planning - Stevenson Ranch",,,"Stevenson Ranch",CA,91381-1827,"(818) 429-8572",planning,
+"Brewery In Planning - Trabuco Canyon",,"Trabuco Canyon, CA",,,,,planning,
+"Brewery In Planning - Turlock",,,Turlock,CA,95380,,planning,
+"Brewery in Planning - Union City",,,"Union City",CA,94587-3913,"(714) 743-5175",planning,
+"Brewery In Planning - Vacaville",,,Vacaville,CA,95688-2526,,planning,
+"Brewery in Planning - Ventura",,,Ventura,CA,93003-8058,,planning,
+"Brewery in Planning - Vista",,,Vista,CA,92081-8811,,planning,
+"Brewery In Planning- Fairfield, CA.",,"Fairfield, CA",,,,,planning,
+"Brewery In Planning- Mission Viejo",,"Mission Viejo, CA",,,,,planning,
+"Brewery Twenty Five","3313 Colina Linda Road",,Hollister,CA,95023,,micro,http://www.brewerytwentyfive.com
+"Brewjeria Company",,,"Hacienda Heights",CA,91745-1620,,planning,
+BrewLAB,"4191 Carpinteria Ave Ste 8",,Carpinteria,CA,93013-3302,,micro,http://www.brewlabcraft.com/
+"Brewyard Beer Company LLC","906 Western Ave",,Glendale,CA,91201-,"(818) 409-9448",micro,http://www.brewyardbeercompany.com
+"British Bulldog Brewery","14540 Camaren Park Dr",,Chico,CA,95973-8835,"(530) 892-8759",micro,http://www.britishbulldogbrewery.com
+"Brouwerij West","110 E 22nd St Warehouse No. 9",,"San Pedro",CA,90731-7202,"(310) 833-9330",micro,http://www.brouwerijwest.com
+"Bruehol Brewing LLC","401 Gerald Court, Benicia, CA",,Benicia,CA,94510,"(707) 327-6768",micro,http://www.bruehol.com
+"Bruery Terreux","1174 N Grove St",,Anaheim,CA,92806-2129,"(714) 996-6258",micro,http://www.thebruery.com
+"Bruery, The","715 Dunn Way",,Placentia,CA,92870-6806,"(714) 996-6258",micro,http://www.thebruery.com
+"Buffalo Bills Brewery","1082 B St",,Hayward,CA,94541-4108,"(510) 886-9823",brewpub,http://www.buffalobillsbrewery.com
+"Calicraft Brewing Co","2700 Mitchell Dr Bldg 2",,"Walnut Creek",CA,94598-1602,"(925) 478-8734",contract,
+"Califfornia Beer Works","352 W Bedford Ave Ste 111",,Fresno,CA,93711-6079,"(559) 970-7580",,
+"Camino Brewing Co LLC",,"San Jose, CA",,,,,contract,http://www.caminobrewing.com
+"Campbell Brewing Co","200 E Campbell Ave",,Campbell,CA,95008-2010,"(408) 866-2699",micro,
+"Captain Fatty's","6483 Calle Real Ste D",,Goleta,CA,93117-1541,,micro,
+"Carmel Valley Brewing Company",,"Carmel Valley, CA",,,,"(831) 659-4341",micro,http://www.carmelvalleybrewing.com
+"Carneros brewing","22985 Burndale Rd",,Sonoma,CA,95476-9807,,micro,http://www.carnerosbrewing.com
+"Casa Agria Specialty Ales","701 del Norte Blvd Ste 310",,Oxnard,CA,93030-7980,"(805) 485-1454",proprietor,
+"Catalina Island Brew House","417 Crescent Ave",,Avalon,CA,90704,"(310) 590-6905",micro,http://www.catalinaislandbrewhouse.com
+"Cayucos Brewing Co","136 Ocean Front Ln",,Cayucos,CA,93430-1649,"(805) 995-1993",contract,http://www.cayucosbeer.com
+"Cebula New Ventures LLC",,,"San Clemente",CA,92673-2831,"(562) 631-7386",planning,http://www.cebulanv.com
+"Cellador Ales",,"Los Angeles, CA",,,,,micro,http://www.celladorales.com
+"Cellarmaker Brewing Company","1150 Howard St",,"San Francisco",CA,94103-3914,,micro,http://www.cellarmakerbrewing.com
+"Central Coast Brewing Co","1422 Monterey St Ste B100",,"San Luis Obispo",CA,93401-2900,"(805) 783-2739",micro,http://www.centralcoastbrewing.com
+"Cervecería De MateVeza","3801 18th St",,"San Francisco",CA,94114-2615,"(415) 273-9295",brewpub,http://www.cerveceriasf.com
+"Cerveceria Del Pueblo",,,Pasadena,CA,91107-4826,,planning,http://www.cerveceriadelpueblo.com
+"Channel Brewing Co.","110 N San Joaquin St",,Stockton,CA,95202-2400,,micro,http://www.channelbrewing.co
+"Chapman Crafted Beer","123 N Cypress St",,Orange,CA,92866-1309,"(844) 855-2337",micro,
+"Chapter Brewing Co.",,,Solvang,CA,93463,"(310) 560-9880",planning,http://chapterbrewingco.com
+"Chau Tien Beer Company","PO Box 2441",,Fairfield,CA,94533-0244,"(530) 414-1880",contract,http://www.paleale.com
+"Chino Valley Brewery","1609 E. Grove Ave, Unit 109",,Ontario,CA,91761-5786,"(951) 291-7117",micro,
+"ChuckAlek Independent Brewers","2330 Main St Ste C",,Ramona,CA,92065-2539,,micro,http://www.chuckalek.com
+"Cismontane Brewing Co","1409 E Warner Ave Ste C",,"Santa Ana",CA,92705-5432,"(949) 888-2739",micro,http://www.cismontanebrewing.com
+"Civic Partners, Inc",,,"Huntington Beach",CA,92647-9120,"(714) 230-8000",planning,
+"Claimstake Brewing Company","11366 Monier Park Pl",,"Rancho Cordova",CA,95742-6856,"(916) 661-5249",micro,http://www.claimstakebrewing.com
+"Claremont Craft Ales","1420 N Claremont Blvd Ste 204C",,Claremont,CA,91711-3528,"(909) 625-5350",micro,http://www.claremontcraftales.com
+"Clayton Brewing Co","661 W Arrow Hwy",,"San Dimas",CA,91773-2936,"(909) 394-4900",contract,http://www.claytonbrewingco.com
+"Cleophus Quealy Beer Company","448 Hester St",,"San Leandro",CA,94577-1024,"(510) 463-4534",brewpub,http://www.cleoph.us
+"Climber Nine Brewing",,,"Cameron Park",CA,95682-8975,,planning,
+"Cloverdale Ale Company's Ruth McGowan's Brewpub","131 E 1st St",,Cloverdale,CA,95425-3701,"(707) 894-9610",brewpub,http://www.ruthmcgowansbrewpub.com
+"Coachella Valley Brewing Co","30640 Gunther St",,"Thousand Palms",CA,92276-2333,"(760) 343-5973",micro,http://www.cvbco.com
+"Coastal Acres Brewing Company",,,Petaluma,CA,94952-2724,,planning,
+"Coastal Star Brewing Company",,,"Santa Maria",CA,93455-1722,"(805) 328-4677",planning,http://www.coastalstarbrewing.com
+"Cold Bore Brewing","PO Box 1187",,Jamul,CA,91935-1187,"(619) 246-4920",micro,http://www.coldborebrewing.com
+"Cold Water Brewery and Grill","2544 Lake Tahoe Blvd",,"South Lake Tahoe",CA,96150-7707,"(530) 544-4677",brewpub,http://www.tahoecoldwaterbrewery.com
+"Common Space Brewery",,,"Culver City",CA,90230-6029,"(310) 666-2825",planning,
+"Concrete Jungle Brewing Project",,,"Los Angeles",CA,90021,"(213) 291-1688",planning,http://www.concretejungle.la
+"Congregation Ale House","619 N Azusa Ave Ste C",,Azusa,CA,91702-2910,"(626) 334-2337",micro,http://www.congregationalehouse.com
+"Cool Beerwerks","5020 Ellinghouse Dr",,Cool,CA,95614-9569,"(530) 885-5866",brewpub,http://www.cbwbeer.com
+"Cooperage Brewing Co.","981 Airway Ct Ste G",,"Santa Rosa",CA,95403-2049,"(707) 293-9787",micro,http://www.cooperagebrewing.com
+"Coronado Brewing Co","170 Orange Ave",,Coronado,CA,92118-1409,"(619) 437-4452",regional,http://www.coronadobrewingcompany.com
+"Coronado Brewing Co - Production Facility","170 Orange Ave",,"San Diego",CA,92118-1409,"(619) 275-2215",regional,
+"Corralitos Brewing Co","2536 Freedom Blvd",,Watsonville,CA,95076-1046,"(831) 728-2311",micro,http://www.corralitosbrewingco.com
+"Cosmic Brewery","20316 Gramercy Pl",,Torrance,CA,90501-1511,"(424) 259-2337",micro,http://www.cosmicbrewery.com
+"Council Brewing - Magic Factory","7567 Convoy Ct",,"San Diego",CA,92111-1113,"(858) 256-0038",micro,
+"Council Brewing Company","7705 Convoy Ct",,"San Diego",CA,92111-1105,"(858) 256-0038",micro,http://www.councilbrew.com
+"Craeft Works, LLC",,,"Chino Hills",CA,91709-1028,"(909) 247-5710",planning,http://www.craeftworks.com
+"Craft Artisan Ales","PO Box 52093",,"Pacific Grove",CA,93950-7093,"(831) 717-7543",contract,
+"Craft Brewing Company","530 Crane St",,"Lake Elsinore",CA,92530-2779,"(951) 674-2562",micro,http://www.craftbrewingcompany.com
+"Craftsman Brewing Co","1260 Lincoln Ave Ste 100",,Pasadena,CA,91103-2465,"(626) 296-2537",micro,http://www.craftsmanbrewing.com
+"Crooked Goat Brewing","120 Morris St Ste 120",,Sebastopol,CA,95472-3867,"(707) 835-4256",micro,http://www.crookedgoatbrewing.com
+"Crooked Lane Brewing Co","536 Grass Valley Hwy",,Auburn,CA,95603-3807,"(530) 613-7434",micro,http://www.crookedlanebrewing.com
+"Culture Brewing Co.","111 S Cedros Ave Ste 200",,"Solana Beach",CA,92075-2906,"(858) 345-1144",micro,http://www.culturebrewingco.com
+"Culver Beer Company","2719 Loker Ave W Ste D",,Carlsbad,CA,92010-6679,"(760) 814-2355",micro,http://www.culverbeer.com
+"Danville Brewing Company","200 Railroad Ave Ste A",,Danville,CA,94526-3855,,brewpub,
+"Dark See Cinema And Brewery",,,Oakland,CA,94609-1804,,planning,
+"DasBrew, Inc.","44356 S Grimmer Blvd",,Fremont,CA,94538-6385,"(415) 517-8100",micro,http://www.dasbrewinc.com
+"Dead Last Brewing",,,"Mission Viejo",CA,92691-4951,,planning,http://www.deadlastbrewing.com
+"Dead Oak Brewing Company",,,Atascadero,CA,93422-3739,"(602) 332-7027",planning,
+"Deans Brothers Brewing Co.","1006 S Hathaway St",,"Santa Ana",CA,92705-4129,"(714) 542-2001",micro,http://www.deansbros.com
+"Dempsey's Restaurant And Brewery","50 E Washington St",,Petaluma,CA,94952-3115,"(707) 765-9694",brewpub,http://www.dempseys.com
+"Desert Barn Brewing Co.","11352 Hesperia Rd Ste B",,Hesperia,CA,92345-2165,,brewpub,
+"Desolation Brewing Company",,,"South Lake Tahoe ",CA,96150,,planning,http://www.desolationbrewingco.com
+"Device Brewing Company","8166 14th Ave",,Sacramento,CA,95826-4722,,micro,http://www.devicebrewing.com
+"Devil's Canyon Brewing Company","935 Washington St",,"San Carlos",CA,94070-5316,"(650) 592-2739",micro,http://www.devilscanyon.com
+"Devil's Potion Brewing Company LLC",,,Escondido,CA,92026-3187,"(760) 532-9091",planning,http://www.devilspotion.com
+"Diamond Mountain Brewery","900 Skyline Dr",,Susanville,CA,96130-6071,"(530) 252-1369",brewpub,http://www.diamondmountainbrewery.com
+"Dionysus Brewing Co.","6201 Schirra Ct Ste 13",,Bakersfield,CA,93313-2119,"(661) 833-6000",micro,http://www.dionysusbrewing.com
+"Discretion Brewing","2703 41st Ave Ste A& # B",,Soquel,CA,95073-3104,"(831) 316-0662",micro,http://www.discretionbrewing.com
+"Diving Dog Brewhouse","1802 Telegraph Ave",,Oakland,CA,94612-2110,"(510) 306-1914",micro,http://www.divingdogbrew.com
+"Division 23 Brewing","7408 Trade St",,"San Diego",CA,92121-3415,"(858) 752-1924",micro,http://www.division23brewing.com
+"Dockside 700 Lakefront Grill & Brewery","700 N Lake Blvd",,"Tahoe City",CA,96145,"(530) 581-0303",brewpub,http://www.dockside700.com
+"Dos Desperados Brewery","1241 Linda Vista Dr",,"San Marcos",CA,92078-3809,"(760) 566-6209",micro,http://www.dosdesperadosbrew.com
+"Downtown Joes Brewery and Restaurant","902 Main St",,Napa,CA,94559-3045,"(707) 258-2337",brewpub,http://www.downtownjoes.com
+"Dr Hops Kombucha Beer",,,"San Leandro",CA,94577-1263,"(310) 916-8090",planning,http://www.drhopskombuchabeer.com
+"Dr. Jekyll's Craft Beer","825 Cambridge Ct",,Pasadena,CA,91107-1977,"(310) 273-8339",micro,http://www.drjekylls.com
+"Dragas Brewing","5860 Pacific St",,Rocklin,CA,95677-3738,,micro,
+"Dragon's Tale Brewery","8920 Vernon Ave Ste 122",,Montclair,CA,91763-1662,"(909) 529-2688",micro,http://www.dragonstalebrewery.com
+"Drake's Brewing Co","1933 Davis St Ste 177",,"San Leandro",CA,94577-1256,"(510) 568-2739",regional,http://www.drinkdrakes.com
+"Draughtsman Brewery",,,"La Mirada",CA,90638-3454,,planning,
+"Draughtsmen Aleworks","53 Santa Felicia Dr",,Goleta,CA,93117-2804,"(805) 387-2577",micro,http://www.draughtsmenaleworks.com
+"Drooldawg Brewery",,,"Chula Vista",CA,91910-7185,"(619) 517-0736",planning,http://www.drooldawgbrewery.com
+"Dry River Brewing","671 S Anderson St",,"Los Angeles",CA,90023-1110,"(213) 375-5235",micro,http://www.dryriverbrewing.com
+"Duck Foot Brewing Co.","8920 Kenamar Dr Ste 210",,"San Diego",CA,92121-2454,"(858) 433-7916",micro,http://www.duckfootbeer.com
+"Dude's Brewing Co","PO Box 276",,Somis,CA,93066-0276,"(424) 271-2915",micro,http://www.thedudesbrew.com
+"Dueling Dogs Brewing Company",,,Lincoln,CA,95648-7504,"(916) 434-8141",planning,http://www.duelingdogsbrewing.com
+"Dunbar Brewing","2200 El Camino Real",,"Santa Margarita",CA,93453-8668,"(805) 704-9050",micro,
+"Dunloe Brewing LLC",,,Davis,CA,95616-4741,,planning,http://dunloebrewing.com
+"Dunsmuir Brewery Works","5701 Dunsmuir Ave",,Dunsmuir,CA,96025-2008,"(530) 235-1900",brewpub,http://www.dunsmuirbreweryworks.com
+"Dust Bowl Brewing Co","3000 FULKERTH RD",,TURLOCK,CA,953809403,"(209) 634-1934",micro,http://www.dustbowlbrewing.com
+"Dutch's BrewHouse","4244 Atlantic Ave",,"Long Beach",CA,90807-2802,,brewpub,
+"Dying Vines LLC","95 Linden St Ste 8",,Oakland,CA,94607-2516,,contract,http://www.dyingvines.com
+"E.J. Phair Brewing Co","2151 Salvio St Ste L",,Concord,CA,94520-2470,"(925) 680-4253",micro,http://www.ejphair.com
+"E.J. Phair Brewing Co.","300 Cumberland St",,Pittsburg,CA,94565-2234,"(925) 252-9895",micro,http://www.ejphair.com
+"Eagle Rock Brewery","3056 Roswell St",,"Los Angeles",CA,90065-2214,,micro,http://www.eaglerockbrewery.com
+"East Brother Beer Company","1001 Canal Blvd, #C-2",,Richmond,CA,94804,"(510) 230-4081",micro,http://www.eastbrotherbeer.com
+"East Cliff Brewing Company","21517 E Cliff Dr",,"Santa Cruz",CA,95062-4844,"(831) 713-5540",micro,http://www.eastcliffbrewing.com/
+"Eckert Malting and Brewing Co","2280 Ivy St Ste 130",,Chico,CA,95928-8000,"(530) 342-2320",micro,http://www.eckertmaltingandbrewing.com
+"EDH Brewing Company","875 Embarcadero Dr Ste 1",,"El Dorado Hills",CA,95762-4049,"(916) 939-6827",brewpub,http://www.edhbrewing.com
+"Eel River Brewing Co","1777 Alamar Way",,Fortuna,CA,95540-9548,"(707) 725-2739",micro,http://www.eelriverbrewing.com
+"Eight Bridges Brewing","332 Earhart Way",,Livermore,CA,94551-9309,"(925) 961-9160",micro,http://www.8bridgesbrewing.com
+"El Dorado Brewing Co","6051 Enterprise Dr",,"Diamond Springs",CA,95709,"(530) 558-4188",micro,http://www.eldobrew.com
+"El Segundo Brewing Co","140 Main St",,"El Segundo",CA,90245-3801,"(310) 529-3882",micro,http://www.elsegundobrewing.com
+"El Toro Brewing Company Brewpub","17605 Monterey Rd",,"Morgan Hill",CA,95037-3620,"(408) 778-2739",brewpub,http://www.eltorobrewing.com
+"Electric Brewing Co","41537 Cherry St",,Murrieta,CA,92562-9193,"(951) 696-2266",micro,http://www.electricbrewingcompany.com
+"Elevation 66 Brewing Co","10082 San Pablo Ave",,"El Cerrito",CA,94530-3927,"(530) 848-9176",brewpub,http://www.elevation66.com
+"Enegren Brewing Co","444 Zachary St Unit 120",,Moorpark,CA,93021-2073,"(805) 552-0602",micro,http://www.enegrenbrewing.com
+"English Ales Brewery","223 Reindollar Ave Ste A",,Marina,CA,93933-3851,"(831) 883-3000",micro,http://www.englishalesbrewery.com
+"Epidemic Ales","150 Mason Circle Stes I&J",,Concord,CA,94520,"(925) 566-8850",micro,http://www.epidemicales.com
+"Eppig Brewing","3052 El Cajon Blvd Ste C",,"San Diego",CA,92104-1618,"(619) 501-1840",micro,http://www.eppigbrewing.com
+"Escape Craft Brewery","721 Nevada St Ste 401",,Redlands,CA,92373-8053,"(909) 713-3727",micro,http://www.escapecraftbrewery.com
+"Etna Brewing Co LLC","131 Callahan Street",,Etna,CA,96027,"(530) 467-5277",micro,http://www.etnabrew.com
+"Eurayle Brewing Company","2060 Chicago Ave Ste A17",,Riverside,CA,92507-2344,"(951) 530-8865",micro,http://www.euryalebrewing.com
+"Evans Brewing Co / Bayhawk Ales","2000 Main St",,Irvine,CA,92614-7202,"(949) 442-7565",micro,http://www.evansbrewco.com
+"Faction Brewing Co","2501 Monarch St Ste 200",,Alameda,CA,94501-5098,"(510) 523-2739",micro,http://www.factionbrewing.com
+"Fair Oaks Brew Pub","7988 California Ave",,"Fair Oaks",CA,95628-7140,,brewpub,http://www.fairoaksbrewpub.com
+"Fall Brewing Company","4542 30th St",,"San Diego",CA,92116-4247,"(619) 501-0903",micro,http://www.fallbrewing.com
+"Fall River Brewing Company","24339 State Highway 89",,Burney,CA,96013-9615,,micro,http://www.fallriverbrewing.com
+"Fallbrook Brewing Co","116 W Hawthorne St",,Fallbrook,CA,92028-,,micro,http://www.fallbrookbrewing.com
+"Faultline Brewing Co","1235 Oakmead Pkwy",,Sunnyvale,CA,94085-4040,"(408) 736-2739",micro,
+"Feather Falls Brewing Co","3 Alverda Dr",,Oroville,CA,95966-9379,"(530) 534-4059",brewpub,http://www.featherfallscasino.com
+"Feather River Brewing Co","PO Box 443 14665 Forest Ridge Rd",,Magalia,CA,95954-0443,"(530) 873-0734",micro,http://www.featherriverbrewing.com
+"Federation Brewing","420 3rd St Unit A",,Oakland,CA,94607-3809,,contract,http://www.federationbrewing.com
+Ferment.Drink.Repeat,"2636 San Bruno Ave",,"San Francisco",CA,94134-1507,"(415) 825-5657",micro,http://www.fermentdrinkrepeat.com
+"Fieldwork Brewing Co","1160 6th St",,Berkeley,CA,94710-1247,"(510) 898-1203",micro,http://www.fieldworkbrewing.com
+"FiftyFifty Brewing Co","11197 Brockway Rd Spc 1",,Truckee,CA,96161-3352,,brewpub,http://www.fiftyfiftybrewing.com
+"Figueroa Mountain Brewing","45 Industrial Way",,Buellton,CA,93427-9565,,micro,http://www.figmtnbrew.com
+"Figueroa Mountain Brewing","137 Anacapa St Ste F",,"Santa Barbara",CA,93101-1848,"(805) 886-9275",micro,http://www.figmtnbrew.com
+"Figueroa Mountain Brewing","30770 Russell Ranch Rd Ste E& # F",,"Westlake Village",CA,91362-6314,"(805) 886-9275",micro,http://www.figmtnbrew.com
+"Figueroa Mountain Brewing","1462 E Grand Ave",,"Arroyo Grande",CA,93420-2448,"(805) 886-9275",brewpub,http://www.figmtnbrew.com
+"Final Draft Brewing Company",,,Redding,CA,96001-1001,"(310) 569-3868",planning,http://www.finaldraftbrewingcompany.com
+"Finest Made","9962 Prospect Ave Ste E",,Santee,CA,92071-4371,,micro,http://www.finestmade.com
+"Firehouse Grill & Brewery","111 S Murphy Ave",,Sunnyvale,CA,94086-6113,"(408) 773-9500",brewpub,http://www.firehousegrill.com
+"Fireman's Brew","6433 Topanga Canyon Blvd # 189",,"Woodland Hills",CA,91303-2621,"(818) 883-2739",contract,http://www.firemansbrew.com
+"Firestone Walker Barrelworks","620 McMurray Rd",,Buellton,CA,93427-2511,"(805) 686-1557",micro,http://www.firestonewalker.com
+"Firestone Walker Brewing Co","1400 Ramada Dr",,"Paso Robles",CA,93446-3993,"(805) 225-5911",regional,http://www.firestonebeer.com
+"Five Threads Brewing Company","31133 Via Colinas Ste 109",,"Westlake Village",CA,91362-4525,"(619) 905-8451",micro,http://www.fivethreadsbrewing.com
+"Five Window Beer Co. LLC",,,Lodi,CA,95240-2137,"(209) 470-1553",planning,http://www.fivewindow.com
+"FlatFish Brewing",,,Camarillo,CA,93010-8334,"(805) 558-6552",planning,http://www.cantaracellars.com
+"Flatland Brewing Company","9183 Survey Rd Ste 104",,"Elk Grove",CA,95624-9712,"(916) 753-3116",micro,http://www.flatlandbrewingco.com
+"Fogbelt Brewing Co","1305 Cleveland Ave",,"Santa Rosa",CA,95401-4211,"(707) 978-3400",brewpub,http://www.fogbeltbrewing.com
+"Fort Point Beer Company","644 Mason St",,"San Francisco",CA,94129-1600,"(415) 906-4021",micro,http://www.fortpointbeer.com
+"Fort Rock Brewing","12401 Folsom Blvd Ste 110",,"Rancho Cordova",CA,95742-6422,,micro,http://www.fortrockbrewing.com
+"Fossil Fuels Brewing Co","45928 Omega Dr",,Fremont,CA,94539-6848,,contract,
+"Fountainhead Brewing Co","4621 24th St",,Sacramento,CA,95822-1412,"(916) 228-4610",micro,http://www.fountainheadbrewingco.com
+"Four Sons Brewing","18421 Gothard St Ste 100",,"Huntington Beach",CA,92648-1236,,micro,http://www.foursonsbrewing.com
+"FreeWheel Brewing Co","3736 Florence St (Marsh Manor)",,"Redwood City",CA,94063-4418,,brewpub,
+"Full Circle Brewing Co","620 F St",,Fresno,CA,93706-3413,"(559) 264-6323",micro,http://www.fullcirclebrewing.com
+"G8 Development, Inc.",,,"San Diego",CA,92109-2802,"(619) 823-3402",planning,
+"Garage Brewing Company","29115 Old Town Front St",,Temecula,CA,92590-2812,"(951) 600-1945",micro,http://www.garagebrewpizza.com
+"Geartooth AleWerks","1635 S. 7th St.",,"San Jose",CA,95112,"(408) 483-2679",contract,http://www.geartoothalewerks.com
+"Ghost Town Brewing","2640 Union St",,Oakland,CA,94607-2449,"(510) 926-6728",micro,http://www.ghosttownbrewing.com
+"Gilman Brewing Company","912 Gilman St",,Berkeley,CA,94710-1424,,micro,http://www.gilmanbrew.com
+"GoatHouse Brewing Co.","600 Wise Rd",,Lincoln,CA,95648-8518,"(916) 740-9100",micro,http://www.goathousebrewing.com
+"Gold Hill Brewery","5660 Vineyard Ln",,Placerville,CA,95667-9330,"(530) 626-6522",micro,http://www.goldhillvineyard.com
+"Golden Road Brewing","5410 W San Fernando Rd",,"Los Angeles",CA,90039-1015,"(213) 542-6039",large,http://www.goldenroad.la
+"Golden State Brewery","1252 Memorex Dr",,"Santa Clara",CA,95050-2812,"(408) 727-2337",micro,http://www.goldenstate.beer
+"Golden State Cider","3595 Gravenstein Hwy South Suite 102A",,Sebastopol,CA,95472,,contract,http://drinkgoldenstate.com
+"Gordon Biersch Brewery Restaurant - Burbank","145 S San Fernando Blvd",,Burbank,CA,91502-1322,"(818) 569-5240",brewpub,http://www.gordonbiersch.com/restaurant
+"Gordon Biersch Brewery Restaurant - San Diego","5010 Mission Center Rd",,"San Diego",CA,92108-3211,"(619) 688-1120",brewpub,http://www.craftworksrestaurants.com
+"Gordon Biersch Brewery Restaurant - San Jose","33 E San Fernando St",,"San Jose",CA,95113-2508,"(408) 294-6785",brewpub,http://www.craftworksrestaurants.com
+"Gordon Biersch Brewing Co","357 E Taylor St",,"San Jose",CA,95112-3105,"(408) 278-1008",regional,http://www.gordonbiersch.com
+"GravSouth Brewing Co.","7950 Redwood Dr Ste 15",,Cotati,CA,94931-3054,"(707) 753-4198",brewpub,http://www.gravsouthbrewco.com
+"Great Beer Co","21119 Superior St",,Chatsworth,CA,91311-4309,"(818) 718-2739",contract,http://www.greatbeerco.com
+"Green Flash Brewing Co","6550 Mira Mesa Blvd",,"San Diego",CA,92121-4100,"(858) 622-0085",regional,http://www.greenflashbrew.com
+"Grillin & Chillin Alehouse","401 McCray St # B24",,Hollister,CA,95023-2225,"(831) 637-2337",brewpub,http://www.relaxgrillinchillin.com
+"Groundswell Brewing Co","6304 Riverdale St",,"San Diego",CA,92120-3310,,micro,
+"Guadalupe Brewery","5674 El Camino Real Ste D",,Carlsbad,CA,92008-7130,"(858) 751-4278",micro,http://www.guadalupebrewery.com
+"Gunwhale Ales","2960 Randolph Ave Unit A",,"Costa Mesa",CA,92626-4312,"(949) 393-2537",micro,http://www.gunwhaleales.com
+"Gyppo Ale Mill",,,Whitethorn,CA,95589-0627,"(707) 223-3443",planning,
+"Half Door Brewing Company","903 Island Ave",,"San Diego",CA,92101-7227,,brewpub,http://www.halfdoorbrewing.com
+"Half Moon Bay Brewing Co","390 Capistrano Road",,"Half Moon Bay",CA,94019,"(650) 728-2739",brewpub,http://www.hmbbrewingco.com
+"Hamilton Family Brewery","9757 7th St Ste 802",,"Rancho Cucamonga",CA,91730-5297,"(909) 989-7050",micro,http://hamiltonfamilybrewery.com
+"Hand-Brewed Beer","9771 Variel Ave",,Chatsworth,CA,91311-4315,"(818) 920-8422",micro,http://www.handbrewedbeer.com
+"Hangar 24 Craft Brewery","1710 Sessums Dr",,Redlands,CA,92374-1909,"(909) 389-1400",regional,http://www.hangar24brewery.com
+"Harmonic Brewing","1050 26th St",,"San Francisco",CA,94107-3513,,micro,http://www.harmonicbrewing.com
+"Headlands Brewing Company","16 Forrest St",,"Mill Valley",CA,94941-2003,,proprietor,
+"Healdsburg Beer Co","1670 Stirrup Loop",,Healdsburg,CA,95448-7048,"(707) 385-9385",micro,http://www.healdsburgbeercompany.com
+"Helix Brewing Co","8101 Commercial St",,"La Mesa",CA,91942-2927,"(619) 741-8447",micro,http://www.drinkhelix.com
+"Helm's Brewing Company, LLC","5640 Kearny Mesa Rd Ste C",,"San Diego",CA,92111-1312,"(858) 384-2772",micro,http://www.helmsbrewingco.com
+"HenHouse Brewing","322 Bellevue Ave # 2",,"Santa Rosa",CA,95407-7711,,proprietor,http://www.henhousebrewing.com
+"Heretic Brewing Company","1052 Horizon Dr Ste B",,Fairfield,CA,94533-1694,"(707) 389-4573",micro,http://www.hereticbrewing.com
+"Hermitage Brewing Company","1627 S 7th St",,"San Jose",CA,95112-5932,,micro,
+"Heroes Restaurant and Brewery","3397 Mission Inn Ave",,Riverside,CA,92501-3302,"(951) 248-0722",brewpub,http://www.heroesrestaurantandbrewery.com
+"High Craft Brewery",,,"Big Bear Lake",CA,92315-6183,,planning,
+"High Water Brewing","1559 W Mendocino Ave",,Stockton,CA,95204-2943,"(866) 206-0482",proprietor,http://www.highwaterbrewing.com
+"Highland Park Brewery","5125 York Blvd",,"Los Angeles",CA,90042-1715,"(323) 739-6459",micro,http://www.thehermosillo.com
+"Highway 1 Brewing Company","5720 Cabrillo Hwy",,Pescadero,CA,94060-9725,"(650) 879-9243",brewpub,http://www.highway1brewing.com
+"Hillcrest Brewing Company","1458 University Ave",,"San Diego",CA,92103-3405,"(619) 269-4323",brewpub,http://www.hillcrestbrewingcompany.com
+"Hoi Polloi Brewpub and Beat Lounge","1763 Alcatraz Ave",,Berkeley,CA,94703-,"(510) 858-7334",micro,
+"Hollister Brewing Co","6980 Market Place Dr",,Goleta,CA,93117-2997,"(805) 968-2810",brewpub,http://www.holisterbrewco.com
+"Holy Craft Brewing Co",,"San Francisco, CA",,,,"(415) 269-0738",contract,http://www.holycraftbrewery.com
+"Home Brewing Co.","2911 El Cajon Blvd # 2",,"San Diego",CA,92104-1204,"(619) 450-6165",micro,http://www.thehomebrewerssd.com
+"Hop Creek Pub","3253 Browns Valley Rd",,Napa,CA,94558-5424,"(707) 257-7708",brewpub,http://www.hopcreekpub.com
+"Hop Dogma Brewing Company","655 San Carlos Ave",,"El Granada",CA,94018,"(650) 560-8729",micro,http://www.hopdogma.com
+"Hop Heavy Brewing Co.",,,Concord,CA,94520-2309,"(925) 437-9111",planning,http://www.hopheavybrewingco.com
+"Hop Secret Brewing Co",,,Monrovia,CA,91016-4558,,planning,http://www.hopsecretbrewing.com
+"Hoparazzi Brewing Co","2910 E La Palma Ave Ste D",,Anaheim,CA,92806-2618,,micro,
+"Hoppy Brewing Co","6300 Folsom Blvd",,Sacramento,CA,95819-4619,"(916) 451-4677",brewpub,http://www.hoppy.com
+"HopSaint Brewing Company","5160 W 190th St",,Torrance,CA,90503-1005,"(310) 214-4611",brewpub,http://www.hopsaint.com
+"House Beer","PO Box 5756",,"Santa Monica",CA,90409-5756,,contract,http://www.housebeer.us
+"House Of Pendragon Brewing Co","1864 Industrial Way Ste 107",,Sanger,CA,93657-8729,"(559) 346-7786",micro,http://www.hopbeer.com
+"Humble Farmer Brewing Co., Inc.","438 Walnut Ave",,Holtville,CA,92250-1343,"(760) 356-7066",micro,http://www.humblefarmerbrewing.com
+"Humble Sea Brewing Co",,"Santa Cruz, CA",,,,beer@humblesea.com,micro,http://www.humblesea.com
+"Humboldt Regeneration","2320 Central Ave Ste F",,McKinleyville,CA,95519-3682,"(707) 738-8225",micro,http://www.humboldtregeneration.com
+"Huntington Beach Beer Co","201 Main St Ste E",,"Huntington Beach",CA,92648-8110,"(714) 960-5343",brewpub,http://www.hbbeerco.com
+"I & I Brewing","5135 Edison Ave Ste 1",,Chino,CA,91710-5773,"(909) 591-3915",micro,http://www.iandibrewing.com
+"Independent Brewing Co","444 Harrison St",,Oakland,CA,94607-4118,,micro,
+"Indian Joe Brewing","2123 Industrial Ct.",,Vista,CA,92081-7900,"(760) 295-3945",micro,http://www.indianjoebrewing.com
+"Indian Valley Brewing",,,Novato,CA,94949,"(415) 301-4983",planning,http://www.indianvalleybrewing.com
+"Indian Wells Brewing Co","2565 State Highway 14",,Inyokern,CA,93527-2700,"(760) 377-5989",micro,http://www.mojave-red.com
+"Indie Brewing Company","2301 E 7th St Ste C100",,"Los Angeles",CA,90023-1036,"(323) 354-4285",micro,http://indiebrewco.com
+"Inland Empire Brewing Co","1710 Palmyrita Ave Ste 11",,Riverside,CA,92507-1627,"(951) 643-7687",proprietor,http://www.iebrew.com
+"Inland Wharf Brewing Company","26440 Jefferson Ave, Ste A",,Murrieta,CA,9517955260,"(951) 696-7999",micro,http://www.inlandwharfbrewing.com
+"Innovation Brew Works","3650 W Temple Ave Bldg. 220A",,Pomona,CA,91768-2582,"(909) 869-2788",brewpub,http://www.ibrewworks.com/
+"Institution Ale Company","3841 Mission Oaks Blvd",,Camarillo,CA,93012-5036,"(805) 482-3777",brewpub,
+"Intergalactic Brewing Co","9835 Carroll Centre Rd Ste 108",,"San Diego",CA,92126-6507,"(858) 750-0601",micro,http://www.intergalacticbrew.com
+"Iron Fist Brewing Co","1305 Hot Springs Way Ste 101",,Vista,CA,92081-7876,"(760) 216-6500",micro,http://www.ironfistbrewing.com
+"Iron Springs Pub & Brewery","765 Center Blvd",,Fairfax,CA,94930-1764,"(415) 485-1005",brewpub,http://www.ironspringspub.com
+"Iron Triangle Brewing Company","1581 Industrial St",,"Los Angeles",CA,90021-1217,"(310) 990-5702",micro,http://www.irontrianglebrewing.com
+"Ironfire Brewing Company","42095 Zevo Dr Unit 1",,Temecula,CA,92590-3741,,micro,http://www.ironfirebrewing.com
+"Island Brewing Co","5049 6th St",,Carpinteria,CA,93013-2001,"(805) 745-8272",micro,http://www.islandbrewingcompany.com
+"Jack Russell Farm Ales","2380 Larsen Dr",,Camino,CA,95709-9749,"(530) 647-9420",brewpub,http://www.jackrussellbrewing.com
+"Jacked Up Brewery","800 W Grand Ave Ste B Ste 201",,Escondido,CA,92025-2562,"(858) 231-6106",micro,
+"Jackrabbit Brewing Co","1315 Terminal St",,"West Sacramento",CA,95691-3514,"(209) 612-0259",micro,http://www.jackrabbitbrewingcompany.com
+"Jack's Brewing Co","39176 Argonaut Way",,Fremont,CA,94538-1304,"(510) 796-2036",brewpub,
+"Jamul Brewing Co.",,,Jamul,CA,91935,"(619) 517-9829",micro,http://www.jamulbrewingco.com
+"John Scott Brewing Co.",,,"Trabuco Canyon",CA,92679-5145,"(714) 470-2055",planning,http://www.johnscottbrewing.com
+"JT Schmids Restaurant & Brewery","2610 E Katella Ave",,Anaheim,CA,92806-5903,"(714) 634-9200",brewpub,http://www.jtschmids.com
+"Julian Brewing Co","2307 Main St",,Julian,CA,92036,"(760) 765-3757",micro,http://www.baileybbq.com
+"Junction Brewery & Grill","110 W American Canyon Rd",,"American Canyon",CA,94503-4196,"(707) 649-2285",brewpub,http://www.junctionbreweryandgrill.com
+"June Lake Brewing","131 S Crawford Ave",,"June Lake",CA,93529,,micro,http://www.junelakebrewing.com
+Jupiter,"2181 Shattuck Ave",,Berkeley,CA,94704-1308,"(510) 843-8277",brewpub,http://www.jupiterbeer.com
+"Karl Strauss Brewing Co","40868 Winchester Rd",,Temecula,CA,92591-5521,"(951) 225-7963",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co","5985 Santa Fe St",,"San Diego",CA,92109-1623,"(858) 273-2739",regional,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Sorrento Mesa","9675 Scranton Rd",,"San Diego",CA,92121-1761,"(858) 587-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - 4S Ranch","10448 Reserve Dr",,"San Diego",CA,92127-3510,"(858) 273-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Anaheim","2390 E Orangewood Ave Ste 100",,Anaheim,CA,92806-6141,"(714) 940-1772",brewpub,
+"Karl Strauss Brewing Co - Carlsbad","5801 Armada Dr",,Carlsbad,CA,92008-4609,"(760) 431-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Costa Mesa","901 S Coast Dr Ste A",,"Costa Mesa",CA,92626-7790,"(714) 546-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Downtown","1157 Columbia St",,"San Diego",CA,92101-3511,"(619) 234-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Downtown Los Angeles","600 Wilshire Blvd Ste 100",,"Los Angeles",CA,90017-3212,"(213) 228-2739",brewpub,
+"Karl Strauss Brewing Co - La Jolla","1044 Wall St",,"La Jolla",CA,92037-4437,"(858) 551-2739",brewpub,http://www.karlstrauss.com
+"Karl Strauss Brewing Co - Universal CityWalk","1000 Universal Studios Blvd",,"Universal City",CA,91608-1008,"(818) 753-2739",brewpub,http://www.karlstrauss.com
+"Kaweah Brewing Co.","1054 E Walnut Ave",,Tulare,CA,93274-,"(559) 972-5573",micro,
+"Kelsey Creek Brewing","3945 Main St",,Kelseyville,CA,95451-7424,"(707) 279-2311",micro,http://www.kelseycreekbrewing.com
+"Kern River Brewing Co","13415 Sierra Way",,Kernville,CA,93238-9714,"(760) 376-2337",brewpub,http://www.kernriverbrewingcompany.com
+"Kilowatt Brewing","7576 Clairemont Mesa Blvd",,"San Diego",CA,92111-1504,"(858) 715-3998",micro,http://www.kilowatt.beer
+"Kinetic Brewing Company","735 W Lancaster Blvd",,Lancaster,CA,93534-3118,"(661) 942-2337",brewpub,http://www.kineticbrewing.com
+"King Harbor Brewing Co","2907 182nd St",,"Redondo Beach",CA,90278-3922,"(310) 542-8657",micro,http://www.kingharborbrewing.com
+"Kings Brewing Company","8560 Vineyard Ave Ste 301",,"Rancho Cucamonga",CA,91730-4395,"(909) 727-3333",micro,http://www.kingsbrewingco.com
+"Knee Deep Brewing Co.","13395 New Airport Rd Ste H",,Auburn,CA,95602-7419,"(530) 797-4677",micro,http://www.kneedeepbrewing.com
+"Kuracali Inc","821 Caminito del Reposo",,Carlsbad,CA,92011-2404,"(858) 775-6502",proprietor,http://www.kuracali.com
+"La Jara Brewing Co.",,,Lakewood,CA,90713-2301,,planning,
+"La Jolla Brewing Company","7536 Fay Ave",,"La Jolla",CA,92037-4839,"(858) 246-6759",brewpub,http://www.lajollabeer.com
+"La Quinta Brewing Co","77917 Wildcat Dr",,"Palm Desert",CA,92211-1159,"(760) 200-2597",micro,http://www.laquintabrewing.com
+"La Verne Brewing","2125 Wright Ave Ste C15",,"La Verne",CA,91750-5816,"(909) 596-5804",micro,http://www.lavernebrewingco.com
+"LAB Brewing Co / Twisted Oak Tavern","30105 Agoura Rd",,"Agoura Hills",CA,91301-2003,"(818) 735-0091",brewpub,http://www.labbrewingco.com
+"Ladyface Ale Companie, LLC","29281 Agoura Rd",,"Agoura Hills",CA,91301-2597,"(818) 477-4566",brewpub,http://www.ladyfaceale.com
+"Lagunitas Brewing Co","1280 N McDowell Blvd",,Petaluma,CA,94954-1113,"(707) 769-4495",large,http://www.lagunitas.com
+"Lassen Ale Works @ The Pioneer Saloon","724 Main St",,Susanville,CA,96130-4372,"(530) 257-7666",brewpub,http://www.lassenaleworks.com
+"Last Call Brewing Company","944 Shepard Ct Ste C",,Oakdale,CA,95361-7785,"(888) 512-5592",micro,
+"Last Name Brewing","2120 Porter Field Way",,Upland,CA,91786-2111,"(909) 579-0032",micro,http://www.dalebrosbrewery.com
+"Latitude 33 Brewing Co","1430 Vantage Ct Ste 104",,Vista,CA,92081-8545,"(760) 913-7333",micro,http://www.latitude33brewing.com
+"Laughing Monk Brewing","1439 Egbert Ave Unit A",,"San Francisco",CA,94124-3221,"(415) 890-5970",micro,http://www.laughingmonkbrewing.com
+"Lawless Brewing",,,"Los Angeles",CA,90068-1436,"(818) 456-7345",planning,http://lawlessbeer.com
+"Leashless Brewing",,,Ventura,CA,93003-6069,,planning,
+"Left Coast Brewing & Oggis Pizza","1245 Puerta del Sol",,"San Clemente",CA,92673-6310,"(949) 361-9972",micro,http://www.leftcoastbrewing.com
+"Legacy Brewing Company","363 Airport Rd",,Oceanside,CA,92058-1203,"(760) 705-3221",micro,http://www.legacybrewingco.com
+"Legends Craft Brewery","1301 S Lewis St",,Anaheim,CA,92805-6431,"(888) 327-0202",micro,http://www.legendsbeer.com
+"Lengthwise Brewing Co","7700 District Blvd",,Bakersfield,CA,93313-2132,"(661) 836-2537",brewpub,http://www.lengthwise.com
+"Libertine Brewing Company","1234 Broad St",,"San Luis Obispo",CA,93401-3908,"(805) 772-0700",brewpub,http://www.libertinebrewing.com
+"Lightning Brewery","13200 Kirkham Way Ste 105",,Poway,CA,92064-7126,,micro,
+"Lincoln Beer Company","3083 N Lima St",,Burbank,CA,91504-2013,"(818) 687-4206",micro,http://www.lincolnbeercompany.com
+"Lincoln Court Brewery","1061 Lincoln Ct",,"San Jose",CA,95125-2638,"(408) 348-4589",micro,http://www.lincolncourtbrewery.com
+"Linden Street Brewery","3775 Alameda Ave Ste G",,Oakland,CA,94601-3920,"(510) 251-8898",micro,http://www.oaklandunitedbeerworks.com
+"Little Miss Brewing","7949 Stromesa Ct Ste Y",,"San Diego",CA,92126-6338,,micro,
+"Little Tree Brewing","191 S Oak Park Blvd Ste 3",,"Grover Beach",CA,93433-2265,"(805) 668-2038",micro,http://www.littletreebrewing.com
+"Local Brewing Co","69 Bluxome St",,"San Francisco",CA,94107-1605,,micro,http://www.localbrewingco.com
+"Local Craft Beer, Tehachapi","365 Enterprise Way Ste G",,Tehachapi,CA,93561-1369,"(661) 822-2337",micro,http://www.honeywagonbrewing.com
+"Lockdown Brewing Co","11327 Trade Center Dr Ste 350",,"Rancho Cordova",CA,95742-6285,"(916) 835-7416",micro,http://www.lockdownbrewingcompany.com
+"Lodi Beer Company","105 S School St",,Lodi,CA,95240-3509,"(209) 368-2964",brewpub,http://www.lodibeercompany.com
+"Loma Brewing Company","130 N Santa Cruz Ave Ste G",,"Los Gatos",CA,95030-5949,"(408) 560-9626",brewpub,http://www.lomabrew.com
+"Long Beach Beer Lab",,,"Long Beach",CA,90806-2800,"(646) 646-6642",planning,http://lbbeer.com/
+"Longship Brewing Company","10230 Camino Santa Fe Ste C",,"San Diego",CA,92121-,"(858) 246-7875",micro,http://www.longshipbrewery.com
+"Loomis Basin Brewing Co","3277 Swetzer Rd",,Loomis,CA,95650-7607,"(916) 259-2739",micro,http://www.loomisbasinbrewing.com
+"Los Angeles Ale Works","12918 Cerise Ave",,Hawthorne,CA,90250-5521,"(424) 456-4191",micro,http://www.laaleworks.com
+"Los Angeles Craft",,,"Los Angeles",CA,90065-4109,,planning,
+"Lost Coast Brew House","1600 Sunset Dr",,Eureka,CA,95503-2401,"(707) 445-4484",brewpub,http://www.lostcoast.com
+"Lost Coast Brewery and Cafe - Table Bluff Brewing, Inc.","617 4th St",,Eureka,CA,95501-1013,"(707) 445-4480",regional,http://www.lostcoast.com
+"Lost Winds Brewing Company","924 Calle Negocio Ste C",,"San Clemente",CA,92673-6208,"(949) 244-4288",micro,http://www.lostwindsbrewing.com
+"Lucky Devil Brewing","1134 Delaware St Apt E",,Berkeley,CA,94702-1672,"(510) 969-2865",contract,http://www.luckydevilbrewery.com
+"Lucky Luke Brewing Company","610 W Avenue O Ste 104",,Palmdale,CA,93551-3610,"(661) 270-5588",micro,http://www.luckylukebrewing.com
+"Luna Diablo Brewing Co.",,,"Santa Rosa",CA,95404-5036,,planning,http://www.lunadiablobrewing.com
+"M.Special Brewing Company","6860 Cortona Dr Ste C",,Goleta,CA,93117-5507,,micro,http://www.mspecialbrewco.com
+"MachineHead Brewing Co.",,,Fresno,CA,93730-5903,,planning,
+"MacLeod Ale Brewing Company, LLC","14741 Calvert St",,"Van Nuys",CA,91411-2706,"(818) 631-1963",micro,http://www.macleodale.com
+"Mad Duck Craft Brewing Company","3085 E Campus Pointe Dr",,Fresno,CA,93710-7526,"(559) 325-3825",brewpub,http://www.madduckcraft.com
+"Mad Fritz","393 Lafata St",,"Saint Helena",CA,94574-1405,"(707) 968-5058",micro,http://www.madfritz.com
+"Mad River Brewing Co","195 Taylor Way",,"Blue Lake",CA,95525,"(707) 668-4151",micro,http://www.madriverbrewing.com
+"Madewest Brewing Company","1744 Donlon St",,Ventura,CA,93003-5673,"(805) 947-5002",micro,http://www.madewest.com
+"Magnetic Brewing","5595 Magnatron Blvd Ste O",,"San Diego",CA,92111-1310,"(858) 222-1668",micro,
+"Magnolia Brewing Company","1398 Haight St",,"San Francisco",CA,94117-2909,"(415) 864-7468",brewpub,http://www.magnoliabrewing.com
+"Main Street Brewery","357 N Sheridan St Ste 110",,Corona,CA,92880-2028,"(951) 371-1471",contract,http://www.mainstreetbrewery.com
+"Mammoth Brewing Company","PO Box 611 94 Berner St. Unit B /",,"Mammoth Lakes",CA,93546-0611,"(760) 934-7141",micro,http://www.mammothbrewingco.com
+"ManRock Brewing","1750 El Camino Real Ste A",,"Grover Beach",CA,93433-1416,"(805) 270-3089",brewpub,http://www.manrockbrewing.com
+"Mare Island Brewing Co.","289 Mare Island Way",,Vallejo,CA,94590-5801,"(707) 556-3000",brewpub,http://www.mareislandbrewingco.com
+"Marin Brewing Co","1809 Larkspur Landing Cir",,Larkspur,CA,94939-1801,"(415) 461-4677",brewpub,http://www.marinbrewing.com
+"Mason Ale Works","2002 S Coast Hwy",,Oceanside,CA,92054-6535,"(858) 673-8743",brewpub,
+"MBF Brewing Co","220 W 5th St Apt 202",,"Los Angeles",CA,90013-2556,"(831) 521-7921",contract,http://www.bighurtbeer.com
+"Menagerie Brewing Company",,,Lodi,CA,95242-4795,,planning,
+"Mendocino Brewing Co","1601 Airport Rd",,Ukiah,CA,95482-6456,"(707) 463-2627",regional,http://www.mendobrew.com
+Mercurius,,,"San Francisco",CA,94118,"(415) 534-8230",planning,http://mercuriusbrewing.com
+"Metro Brewing Company","1040 Broad St",,"San Luis Obispo",CA,93401-3505,"(805) 542-9804",brewpub,http://www.creeksidebrewing.com
+"Midnight Jack Brewing Company","3801 Oceanic Dr Ste 101",,Oceanside,CA,92056-5850,,micro,http://www.midnightjackbrewing.com
+"Mike Hess Brewing","3812 Grim Ave",,"San Diego",CA,92104-3602,"(619) 255-7136",micro,
+"Mike Hess Brewing - Miramar","7955 Silverton Ave Ste 1201",,"San Diego",CA,92126-6357,"(619) 887-6453",micro,http://www.hessbrewing.com
+"Mikkeller Brewing San Diego","9368 Cabot Dr",,"San Diego",CA,92126-4311,"(858) 381-3500",micro,http://mikkellersd.com
+"Mill Valley Beer Works","173 Throckmorton Ave",,"Mill Valley",CA,94941-1909,,brewpub,http://www.millvalleybeerworks.com
+"MillerCoors Brewing Co - Irwindale","15801 1st St",,Irwindale,CA,91706-2069,"(626) 969-6225",large,http://www.millerbrewing.com
+"Miner’s Alley Brewing Company","2053 Montgomery St",,Oroville,CA,95965-4947,"(530) 693-4388",brewpub,http://www.minersalleybrewingco.com
+"Mission Brewery","1441 L St",,"San Diego",CA,92101-8967,"(619) 544-0555",micro,http://www.missionbrewery.com
+"Modern Times Barrel House","3486 Kurtz St # 102",,"San Diego",CA,92110-4429,,micro,
+"Modern Times Beer","3725 Greenwood St",,"San Diego",CA,92110-4441,,regional,http://www.moderntimesbeer.com
+"Moksha Beer","PO Box 54279",,"San Jose",CA,95154-0279,"(415) 729-5796",contract,http://www.mokshabeer.com
+"Monkey Paw Brewing","807 16th St",,"San Diego",CA,92101-6610,"(619) 867-2226",micro,http://www.monkeypawbrewing.com
+"Monkish Brewing Co","20311 S Western Ave",,Torrance,CA,90501-1504,"(310) 295-2157",micro,http://www.monkishbrewing.com
+"Monk's Cellar","240 Vernon St",,Roseville,CA,95678-2633,,brewpub,
+"Monterey Coast Brewing","202 San Benancio Rd",,Salinas,CA,93908-9124,"(831) 772-9664",brewpub,http://www.montereycoastbrewing.com
+"Moonlight Brewing Co","PO Box 6",,Fulton,CA,95439-0006,"(707) 528-2537",micro,http://www.moonlightbrewing.com
+"Moonraker Brewing Co.","12970 Earhart Ave Ste 100",,Auburn,CA,95602-9022,"(530) 745-6816",micro,http://www.moonrakerbrewing.com
+"Morgan Territory Brewing","1885 N Macarthur Dr",,Tracy,CA,95376-2820,"(209) 834-8664",micro,http://www.morganterritorybrewing.com
+"Mother Earth Brew Co LLC","2055 Thibodo Rd Ste H",,Vista,CA,92081-7991,"(760) 599-4225",regional,http://www.motherearthbrewco.com
+"Moto Brewer - Brewery In Planning - San Francisco",,,"San Francisco",CA,94112-1330,,planning,
+"Mount Shasta Brewing Co","360 College Ave",,Weed,CA,96094-2706,"(530) 938-2394",micro,http://www.weedales.com
+"Mountain Rambler Brewery","186 S Main St",,Bishop,CA,93514-3415,"(760) 258-1348",brewpub,http://www.mountainramblerbrewery.com
+"Moylan's Brewery & Restaurant","15 Rowland Way",,Novato,CA,94945-5001,"(415) 898-4677",brewpub,http://www.moylans.com
+"Mraz Brewing Company","2222 Francisco Dr Ste 510",,"El Dorado Hills",CA,95762-3766,"(916) 934-0744",micro,http://www.mrazbrewingcompany.com
+"Mujicians Brewing Co",,,"San Francisco",CA,94103-1337,,planning,http://www.imamujician.com
+"Mumford Brewing Company","416 Boyd St",,"Los Angeles",CA,90013-1631,,micro,
+"Napa Palisades Beer Company","1000 Main St",,Napa,CA,94559-2645,"(707) 296-1552",proprietor,http://www.napapalisadesbeer.com
+"Napa Smith Brewery & Winery","101 YOLANO DR",,VALLEJO,CA,945892250,"(707) 254-7167",micro,http://www.napasmithbrewery.com
+"Napa Valley Brewing Co/ Calistoga Inn","1250 Lincoln Ave",,Calistoga,CA,94515-1741,"(707) 942-4101",brewpub,http://www.napabeer.com
+"Naughty Oak Brewing Company","165 S Broadway St Ste 102",,Orcutt,CA,93455-4627,"(805) 287-9663",micro,http://www.naughtyoak.com
+"Network Brewery","1824 Carnegie Ave",,"Santa Ana",CA,92705-5503,,micro,http://www.networkbrewery.com
+"New Bohemia Brewing Co","1030 41st Ave",,"Santa Cruz",CA,95062-4447,"(831) 350-0253",micro,http://www.nubobrew.co
+"New English Brewing Co Inc","11545 Sorrento Valley Rd Ste 305",,"San Diego",CA,92121-1322,"(619) 857-8023",micro,http://www.newenglishbrewing.com
+"New Glory Craft Brewery","8251 Alpine Ave",,Sacramento,CA,95826-4708,,micro,
+"New Helvetia Brewing Company","1730 Broadway",,Sacramento,CA,95818-2320,"(916) 469-9889",micro,http://www.newhelvetiabrew.com
+"Newport Beach Brewing Co","2920 Newport Blvd Frnt",,"Newport Beach",CA,92663-3758,"(949) 675-8449",brewpub,http://www.nbbrewco.com
+"Nickel Beer Co","1485 Hollow Glen Rd",,Julian,CA,92036,"(760) 765-2337",micro,http://www.nickelbeerco.com
+"No Clue Craft Brewery","9037 Arrow Rte Ste 170",,"Rancho Cucamonga",CA,91730-4433,"(909) 989-2394",micro,http://www.nocluebrew.com
+"Noble Ale Works","1621 S Sinclair St Ste B",,Anaheim,CA,92806-5947,"(714) 634-2739",micro,http://www.noblealeworks.com
+"North Coast Brewing Co Inc.","455 N Main St",,"Fort Bragg",CA,95437-3215,"(707) 964-2739",regional,http://www.northcoastbrewing.com
+"North Park Beer Co.","3038 University Ave",,"San Diego",CA,92104,"(858) 254-3238",micro,http://www.northparkbeerco.com
+"Novel Brewing Company","6510 San Pablo Ave",,Oakland,CA,94608-1236,"(510) 922-9974",micro,http://novelbrewing.com
+"Novo Brazil Brewing Company","901 Lane Ave # 100",,"Chula Vista",CA,91914-3501,"(619) 869-4274",micro,http://www.novobrazilbrewing.com
+"Oak Hills Brewing","12221 Poplar St Ste 3",,Hesperia,CA,92344-9287,"(760) 244-8278",micro,http://www.oakhillsbrewing.com
+"Oak Park Brewing Co","3514 Broadway",,Sacramento,CA,95817-2825,"(916) 660-2723",brewpub,http://www.opbrewco.com
+"Oceanside Ale Works","1800 Ord Way",,Oceanside,CA,92056-1502,"(760) 721-4253",micro,http://www.oceansidealeworks.net
+"Oceanside Brewing Company","314 Via del Norte",,Oceanside,CA,92058-1232,"(760) 274-5852",micro,http://oceansidebrewingco.com
+"Oda Restaurant","1500 Owens St",,"San Francisco",CA,94158-2334,"(415) 558-9450",brewpub,http://www.barodasf.com
+"Off the Grid Brewing Co","1710 Palmyrita Ave Ste 11",,Riverside,CA,92507-1627,"(909) 648-0781",micro,http://www.otgbrew.com
+"Offbeat Brewing Co","1223 Pacific Oaks Pl Ste 101",,Escondido,CA,92029-2913,"(760) 613-9272",micro,http://www.offbeatbrewing.com
+"Oggis Pizza & Brewing Co - Carmel Mountain Ranch","10155 Rancho Carmel Dr",,"San Diego",CA,92128-3609,"(858) 592-7883",brewpub,http://www.oggis.com
+"Oggis Pizza & Brewing Co - Mission Valley","2245 Fenton Pkwy Ste 108 Fenton Marketplace",,"San Diego",CA,92108-4737,"(619) 640-1072",brewpub,http://www.oggis.com
+"Oggi's Sports Brewhouse Pizza - Apple Valley","19201 Bear Valley Rd Ste D",,"Apple Valley",CA,92308-2704,"(760) 792-2622",brewpub,http://www.oggis.com
+"Ohana Brewing Co","1756 E 23rd St",,"Los Angeles",CA,90058-1012,"(213) 748-2337",micro,http://www.ohanabrew.com
+"Ol' Republic Brewery","124 Argall Way",,"Nevada City",CA,95959-3002,"(530) 264-7263",micro,http://www.olrepublicbrewery.com
+"Old 290 Brewery",,,"Santa Ana",CA,92704-7463,"(714) 546-4255",planning,
+"Old Bus Tavern","3193 Mission St",,"San Francisco",CA,94110-4515,"(415) 843-1938",brewpub,http://www.oldbustavern.com
+"Old Hangtown Beer Works","1117 Elm Ave",,Placerville,CA,95667-4711,"(530) 919-5166",micro,http://www.oldhangtownbeerworks.com
+"Old Orange Brewing Co","1444 N Batavia St",,Orange,CA,92867-3505,"(714) 744-8410",micro,http://www.oldorangebrewing.com
+"Old Redwood Brewing Co.","9000 Windsor Rd # A",,Windsor,CA,95492-9701,"(707) 836-3186",micro,http://www.oldredwoodbrewing.com
+"Old Stump Brewery","2896 Metropolitan Place",,Pomona,CA,91786-2122,"(909) 860-9052",micro,http://www.oldstumpbrewery.com
+"Olde Ritual Brewing Co.","1616 J St",,Sacramento,CA,95814-2021,,contract,
+"O'Meara Bros. Brewing Company","901 Bevins St",,Lakeport,CA,95453-8778,"(707) 262-1234",brewpub,http://www.omearabros.com
+"O'Sullivan Bros. Brewing Co.","9879 Hibert St Ste F",,"San Diego",CA,92131-1058,"(858) 577-0350",micro,http://www.osullivan-brothers.com
+"Out of Bounds Brewing Company","4480 Yankee Hill Rd Ste 100",,Rocklin,CA,95677-1633,,micro,
+"Oxeye Brewing",,,Colfax,CA,95713,"(530) 305-8890",planning,
+"Pabst Brewing Co (Corp office)","10635 Santa Monica Blvd Ste 350",,"Los Angeles",CA,90025-4885,"(310) 470-0962",contract,http://www.pabst.com
+"Pacific Beach Ale House","721 Grand Ave",,"San Diego",CA,92109-3905,"(858) 581-2337",brewpub,http://www.pbalehouse.com
+"Pacific Brew Lab","111 Industrial Way",,Belmont,CA,94002-8202,"(415) 937-7843",contract,http://www.pacbrewlab.com
+"Pacific Coast Brewing Co","906 Washington St",,Oakland,CA,94607-4032,"(510) 836-2739",brewpub,http://www.pacificcoastbrewing.com
+"Pacific Islander Beer Company","8665 Argent St",,Santee,CA,92071-4180,"(619) 270-7777",micro,http://www.pibbeer.com
+"Pacific Plate Brewing Co","1999 S Myrtle Ave",,Monrovia,CA,91016-4854,"(626) 239-8456",micro,http://www.pacificplatebrewing.com
+"Packinghouse Brewing Co, The","6421 Central Ave Ste 101",,Riverside,CA,92504-1450,"(951) 688-2337",micro,http://www.pbbeer.com
+"Palo Alto Brewing Co","1080B La Avenida St",,"Mountain View",CA,94043-1422,,contract,http://www.paloaltobrewing.com
+"Paperback Brewing Company",,,"Woodland Hills",CA,91367-2912,,planning,
+"Pedro Point Brewing",,,Pacifica,CA,94044-3134,"(650) 288-9149",planning,http://www.pedropointbrewing.com
+"Petaluma Hills Brewing Co","1333 N McDowell Blvd Ste A",,Petaluma,CA,94954-7106,"(707) 766-4458",micro,http://www.petalumahills.com
+"Peter B's Brewpub","2 Portola Plz Behind The Portola Hotel",,Monterey,CA,93940-2419,"(831) 649-2699",brewpub,http://www.peterbsbrewpub.com
+"Phantom Ales","1211 N Las Brisas St",,Anaheim,CA,92806-1823,"(714) 630-9463",brewpub,http://www.phantomales.com
+"Phantom Carriage Brewery","18525 S Main St",,Gardena,CA,90248-4611,,brewpub,http://www.phantomcarriage.com
+Pine,"352 W Bedford Ave Ste 111",,Fresno,CA,93711-6079,,,
+"Pine and Palm Brewing","352 W Bedford Ave Ste 111",,Fresno,CA,93711-6079,,micro,
+"Pine Street Brewery",,,"San Francisco",CA,94109-4929,"(415) 744-4062",micro,http://www.pinestreetbrewery.com
+"Pismo Brewing Co","500 Cypress St",,"Pismo Beach",CA,93449-2624,"(805) 295-6200",micro,http://www.pismobrew.com
+"Pizza Orgasmica and Brewing Co","812 4th St",,"San Rafael",CA,94901-3224,"(415) 457-2337",brewpub,http://www.pizzaorgasmica.com
+"Pizza Port - Bressi Ranch","2730 Gateway Rd",,Carlsbad,CA,92009-1730,"(760) 707-1655",micro,http://www.pizzaport.com
+"Pizza Port Carlsbad","PO Box 1697",,Carlsbad,CA,92018-1697,"(760) 720-7007",regional,http://www.pizzaport.com
+"Pizza Port Ocean Beach","1956 Bacon St",,"San Diego",CA,92107-2844,"(619) 224-4700",brewpub,http://www.pizzaport.com
+"Pizza Port San Clemente","301 N El Camino Real",,"San Clemente",CA,92672-4716,"(949) 940-0005",brewpub,http://www.pizzaport.com
+"Pizza Port Solana Beach","135 N Highway 101",,"Solana Beach",CA,92075-1128,"(858) 481-7332",brewpub,http://www.pizzaport.com
+"Placerville Brewing Co","155 Placerville Dr",,Placerville,CA,95667-3909,"(530) 295-9166",brewpub,http://www.placervillebrewing.com
+"Plan 9 Alehouse","155 E Grand Ave",,Escondido,CA,92025-2701,"(760) 489-8817",brewpub,http://www.plan9alehouse.com
+"Pleasanton Main St Brewery","830 Main St Frnt",,Pleasanton,CA,94566-6652,"(925) 462-8218",brewpub,http://www.mainstbrewery.com
+"Plow Brewing Company","3334 Industrial Dr",,"Santa Rosa",CA,95403-2011,"(707) 843-4583",micro,
+"Pocock Brewing Company","24907 Avenue Tibbitts Ste B",,"Santa Clarita",CA,91355-3487,"(661) 775-4899",micro,http://www.pocockbrewing.com
+"Poor House Brewing","4494 30th St",,"San Diego",CA,92116-4287,"(619) 786-4409",micro,http://www.poorhousebrew.com
+"Port Brewing Co / The Lost Abbey","155 Mata Way Ste 104",,"San Marcos",CA,92069-2983,"(800) 918-6816",regional,http://www.portbrewing.com
+"Port O'Pints Brewing Co.","1020 Blackwell Ln",,"Crescent City",CA,95531-8810,,micro,
+"Port Town Brewing Co",,,"Los Angles",CA,90731-3317,"(310) 508-6013",proprietor,http://www.porttownbrewing.com
+"Poseidon Brewing Company","5777 Olivas Park Dr Unit Q",,Ventura,CA,93003-7928,"(805) 477-0239",micro,http://www.poseidonbrewingco.com
+"Prodigy Brewing Company",,,"San Marcos",CA,92078-3827,,planning,http://www.prodigybrewingcompany.com
+"Progress Brewing","1822 Chico Ave",,"South El Monte",CA,91733-2944,"(626) 552-9603",micro,http://progress-brewing.com
+"Prohibition Brewing","2004 E Vista Way",,Vista,CA,92084-3321,"(760) 295-3525",brewpub,http://www.prohibitionbrewingcompany.com
+"Promised Land Brewing Company",,,Gilroy,CA,95020-5607,"(408) 482-1462",planning,
+"Pure Order Brewing Co","410 N Quarantina St",,"Santa Barbara",CA,93103-3119,,micro,
+"Pure Project","9030 Kenamar Dr Ste 308",,"San Diego",CA,92121-2432,"(858) 252-6143",micro,http://www.purebrewing.org
+"Quantum Brewing Co","5375 Kearny Villa Rd Ste 116",,"San Diego",CA,92123-1422,"(858) 254-6481",micro,http://www.quantumbrewingsd.com
+"Red Branch Brewing Company / Rabbits Foot Meadery","1246 Birchwood Dr",,Sunnyvale,CA,94089-2205,"(408) 747-0770",micro,http://www.rabbitsfootmeadery.com
+"Red Car Brewery and Restaurant","1266 Sartori Ave",,Torrance,CA,90501-2717,"(310) 782-0222",brewpub,http://www.redcarbrewery.com
+"Red Tandem Brewery","1009 Harbor Blvd",,Oxnard,CA,93035-1131,"(805) 832-4023",micro,http://www.redtandembrewery.com
+"Redwood Curtain Brewing Co","550 S G St Ste 6",,Arcata,CA,95521-6683,"(707) 826-7222",micro,http://www.redwoodcurtainbrewing.com
+"Redwood Station Brewing Co.",,,"Santa Rosa",CA,95401-5416,"(707) 953-4682",planning,http://www.redwoodstation.com
+"Reel Brew Co.","PO Box 5309",,"Sherman Oaks",CA,91413-5309,,contract,
+"Refuge Brewery, Inc.","43040 Rancho Way Ste 200",,Temecula,CA,92590-5400,,micro,
+"Relentless Brewing Co","42030 Avenida Alvarado",,Temecula,CA,92590-3404,"(951) 296-9400",micro,http://www.relentlessbrewing.com
+"Rescue Brewing Co",,,Upland,CA,91786,"(626) 664-5537",planning,http://www.rescuebrewingco.com
+"Rescue Brewing Company","167 N. 2nd Ave",,Upland,CA,91786,"(909) 360-2739",,http://www.rescuebrewingco.com
+"Resident Brewing","411 C St",,"San Diego",CA,92101-5105,,micro,http://www.residentbrewing.com
+"Right Eye Brewing Co","221 Benton Ct",,"Suisun City",CA,94585-2405,"(707) 673-2380",micro,http://www.righteyebrewing.com
+"Riip Beer Company","7272 Saturn Dr Ste F",,"Huntington Beach",CA,92647-4478,"(714) 248-6710",micro,
+"Riley's Brewing Co","28777 Avenue 15 1/2",,Madera,CA,93638-2316,"(559) 577-3445",micro,http://www.rileysbrewing.us
+"Rincon Brewery","5065 Carpinteria Ave",,Carpinteria,CA,93013-2046,"(805) 684-6044",brewpub,http://www.rinconbrewery.com
+"Rip Current Brewery","1325 Grand Ave Ste 100",,"San Marcos",CA,92078-2451,"(760) 481-3141",micro,http://www.ripcurrentbrewing.com
+"Rip Current Brewing North Park","4101 30th St",,"San Diego",CA,92104-1905,"(760) 481-3141",brewpub,http://www.ripcurrentbrewing.com
+"Ritual Brewing Co","1315 Research Dr",,Redlands,CA,92374-4583,"(909) 478-7800",micro,http://www.ritualbrewing.com
+"River City Brewing Co","545 Downtown Plz Ste 1115",,Sacramento,CA,95814-3338,"(916) 447-2739",brewpub,http://www.rivercitybrewing.net
+"Rock Bottom Brewery - La Jolla","8980 Villa La Jolla Dr",,"La Jolla",CA,92037-1701,"(858) 450-9277",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - Long Beach","1 Pine Ave",,"Long Beach",CA,90802-4759,"(562) 308-2255",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - San Jose","1875 S Bascom Ave # 700",,Campbell,CA,95008-2310,"(408) 377-0707",brewpub,http://www.rockbottom.com
+"Rocksteady Brewing Co.","611 Escobar St",,Martinez,CA,94553-1111,"(925) 228-8787",brewpub,http://www.creekmonkey.com
+"Rocland Beverage Co","1601 Airport Rd",,Ukiah,CA,95482-6456,"(707) 657-7721",contract,http://www.asskisserales.com
+"Rok House Brewing Co.","1939 W 11th St Ste A",,Upland,CA,91786-3559,"(909) 981-0020",micro,http://www.rokhousebrewing.com
+"Rough Draft Brewing","8830 Rehco Rd Ste D",,"San Diego",CA,92121-3263,"(858) 453-7238",micro,http://www.roughdraftbrew.com
+"Route 30 Brewing Company","9860 Indiana Ave #19",,Riverside,CA,92503-5567,"(951) 776-7083",micro,
+"Rowdy's Brew Company","10002 6th St Ste A",,"Rancho Cucamonga",CA,91730-5784,"(909) 929-2722",micro,http://rowdysbrewco.com
+"Rubens Distilling And Brewing","909 E El Segundo Blvd",,"El Segundo",CA,90245-4110,"(424) 277-1134",micro,http://rubensspirit.com/
+"Rubicon Brewing Co","2004 Capitol Ave",,Sacramento,CA,95811-4215,"(916) 448-7032",brewpub,http://www.rubiconbrewing.com
+"Rubicon Brewing Company Production Facility and Tap Room","885 Stillwater Rd Ste 100",,"West Sacramento",CA,95605-1647,"(916) 448-7032",micro,
+"Ruhstaller Beer","630 K St",,Sacramento,CA,95814-3331,"(916) 919-5691",micro,http://www.ruhstallerbeer.com
+"Russian River Brewing Co","725 4th St.",,"Santa Rosa",CA,95404-4407,,regional,
+"Russian River Brewing Co - Production","1812 Ferdinand Ct",,"Santa Rosa",CA,95404-5968,,micro,http://www.russianriverbrewing.com
+"Sackbut Brewing and Barrelwerks",,"Fresno, CA",,,,,micro,
+"Sacrilege Brewing Project","730 Main St",,"Half Moon Bay",CA,94019-1925,"(650) 942-9477",brewpub,
+"Sactown Union Brewery","1210 66th St Unit B",,Sacramento,CA,95819-4327,,micro,
+"Saint Archer Brewing Company","9550 Distribution Ave",,"San Diego",CA,92121-2306,"(858) 225-2337",large,http://www.saintarcherbrewery.com
+"San Diego Brewing Co","10450 Friars Rd Ste L",,"San Diego",CA,92120-2311,"(619) 284-2739",brewpub,http://www.sandiegobrewing.com
+"San Diego Brewing Co North Park Tasting Room","3052 El Cajon Blvd Ste A",,"San Diego",CA,92104-1618,"(619) 284-2739",micro,
+"San Fernando Brewing Co.","425 Park Ave",,"San Fernando",CA,91340-2525,"(818) 745-6175",micro,http://www.sanfernandobrewingcompany.com
+"San Francisco Brewing Co","100 BRODERICK ST APT 401",,"SAN FRANCISCO",CA,941173125,"(415) 278-2206",contract,http://www.sfbrewingco.com
+"San Marcos Brewery and Grill","1080 W San Marcos Blvd Ste 180",,"San Marcos",CA,92078-4099,"(760) 471-0050",brewpub,
+"San Pedro Brewing Co","331 W 6th St",,"San Pedro",CA,90731-3317,"(310) 831-5663",brewpub,http://www.sanpedrobrewing.com
+"Sanctum Brewing Co","560 E Commercial St Ste 21",,Pomona,CA,91767-5649,"(626) 848-4644",micro,http://www.sanctumbrewing.com
+"Sandude Brewing Co","1401 Freitas Park",,Turlock,CA,95380-6254,"(209) 678-1547",micro,
+"Santa Barbara Brewing Co","501 State St",,"Santa Barbara",CA,93101-1601,"(805) 730-1040",brewpub,http://www.sbbrewco.com
+"Santa Clara Valley Brewing","101 E Alma Ave",,"San Jose",CA,95112-5944,"(408) 288-5181",micro,http://www.scvbrewing.com
+"Santa Cruz Aleworks","150 Dubois St Ste E",,"Santa Cruz",CA,95060-2114,"(831) 425-1182",brewpub,http://www.santacruzaleworks.com
+"Santa Cruz Mountain Brewing","402 Ingalls St Ste 27",,"Santa Cruz",CA,95060-5869,"(831) 425-4900",brewpub,http://www.santacruzmountainbrewing.com
+"Santa Maria Brewing Co","1451 Fairway Dr",,"Santa Maria",CA,93455-1404,,micro,http://www.santamariabrewingco.com
+"Santa Monica Brew Works","1920 Colorado Ave Ste C",,"Santa Monica",CA,90404-3414,"(310) 828-7629",micro,http://www.santamonicabrewworks.com
+"Sante Adairius Rustic Ales","103 Kennedy Dr",,Capitola,CA,95010-3641,"(831) 345-4867",micro,http://www.rusticales.com
+"Sauced BBQ & Spirits","2300 First St Ste 120",,Livermore,CA,94550-3141,"(925) 961-1300",micro,http://www.saucedbbqandspirits.com
+"Scholb Premium Ales","2964 Columbia St",,Torrance,CA,90503-3806,"(424) 350-7303",micro,http://www.drinkscholb.com
+"Schubros Brewery","12893 Alcosta Blvd Ste N",,"San Ramon",CA,94583-1305,"(925) 327-0700",micro,http://www.schubros.com
+"Seabright Brewery","519 Seabright Ave Ste 107",,"Santa Cruz",CA,95062-3482,"(831) 426-2739",brewpub,http://www.seabrightbrewery.com
+"Seaquake Brewing","400 Front St",,"Crescent City",CA,95531-4369,"(707) 465-4444",brewpub,http://www.seaquakebrewing.com
+"Second Chance Beer Company","15378 Ave of Science",,"San Diego",CA,92128,"(858) 705-6250",micro,http://www.secondchancebeer.com
+"Seismic Brewing Co.",,,"Santa Rosa",CA,95407-5711,"(707) 544-5996",planning,
+"Sequoia Brewing Co - Tower District","777 E Olive Ave",,Fresno,CA,93728-3350,"(559) 264-5521",brewpub,http://www.sequoiabrewing.com
+"Seven Stills","1439 Egbert Ave Unit C",,"San Francisco",CA,94124-3221,,micro,http://www.sevenstillsofsf.com/
+"Shadow Puppet Brewing Company","4771 Arroyo Vis Ste B",,Livermore,CA,94551-4847,"(925) 453-6498",brewpub,http://www.shadowpuppetbrewing.com
+"Shady Oak Barrel House","1695 Piner Rd Ste C",,"Santa Rosa",CA,95403-1920,"(707) 595-8958",micro,
+"Shanty Irish Brewing Company/Rooney's Irish Pub","241 S Broadway St",,"Santa Maria",CA,93455-4657,"(805) 934-3777",brewpub,http://www.rooneysirishpub.net
+"Shanty Shack Brewing","138 Fern St",,"Santa Cruz",CA,95060-2118,"(831) 316-0800",micro,http://www.shantyshackbrewing.com
+"Shire Station Brewing Company",,,Lemoore,CA,93245-9485,"(559) 250-2797",planning,http://www.shirestation.com
+"Sidellis Lake Tahoe","PO Box 18835",,"South Lake Tahoe",CA,96151-8835,"(530) 600-3999",brewpub,
+"Sierra Nevada Brewing Co","1075 E 20th St",,Chico,CA,95928-6722,"(530) 893-3520",regional,http://www.sierranevada.com
+"Signal Hill Brewing Company",,,Downey,CA,90241,,planning,
+"Silva Brewing","525 Pine St Ste B",,"Paso Robles",CA,93446-3185,"(805) 369-2337",micro,http://www.silvabrewing.com
+"Siskiyou Brew Works","110 Squawvalley Rd",,Mccloud,CA,96057,"(530) 925-5894",brewpub,http://www.siskiyoubrewworks.com
+"Six Rivers Brewery","1300 Central Ave",,McKinleyville,CA,95519-6429,,brewpub,
+"Skyland Ale Works","109 N Maple St Ste C",,Corona,CA,92880-1798,"(951) 817-3037",micro,http://www.skylandaleworks.com
+"SLO Brewing Co","736 Higuera St",,"San Luis Obispo",CA,93401-7906,"(805) 706-2915",brewpub,http://www.slobrew.com
+"SLO Brewing Co - The Rock","855 Aerovista Place",,"San Luis Obispo",CA,93401-7906,"(805) 706-2915",micro,
+"Smog City Brewing","1901 del Amo Blvd Ste B",,Torrance,CA,90501-1350,310-320-SMOG,micro,http://www.smogcitybrewing.com
+"Smoke Mountain Brewery","6500 Casitas Pass Rd",,Ventura,CA,93001-9794,"(805) 804-7954",micro,http://www.smokemtn.com
+"Smokestack At Magnolia Brewing Company","2505 3rd St",,"San Francisco",CA,94107-3112,"(415) 864-7468",micro,http://www.magnoliasmokestack.com
+"Snowshoe Brewing Co","2050 Hwy 4",,Arnold,CA,95223,"(209) 795-2272",brewpub,http://www.snowshoebrewing.com
+"Social Kitchen & Brewery","1326 9th Ave",,"San Francisco",CA,94122-2309,"(415) 681-0330",brewpub,http://www.socialkitchenandbrewery.com
+"Societe Brewing Company","8262 Clairemont Mesa Blvd",,"San Diego",CA,92111-1702,"(858) 598-5409",micro,http://www.societebrewing.com
+"Solarc Brewing","134 S Avenue 57",,"Los Angeles",CA,90042-4702,"(508) 479-2502",micro,http://www.solarcbrewing.com
+"Solvang Brewing Co","1547 Mission Dr",,Solvang,CA,93463-2607,"(805) 688-2337",brewpub,http://www.solvangbrewingcompany.com
+"Solvang Brewing Company - Lompoc","234 N H Street",,Lompoc,CA,93436,"(978) 729-2485",brewpub,http://www.solvangbrewing.com
+"Sonoma Grille","165 W Napa St",,Sonoma,CA,95476-6626,"(707) 938-7542",brewpub,http://www.sonomagrilleandbar.com
+"Sonoma Springs Brewing Co","19449 Riverside Dr Ste 100",,Sonoma,CA,95476-6362,"(707) 202-8295",micro,http://www.sonomaspringsbrewery.com
+"Sons of Liberty Aleworks","1780 Town and Country Dr Ste 101",,Norco,CA,92860-3618,"(951) 278-1760",micro,http://www.solaleworks.com
+"South Gate Brewing Co","40233 Enterprise Dr",,Oakhurst,CA,93644-8839,"(858) 232-1737",brewpub,http://www.southgatebrewco.com
+"South Lake Brewing Company","1920 Lake Tahoe Blvd",,"South Lake Tahoe",CA,96150,"(530) 578-0087",micro,http://www.southlakebeer.com
+"South Park Brewing","1517 30th St",,"San Diego",CA,92102-1503,"(619) 610-9038",brewpub,http://www.southparkbrewing.com
+"Southern Pacific Brewing","620 Treat Ave",,"San Francisco",CA,94110-2016,"(415) 341-0152",brewpub,http://www.southernpacificbrewing.com
+"Southpaw BBQ & Southern Cooking","2170 Mission St",,"San Francisco",CA,94110-1247,"(415) 934-9300",brewpub,http://www.southpawbbqsf.com
+"SpecHops Brewing Company","5129 Mendip St",,Oceanside,CA,92057-1854,,micro,http://www.spechops.com
+"Split Hops Brewing Co.",,"San Clemente, CA",,,,,planning,
+"St. Florian's Brewery","7704 Bell Rd Ste A",,Windsor,CA,95492-8518,"(707) 838-2739",micro,http://www.stfloriansbrewery.com
+"Stadium Brewing Co","26731 Aliso Creek Rd Ste C",,"Aliso Viejo",CA,92656-4811,"(949) 448-9611",brewpub,http://www.stadiumbrewingco.com
+"Stadium Pizza - Murrieta","32278 Clinton Keith Rd Ste 101",,Wildomar,CA,92595-7314,"(951) 678-7826",brewpub,http://www.stadiumpizza.com
+"Standard Deviant Brewing","280 14th St",,"San Francisco",CA,94103-2420,"(415) 590-2550",micro,http://www.standarddeviantbrewing.com
+"Star B Ranch",,,Ramona,CA,92065-6714,,planning,
+"State Brewing Co LLC","1237 W 134th St Ste 2",,Gardena,CA,90247-1962,,micro,http://www.statebrewingco.com
+"State Room Brewery","1132 4th St",,"San Rafael",CA,94901-3007,"(415) 295-7929",brewpub,http://stateroombrewery.com
+"Stateline Brewery","4118 Lake Tahoe Blvd Ste 1",,"South Lake Tahoe",CA,96150-6990,"(530) 542-9000",brewpub,http://www.statelinebrewery.com
+"Steel Bonnet Brewing Co","15907 Forest Hill Dr",,"Boulder Creek",CA,95006-8626,,micro,http://www.steelbon.net
+"Steelhead Brewing Co - Burlingame Station","333 California Dr",,Burlingame,CA,94010-4114,"(650) 344-6050",brewpub,http://www.steelheadbrewery.com
+"Stereo Brewing Co","950 S Via Rodeo",,Placentia,CA,92870-6775,"(714) 993-3390",micro,http://www.stereobrewing.com
+"Stone Brewing Co","1999 Citracado Pkwy",,Escondido,CA,92029-4158,"(760) 294-7899",regional,http://www.stonebrewing.com
+"Stone Brewing World Bistro & Gardens- Liberty Station","2816 Historic Decatur Rd Ste 116",,"San Diego",CA,92106-6164,"(619) 269-2200",brewpub,http://www.stonelibertystation.com
+"Stone Church Brewing","2785 Cabot Dr Ste 160",,Corona,CA,92883-7388,"(951) 433-0121",micro,"http://www.stonechurchbrewing,com"
+"Stover Brewing",,,"San Diego",CA,92124-1426,"(619) 363-4677",planning,
+"Strand Brewing Co","2352 Telo Ave",,Torrance,CA,90505,,micro,http://www.strandbrewing.com
+"Strike Brewing Co","2099 S 10th St Unit 30",,"San Jose",CA,95112-4116,"(650) 714-6983",micro,http://www.strikebrewingco.com
+"Strum Brewing Company","235 S Campus Ave",,Ontario,CA,91761-1736,"(909) 678-6935",micro,http://www.strumbrewing.com
+"Stumblefoot Brewing","1784 La Costa Meadows Dr Ste 103",,"San Marcos",CA,92078-5174,"(760) 566-3668",micro,http://www.stumblefoot.com
+"Stumptown Brewery","15045 River Rd",,Guerneville,CA,95446-8043,"(707) 869-0705",brewpub,
+"Sudwerk Brewing Co","2001 2nd St",,Davis,CA,95618-5474,"(530) 756-2739",micro,http://www.sudwerkbrew.com
+"Sufferfest Beer Company","2147 Greenwich St",,"San Francisco",CA,94123-3404,,contract,http://www.sufferfestbrewing.com
+"Sundowner Brewing Co.","30961 Agoura Rd Ste 321",,"Westlake Village",CA,91361-5686,"(818) 597-9463",micro,http://www.malibusundowner.com
+"Sunset Reservoir Brewing Company","1735 Noriega St",,"San Francisco",CA,94122-4307,"(415) 571-8452",brewpub,http://www.sunsetbeersf.com
+"Super Owl Brewing",,,Davis,CA,95616-5624,,planning,http://www.superowlbrewing.com
+"Surf Brewery","4561 Market St Ste A",,Ventura,CA,93003-6483,"(805) 644-2739",micro,http://www.surfbrewery.com
+"Surfridge Brewing Company",,,"Santa Monica",CA,90403,,planning,http://www.surfridgebrewery.com
+"Sutter Buttes Brewing","421 Center St",,"Yuba City",CA,95991-4505,"(530) 790-7999",brewpub,http://www.sutterbuttesbrewing.com
+"Syzygetically Incorporated",,,Newhall,CA,91321-2801,"(661) 993-1846",planning,
+"T.W. Pitchers Brewing Co","1329 17th Ave",,"San Francisco",CA,94122-1912,,contract,http://www.twpitchers.com
+"Tack Brewing",,,Oakland,CA,94618-1534,"(805) 404-4861",planning,http://www.tackbrewing.com
+"Tactical OPS Brewing Inc.","2985 N Burl 102",,Fresno,CA,93727,"(559) 313-8759",micro,
+"Tahoe Mountain Brewing Company","475 N. Lake Blvd",,"Tahoe City",CA,96145,"(530) 581-4677",brewpub,http://www.tahoebrewing.com
+"Tahoe Mountain Brewing Company","10990 Industrial Way Ste B104",,Truckee,CA,96161-0258,,micro,http://tahoebrewing.com/
+"Tanner Jacks","2796 S Halcyon Rd",,"Arroyo Grande",CA,93420-6514,"(805) 473-8485",brewpub,
+"Tannery Bend Beerworks","2044 2nd St",,Napa,CA,94559-2324,"(707) 363-7736",micro,http://tannerybendbeerworks.com
+"TAP BROTHERS BREWERY",,,Whittier,CA,90603,,planning,http://tapbrothersbrewery.com
+"Tap It Brewing Co","675 Clarion Ct Ste 1",,"San Luis Obispo",CA,93401-8178,,proprietor,
+"Taplands Brewery","1171 Homestead Rd Ste 110",,"Santa Clara",CA,95050-5479,"(408) 709-2990",brewpub,http://www.taplands.com/brewery
+"Taps Fish House and Brewery - Brea","101 E Imperial Hwy",,Brea,CA,92821-4924,"(714) 257-0101",brewpub,http://www.tapsbrea.com
+"Taps Fish House and Brewery - Corona","2745 Lakeshore Dr",,Corona,CA,92883-7367,"(951) 277-5800",brewpub,
+"Tarla Mediterranean Bar and Grill","1480 1st St",,Napa,CA,94559-2843,"(707) 255-5599",brewpub,http://www.tarlagrill.com
+"TDBrewing LLC","2354 E Brandon Ln",,Fresno,CA,93720-4400,"(559) 260-0539",proprietor,http://twodudesbrewing.com
+"Teeccino Brewing Company",,,Carpinteria,CA,93013-2905,"(805) 966-0999",planning,http://www.teeccino.com
+"Telegraph Brewing Co","418 N Salsipuedes St",,"Santa Barbara",CA,93103-3127,"(805) 963-5018",micro,http://www.telegraphbrewing.com
+"Temblor Brewing Company","3200 Buck Owens Blvd Ste 200",,Bakersfield,CA,93308-6376,,brewpub,http://www.temblorbrewing.com
+"Temescal Brewing","4115 Telegraph Ave",,Oakland,CA,94609-2405,"(510) 899-5628",micro,http://www.temescalbrewing.com
+"Ten Mile Brewing",,,"Signal Hill",CA,90755-3433,,planning,http://www.tenmilebrewing.com
+"Tenacious Brewing Company",,,"San Diego",CA,92101,,planning,
+"Tent City Beer Company","6760 El Camino Real",,Atascadero,CA,93422-4205,"(805) 460-6454",micro,http://www.mollypitcher.net
+"The Beer Company","602 Broadway",,"San Diego",CA,92101-5423,"(619) 398-0707",brewpub,http://www.thebeerco.net
+"The Blue Poppy Brewery",,,"Yorba Linda",CA,92886-7300,"(310) 963-4163",planning,
+"The Brass Tap Rocklin",,,Rocklin,CA,95677-3925,"(916) 246-2729",planning,http://www.brasstaprocklin.com
+"The Brewhouse","229 W Montecito St",,"Santa Barbara",CA,93101-3824,"(805) 963-2739",brewpub,http://www.brewhousesb.com
+"The Brewing Lair","67007 CA Hwy 70",,Blairsden-Graeagle,CA,96103-1651,"(530) 394-0940",micro,http://www.thebrewinglair.com
+"The Dancing Fox","203 S School St",,Lodi,CA,95240-3511,"(209) 366-2634",brewpub,http://www.dancingfoxwinery.com
+"The Fat Cat Beer Co","7979 Ivanhoe Ave Ste 555",,"La Jolla",CA,92037-4570,,contract,http://www.fatcatbeers.com
+"The Feinics Company, Inc.",,,Placerville,CA,95667-9009,"(541) 204-0037",planning,
+"The Good Beer Company, Inc.","309 W 4th St",,"Santa Ana",CA,92701-4502,,micro,http://www.thegoodbeerco.com
+"The Mason Jar Brewing Company","29683 New Hub Dr Ste A",,Menifee,CA,92586-6545,"(951) 244-5277",micro,http://www.masonjarbrewing.com
+"The Pfeiffer Brewing Company",,,Fullerton,CA,92832,"(949) 291-8945",planning,http://www.pfeiffersfamous.com
+"The Public Good, Inc",,,"Chula Vista",CA,91913,"(619) 500-3958",planning,
+"The Rare Barrel","940 Parker St",,Berkeley,CA,94710-,"(510) 984-6585",micro,http://www.therarebarrel.com
+"The Runway By Patrick","2044 Airport Rd",,Napa,CA,94558-6208,"(707) 258-6115",brewpub,http://www.therunwaybypatrick.com
+"There Does Not Exist",,,"San Luis Obispo",CA,93401,,planning,http://www.theredoesnotexist.com
+"Third Street Aleworks","610 3rd St",,"Santa Rosa",CA,95404-4418,"(707) 523-3060",brewpub,http://www.thirdstreetaleworks.com
+"Third Window Brewing","406 E Haley St Ste 3",,"Santa Barbara",CA,93101-1740,"(805) 979-5090",micro,http://www.thirdwindowbrewing.com
+"ThirstyBear Organic Brewery","661 Howard St",,"San Francisco",CA,94105-3915,"(415) 974-0905",brewpub,http://www.thirstybear.com
+"Thorn Brewing Co",,"San Diego, CA",,,,,planning,
+"Thorn Street Brewery","3174 Thorn St",,"San Diego",CA,92104-4636,"(619) 501-2739",micro,http://www.thornstreetbrew.com
+"Thr3e Punks Ale",,"Chula Vista, CA",,,,"(619) 857-9092",micro,http://3punkales.com/red/index.html
+"Three Forks Bakery & Brewing Company","211 Commercial St",,"Nevada City",CA,95959-2506,"(530) 470-8333",brewpub,http://threeforksnc.com
+"Three Mile Brewing Co","231 G St",,Davis,CA,95616-4549,"(503) 564-4351",micro,http://www.threemilebrewing.com
+"Three Monkeys Brewing Co","455 S Pine St Ste 3",,Madera,CA,93637-5242,"(559) 363-2709",micro,http://www.3monkeysbrewing.com
+"Three Weavers Brewing Company","1031 W Manchester Blvd Unit A-B",,Inglewood,CA,90301-1509,"(310) 400-5830",micro,http://www.threeweavers.la
+"Tied House Cafe and Brewery-Mtn View","954 Villa St",,"Mountain View",CA,94041-1236,"(650) 965-2739",brewpub,http://www.tiedhouse.com
+"Tilted Mash Brewery","9110 Union Park Way Ste 107",,"Elk Grove",CA,95624-2792,,micro,http://www.tiltedmash.com
+"Timeless Pints Brewing Co","3671 Industry Ave Ste C1",,Lakewood,CA,90712-4155,"(562) 490-0099",micro,http://www.timelesspints.com
+"Tioga-Sequoia Brewing Co","746 Broadway St",,Fresno,CA,93721-2808,"(559) 264-5521",micro,http://www.tiogasequoia.com
+"Toolbox Brewing Company","1495 Poinsettia Ave Ste 148",,Vista,CA,92081-8539,"(760) 598-1477",micro,http://toolboxbrewing.com
+"Topa Topa Brewing Co","104 E Thompson Blvd",,Ventura,CA,93001-2723,"(805) 628-9255",micro,http://www.topatopabrewingco.com
+Topsy's,"260 Kearny St",,"San Francisco",CA,94108-4538,"(415) 757-0290",brewpub,http://www.topsyssf.com
+"Toro Creek Brewing Co","7220 Toro Creek Rd",,Atascadero,CA,93422-1025,,micro,http://torocreekbrewingcompany.com
+"Tortuga Brewing Co.",,,Inglewood,CA,90302-3308,"(412) 818-6360",planning,http://www.tortugabrewing.com
+"Touchstone Brewing Company",,,Sacramento,CA,95811-0618,"(415) 570-1391",planning,
+"Towne Park Brew Co.","19191 Lawrence Cyn",,Silverado,CA,92676-9731,"(949) 647-3562",micro,http://www.towneparkbrew.com
+"Track 7 Brewing Co - Curtis Park","826 Professor Ln Ste 100",,Sacramento,CA,95834-7743,"(916) 520-4677",micro,
+"Track 7 Brewing Co - Curtis Park","3747 W Pacific Ave Ste F",,Sacramento,CA,95820-1000,"(916) 520-4677",micro,http://www.track7brewing.com
+"Trader Joes - West Coast Office","PO Box 5049",,Monrovia,CA,91017-7149,"(626) 599-3700",contract,
+"Transmission Brewing Company",,,Oxnard,CA,93030-8231,"(805) 407-6133",planning,http://jonkercarey@gmail.com
+"Transplants Brewing Company","40242 La Quinta Ln Ste 101",,Palmdale,CA,93551-3630,"(661) 266-7911",micro,http://www.transplantsbrewing.com
+"Triple Rock Brewery and Alehouse","1920 Shattuck Ave",,Berkeley,CA,94704-1022,"(510) 843-2739",brewpub,http://www.triplerock.com
+"Triple Voodoo Brewing Co","2245 3rd St",,"San Francisco",CA,94107-3125,,micro,http://www.triplevoodoo.com
+"Trumer Brauerei","1404 4th St",,Berkeley,CA,94710-1323,"(510) 526-1160",regional,http://www.trumer-international.com
+"Tustin Brewing Co","13011 Newport Ave Ste 100",,Tustin,CA,92780-3517,"(714) 665-2337",brewpub,http://www.tustinbrewery.com
+"TUYA SuperBrewing Co.","2890 Soquel Ave",,"Santa Cruz",CA,95062-1411,"(844) 487-8892",micro,http://www.tuyasuperbrew.com
+"Twelve Rounds Brewing","866 57th St",,Sacramento,CA,95819-3327,,micro,
+"Two Coast Brewing Co.",,,Venice,CA,90291-5638,"(310) 399-4343",micro,
+"Two Dude Brew",,,Clearlake,CA,95422-8159,"(707) 533-7600",planning,
+"Ukiah Brewin Company","102 South State Street",,Ukiah,CA,95482,"(707) 468-5898",brewpub,http://www.ukiahbrewing.com
+"Uncommon Brewers","303 Potrero St Ste 40H",,"Santa Cruz",CA,95060-2778,"(831) 234-1486",micro,http://www.uncommonbrewers.com
+"Unsung Brewing Company","1332 Bell Ave Ste 2D",,Tustin,CA,92780-6439,,micro,
+"Valley Brewing Co","157 W Adams St",,Stockton,CA,95204-5337,"(209) 464-2739",brewpub,http://www.valleybrew.com
+"Venice Ale House Brewing Co","2 Rose Ave",,Venice,CA,90291-2411,"(310) 314-8253",contract,http://www.venicealehouse.com
+"Venice Duck Brewery",,,Venice,CA,90291-3833,"(310) 383-4927",contract,http://www.veniceduckbrewery.com
+"Ventura Coast Brewing Company","76 S Oak St",,Ventura,CA,93001-2702,,micro,
+"Vice Brewing Co",,,Visalia,CA,93291-6502,,planning,
+"W Brewing","1465 Tollhouse Rd Ste 105",,Clovis,CA,93611-0591,"(559) 473-1875",micro,http://www.wbrewing.com
+"Waganupa Brewing","289 Clifford Dr Unit B",,"Lake Almanor",CA,96137-9641,"(530) 259-3705",micro,http://www.waganupa.com
+"Warm Springs Brewery",,,"Canyon Country",CA,91387,"(661) 714-2221",planning,
+"Wavelength Brewing Company","236 Main St",,Vista,CA,92084-6008,"(760) 820-9283",micro,http://www.wavelengthbrewco.com
+"White Labs Tasting Room","9495 Candida St",,"San Diego",CA,92126-4541,"(858) 693-3441",micro,http://www.whitelabs.com
+"Whole Foods Market Brewing Company","777 The Alameda",,"San Jose",CA,95126-3155,"(408) 207-1126",brewpub,http://www.missioncreekbrewingco.com
+"Wicks Brewing Company LLC","11620 Sterling Ave Ste C",,Riverside,CA,92503-4904,"(951) 689-2739",brewpub,http://wicksbrewing.com
+"Wiens Brewing Co / Weins Family Cellars","27941 Diaz Rd Ste A",,Temecula,CA,92590-3484,"(951) 694-9892",micro,http://www.weinsbrewing.com
+"Wild Barrel Brewing Company",,,"San Marcos",CA,92069-3005,"(714) 307-0026",planning,http://www.wildbarrelbrewing.com
+"Wildcard Brewing Company","9565 Crossroads Dr",,Redding,CA,96003-6814,"(530) 722-9239",micro,http://www.wildcardbrewingco.com
+"Wolf Creek Brewery","25108 Rye Canyon Loop",,Valencia,CA,91355-5004,"(661) 263-9653",micro,
+"Woodfour Brewing Company","6780 Depot St Ste 160",,Sebastopol,CA,95472-3462,,brewpub,
+"Woods Bar & Brewery","1701 Telegraph Ave",,Oakland,CA,94612-2107,"(415) 509-1695",brewpub,http://www.woodsbeer.com
+"Woody's Brewery","1257 Oregon St",,Redding,CA,96001-0414,,brewpub,http://www.woodysbrewing.com
+"Working Man Brewing Co","5542 Brisa St Ste F",,Livermore,CA,94550-2524,"(925) 269-9622",micro,http://www.workingmanbrewing.com
+"Yeti Restaurant","190 Farmers Ln",,"Santa Rosa",CA,95405-4703,"(707) 521-9608",brewpub,http://www.yetirestaurant.com
+"Yolo Brewing Co","1520 Terminal St",,"West Sacramento",CA,95691-3814,"(916) 379-7585",micro,http://www.yolobrew.com
+"Yorkshire Square Brewing Co.","1109 Van Ness Ave",,Torrance,CA,90501-2236,"(424) 376-5115",micro,http://www.yorkshiresquarebrewing.com/

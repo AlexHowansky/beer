@@ -1,0 +1,16 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Baltic Beverages Holding AB","Oy Hartwell Ab PO Box 31","Helsinki, Finland",,,,35805402402,,
+"Brweery Olvi Oyj","Box 16","Ilsalmi, Finland",,,,,,
+"Glenorval Oy","Punavuorenkatu 19 A 21","FIN-00150 Helsinki, Finland",,,,+358.50.511.53.75,,
+"Hartwall Plc.","P.O Box 44","Lahti, Finland",,,,,,
+"Hiisi Brewing Co.","Panimo Hiisi","Jyvaskyla, Finland",,,,358442703726,micro,http://www.panimohiisi.fi
+"Laitilan Wirvoitusjuomatehdas","Limonaadikuja 4","Laitila, Finland",,,,,regional,
+"Olvi Oy","Box 16","74101 Iisalmi, Finland",,,,"977 158 51",regional,
+"Oy Alko Ab","Salmisaarenranta 7","Helsinki, Finland",,,,,,
+"Oy Amri AB Lapin Kulta",Lapinkulank,"95400 Tornio, Finland",,,,"9698 43 3 66",regional,
+"Oy Hartwall AB","Ristipellontie 4, Box 31","00391 Helsinki, Finland",,,,"90 5 40 21",regional,
+"Oy Lahden Polttimo Ab","PO Box 22","Fin- 15141 Lahti, Finland",,,,35891886411,regional,
+"Oy Sinebyrchoff AB","PO Box 87","Kerava, Finland",,,,"(358) 929-4991",,http://www.koff.fi
+"Panimoravintola Beer Hunter's","Antinkatu 11","Pori, Finland",,,,"+358 2 6415599",micro,
+"Pyynikin Craft Brewery","Tesoman valtatie 24","Tampere, Finland",,,,00358447699137,micro,http://www.pyynikin.com
+"Sinebrychoff Oy AB","PO Box 87","Kerava, Finland",,,,"(358) 929-4991",large,

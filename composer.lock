@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bb4a74bc7921dc901fc170fb3edf305f",
     "content-hash": "6faf074efbb2fd9d1b0c3bc31642f65c",
     "packages": [
         {
@@ -48,7 +47,7 @@
             ],
             "description": "A PHP utility library used by Ork packages.",
             "homepage": "http://github.com/AlexHowansky/ork-base",
-            "time": "2015-06-29 16:20:42"
+            "time": "2015-06-29T16:20:42+00:00"
         }
     ],
     "packages-dev": [],

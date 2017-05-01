@@ -1,0 +1,12 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Amstel Brewery Hungary","Szabadsag Ut 117","Budaors, Hungary",,,,,,
+"Borsodi Sorgyar Rt","Rakoczi ut 81","Bocs, Hungary",,,,"(364) 631-8400",,
+"Brauerei Sopron","Vandor Su. 1","Sopron, Hungary",,,,,regional,
+"Brewery At Borsod Ltd.","Pf. 6","Bocs, Hungary",,,,,regional,
+"Brewery At Kobanya Rt","Maglodi Ut 17","Budapest, Hungary",,,,"1 157 2854",regional,
+"Brewery in Planning - Budapest","Maglódi út 47","Budapest, Hungary",,,,,contract,
+"Clearwater Kft/Masters Brewing Co.","HU 2120 Bem Utca 7","Dunakeszi, Hungary",,,,0036209119807,micro,http://mastersbrewing.hu/
+"Dreher Breweries Ltd","Maglodi 17","Budapest, Hungary",,,,"(361) 432-9760",large,http://www.dreher.hu
+"Dreher Sorgyarak","H-1106 Maglodi Ut","Budapest, Hungary",,,,"(361) 261-1111",,
+"Reketye Brewing Co.","Also Ipari Krt. 4.","Nagytarcsa, Hungary",,,,,micro,http://www.reketye.com
+"Sabmiller Europe","Dreher Sorgyarak Zrt Jaszberenyi Ut 7-11","Budapest, Hungary",,,,"(361) 432-9700",,

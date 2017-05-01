@@ -1,0 +1,5 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Parnu Olu Ltd.","Suur-joe Str. 10","EE-3600, Estonia",,,,003724442571,regional,
+Pohjala,"Serva 28","Tallinn, Estonia",,,,,micro,http://www.pohjalabeer.com/en/brewery.html
+"Saku Brewery","EE-75 501 Saku","Harju maakond, Estonia",,,,"(372) 650-8400",regional,
+"Taako Ltd.","Pihtla Olletehas Saare District","EE-3310 Pihtla, Estonia",,,,,regional,

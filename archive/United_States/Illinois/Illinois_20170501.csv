@@ -1,0 +1,243 @@
+name,address1,address2,city,state,zip,phone,type,url
+"350 Brewing Co","7144 183rd St",,"Tinley Park",IL,60477-3933,,brewpub,
+"4204 Main St Brewing Co","4204 W Main St",,Belleville,IL,62226-5501,"(618) 416-7261",brewpub,http://www.mainstreetbrewingco.com
+"5 Rabbit Cerveceria Inc","6398 W 74th St",,Chicago,IL,60638-6129,"(312) 895-9591",micro,http://www.5rabbitbrewery.com
+"51st Ward Beer Company","323 N Washington St",,Westmont,IL,60559-1512,"(844) 451-2337",contract,
+"718BrewCafe, LLP","718 Market St",,Metropolis,IL,62960-1634,"(618) 524-7180",brewpub,http://www.718brewcafe.com
+"9th Hour Brewing Company LLC",,,"Spring Grove",IL,60081-9459,,planning,
+"Abbey Ridge Brewery & Tap Room","24 Brewster Vly",,Pomona,IL,62975-0027,"(618) 893-1111",brewpub,http://www.abbeyridgebrew.com
+"Alarmist Brewing Co","4055 W Peterson Ave Ste REAR",,Chicago,IL,60646-6072,"(773) 988-2536",micro,http://alarmistbrewing.com
+"Ale Syndicate Brewers","2601 W Diversey Ave",,Chicago,IL,60647-1817,"(773) 340-2337",proprietor,http://www.alesyndicate.com
+"Aleman Brewing","3304 N Knox Ave",,Chicago,IL,60641-4434,"(812) 340-4198",micro,http://www.alemanchicago.com
+"All Rise Brewing Co","235 N Ashland Ave",,Chicago,IL,60607-1401,"(312) 226-6300",brewpub,http://www.allrisebrewing.com
+"Alter Brewing Company","2300 Wisconsin Ave Ste 213",,"Downers Grove",IL,60515-2234,"(630) 541-9558",micro,http://www.alterbrewing.com
+"Aquanaut Beer Company","5435 N Wolcott Ave",,Chicago,IL,60640-1017,,micro,http://www.aquanautbeer.com
+"Argus Brewery","11314 S Front Ave",,Chicago,IL,60628-5007,"(773) 941-4050",micro,http://www.argusbrewery.com
+"Around the Bend Beer Co.","811 N Oak Park Ave",,"Oak Park",IL,60302-1538,"(312) 952-2339",contract,http://www.atbbeerco.com
+"Arrowhead Ales Brewing Company","2101 Calistoga Dr",,"New Lenox",IL,60451-4826,"(815) 717-6068",brewpub,http://www.arrowheadales.com
+"B17 Brewing Company",,,"Champaign ",IL,61820,,planning,
+"Baderbrau Brewing Co","2515 S Wabash Ave",,Chicago,IL,60616-2308,"(312) 890-2728",micro,http://www.baderbrau.com
+"Band Of Bohemia","4710 N Ravenswood Ave",,Chicago,IL,60640-4408,"(773) 271-4710",brewpub,http://bandofbohemia.com
+"Beer Fairy Brewing",,"Chicago, IL",,,,,planning,
+"Begyle Brewing","1800 W Cuyler Ave Ste 1E",,Chicago,IL,60613-3892,"(773) 661-6963",micro,http://www.begylebrewing.com
+"Belly Up Beer Company",,,"Western Springs",IL,60558,"(708) 837-9762",micro,http://www.bellyupbeer.com
+"Bent River Brewing Co","1413 5th Ave",,Moline,IL,61265-1335,"(309) 797-2722",brewpub,http://www.bentriverbrewery.com
+"Bent River Brewing Co Production & Tasting Room","512 24th St",,"Rock Island",IL,61201-8928,"(309) 283-4811",micro,http://www.bentriverbrewery.com
+"Big Muddy Brewing Co","1430 N 7th St",,Murphysboro,IL,62966-3938,"(618) 684-8833",micro,http://www.bigmuddybrewing.com
+"Birreria @ Eataly","43 E Ohio St",,Chicago,IL,60611-2701,,brewpub,http://www.eataly.com
+"Black Belt Brewery","932 Donata Ct",,"Lake Zurich",IL,60047-5025,"(917) 882-1187",micro,http://blackbeltbrewery.com
+"Blind Pig Brewery","120 N Neil St",,Champaign,IL,61820-4023,"(217) 398-5133",brewpub,http://www.blindpigbrewery.com
+"Blue Cat Brew Pub","113 18th St",,"Rock Island",IL,61201-8708,"(309) 788-8247",brewpub,http://www.bluecatbrewpub.com
+"Blue Island Beer Co","13357 Olde Western Ave",,"Blue Island",IL,60406-2969,"(708) 954-8085",micro,http://blueislandbeerco.com
+"Blue Nose Brewery","6119 East Ave",,Hodgkins,IL,60525-4126,"(708) 905-5198",micro,http://www.bluenosebrewery.com
+"Border Town Pub","22 N Dixie Hwy # 28",,Momence,IL,60954-1504,"(815) 472-4340",brewpub,http://www.bordertownpub.com
+"Brewery In Planning - Bensenville",,,Bensenville,IL,60106-2682,,planning,
+"Brewery In Planning - Bloomington",,,Bloomington,IL,61701-7836,,planning,
+"Brewery in Planning - Carbondale",,,Carbondale,IL,62901,"(618) 453-7508",planning,http://www.fermentation.siu.edu
+"Brewery in Planning - Chicago",,,Chicago,IL,60647-4460,"(914) 522-8212",planning,
+"Brewery In Planning - Chicago",,,Chicago,IL,60640-4006,,planning,
+"Brewery In Planning - Cobden",,,Cobden,IL,62920-3397,,planning,
+"Brewery in Planning - Downers Grove",,,"Downers Grove",IL,60515-2920,,planning,
+"Brewery in Planning - Elmhurst",,,Elmhurst,IL,60126,,planning,
+"Brewery in Planning - Highwood",,,Highwood,IL,60040-,,planning,
+"Brewery in Planning - Hodgkins",,,Hodgkins,IL,60525,"(708) 205-8444",planning,
+"Brewery In Planning - Itasca","PO Box 825",,Itasca,IL,60143-0825,,proprietor,
+"Brewery In Planning - Port Byron",,,"Port Byron",IL,61275,,planning,
+"Brewery in Planning - RIVERSIDE",,,Riverside,IL,60546-2336,,planning,
+"Brewery in Planning - Saint Charles",,,"Saint Charles",IL,60174-4591,,planning,
+"Brewery in Planning - Wheeling",,,Wheeling,IL,60090-1893,,planning,
+"Brewery In Planning- Chicago, IL",,"Chicago, IL",,,,,planning,
+"BrickStone Brewery","572 Brewery Ln",,Bourbonnais,IL,60914-2196,"(815) 936-9277",micro,
+"BrickStone Brewery","557 William Latham Dr",,Bourbonnais,IL,60914-2319,"(815) 936-9277",brewpub,http://www.brickstonebrewery.com
+"Buchanan Craft LLC",,,Chicago,IL,60647-9735,"(630) 772-2199",planning,
+"BuckleDown Brewing","8700 47th St",,Lyons,IL,60534-1626,"(708) 777-1842",micro,http://www.buckledownbrewing.com
+"Buffalo Creek Brewing",,,"Long Grove",IL,60047-9613,"(312) 933-1419",planning,http://www.buffalocreekbrewing.com
+"Burning Bush Brewery",,,Wilmette,IL,60091-2703,,planning,
+"Burnt City Brewing","2747 N Lincoln Ave",,Chicago,IL,60614-1320,"(773) 295-1270",micro,http://www.burntcitybrewing.com
+"Carbondale Craft Beer - Makers of Little Egypt Beer","184 Magnolia Ln",,Carbondale,IL,62903-7667,,micro,http://www.littleegyptbeer.com
+"Carlyle Brewing Co","215 E State St",,Rockford,IL,61104-1010,"(815) 963-2739",brewpub,http://www.carlylebrewing.com
+"Cary Ale House","208 W Main St Lowr 1",,Cary,IL,60013-2786,"(847) 639-7244",brewpub,http://caryalehousebrewing.com
+"Chain O'Lakes Brewing Co","3425 Pearl St",,McHenry,IL,60050-4446,"(815) 331-8345",micro,http://chainolakesbrewing.com
+"Chicago Beer Company","1140 W Randolph St",,Chicago,IL,60607-1619,"(773) 244-8696",contract,http://www.chicagobeerco.com
+"Church Street Brewing Company","1480 Industrial Dr Ste C",,Itasca,IL,60143-1857,"(630) 709-8851",micro,http://www.churchstreetbrew.com
+CO-HOP,,,Chicago,IL,60622,,planning,http://www.co-hopchicago.com
+"Corridor Brewery & Provisions","3446 N Southport Ave",,Chicago,IL,60657-1420,"(773) 270-4272",brewpub,
+"Cruz Blanca Cerveceria","900 W Randolph St",,Chicago,IL,60607-2208,"(312) 733-1975",brewpub,http://www.cruzblanca.com
+"Crystal Lake Brewing Co.","150 N Main St",,"Crystal Lake",IL,60014-4433,,micro,
+"Decatur Brew Works","101 N Main St",,Decatur,IL,62523-1206,"(217) 330-8683",micro,http://www.decaturbrewworks.com
+"DeGonia Brothers Brewery","1312 Niedringhaus Ave",,"Granite City",IL,62040-4640,"(618) 691-8455",micro,
+"DeNovo Beverage of Monmouth","105 S A St",,Monmouth,IL,61462-1706,,micro,http://www.denovobrewing.co
+"DESTIHL - Champaign","301 N Neil St",,Champaign,IL,61820-3163,"(217) 356-0301",brewpub,http://www.destihl.com
+"DESTIHL - Normal","318 S Towanda Ave",,Normal,IL,61761-2212,"(309) 862-2337",brewpub,http://www.destihl.com
+"DESTIHL Brewery","1616 General Electric Rd Unit 1",,Bloomington,IL,61704-2283,"(877) 572-7563",micro,http://www.destihlbrewery.com
+"Door 4 Brewing Co.",,,Decatur,IL,62522,"(217) 454-2464",planning,http://tba
+"DoubleJack Brewing",,,Manteno,IL,60950-3790,"(815) 383-3655",planning,
+"Dovetail Brewery","1800 W Belle Plaine Ave",,Chicago,IL,60613-1827,,micro,http://www.dovetailbrewery.com
+"Dry City Brew Works","120B N Main St",,Wheaton,IL,60187-,"(630) 456-4787",micro,http://www.drycitybrewworks.com
+"Dryhop Brewers","3155 N Broadway St",,Chicago,IL,60657-4508,"(773) 857-3155",brewpub,http://www.dryhopchicago.com
+"Elmhurst Brewing Company",,,Elmhurst,IL,60126-3939,"(312) 286-4627",planning,http://www.elmhurstbrewing.com
+"Emmetts Alehouse (#2)","5200 Main St",,"Downers Grove",IL,60515-4688,"(630) 434-8500",brewpub,http://www.emmettsbrewingco.com
+"Emmetts Tavern & Brewing Co","110 N Brockway St",,Palatine,IL,60067-5063,"(847) 359-1533",brewpub,http://www.emmettsbrewingco.com
+"Emmetts Tavern and Brewing Co","128 W Main St",,"West Dundee",IL,60118-2017,"(847) 428-4500",brewpub,http://www.emmettsbrewingco.com
+"Empirical Brewery","1801 W Foster Ave",,Chicago,IL,60640-1023,,micro,http://www.empiricalbrewery.com
+"Engrained Brewing Co","1120 W Lincolnshire Blvd",,Springfield,IL,62711-6445,"(217) 546-3054",brewpub,http://www.engrainedbrewing.com
+"Evil Horse Brewing Company, LLC","1338 Main St",,Crete,IL,60417-2131,"(708) 304-2907",micro,http://evilhorsebrewing.com
+"Excel Brewing Co","488 S Broadway",,Breese,IL,62230-1805,"(618) 526-7159",micro,http://www.excelbottling.com
+"Exit Strategy Brewing Company","7700 Madison St",,"Forest Park",IL,60130-1404,"(708) 689-8771",brewpub,http://www.exitstrategybrewing.com
+"Finch Beer Company","1800 W. Walnut St.",,Chicago,IL,60612,"(773) 283-4839",micro,http://www.finchbeer.com
+"Flesk Brewing","844 N Ridge Ave",,Lombard,IL,60148-1215,,micro,http://www.fleskbrewing.com
+"Flossmoor Station Brewing Co","1035 Sterling Ave",,Flossmoor,IL,60422-1252,"(708) 957-2739",brewpub,http://www.flossmoorstation.com
+"Folsom Brewing",,,Winnetka,IL,60093-2328,,planning,
+"Forbidden Root Restaurant & Brewery","1746 W Chicago Ave",,Chicago,IL,60622-5012,"(312) 929-2202",brewpub,http://www.forbiddenroot.com
+"Forge Brewhouse","1330 E State St",,Sycamore,IL,60178-9580,"(815) 991-9760",brewpub,http://www.forgebrewhouse.com
+"Galena Brewing Co","227 N Main St Ste 101",,Galena,IL,61036-2217,"(815) 275-9469",brewpub,http://www.galenabrewery.com
+"Generations Brewing Company","1400 S Adams Ave",,Freeport,IL,61032-9717,"(815) 616-5941",micro,http://www.generationsbrewing.com
+"Geneseo Brewing Company","102 S State St",,Geneseo,IL,61254-1348,"(309) 945-1422",brewpub,http://www.geneseobrewingcompany.com
+"Gino's Brewing Company","500 N La Salle Dr",,Chicago,IL,60654-7109,"(312) 988-4200",brewpub,
+"Goose Island Beer Co / Fulton St","1800 W Fulton St",,Chicago,IL,60612-2512,"(312) 226-1119",large,http://www.gooseisland.com
+"Goose Island Brewpub","1800 N Clybourn Ave Ste B",,Chicago,IL,60614-4895,"(312) 915-0071",large,http://www.gooseisland.com
+"Gordon Biersch Brewery Restaurant - Bolingbrook","639 E Boughton Rd Ste 100",,Bolingbrook,IL,60440-3126,"(630) 739-6036",brewpub,http://www.craftworksrestaurants.com
+"Grafton Winery & Brewhaus","300 W Main St",,Grafton,IL,62037-1124,"(618) 786-3001",micro,http://www.thegraftonwinery.com
+"Granite City Food & Brewery","992 Willow Rd",,Northbrook,IL,60062,"(847) 504-0277",brewpub,
+"Granite City Food & Brewery (#19)","7144 Harrison Ave Ste 108",,Rockford,IL,61112-,"(815) 332-7070",brewpub,
+"Granite City Food & Brewery (#21)","230 Conference Center Dr",,"East Peoria",IL,61611-9501,"(309) 669-8080",brewpub,http://www.gcfb.com
+"Granite City Food & Brewery (#22)","14035 S La Grange Rd",,"Orland Park",IL,60462-1321,"(708) 364-1212",brewpub,http://www.gcfb.com
+"Granite City Food & Brewery (#30)","1828 Abriter Ct",,Naperville,IL,60563-9368,"(630) 544-3700",brewpub,http://www.gcfb.net
+"Granite City Food & Brewery (#31)","801 N Plaza Dr",,Schaumburg,IL,60173-4919,"(630) 523-5700",brewpub,http://www.gcfb.net
+"Great Central Brewing Company","221 N WOOD",,Chicago,IL,60612,"(855) 464-4222",contract,http://www.greatcentralbrewing.com
+"Greenstar Brewing At Uncommon Ground","3810 N Clark St",,Chicago,IL,60613-2812,"(847) 219-8834",brewpub,http://www.uncommonground.com
+"HailStorm Brewing Company","8060 186th St",,"Tinley Park",IL,60487-9215,"(630) 631-7173",micro,http://www.hailstormbrewing.com
+"Hairy Cow Brewing Co, LLC",,,Byron,IL,61010,"(815) 243-2866",planning,http://www.hairycowbrewing.com
+"Half Acre Beer Co","4257 N Lincoln Ave",,Chicago,IL,60618-2953,"(773) 754-8488",regional,http://www.halfacrebeer.com
+"Half Day Brewing Company","200 Village Grn",,Lincolnshire,IL,60069-3028,"(847) 821-6933",brewpub,http://www.halfdaybrewing.com
+"Hamburger Mary's/Andersonville Brewing Company","5400 N Clark St",,Chicago,IL,60640-1210,"(773) 784-6969",brewpub,http://www.hamburgermaryschicago.com
+"Hand of Fate Brewing Co","107 E Douglas Ave",,Petersburg,IL,62675-1558,"(217) 961-1098",micro,http://www.handoffatebrewing.beer
+"Haymarket Pub and Brewery","737 W Randolph St",,Chicago,IL,60661-2103,"(312) 638-0707",micro,http://www.haymarketbrewing.com
+"Hickory Creek Brewing Company LLC",,,"New Lenox",IL,60451,"(815) 245-6042",planning,http://info@hickorycreekbrewingil.com
+"Hofbrauhaus Chicago","5500 Park Pl",,Rosemont,IL,60018-3730,"(847) 671-2739",brewpub,http://www.hofbrauhauschicago.com
+"Hofbrauhaus St. Louis-Belleville",,,Effingham,IL,62401-4523,"(217) 347-7777",planning,
+"Hop Butcher For the World","5435 N Wolcott Ave",,Chicago,IL,60640-1017,,proprietor,http://www.southloopbrewing.com
+"Hopothesis Beer Company","730 W Randolph St Fl 5",,Chicago,IL,60661-2149,"(773) 799-0236",contract,http://www.hopothesis.com
+"Hopper's Garage Brewing Company","303 Main St Ste 114",,Antioch,IL,60002-3027,"(847) 207-1872",micro,http://www.hoppers-garage-brewing.com
+"Hopvine Brewing Company","4030 Fox Valley Center Dr",,Aurora,IL,60504-4109,"(630) 229-6030",brewpub,http://www.hopvinebrewingcompany.com
+"Horse Thief Hollow Brewery","10426 S Western Ave",,Chicago,IL,60643-2508,"(773) 779-2739",brewpub,http://www.horsethiefbrewing.com
+"ILL STYLEZ BREWING",,,Freeport,IL,61032-4761,,planning,
+"Illuminated Brew Works","415 N Sangamon St",,Chicago,IL,60642-6546,,micro,http://www.ibw-chicago.com
+"Imperial Oak Brewing Co","501 Willow Blvd Ste 108",,"Willow Springs",IL,60480-1710,,micro,
+"Iron Spike Brewing Company","150 E. Simmons St.",,Galesburg,IL,61401-5503,"(309) 297-4718",brewpub,http://www.ironspikebrewpub.com
+"Itasca Brewing Company","400 E Orchard St",,Itasca,IL,60143-1773,"(630) 250-8830",micro,http://www.itascabrew.com
+"John S. Rhodell Brewery","100 Walnut St Ste 111",,Peoria,IL,61602-1544,"(309) 966-1047",micro,http://www.rhodellbrewery.com
+"JT Walker's/Champaign County Brewing Co","401 E Main St",,Mahomet,IL,61853-7426,"(217) 586-1100",brewpub,http://www.jtwalkers.com
+"Karetas Brewing",,,Chicago,IL,60647-1817,,planning,
+"Kinslahger Brewing Company","6806 Roosevelt Rd",,"Oak Park",IL,60304-1905,"(844) 552-4437",micro,http://kinslahger.com
+"Lagunitas Brewing Co","2607 W 17th St",,Chicago,IL,60608-1823,"(773) 522-2503",large,http://www.lagunitas.com
+"Lake Bluff Brewing Company","16 E Scranton Ave",,"Lake Bluff",IL,60044-2543,"(224) 544-5179",micro,http://www.lbbrew.com
+"Lake Brothers Beer Company","25W275 Woodstock Ct",,Naperville,IL,60540-3427,"(630) 258-3938",contract,http://www.lakebrothersbeer.com
+"Lake Effect Brewing Company","4727 W Montrose Ave",,Chicago,IL,60641-1504,"(312) 919-4473",micro,http://www.lakeeffectbrewing.com
+"Lake St Brewing",,,"Oak Park",IL,60302-1355,"(773) 251-2125",planning,
+"Lena Brewing Company","9416 W Wagner Rd",,Lena,IL,61048-9664,,micro,
+"Light the Lamp Brewery","10 N Lake St Ste 107",,Grayslake,IL,60030-3636,"(847) 752-8489",micro,http://www.lightthelampbrewery.com
+"Lil Beaver Brewery LLC",,,Bloomington,IL,61704,,planning,
+"Lionstone Brewing","1225 S Oakwood Ave",,Geneseo,IL,61254-1990,"(309) 269-6220",brewpub,http://www.lionstonebrewing.com
+"Lo Rez Brewing","2101 South Carpenter",,Chicago,IL,60608,"(312) 884-1957",micro,http://lorezbrewing.com
+"Local Option","1102 W Webster Ave Ste 1",,Chicago,IL,60614-7089,,contract,
+"Lucky Monk Burger, Pizza & Beer Co","105 Hollywood Blvd",,"South Barrington",IL,60010-7121,"(847) 898-0500",brewpub,http://www.theluckymonk.com
+"Lunar Brewing Co","54 E Saint Charles Rd",,"Villa Park",IL,60181-2434,"(630) 530-2077",micro,http://www.mypsace.com/lunarbrewingco
+"Mad Mouse Brewery @ Moxee American Kitchen","724 W Maxwell St",,Chicago,IL,60607-5017,"(312) 243-3660",brewpub,http://www.moxeerestaurant.com
+"Makraft Brewing Co","531 S Poplar St",,Centralia,IL,62801-4233,"(618) 918-3891",micro,http://www.makraftbrewingco.com
+"Maplewood Brewery","2717 N Maplewood Ave",,Chicago,IL,60647-1930,"(773) 270-1061",micro,http://www.maplewoodbrew.com
+"Marz Community Brewing","3315 S Halsted St",,Chicago,IL,60608-6864,,micro,http://www.marzbrewing.com
+"Maverick Ales & Lager",,"Chicago , IL",,,,"(408) 605-1508",planning,http://www.maverickbrews.com
+"Metal Monkey Brewing LLC","515 Anderson Dr Ste 900",,Romeoville,IL,60446-1494,,micro,
+"Metropolitan Brewing","5121 N Ravenswood Ave",,Chicago,IL,60640-5386,,micro,http://www.metrobrewing.com
+"Mickey Finns Brewery","345 N Milwaukee Ave",,Libertyville,IL,60048-2237,"(847) 362-6688",brewpub,http://www.mickeyfinnsbrewery.com
+"Middle Brow Beer Company",,,Chicago,IL,60608,"(708) 846-5511",contract,http://www.middlebrowbeer.com
+"Miskatonic Brewing Company","1000 N Frontage Rd Ste C",,Darien,IL,60561-6448,"(630) 541-9414",micro,http://www.miskatonicbrewing.com
+"Moody Tongue Brewing Company","2136 S Peoria St",,Chicago,IL,60608-4526,"(312) 600-5111",micro,http://www.moodytongue.com
+"Motor Row Brewing","2337 S Michigan Ave",,Chicago,IL,60616-2104,,brewpub,http://www.motorrowbrewing.com
+"MyGrain Brewing Company",,,Joliet,IL,60432-4298,,planning,
+"Nevin's Brewing Company","12337 S Route 59 Unit 155",,Plainfield,IL,60585-4614,"(815) 436-3900",brewpub,http://www.nevinsdraftco.com
+"Noon Whistle Brewing Company","800 E Roosevelt Rd Ste 3",,Lombard,IL,60148-4765,"(708) 906-3625",micro,http://www.noonwhistlebrewing.com
+"Oak Park Brewing Company","155 S Oak Park Ave",,"Oak Park",IL,60302-2901,"(847) 542-5523",brewpub,http://www.oakparkbeer.com
+"Obed & Isaac's American Ale House / Land of Lincoln",,"Springfield, Sangamon",,,,"(217) 670-0627",planning,
+"Obed & Isaac's American Ale House / Land of Lincoln","500 S 6th St",,Springfield,IL,62701-1810,"(217) 670-0627",brewpub,http://www.obedandisaacs.com
+"Off Color Brewing","3925 W Dickens Ave",,Chicago,IL,60647-,,micro,http://www.offcolorbrewing.com
+"Off-Kilter Brewing","15810 Carbrey Ave",,"South Beloit",IL,61080-1845,,micro,http://www.offkilterbrewing.com
+"O'Griffs Grill & Brewhouse","415 Hampshire St",,Quincy,IL,62301-2931,"(217) 224-2002",brewpub,
+"Old Irving Brewing Co.","4419 Montrose Ave",,Chicago,IL,60641-2021,"(773) 405-9844",brewpub,
+"Old Town Abbey Ales","125 S Jefferson St Unit 2709",,Chicago,IL,60661-3731,"(312) 622-6544",proprietor,http://www.oldtownabbey.com
+"On Tour Brewing Co.","1725 W. Hubbard St.",,Chicago,IL,60622,"(312) 796-3119",micro,http://www.ontourbrewing.com
+"One Allegiance Brewing",,,"Hickory Hills",IL,60457-2025,"(708) 272-0944",planning,http://www.oneallegiancebrewing.com
+"One Trick Pony Brewery","17845 Chappel Ave # 17851",,Lansing,IL,60438-4525,"(708) 889-6683",micro,http://www.onetrickponybrewery.com
+"Only Child Brewing Company","1350 Tri State Pkwy Ste 124",,Gurnee,IL,60031-9135,"(224) 656-5241",micro,http://www.onlychildbrewing.com
+"Oswego Brewing Company",,,Oswego,IL,60543-4081,,planning,http://oswegobrewing.com
+"Peckish Pig","623 Howard St",,Evanston,IL,60202-3941,"(847) 491-6778",brewpub,http://www.thepeckishpig.com
+"Peel Brewing Co.","104 S Cherry St",,"O Fallon",IL,62269-2046,"(618) 726-2244",brewpub,http://www.peelpizza.com
+"Penrose Brewing Company","509 Stevens St",,Geneva,IL,60134-1363,"(630) 232-2115",micro,http://www.penrosebrewing.com
+"Peoria Brewing Company","8012 N Hale Ave",,Peoria,IL,61615-2050,"(309) 839-0945",micro,http://www.peoriabrewingcompany.com
+"Piece Brewery","1927 W North Ave",,Chicago,IL,60622-1316,"(773) 772-4422",brewpub,http://www.piecechicago.com
+"Pig Minds Brewing Co","4080 Steele Dr",,"Machesney Park",IL,61115-8358,"(815) 968-7447",brewpub,http://www.pigmindsbrewing.com
+"Pipeworks Brewing Co","3912 W McLean Ave Ste B",,Chicago,IL,60647-5973,,micro,
+"Pipeworks Brewing Co",,,Chicago,IL,60647-5972,"(847) 910-9493",micro,
+"Pizza Beer Company","5N404 Harvest Ln",,"Saint Charles",IL,60175-8242,"(630) 377-6888",contract,http://www.pizzabeer.net
+"Pollyanna Brewing Company","431 Talcott Ave",,Lemont,IL,60439-3744,"(630) 914-5834",micro,http://www.pollyannabrewing.com
+"Prairie Krafts Brewing Company","1310 Busch Pkwy",,"Buffalo Grove",IL,60089-4505,"(847) 913-2828",micro,http://www.prairiekrafts.com
+"Prairie Street Brewing Co.","200 Prairie St",,Rockford,IL,61107-3987,,micro,http://www.psbrewingco.com
+"Rabid Brewing, LLC",,,Homewood,IL,60430,"(708) 704-4054",planning,http://www.rabidbrewing.com
+"Radicle Effect Brewerks","1340 31st St",,"Rock Island",IL,61201-2949,"(309) 283-7605",micro,http://www.rebrewerks.com
+"Radium City Brewing",,,Ottawa,IL,61350,,micro,http://www.radiumcitybrewing.com
+"RAM/Big Horn Brewery - Schaumburg","1901 McConnor Pkwy",,Schaumburg,IL,60173-4389,"(847) 517-8791",brewpub,http://www.theram.com
+"RAM/Big Horn Brewery - Wheeling","700 N Milwaukee Ave",,Wheeling,IL,60090-3026,"(847) 520-1222",brewpub,http://www.theram.com
+"Recess Brewing","307 N Main St",,Edwardsville,IL,62025-1615,"(618) 692-5101",micro,http://www.recessbrewing.com
+"Revolution Brewing","2323 N Milwaukee Ave",,Chicago,IL,60647-2924,"(773) 227-2739",brewpub,http://www.revbrew.com
+"Revolution Brewing","3340 N Kedzie Ave",,Chicago,IL,60618-5722,"(773) 588-2267",regional,http://www.revbrew.com
+"Ridgebrook Brewing","2000 Ridgebrook Ln",,Godfrey,IL,62035-1342,"(618) 971-8580",micro,http://www.ridgebrookbrewery.com
+"Riggs Beer Company","1901 S High Cross Rd",,Urbana,IL,61802-7843,,micro,http://www.riggsbeer.com
+"Ritt Brewing Company",,,Chicago,IL,60634-2319,"(847) 561-8203",planning,
+"Rock Bottom Brewery - Chicago","1 W Grand Ave",,Chicago,IL,60654-4806,"(312) 755-9339",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - Orland Park","16156 S La Grange Rd",,"Orland Park",IL,60467-5614,"(708) 226-0021",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - Warrenville","28256 Diehl Rd",,Warrenville,IL,60555-3835,"(630) 836-1380",brewpub,http://www.rockbottom.com
+"Rock Bottom Brewery - Yorktown","94 Yorktown Ctr",,Lombard,IL,60148-5529,"(630) 424-1550",brewpub,http://www.rockbottom.com
+"Rolling Meadows Microbrewery","3954 Central Point Rd",,Cantrall,IL,62625-8803,"(217) 899-7239",micro,http://www.rollingmeadowsbrewery.com
+"Sass Brewing Company","711 Mortimer St",,Barry,IL,62312-1246,"(217) 971-2783",micro,
+"Scorched Earth Brewing Co.","203 Berg St",,Algonquin,IL,60102-3537,"(224) 209-8472",micro,http://scorchedearthbrewing.com
+"Scratch Brewing Company","264 Thompson Rd",,Ava,IL,62907-2658,,brewpub,http://www.scratchbeer.com
+"Short Fuse Brewing Company",,,"Schiller Park",IL,60176-1021,"(608) 669-0259",planning,
+"Side Lot Brewery","110 Slocum Lake Rd",,Wauconda,IL,60084-1883,"(847) 714-2584",micro,http://www.sidelotbrewing.com
+"Skeleton Key Brewery","8102 Lemont Rd Ste 300",,Woodridge,IL,60517-7764,"(630) 395-9033",micro,http://www.skeletonkeybrewery.com
+"Sketchbook Brewing Company","821 Chicago Ave",,Evanston,IL,60202-2307,,brewpub,
+"Slapshot Brewing","8150 W 111th St Ste 8",,"Palos Hills",IL,60465-2255,"(312) 898-1310",micro,http://www.slapshotbrewing.com
+"Small Town Brewery","1000 N Rand Rd Ste 204",,Wauconda,IL,60084-1182,"(314) 276-8277",micro,
+"Smylie Brothers Brewing Co","1615 Oak Ave",,Evanston,IL,60201-3611,"(224) 999-7320",brewpub,http://www.smyliebros.com
+"Solemn Oath Brewery","1661 Quincy Ave Ste 179",,Naperville,IL,60540-3969,"(630) 995-3062",micro,http://www.solemnoathbrewery.com
+"Spiteful Brewing","1815 W Berteau Ave Unit 15",,Chicago,IL,60613-1321,,micro,http://www.spitefulbrewing.com
+"St Nicholas Brewing Co","12 S. Oak St.",,"DuQuoin ",IL,62832,,micro,
+"Starved Rock Brewing",,,"Oak Park",IL,60304-1925,,planning,
+"Stockholms Vardshus","306 W State St",,Geneva,IL,60134-2103,"(630) 208-1400",brewpub,http://www.stockholmsbrewpub.com
+"Stubborn German Brewing Co","119 S Main St",,Waterloo,IL,62298-1323,"(618) 504-2444",micro,http://www.stubborngermanbrewing.com
+"Tangled Roots Brewing Company","130 E Madison St",,Ottawa,IL,61350-5098,"(815) 324-9549",brewpub,http://www.tangledrootsbrewingco.com
+"Temperance Beer Company, LLC","2000 Dempster St",,Evanston,IL,60202-1017,"(847) 864-1000",micro,http://temperance.beer
+"Ten Ninety Brewing Co","1025 Waukegan Rd",,Glenview,IL,60025-,"(224) 432-5472",micro,http://www.ten-ninety.com
+"The Berghoff Brewery Inc.","1730 W Superior St Apt 3W",,Chicago,IL,60622-5639,"(608) 358-4992",contract,http://www.berghoffbeer.com
+"The Old Bakery Beer Company","400 Landmarks Blvd",,Alton,IL,62002-2405,"(618) 463-1470",brewpub,
+"Three Angels Brewing","109 Beaver St",,Yorkville,IL,60560-1704,"(630) 774-6695",micro,http://www.threeangelsbrewing.com
+"Tighthead Brewing Co","161 N Archer Ave",,Mundelein,IL,60060-2301,,micro,
+"Timotheus Brothers Brewery","2708 N Peoria Rd",,Springfield,IL,62702-1248,"(217) 971-0027",micro,
+"Tribes Beer Company","11220 Lincoln Hwy",,Mokena,IL,60448-8208,"(815) 464-0248",brewpub,http://www.tribesalehouse.com
+"Triptych Brewing","1703 Woodfield Dr",,Savoy,IL,61874-9504,,micro,http://www.triptychbrewing.com
+"Twisted Hippo","4650 N Saint Louis Ave Apt 1D",,Chicago,IL,60625-5357,,contract,
+"Two Brothers Brewing Co","30W315 Calumet Ave W",,Warrenville,IL,60555-1565,"(630) 393-4800",regional,http://www.twobrothersbrewing.com
+"Une Annee Brewery","9082 W Golf Rd",,Niles,IL,60714-5805,"(847) 635-0655",micro,http://uneannee.com
+"Urban Legend Brewing Company","1115 Zygmunt Cir",,Westmont,IL,60559-2684,,micro,http://www.urbanlegendbrewing.com
+"Veteran Beer Co","320 W Ohio St Ste 501",,Chicago,IL,60654-7816,"(619) 249-8081",proprietor,http://www.veteranbeercompany.com
+"Vice District Tap Room","1454 S Michigan Ave Ste 1",,Chicago,IL,60605-2811,"(312) 291-9022",micro,http://www.vicedistrictbrewing.com
+"Village Vintner Winery & Brewery","2380 Esplanade Dr Ste 100",,Algonquin,IL,60102-5450,"(847) 658-4900",brewpub,http://www.thevillagevintner.com
+"Von Jakob Winery & Brewery","230 Illinois Hwy 127",,"Alto Pass",IL,62905,"(618) 893-4600",brewpub,http://www.vonjakobvineyard.com
+"Werk Force Brewing Co","14903 S Center St # 107",,Plainfield,IL,60544-2177,"(815) 531-5557",micro,http://www.werkforcebrewing.com
+"Whiner Beer Company","1400 W 46th St",,Chicago,IL,60609-3225,"(312) 810-2271",micro,http://whiner%20beer.com
+"White Oak Brewing","1801 Industrial Park Dr",,Normal,IL,61761-4378,,micro,http://www.whiteoak.beer
+"Wild Onion Brewing Co.","22221 N Pepper Rd",,"Lake Barrington",IL,60010-2473,"(847) 381-7308",micro,http://www.onionpub.com
+"Wonky Brew Factory",,,Aurora,IL,60506-5749,"(630) 740-0131",planning,
+"Yaskawa America Inc.",,,Waukegan,IL,60085-6751,"(800) 927-5292",planning,http://www.yaskawa.com
+"Youthful Moon Brewing Company",,,Naperville,IL,60565-4134,"(630) 464-4214",planning,http://www.youthfulmoon.com
+"Zum Bier","3232 E Monroe St",,Waukegan,IL,60085,"(847) 420-7313",micro,http://www.zumbier.com
