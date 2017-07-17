@@ -4,34 +4,35 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "6faf074efbb2fd9d1b0c3bc31642f65c",
+    "content-hash": "f7673b1ea8dfc6322475a9f0af5d50f1",
     "packages": [
         {
-            "name": "ork/base",
-            "version": "0.1",
+            "name": "ork/core",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/AlexHowansky/ork-base.git",
-                "reference": "0dfc89dd09789336883753195f1695efa0abf310"
+                "url": "https://github.com/AlexHowansky/ork-core.git",
+                "reference": "c78be276f7b17913e83197736904d1958baa1550"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AlexHowansky/ork-base/zipball/0dfc89dd09789336883753195f1695efa0abf310",
-                "reference": "0dfc89dd09789336883753195f1695efa0abf310",
+                "url": "https://api.github.com/repos/AlexHowansky/ork-core/zipball/c78be276f7b17913e83197736904d1958baa1550",
+                "reference": "c78be276f7b17913e83197736904d1958baa1550",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6"
+                "php": "^7.1"
             },
             "require-dev": {
-                "mikey179/vfsstream": ">=1.5",
-                "ork/phpcs": ">=1.0",
-                "phpunit/phpunit": ">=4.6"
+                "mikey179/vfsstream": "^1.6.4",
+                "ork/phpcs": "^1.4.1",
+                "phpdocumentor/phpdocumentor": "^2.9.0",
+                "phpunit/phpunit": "^6.0.10"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Ork\\": "src/"
+                    "Ork\\Core\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -45,9 +46,61 @@
                     "homepage": "https://github.com/AlexHowansky"
                 }
             ],
-            "description": "A PHP utility library used by Ork packages.",
-            "homepage": "http://github.com/AlexHowansky/ork-base",
-            "time": "2015-06-29T16:20:42+00:00"
+            "description": "Core bits of the Ork toolset.",
+            "homepage": "http://github.com/AlexHowansky/ork-core",
+            "keywords": [
+                "ork"
+            ],
+            "time": "2017-03-20T22:24:43+00:00"
+        },
+        {
+            "name": "ork/csv",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AlexHowansky/ork-csv.git",
+                "reference": "92c122f08b4aa24a908360fe2870e607f6b441ad"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AlexHowansky/ork-csv/zipball/92c122f08b4aa24a908360fe2870e607f6b441ad",
+                "reference": "92c122f08b4aa24a908360fe2870e607f6b441ad",
+                "shasum": ""
+            },
+            "require": {
+                "ork/core": "^1.0.0",
+                "php": "^7.1"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": "^1.6.4",
+                "ork/phpcs": "^1.4.1",
+                "phpdocumentor/phpdocumentor": "^2.9.0",
+                "phpunit/phpunit": "^6.0.10"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ork\\Csv\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Howansky",
+                    "email": "alex.howansky@gmail.com",
+                    "homepage": "https://github.com/AlexHowansky"
+                }
+            ],
+            "description": "A library to read and write CSV files.",
+            "homepage": "http://github.com/AlexHowansky/ork-csv",
+            "keywords": [
+                "csv",
+                "ork"
+            ],
+            "time": "2017-05-02T01:22:34+00:00"
         }
     ],
     "packages-dev": [],

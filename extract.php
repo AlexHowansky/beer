@@ -1,6 +1,8 @@
 #!/usr/bin/env php
 <?php
 
+require_once realpath(__DIR__ . '/vendor/') . '/autoload.php';
+
 function filter($value)
 {
     return preg_replace('/\s+/', ' ', trim($value));
@@ -30,10 +32,9 @@ $config = [
 	'quote-nbsp' => false,
 ];
 
-$fp = fopen('php://stdout', 'w');
-fputcsv($fp, ['name', 'address1', 'address2', 'city', 'state', 'zip', 'phone', 'type', 'url']);
+$csv = new \Ork\Csv\Writer();
 $xml = new SimpleXMLElement(tidy_repair_string(file_get_contents('php://stdin'), $config, 'utf8'));
-foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $block) {
+foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple brewery-info"]') as $block) {
 
     $name = filter((string) $block->xpath('li[@class="name"]')[0]);
 
@@ -65,7 +66,7 @@ foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $bl
     $urlBlock = $block->xpath('li[@class="url"]/a');
     $url = empty($urlBlock) ? '' : strtolower(filter((string) $urlBlock[0]->attributes()->href));
 
-    $data = [
+    $csv->write([
         'name' => $name,
         'address1' => $address1,
         'address2' => $address2,
@@ -75,9 +76,6 @@ foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple"]') as $bl
         'phone' => $phone,
         'type' => $type,
         'url' => $url,
-    ];
+    ]);
 
-    fputcsv($fp, $data);
 }
-
-fclose($fp);
