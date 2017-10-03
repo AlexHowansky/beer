@@ -1,0 +1,21 @@
+name,address1,address2,city,state,zip,phone,type,url
+"3 Stars Brewing Co","6400 Chillum Pl NW Ste B",,Washington,DC,20012-2111,"(202) 670-0333",micro,http://www.3starsbrewing.com
+"AdMerk Corp. Inc.","20 F St NW",,Washington,DC,20001-6700,"(617) 202-8069",contract,http://www.paugustin.com
+"Atlas Brew Works","2052 W Virginia Ave NE Ste 102",,Washington,DC,20002-1832,"(202) 832-0420",micro,http://www.atlasbrewworks.com
+"Bardo Brewpub","25 Potomac Ave SE",,Washington,DC,20003,,micro,http://www.bardo.beer
+Bluejacket,"300 Tingley St SE",,Washington,DC,20003,,brewpub,
+"Brewery in Planning - Washington",,,Washington,DC,20009,,planning,
+"ChopHouse and Brewery - District","509 7th St NW",,Washington,DC,20004-1600,"(202) 347-3434",brewpub,http://www.craftworksrestaurants.com
+"City-State Brewing Company",,,Washington,DC,20017-2518,,planning,
+"DC Brau Brewing","3178 Bladensburg Rd NE Ste B",,Washington,DC,20018-2214,"(202) 621-8890",regional,http://www.dcbrau.com
+"Gage Roads Brewing Co","PO Box 2024","Palmyra, Australia",,,,"(089) 314-0000",micro,
+"Gordon Biersch Brewery Restaurant - Navy Yard","100 M St SE",,Washington,DC,20003-3519,"(202) 484-2739",brewpub,http://www.gordonbiersch.com/restaurants
+"Gordon Biersch Brewery Restaurant - Washington","900 F St NW",,Washington,DC,20004-1404,"(202) 783-5454",brewpub,http://www.craftworksrestaurants.com
+"Handsome Beer Company",,"Washington, DC",,,,,contract,
+"Hellbender Brewing Company","5788 2nd St NE",,Washington,DC,20011-2524,,micro,
+"National Capital Brewing Company",,"Washington, DC",,,,,planning,
+"Palisades Brew Project",,,Washington,DC,20016-2555,"(408) 691-1066",planning,
+"Pulaski True American",,,Washington,DC,20024,"(321) 947-7892",planning,http://www.pulaskitrueamerican.com
+"Right Proper Brewing Company","920 Girard St NE",,Washington,DC,20017-3424,"(202) 607-2337",micro,http://www.rightproperbrewing.com
+"Right Proper Brewing Company","624 T St NW",,Washington,DC,20001-5119,"(202) 607-2337",brewpub,http://www.rightproperbrewery.com
+"The Public Option","1601 Rhode Island Ave NE",,Washington,DC,20018-1841,"(202) 397-5129",brewpub,http://www.thepublicoptiondc.com

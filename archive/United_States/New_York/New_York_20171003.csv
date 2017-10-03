@@ -1,0 +1,419 @@
+name,address1,address2,city,state,zip,phone,type,url
+"12 Gates Brewing Company","80 Earhart Dr Ste 20",,Williamsville,NY,14221-7804,"(716) 906-6600",micro,http://www.12gatesbrewing.com
+"1940's Brewing Company","1337 Lincoln Ave Unit 1",,Holbrook,NY,11741-2275,"(631) 533-4838",micro,http://www.1940sbrewingcompany.com
+"2 Way Brewing Company","18 W Main St",,Beacon,NY,12508-2512,"(845) 202-7334",micro,http://www.2waybrewingcompany.com
+"212 Brewing Company","902 Broadway Fl 6",,"New York",NY,10010-6039,,contract,
+"42 North Brewing Company","25 Pine St",,"East Aurora",NY,14052-1827,"(716) 805-7500",brewpub,http://www.42northbrewing.com
+"7 Sins Brewery","10593 W Main Rd",,Ripley,NY,14775-9746,"(716) 581-2090",micro,http://www.7sinsbrewery.com
+"8th Ward Brewing Company",,,Poughkeepsie,NY,12603-3401,,planning,
+"Abandon Brewing","2994 Merritt Hill Rd",,"Penn Yan",NY,14527-8938,"(585) 209-3276",micro,http://www.abandonbrewing.com
+"Adirondack Pub and Brewery","33 Canada St",,"Lake George",NY,12845-1603,"(518) 668-0002",micro,http://www.adkpub.com
+"Adirondack Toboggan Company Microbrewery","202A W Main St",,Gouverneur,NY,13642-1334,"(315) 771-6313",micro,http://www.adktoboggan.net
+"Alewife NYC",,,"Long Island City",NY,11101,"(718) 937-7494",planning,http://www.alewife.beer
+"Alphabet City Beer Co","96 Avenue C Frnt 4",,"New York",NY,10009-7055,,contract,http://www.acbnyc.com
+"Amber Lantern Brewing Company","44 N Main St",,Warsaw,NY,14569-1326,"(585) 786-3559",brewpub,http://www.amberlanternbrewingcompany.com
+"Andean Brewing","300 Corporate Dr Ste 2",,Blauvelt,NY,10913-1162,,micro,
+"Anheuser-Busch Inc – Baldwinsville","2885 Belgium Rd",,Baldwinsville,NY,13027-2706,"(315) 635-4000",large,
+Apex,,,"Central Valley",NY,10917-3708,"(845) 549-3006",planning,http://www.apexbeer.co
+"Argyle Brewing Company","1 Main St",,Greenwich,NY,12834-1209,"(518) 338-7405",micro,http://www.argylebrewing.com
+"Arrowood Farms","236 Lower Whitfield Rd",,Accord,NY,12404-5809,"(845) 253-0389",micro,http://www.arrowoodfarms.com
+"Artisanal Brew Works","41 Geyser Rd",,"Saratoga Springs",NY,12866-9038,"(518) 594-2337",micro,http://www.artisanalbrewworks.com
+"Aurora Ale & Lager","1891 State Route 90 N",,"King Ferry",NY,13081-9719,,micro,http://www.brewaurora.com
+"Ausable Brewing Co","765 Mace Chasm Rd",,Keeseville,NY,12944-2425,"(315) 244-3295",micro,http://ausablebrewing.tumblr.com
+"B9 Beverages Inc","404 5th Ave # 7.055",,"New York",NY,10018-2797,,contract,
+"Bacchus Brewing","15 Ellis Dr",,Dryden,NY,13053-9630,"(607) 844-8474",micro,http://www.bacchusbrewing.com
+"Baggs Square Brewing Co.",,,Poland,NY,13431-2517,,planning,
+"Bandwagon Brewery","114 N. Cayuga St, Mailbox #3",,Ithaca,NY,14850-4331,"(607) 319-0699",brewpub,http://www.bandwagonbeer.com
+"BarkEater Craft Brewery","5411 Shady Ave",,Lowville,NY,13367-1601,"(315) 376-2337",proprietor,http://www.barkeaterbrew.com
+"Barker Brewing","1693 East Ave",,Barker,NY,14012-,"(716) 795-1023",brewpub,http://www.barkerbrewing.com
+"Barnshed Brewing","100 Lauman Lane",,Hicksville,NY,11801-6574,,micro,http://www.barnswhedbrewing.com
+"Barrage Brewing Co","32 Allen Blvd Ste E",,Farmingdale,NY,11735-5625,"(631) 335-7941",micro,http://www.barragebrewing.com
+"Barrier Brewing Co","3001 New St Ste A2",,Oceanside,NY,11572-2747,"(516) 594-1028",micro,http://www.barrierbrewing.com
+"Bashakill Vineyards & Farm Brewery","1131 South Rd",,Wurtsboro,NY,12790-7437,"(845) 888-5858",micro,"http://www,bashakillvineyards.com"
+"Batavia Brewing Company",,,Batavia,NY,14020-2110,,planning,
+"Battle Hill Brewing Company","4 Chase Ln",,"Fort Ann",NY,12827-,"(518) 639-1033",micro,http://www.battlehillbrewing.com
+"Beerberry Corp",,,Brooklyn,NY,11235,"(718) 975-5155",planning,http://www.tapbeerny.com
+"Beerwench Brewery",,,"Staten Island",NY,10301-2707,,planning,
+"Bellport Brewing Company","156 Hallock Landing Road",,"Rocky Point",NY,11778-8986,"(631) 909-4457",proprietor,http://www.bellportbrewing.com
+"Big Alice Brewing Company","808 43rd Rd",,"Long Island City",NY,11101-6820,"(347) 688-2337",micro,http://www.bigalicebrewing.com
+"Big Ditch Brewing Company","55 E Huron St",,Buffalo,NY,14203-1632,"(716) 854-5050",brewpub,http://www.bigditchbrewing.com
+"Big Slide Brewery","5686 Cascade Road",,"Lake Placid",NY,12946,"(518) 523-7844",brewpub,http://www.bigslidebrewery.com
+"Big Tupper Brewing","96 Park St",,"Tupper Lake",NY,12986-1719,"(518) 359-6350",brewpub,http://www.bigtupperbrewing.com
+"Binghamton Brewing Co","15 Avenue B",,"Johnson City",NY,13790-2234,"(607) 238-3448",micro,http://www.bingbrew.com
+"Birdland Brewing Company","1015 Kendall St",,Horseheads,NY,14845-2216,"(607) 769-2337",micro,http://www.birdlandbrewingco.com
+"Birreria @ Eataly","200 5th Ave Fl 14",,"New York",NY,10010-3302,"(212) 539-0204",brewpub,http://www.eatalyny.com
+"Black Forest Brew Haus","2015 New Hwy",,Farmingdale,NY,11735-1103,"(631) 391-9500",brewpub,http://www.blackforestbrewhaus.com
+"Blackburn Brewing Co","154 Grand St",,"New York",NY,10013-3141,"(646) 715-4436",micro,http://www.blackburnbrewing.com
+"Blind Bat Brewery LLC, The","420 Harrison Dr",,Centerport,NY,11721-1216,"(631) 891-7909",micro,http://www.blindbatbrewery.com
+"Blue Collar Brewery, Inc.","40 Cottage St",,Poughkeepsie,NY,12601-2015,"(845) 454-2739",brewpub,http://www.thebluecollarbrewery.com
+"Blue Line Brewery","555 Lake Flower Ave",,"Saranac Lake",NY,12983-2465,"(518) 354-8114",brewpub,http://www.bluelinebrew.com
+"Blue Point Brewing Co","161 River Ave",,Patchogue,NY,11772-3304,"(631) 475-6944",large,http://www.bluepointbrewing.com
+"Bolton Landing Brewing Co.",,,"Bolton Landing",NY,12814-7757,"(914) 907-5676",planning,http://www.boltonlandingbrewing.com
+"Boots Brewing Company, Inc.",,,Watertown,NY,13601-4433,"(315) 767-0794",planning,http://www.bootsbrew.com
+"Bottomless Brewing, LLC","3543 E Lake Rd",,Geneva,NY,14456-,"(315) 325-4380",micro,http://www.bottomlessbrewing.com
+"Bradley Farm / RB Brew, LLC","317 Springtown Rd",,"New Paltz",NY,12561-3020,"(845) 255-8769",micro,http://www.raybradleyfarm.com
+"Braven Brewing Company","362 Jefferson St # 320",,Brooklyn,NY,11237-2312,"(929) 295-6673",contract,http://www.bravenbrewing.com
+"Brew SA Brewing Co","180 Woodcleft Ave",,Freeport,NY,2751,"(516) 377-2751",micro,http://www.brewsa.com
+"Brewery At The Culinary Institute Of America","1995 Campus Dr",,"Hyde Park",NY,12538-1430,,brewpub,
+"Brewery in Planning - Astoria",,,Astoria,NY,11105-3936,,planning,
+"Brewery in Planning - Ballston Lake",,,"Ballston Lake",NY,12019-1938,,planning,
+"Brewery in Planning - Brooklyn",,,Brooklyn,NY,11231,"(212) 925-8775",planning,
+"Brewery In Planning - Brooklyn",,,Brooklyn,NY,11222-2093,,planning,
+"Brewery in Planning - Brooklyn",,,Brooklyn,NY,11218-1828,,planning,
+"Brewery In Planning - Brooklyn",,,Brooklyn,NY,11216,,planning,
+"Brewery in Planning - Center Moriches",,,"Center Moriches",NY,11934,"(631) 449-5310",planning,
+"Brewery in Planning - Fabius",,,Fabius,NY,13063,"(315) 447-9511",planning,
+"Brewery In Planning - Glenmont",,,Glenmont,NY,12077-3139,,planning,
+"Brewery in Planning - Long Island City",,,"Long Island City",NY,11101-5574,"(917) 687-4204",planning,
+"Brewery in Planning - Medina",,,Medina,NY,14103-9666,,planning,
+"Brewery in Planning - New York",,,"New York",NY,10002,"(845) 216-9299",planning,http://www.twobridgesbrewing.com
+"Brewery In Planning - New York",,", NY",,,,,planning,
+"Brewery in Planning - New York",,"New York, NY TBD",,,,,planning,
+"Brewery in Planning - Olivebridge",,,Olivebridge,NY,12461-5513,"(914) 261-5265",planning,
+"Brewery In Planning - Oyster Bay",,,Warwick,NY,10990-3426,,planning,
+"Brewery In Planning - Point Lookout",,,"Point Lookout",NY,11569,,planning,
+"Brewery in Planning - Rochester",,,Rochester,NY,14609,,planning,
+"Brewery in Planning - Schenectady",,,Schenectady,NY,12305,"(518) 312-0139",planning,http://www.re4ormarchitecture.com
+"Brewery in Planning - Washington",,"Nyack, NY",,,,"(202) 577-6004",planning,
+"Brewery Ommegang","656 County Highway 33",,Cooperstown,NY,13326-4737,"(800) 544-1809",regional,http://www.ommegang.com
+"Brick House Brewery and Restaurant","67 W Main St",,Patchogue,NY,11772-3001,"(631) 447-2337",brewpub,http://www.brickhousebrewery.com
+"Brickyard Brewing Company","432 Center Street",,Lewiston,NY,14092,"(716) 754-7227",brewpub,http://www.brickyardbrewingcompany.com
+"Bridge And Tunnel Brewery","1535 Decatur Street",,"Ridgewood ",NY,11385,"(347) 392-8593",micro,http://www.bridgeandtunnelbrewery.com
+"Brindle Haus Brewing Company",,,Spencerport,NY,14559,"(585) 507-6665",planning,http://www.brindlehausbrewing.com
+"Broken Bow Brewery","173 Marbledale Rd",,Tuckahoe,NY,10707-3117,"(914) 268-0900",micro,http://www.brokenbowbrewery.com
+"Brooklyn Brewery","79 N 11th St #1 Brewers Row",,Brooklyn,NY,11249-1913,"(718) 486-7422",regional,http://www.brooklynbrewery.com
+"Brown's Brewing Co","417 River Street",,Troy,NY,12180,"(518) 365-4846",brewpub,http://www.brownsbrewing.com
+"Brown's Brewing Co","50 Factory Hill Rd",,"North Hoosick",NY,12133,"(518) 273-2337",brewpub,http://www.brownsbrewing.com
+"Buffalo Brewpub","6861 Main St",,Buffalo,NY,14221-5929,"(716) 632-0552",brewpub,http://www.buffalobrewpub.com
+"Bull and Barrel Brew Pub","988 Route 22",,Brewster,NY,10509-1576,"(845) 278-2855",brewpub,http://www.bullandbarrelbrewpub.com
+"Bullthistle Brewing Co.","45 S. Main St.",,Sherburne,NY,13460-9202,"(607) 674-2337",brewpub,
+"Buried Acorn Brewing Company",,,Syracuse,NY,13204,"(315) 552-1499",planning,http://www.buriedacorn.com
+"Buster's Brew Pub","Euphrates River Valley Road Bldg P-4350",,"Fort Drum",NY,13602,"(315) 772-1900",brewpub,http://www.drummwr.com
+"Butternuts Beer","4021 State Highway 51",,Garrattsville,NY,13342-1705,"(607) 263-5070",micro,http://www.butternutsbeer.com
+"Captain Lawrence Brewing Co","444 Saw Mill River Rd Ste 100",,Elmsford,NY,10523-1031,"(914) 741-2337",regional,http://www.captainlawrencebrewing.com
+"Catskill Brewery","672 Old Route 17",,"Livingston Manor",NY,12758-5031,"(845) 439-1232",micro,http://www.catskillbrewery.com
+"Cave Mountain Brewing Co","5359 State Route 23",,Windham,NY,12496-5906,"(518) 734-9222",brewpub,http://www.cavemountainbrewing.com
+"CB Craft Brewers","300 Village Square Blvd",,"Honeoye Falls",NY,14472-1180,"(585) 624-4386",micro,http://www.cbcraftbrewers.com
+"CH Evans Brewing Co/Albany Pump Station","19 Quackenbush Sq",,Albany,NY,12207-2311,"(518) 447-9000",brewpub,http://www.evansale.com
+"Chatham Brewing LLC","59 Main St",,Chatham,NY,12037-1249,"(518) 697-0202",micro,http://www.chathambrewing.com
+"Chelsea Craft Brewing Co Llc","463 E 173rd St",,Bronx,NY,10457-8105,"(718) 484-8850",micro,http://www.chelseacraftbrewing.com
+"Cheshmeh Brewing Co",,,"White Plains",NY,10605-3517,,planning,
+"Chicken Island Brewing Company",,,"Croton On Hudson",NY,10520-1845,"(315) 447-1370",planning,
+"Clemson Bros. Brewery","22 Cottage St",,Middletown,NY,10940-5059,"(845) 775-4638",brewpub,http://www.clemsonbrewing.com
+"Climbing Bines Craft Ale Company","511 Hanson Point Rd",,"Penn Yan",NY,14527-9718,"(607) 745-0221",micro,http://www.climbingbinshopfarm.com
+"Common Roots Brewing Company","58 Saratoga Ave",,"South Glens Falls",NY,12803-4837,"(518) 409-8248",micro,http://www.commonrootsbrewing.com
+"Community Beer Works","15 Lafayette Ave",,Buffalo,NY,14213-1344,"(716) 759-4677",micro,http://www.communitybeerworks.com
+"Coney Island Beer","1904 Surf Ave",,Brooklyn,NY,11224-2410,"(818) 451-8452",micro,http://www.coneyislandbeer.com
+"Coopers Cave Ale Co","2 Sagamore St",,"Glens Falls",NY,12801-3179,"(518) 792-0007",brewpub,http://www.cooperscaveale.com
+"Cooperstown Brewing Co","110 River Street",,Milford,NY,13807,,proprietor,
+"Copper City Brewing Company","1111 Oneida St",,Rome,NY,13440-,"(315) 281-8987",micro,http://www.coppercitybrewing.com
+"Cortland Beer Company","16 Court St",,Cortland,NY,13045-2604,"(607) 662-4389",micro,http://www.cortlandbeer.com
+"Council Rock Brewery","4861 State Highway 28 Ste 3",,Cooperstown,NY,13326-5229,"(607) 643-3016",brewpub,http://www.councilrockbrewery.com
+"Country Town Farm Brewery",,,Friendship,NY,14739,"(585) 808-8995",planning,
+"Cousins Revolution Ale Works",,"Wappingers Falls, NY",,,,"(845) 293-2739",micro,http://www.cousinsrevolution.com
+"Craft House",,,"Staten Island",NY,10301,"(347) 277-8680",planning,http://www.killsboro.com
+"Crafty Ales and Lagers","2 Exchange St",,Phelps,NY,14532-1010,"(315) 332-1606",micro,http://www.drinkcraftyales.com
+"Critz Farms Brewing & Cider Co.","3232 Rippleton Rd",,Cazenovia,NY,13035-9693,"(315) 662-3355",micro,http://www.critzfarms.com
+"Crooked Ladder Brewery","70 W Main St",,Riverhead,NY,11901-2802,"(631) 902-5335",micro,http://www.crookedladderbrewing.com
+"Crossroads Brewing Co","21 2nd St",,Athens,NY,12015-1327,"(518) 945-2337",brewpub,http://www.crossroadsbrewingco.com
+"Daughters Of Mitosis Brewing Company",,,Ghent,NY,12075,,planning,
+"Davidson Brothers Restaurant and Brewery","184 Glen St Rte 9",,"Glens Falls",NY,12801-0409,"(518) 743-9026",brewpub,http://www.davidsonbrothers.com
+"Death Avenue","315 10th Ave B/W 28th & 29th St.",,"New York",NY,10001-1416,"(212) 695-8080",brewpub,http://www.deathave.com
+"Decadent Ales","607A E Boston Post Rd",,Mamaroneck,NY,10543-,"(800) 598-1085",micro,http://www.decadentales.com
+"Defiant Brewing Co","6 E Dexter Plz",,"Pearl River",NY,10965-2360,"(845) 920-8602",brewpub,http://www.defiantbrewing.com
+"Destination Unknown Beer Company","1 S Chicago Ave Unit C",,"Bay Shore",NY,11706-7000,"(631) 485-2232",micro,http://www.destinationunknownbeercompany.com
+"Diversion Brewing Co","729 Wyncoop Creek Rd",,Chemung,NY,14825-9755,"(607) 542-9168",micro,http://www.diversionbrewing.com
+"Druthers Brewing Co","381 Broadway",,"Saratoga Springs",NY,12866-3111,"(518) 306-5275",brewpub,http://www.druthersbrewing.com
+"Dublin Corners Farm Brewery","1906 Main St",,Linwood,NY,14486-9707,"(585) 538-4796",micro,http://www.dublincornersfarm.com
+"Duncan's Abbey",,,Tarrytown,NY,10591,,micro,http://www.duncansabbey.com
+"Dutch Ale House","253 Main St Ste A",,Saugerties,NY,12477-1337,"(845) 247-2337",brewpub,http://www.dutchalehouse.com
+"Dyckman Beer Co",,,Bronx,NY,10451,,contract,http://www.dyckmanbeerco.com
+"Eastern Front Brewing Co","425 Westphalin Rd",,Mattituck,NY,11952,"(631) 905-1535",micro,http://www.facebook.com/easternfrontbrewing/
+"Eastwood Brewing Company","108 Walter Dr",,Syracuse,NY,13206-2357,,micro,http://www.facebook.com/eastwoodbrewingcompany/
+"Ellicottville Brewing Co","PO Box 1421, 28 Monroe St",,Ellicottville,NY,14731-1421,"(716) 699-2537",brewpub,http://www.ellicottvillebrewing.com
+"Ellicottville Brewing Co (#2)","34 W Main St",,Fredonia,NY,14063-2136,"(716) 679-7939",brewpub,http://www.ellicottvillebrewing.com
+"Empire Brewing Co","120 Walton St.",,Syracuse,NY,13202,,brewpub,
+"Empire Farm Brewery","33 Rippleton Rd.",,Cazenovia,NY,13035,"(315) 655-2337",micro,http://www.empirebrew.com
+"Equilibrium Brewery","22 Henry Street",,Middletown,NY,10940,"(845) 775-4216",micro,http://www.eqbrew.com
+"Erie Canal Brewing Company","135 James St",,Canastota,NY,13032-1409,"(315) 510-5001",micro,http://www.eriecanalbrewingcompany.com
+"Fairport Brewing Co","1000 Turk Hill Rd Ste 298",,Fairport,NY,14450-8755,"(585) 752-0613",micro,
+"Fairport Brewing Co","99 S Main St",,Fairport,NY,14450-2100,"(585) 752-0613",micro,http://www.fairportbrewing.com
+"Ferrari Beer Company","160 Ashford Ave",,"Dobbs Ferry",NY,10522-1906,"(914) 693-7340",micro,http://www.ferraribeer.com
+"Fifth Frame Brewing Co.","78 Linden St",,Rochester,NY,14620,"(716) 812-8897",micro,http://www.fifthframe.com
+"Fifth Hammer Brewing Company",,,"Long Island City",NY,11101-5217,"(718) 663-2084",planning,http://www.fifthhammerbrewing.com
+"Finback Brewery","493 18th St # 3",,Brooklyn,NY,11215-6207,"(718) 628-8600",micro,http://www.finbackbrewery.com
+"Finger Lakes Beer Co","8462 State Route 54",,Hammondsport,NY,14840-9795,"(607) 569-3311",micro,
+"Fire Island Beer Co","25 Drexel Dr",,"Bay Shore",NY,11706-2234,"(781) 738-3060",contract,
+"Five & 20 Spirits and Brewing","8398 W Route 20",,Westfield,NY,14787-9748,"(716) 793-9463",brewpub,http://www.fiveand20.com
+"Five Boroughs Brewing Co","215 47th Street",,Brooklyn,NY,11220-1009,"(718) 355-8575",micro,http://www.fiveboroughs.com
+"Flagship Brewery, LLC.","40 Minthorne St",,"Staten Island",NY,10301-3241,"(718) 448-5284",micro,http://www.flagshipbrewery.nyc
+"Flashback Brewing Company",,,Watertown,NY,13601-3514,"(315) 921-7676",planning,
+"Fleur De Lis Brew Works","3630 State Route 414",,"Seneca Falls",NY,13148-9202,"(315) 651-3260",micro,http://www.fleurdelisbrewworks.com
+"Flying Belgian Brewery","211 Main St",,Farmingdale,NY,11735-2675,"(818) 457-7548",micro,http://www.flyingbelgianbrewery.com
+"Flying Bison Brewing Co","840 Seneca St",,Buffalo,NY,14210-1414,"(716) 873-1557",micro,http://www.flyingbisonbrewing.com
+Folksbier,"101-103 Luquer Street",,Brooklyn,NY,11231,,micro,http://www.folksbier.com
+"Four Mile Brewing","202 E Green St",,Olean,NY,14760-3606,"(716) 373-2337",micro,http://www.fourmilebrewing.com
+"Fox Brewing Works",,,Mayfield,NY,12117-,,planning,
+"Fox N Hare Brewing Company",,,"Port Jervis",NY,12771-2415,"(317) 209-5767",planning,http://www.foxnhare-brewing.com
+"From the Ground Brewery","245 Guski Rd",,"Red Hook",NY,12571-3316,"(845) 309-8100",micro,http://www.fromthegroundbrewery.com
+"Full Boar Craft Brewery","628 S Main St Ste C",,Syracuse,NY,13212-3687,"(315) 802-4784",micro,http://www.fullboarbrew.com
+"Fulton Chain Craft Brewery","127 North St",,"Old Forge",NY,13420-3300,"(315) 525-0222",micro,http://www.fccbrewery.com
+"G.C. Starkey Beer Company","68 Castle St # 1C",,Geneva,NY,14456-2621,"(607) 678-4043",contract,http://www.starkeyslookout.com
+"Gael Brewing Co","4180 State Route 14",,Geneva,NY,14456-9753,"(315) 220-0190",micro,http://www.gaelbrewing.com
+"Galaxy Brewing Co","41 Court St, 153 & 157",,Binghamton,NY,13901-3104,"(607) 217-4815",brewpub,http://www.galaxybrewingco.com
+"Garden of Eve Farm Brewery","4558 Sound Ave",,Riverhead,NY,11901-1207,"(631) 722-8777",micro,http://www.facebook.com/farmbrewery
+"Garland City Beer Works",,,Watertown,NY,13601,"(315) 783-2577",planning,http://www.garlandcitybeerworks.com
+"Garvies Point Brewery","1 Garvies Point Rd",,"Glen Cove",NY,11542-2821,"(516) 815-1999",micro,http://www.garviespointbrewery.com
+"Gene McCarthy's/Old First Ward Brewing Company","73 Hamburg St",,Buffalo,NY,14204-2719,"(716) 855-8948",brewpub,http://www.genemccarthys.com
+"Genesee Brew House / North American Breweries","25 Cataract St",,Rochester,NY,14605,"(585) 263-9200",brewpub,http://www.geneseebeer.com
+"Genesee Brewing Company/Genesee Brew House Pilot Batch/North American Breweries","445 Saint Paul St",,Rochester,NY,14605-1726,"(585) 546-1030",regional,
+"Gentle Giant Brewing Company","7 N Main St",,"Pearl River",NY,10965-2318,,micro,http://gentlegiantbrewing.com/
+"Gilded Otter Brewing Co","3 Main St",,"New Paltz",NY,12561-1742,"(845) 256-1700",brewpub,http://www.gildedotter.com
+"Glenmere Brewing Co, Inc","55 Maple Ave",,Florida,NY,10921-1124,"(845) 651-1939",micro,http://www.glenmerebrewingco.com
+"Good Nature Farm Brewery","1727 State Route 12B",,Hamilton,NY,13346-2268,"(315) 824-2337",micro,http://goodnaturebrewing.com
+"Gordon Biersch Brewery Restaurant - Buffalo","Store P102 Galleria Drive",,Cheektowaga,NY,14225-5408,"(716) 683-0050",brewpub,http://www.craftworksrestaurants.com
+"Gordon Biersch Brewery Restaurant - Syracuse","304 Hiawatha Blvd West #J-101",,Syracuse,NY,13290,"(315) 478-0990",brewpub,http://www.craftworksrestaurants.com
+"Great Adirondack Brewing Company","2442 Main St",,"Lake Placid",NY,12946-3300,"(518) 523-1629",brewpub,http://www.adksteakandseafood.com
+"Great Flats Brewing","151 Lafayette Street",,Schenectady,NY,12305-2051,"(518) 280-0232",micro,http://www.greatflatsbrewing.com
+"Great Life Brewing",,,"West Park",NY,12493,"(845) 331-3700",micro,http://www.greatlifebrewing.com
+"Great South Bay Brewery","25 Drexel Dr",,"Bay Shore",NY,11706-2234,"(631) 392-8472",micro,http://www.greatsouthbaybrewery.com
+"Green Wolf Brewing Co","315 Main St",,Middleburgh,NY,12122-,"(518) 827-6444",micro,http://www.greenwolfbrew.com
+"Greenpoint Beer","7 N 15th St",,Brooklyn,NY,11222-2838,"(917) 750-1541",brewpub,http://www.greenpointbeer.com
+"Greenport Harbor Brewing Co, LLC","42155 Main Rd",,Peconic,NY,11958-1502,"(631) 513-9019",micro,http://www.harborbrewing.com
+"Griffs Brewery","5324 W Ridge Rd",,Spencerport,NY,14559-1101,"(585) 617-3843",micro,http://www.griffsbrewery.com
+"Grimm Artisanal Ales","151 11th St Apt 1",,Brooklyn,NY,11215-3845,,contract,
+"Grist Iron Brewing Co.","4880 State Route 414",,Burdett,NY,14818-9729,"(607) 882-2739",brewpub,http://www.gristironbrewing.com
+"Gun Hill Brewing Co","3227 Laconia Ave",,Bronx,NY,10469-1403,"(718) 881-0010",micro,http://www.gunhillbrewing.com
+"Hamburg Brewing Company","6553 Boston State Rd",,Hamburg,NY,14075-6630,"(716) 649-3249",micro,http://www.hamburgbrewing.com
+"Hank Hudson Brewing At Fairways of Halfmoon","17 Johnson Rd",,Mechanicville,NY,12118-3505,"(518) 664-1578",brewpub,
+"Harbor Head Brewing Co","81 Fort Salonga Rd",,Northport,NY,11768,"(631) 793-1327",micro,http://www.harborheadbrew.com
+"Harlem Blue Beer","2214 Frederick Douglass Blvd Ste 267",,"New York",NY,10026-1123,,proprietor,http://www.harlemblue.com
+"Harlem Brewing Co","2 W 123rd St",,"New York",NY,10027-5623,"(888) 559-6735",contract,http://www.harlembrewingcompany.com
+"Heartland Brewery","35 Union Sq W Frnt 1",,"New York",NY,10003-3200,"(212) 645-3400",contract,http://www.heartlandbrewery.com
+"Heavily Brewing Company","2465 Hayes Hill Rd",,"Montour Falls",NY,14865,"(607) 535-2739",micro,http://www.heavilybrewingcompany.com
+"Helderberg Brewery","63 Huyck Rd",,Rensselaerville,NY,12147-2108,"(518) 797-5100",brewpub,http://careyinstitute.org/programs/sustainable-communities/helderberg-brewery-taproom/
+"Helderberg Mountain Brewing Company","141 Warners Lake Rd Ste 1",,"East Berne",NY,12059-2020,"(518) 937-3606",micro,http://www.helderbergmountainbrewingcompany.com
+"Henneberg Brewing Company","2001 Delphi Rd",,"New Woodstock",NY,13122-9768,"(315) 760-6629",micro,http://www.hennebergbrewing.com
+"High Perch Brewing Company","1417 Kania Rd",,Amsterdam,NY,12010-6610,,micro,
+"Hill Country Farm Brewery",,,Jamesville,NY,13078,"(315) 766-7885",planning,http://hillcountryfarmbrewery.com
+"Hofbrauhaus Buffalo",,,Buffalo,NY,14221-4616,"(716) 563-1781",planning,http://www.facebook.com/hofbrauhaus-buffalo-476335022466386/
+"Honey Hollow Brewery","376 E. Honey Rd.",,Earlton,NY,12058,"(518) 966-5560",micro,http://www.honeyhollowbrewery.com
+"Hop Barn Brewing","94 Maple Ave",,Greenville,NY,12083,"(518) 956-4762",micro,http://hopbarnbrewing.com
+"Hopshire Farm and Brewery","1771 Dryden Rd",,Freeville,NY,13068-,"(607) 539-6513",micro,http://www.hopshire.com
+"Horseheads Brewing Inc","250 Old Ithaca Rd",,Horseheads,NY,14845-1700,"(607) 739-8468",micro,http://www.horseheadsbrewing.com
+"Hudson Ale Works","17 Milton Ave",,Highland,NY,12528-1409,"(845) 384-2531",brewpub,http://www.hudsonaleworks.com
+"Humble Harvest Brewing, Inc.","3258 Route 20E",,Cazenovia,NY,13035,"(315) 404-5686",micro,http://www.humbleharvestbrewing.com
+"Hyde Park Brewing Co","4076 Albany Post Rd",,"Hyde Park",NY,12538-1934,"(845) 229-8277",brewpub,http://www.hydeparkbrewing.com
+"Iconyc Brewing Company","45-13 34th Ave",,"Long Island City",NY,11101-1041,"(347) 342-1360",micro,http://www.iconycbrewing.com
+"Indian Ladder Farmstead Brewery and Cidery","342 Altamont Rd",,Altamont,NY,12009-3500,"(518) 655-0108",micro,http://www.ilfcb.com
+"Industrial Arts Brewing Co.","55 W Railroad Ave # 25W",,Garnerville,NY,10923-1261,"(845) 942-8776",micro,http://www.industrialartsbrewing.com
+"Interboro Spirits And Ales","942 Grand St",,Brooklyn,NY,11211-2707,"(646) 245-5417",micro,http://www.interboro.nyc
+"Iron Flamingo Brewery","196 Baker St",,Corning,NY,14830-2074,"(607) 936-2337",micro,http://www.ironflamingobrewery.com
+"Iron Tug Brewing","360 W Ridge Rd",,Rochester,NY,14615-2928,"(585) 865-0032",micro,http://www.irontugbrewing.com
+"Island To Island Brewery","642 Rogers Ave",,Brooklyn,NY,11226,"(347) 974-1985",brewpub,http://www.islandtoislandbrewery.com
+"Ithaca Beer Co","122 Ithaca Beer Dr",,Ithaca,NY,14850-8813,"(607) 273-0766",regional,http://www.ithacabeer.com
+"Jamesport Farm Brewery","5873 Sound Ave",,Riverhead,NY,11901,"(631) 722-8111",micro,http://www.jamesportbrewhouse.com
+"John Harvards - Holiday Valley","Tamarack Club 6557 Holiday Valley Rd. Route 219",,Ellicottville,NY,14731,"(800) 323-0020",brewpub,http://www.johnharvards.com
+"K2 Brewing, Inc.",,,Penfield,NY,14526,"(585) 413-1997",planning,http://www.k2brewing.com
+"Keegan Ales","20 Saint James St",,Kingston,NY,12401-4534,"(845) 331-2739",micro,http://www.keeganales.com
+"Keg & Lantern Brewing Co","97 Nassau Ave",,Brooklyn,NY,11222-3081,"(718) 389-5050",brewpub,http://www.kegandlanternbrooklyn.com
+"KelSo Beer Company","529 Waverly Ave",,Brooklyn,NY,11238-2701,,contract,http://www.kelsoofbrooklyn.com
+"Keuka Brewing Co","8572 Briglin Rd",,Hammondsport,NY,14840-9633,"(607) 868-4648",micro,http://www.keukabrewingcompany.com
+"Kings County Brewers Collective","381 Troutman St",,Brooklyn,NY,11237-2613,"(718) 288-2891",micro,http://www.kcbcbeer.com
+"Knucklehead Craft Brewing","426 Ridge Road",,Webster,NY,14580,"(585) 347-6236",brewpub,http://www.knuckleheadcraftbrewing.com
+"Lafayette Brewing Co","391 Washington St",,Buffalo,NY,14203,"(716) 856-0062",brewpub,http://lafbrewco.com/
+"Lake Drum Brewing","16 E Castle St",,Geneva,NY,14456-2400,"(315) 789-1200",micro,http://www.lakedrumbrewing.com
+"Lake George Beer Hub","1043 State Route 9",,Queensbury,NY,12804,"(518) 223-0372",micro,http://www.lakegeorgebrewingcompany.com
+"Lake Placid Pub and Brewery","813 Mirror Lake Dr",,"Lake Placid",NY,12946-3829,"(518) 523-3813",brewpub,http://www.ubuale.com
+"Ledge Hill Brewing Co","6700 Main St",,Westport,NY,12993,,micro,http://www.ledgehillbrewing.com/
+"LIC Beer Project","3928 23rd St",,"Long Island City",NY,11101-4817,"(917) 832-6840",micro,http://licbeerproject.com
+"Limestone Creek Brewing Company, LLC",,,Manlius,NY,13104,,planning,
+"Lincoln Hill Farm",,,Gorham,NY,14424,"(585) 752-9466",planning,http://www.fingerlakingood.farm
+"Lineup Brewing LLC","33 35th St Unit 6A",,Brooklyn,NY,11232-2210,"(720) 422-2053",micro,http://www.lineupbrewing.com
+"Liquid State Brewing Company",,,Ithaca,NY,14850,,planning,http://www.liquidstatebrewing.com
+"Lithology Brewing","211 Main St Ste A",,Farmingdale,NY,11735-2675,"(516) 962-0585",proprietor,http://www.lithologybrewing.com
+"Livingood's Restaurant","697 Bear Swamp Rd",,Peru,NY,12972-,"(518) 643-2020",brewpub,http://www.livingoodsresturant.com
+"Local 315 Brewing Company","3160 Warners Rd",,Warners,NY,13164-,"(315) 468-2337",micro,http://www.local315brewing.com
+"Lock 32 Brewing Company","10 Schoen Pl",,Pittsford,NY,14534-2026,"(585) 506-7738",micro,http://www.lock32brew.com
+"Long Ireland Brewing Co","723 Pulaski St",,Riverhead,NY,11901-3039,"(631) 403-4303",micro,http://www.longirelandbeer.com
+"Lost Kingdom Brewery / Firehouse Distillery","7160 Main St",,Ovid,NY,14521-9401,"(607) 403-4020",micro,http://www.firehousedistillery.net
+"Lucky Hare Brewing Company","6085 Beckhorn Rd.",,Hector,NY,14841,"(610) 546-2036",brewpub,http://www.luckyharebrewing.com
+"Lunkenheimer Craft Brewing Co. LLC","8920 N Seneca St",,Weedsport,NY,13166-0539,"(315) 834-7027",micro,http://www.lunkenheimercraftbrewing.com
+"Lyonsmith Brewing Company","138 Water St",,"Penn Yan",NY,14527-1651,"(315) 536-5603",micro,http://www.lyonsmithbrewing.com
+"Mad Jack Brewing Co / Van Dyck Restaurant & Lounge","237 Union St",,Schenectady,NY,12305-1405,"(518) 348-7999",brewpub,http://www.madjackbrewing.com
+"Main Stage Brewing Company",,,Bellmore,NY,11710-5415,,planning,
+"Market Street Brewing Co","63 W Market St # 65",,Corning,NY,14830-2526,"(607) 936-2337",brewpub,http://www.936-beer.com
+"Mean Max Brew Works","193 Glen St # 2",,"Glens Falls",NY,12801-3539,"(518) 793-2337",micro,http://www.meanmaxbrew.com
+"Metro Craft Beer",,"Bronx, NY",,,,,contract,
+"Middle Ages Brewing Co Ltd","120 Wilkinson St Ste 3",,Syracuse,NY,13204-2490,"(315) 476-4250",micro,http://www.middleagesbrewing.com
+"Mikkeller Brewing NYC",,,Flushing,NY,11368,"(917) 572-0357",planning,http://mikkellernyc.com
+"Miles Craft Ales @ Miles Wine Cellars","168 Randall Rd",,Himrod,NY,14842-9715,"(607) 243-7742",contract,http://www.mileswinecellars.com
+"Mill House Brewing Company","289 Mill St",,Poughkeepsie,NY,12601-3111,"(845) 234-5573",brewpub,http://www.millhousebrewing.com
+"Mill House Brewing Company - Production",,,Poughkeepsie,NY,12601,"(845) 234-5573",micro,
+"Montauk Brewing Co","62 S Erie Ave",,Montauk,NY,11954-5370,"(631) 668-8471",micro,http://www.montaukbrewingco.com
+"Morrisville Auxilliary Corporation",,,Morrisville,NY,13408-,"(315) 825-7910",planning,
+"Mount Vernon Brewery","230 Concord Rd","Yonkers, Westchester",,,,,contract,http://www.broncksbeer.com
+"Moustache Brewing Co","400 Hallett Ave Ste A",,Riverhead,NY,11901-3076,"(631) 591-3250",micro,http://www.moustachebrewing.com
+"Naked Dove Brewing Company","4048 State Route 5 and 20",,Canandaigua,NY,14424-9591,"(585) 396-2537",micro,http://www.nakeddovebrewing.com
+"Nedloh Brewing Company","6621 State Route 5 and 20",,Bloomfield,NY,14469-9208,"(585) 360-7272",micro,http://www.nedlohbrewing.com
+"New Paltz Brewing Company","7174 Route 209",,Wawarsing,NY,12489,"(845) 419-3040",micro,http://www.pfalzerbrau.com
+"New York Beer Project","6948 Lockwood Ln",,Lockport,NY,14094-7918,"(716) 743-6927",brewpub,http://www.nybeerproject.com
+"Newburgh Brewing Company","88 S Colden St",,Newburgh,NY,12550-5640,"(845) 569-2337",micro,http://www.newburghbrewing.com
+"Next Chapter Brewpub",,,Auburn,NY,13021,,planning,http://www.nextchapterbrewpub.com
+"Noble Shepherd Craft Brewery","7853 State Route 20a",,Bloomfield,NY,14469-9659,"(585) 229-7661",micro,http://www.nobleshepherdbrewery.com
+"North American Breweries","445 Saint Paul St",,Rochester,NY,14605-1726,,regional,
+"North Brewery","110 Washington Ave",,Endicott,NY,13760-5307,"(607) 785-0524",micro,http://www.northbrewery.com
+"North River Hops And Brewing","1571 Route 9",,"Wappingers Falls",NY,12590-2827,"(845) 297-2190",micro,http://www.northriverbrews.com
+"Northern Harvest Brewing Company",,,Moriah,NY,12960-2306,"(518) 468-2337",planning,http://www.northernharvest.beer
+NYCBC,,,"New York",NY,10005,,planning,http://www.nycbc.com
+"Old Klaverack Brewery","150 Thielman Rd",,Hudson,NY,12534-3716,"(518) 965-1437",micro,http://www.oldklaverackbrewery.com
+"Olde Saratoga/Kingfisher Brewing Co","131 Excelsior Ave",,"Saratoga Springs",NY,12866-8545,"(518) 581-0492",regional,http://www.oldesaratogabrew.com
+"Other Half Brewing Company","195 Centre St",,Brooklyn,NY,11231-3907,,micro,
+"OVAL Craft Brewing","111 Ohio Rd",,Plattsburgh,NY,12903-4403,"(518) 324-2739",micro,http://www.ovalcraftbrewing.com
+"Owls Rest Brewery",,,Malone,NY,12953-1517,,planning,
+"Oyster Bay Brewing","36 Audrey Ave",,"Oyster Bay",NY,11771-1548,"(516) 802-5546",micro,http://www.oysterbaybrewing.com
+"Pan American Grill and Brewery","391 Washington St",,Buffalo,NY,14203-2108,"(716) 856-0062",brewpub,http://www.panamericangrill.com
+"Paradox Brewery","154 State Route 9",,"Schroon Lake",NY,12870,"(518) 351-5036",micro,http://www.paradoxbrewery.com
+"Paulaner Brauhaus & Restaurant","265/267 Bowery",,"New York",NY,10002,,brewpub,http://www.paulaner-brauhaus.com/nyc
+"Peacemaker Brewing Company","20 Pleasant St",,Canandaigua,NY,14424-2047,"(585) 396-3561",micro,http://www.peacemakerbrewing.com
+"Pearl Street Grill and Brewery","76 Pearl St",,Buffalo,NY,14202-4106,"(716) 856-2337",brewpub,http://www.pearlstreetgrill.com
+"Peekskill Brewing Co","47 S Water St # 53",,Peekskill,NY,10566-2035,"(914) 734-2337",brewpub,http://www.peekskillbrewery.com
+"Perfect World Brewing Co","18 King Ave",,Albany,NY,12206,,micro,http://www.facebook.com/perfectworldbrewing/
+"Pine Island Brewing","682 County Route 1 Ste B",,"Pine Island",NY,10969-1715,"(845) 288-2646",micro,http://www.pineislandbeer.com
+"Plan Bee Farm Brewery","115 Underhill Rd",,Poughkeepsie,NY,12603-1045,"(765) 307-8589",micro,http://www.planbeefarmbrewery.com
+"Plattsburgh Brewing Co","411 Route 3",,Plattsburgh,NY,12901-6520,"(518) 324-6680",brewpub,http://www.plattsburghbrewingco.com
+"Po'Boy Brewing","200 Wilson St. Bldg E3",,"Port Jefferson Station",NY,11776-1145,"(631) 828-1131",micro,http://www.poboybrewery.com
+"Port Jeff Brewing Co","22 Mill Creek Rd",,"Port Jefferson",NY,11777-1663,"(877) 475-2739",micro,http://www.portjeffbrewing.com
+"Prison City Brewing","28 State St",,Auburn,NY,13021-3625,"(917) 727-2477",brewpub,http://www.prisoncitybrewing.com
+"Pull Brewing Co","317 Springtown Rd",,"New Paltz",NY,12561-3020,,contract,http://www.pullbrewing.com
+"Queens Brewery","1539 Covert St",,Ridgewood,NY,11385-5356,"(646) 265-2049",proprietor,http://www.queensbrewery.com
+"R.S. Taylor & Sons Brewery","3602 County Route 30",,Salem,NY,12865-4702,"(518) 209-0474",brewpub,http://www.rstaylorbrewing.com
+"Racing City Brewing Company","250 Excelsior Avenue",,"Saratoga Springs",NY,12866,"(518) 350-4515",,http://www.racingcitybrewingcompany.com
+"Radiant Pig Craft Beers","122 W 27th St Fl 10",,"New York",NY,10001-6227,,contract,
+"Railhead Brewing Company","40 Park Dr",,Hornell,NY,14843-2213,"(607) 324-3286",brewpub,http://www.railheadbrewing.com
+"Raquette River Brewing","11 Balsam St #2",,"Tupper Lake",NY,12986-1033,"(518) 359-5219",micro,http://www.raquetteriverbrewing.com
+"Rare Form Brewing","90 Congress St",,Troy,NY,12180-4123,"(518) 326-4303",micro,http://www.rareformbrewing.com
+"Real McCoy Beer Co.","20 Hallwood Rd Unit C",,Delmar,NY,12054-1925,"(518) 227-1900",micro,
+"Red Hawk Brewing","4504 Bussey Rd",,Syracuse,NY,13215-8783,"(315) 491-5158",micro,http://www.redhawkbrewing.com
+"Red Shed Brewing Company","817 Butter Bowl Rd",,"Cherry Valley",NY,13320-3106,"(518) 309-2259",micro,http://www.redshedbrewingcompany.com
+"Reinvention Brewing Co.","9 North Main Street PO Box 57",,Manchester,NY,14504,"(585) 289-7309",micro,http://www.reinventionbrewing.com
+"Resurgence Brewing Company","1250 Niagara St",,Buffalo,NY,14213-1502,"(716) 381-9868",brewpub,http://www.resurgencebrewing.com
+"RG Brewery / Five Sons Winery","1356 W Sweden Rd",,Brockport,NY,14420-,"(585) 637-5575",micro,http://www.rgbrewery.com
+"Rip Van Winkle Brewing Co.","4545 Route 32",,Catskill,NY,12414,"(518) 678-9275",brewpub,http://www.ripvanwinklebrewingco.com
+"Roc Brewing Co","56 S Union St",,Rochester,NY,14607-1839,"(585) 794-9798",brewpub,http://www.rocbrewingco.com
+"Rock Cellar Brewing Company",,,Monroe,NY,10950,"(845) 288-2764",planning,http://www.rockcellarbrewing.com
+"Rockaway Brewing Company",,,Arverne,NY,11692-1044,"(718) 482-6528",planning,http://www.rockawaybrewco.com
+"Rockaway Brewing Company","46-01 5th Street",,"Long Island City",NY,11101-5369,"(718) 482-6528",micro,http://www.rockawaybrewco.com
+"Rocky Point Artisan Ales",,,"Rocky Point",NY,11778,"(631) 848-2261",micro,http://www.rockypointartisanbeer.com
+"Rogers Beer","23 Woodline Dr",,Penfield,NY,14526-2413,"(585) 709-6480",contract,http://www.rogersbeer.com
+"Rohrbach Brewing Company","97 Railroad St",,Rochester,NY,14609-6039,"(585) 546-8020",brewpub,http://www.rohrbachs.com
+"Rohrbach's Railroad St Brewery","97 Railroad St",,Rochester,NY,14609-6039,"(585) 546-8020",micro,http://www.rohrbachs.com
+"Roosterfish Brewing Co.","301 N Franklin St",,"Watkins Glen",NY,14891-1202,"(607) 535-9797",brewpub,http://www.roosterfishbrewing.com
+"Roots Brewing Company","175 Main St",,Oneonta,NY,13820-2501,"(607) 433-2925",brewpub,http://www.rootsbrewingcompany.com
+"Roscoe Brewing Company","145 Rockland Rd",,Roscoe,NY,12776-6418,"(607) 290-5002",micro,http://www.roscoebeercompany.com
+"Route 6 Tap House/ Putnam Brewery","728 US-6",,Mahopac,NY,10541,"(845) 628-7302",brewpub,http://www.facebook.com/putnam-brewery-165364887155377/
+"Ruckus Brewing Co","261 W 35th St Ste 1002",,"New York",NY,10001-1902,"(646) 710-5098",contract,http://www.ruckusbrewing.com
+"Rushing Duck Brewing Co","1 Battiato Ln",,Chester,NY,10918-1283,"(845) 610-5440",micro,http://www.rushingduck.com
+"Rusty Nickel Brewing Co.","4350 Seneca St",,Buffalo,NY,14224-3169,"(716) 608-6155",micro,http://rustynickelbrewing.com
+"S & S Farm Brewery","274 Middle Rd",,Nassau,NY,12123,"(518) 336-0766",micro,http://www.sandsbrewery.com
+"Sackets Harbor Brewing Co","212 W Main S",,"Sackets Harbor",NY,13685,"(315) 646-2739",brewpub,http://www.sacketsharborbrewpub.com
+"Sacre Brew",,,Flushing,NY,11367-1623,"(929) 217-6278",planning,http://www.sacrebrew.com
+"Saint James Brewery","929 Lincoln Ave Ste 11",,Holbrook,NY,11741-2256,"(621) 707-3192",micro,http://www.saintjamesbrewery.com
+"SakeBrooklyn Brewing Co., LLC",,,Brooklyn,NY,11237,"(929) 400-7253",planning,http://www.sakebrooklyn.com
+"Sand City Brewing Co.","60 Main St",,Northport,NY,11768-1722,"(917) 796-5672",micro,http://www.sandcitybeer.com
+"Saranac Brewery / Matt Brewing Co","811 Edward St",,Utica,NY,13502-4001,"(315) 624-2400",regional,http://www.saranac.com
+"Sato Brewpub","162 Old Carriage House Rd.",,"Grand Island",NY,14072-3213,,brewpub,http://www.satobrewpub.com
+"Scale House Brewery & Pub","23 Cinema Dr Ste C",,Ithaca,NY,14850-1682,"(607) 257-0107",brewpub,http://www.scalehousebrewpub.com
+"Secatogue Brewing Co.","345 Union Blvd",,"West Islip",NY,11795-3114,"(631) 871-4270",micro,http://www.secatoguebrewing.com
+"Seneca Lake Brewing Company","5430 NY-14",,Dundee,NY,14837-8838,"(607) 216-8369",micro,http://www.senecalakebrewing.com
+"Seneca Lodge Craft Brewing At Seneca Lodge","3600 Walnut Rd",,"Watkins Glen",NY,14891-0272,"(607) 535-2014",brewpub,http://www.senecalodge.com
+"Seneca Street Brew Pub","315 E Seneca St",,Manlius,NY,13104-1860,"(315) 682-6968",brewpub,http://www.senecastreetbrewpub.com
+"Serious Brewing Co.",,,Esperance,NY,12066-2009,,planning,
+"Sevens Brew Pub","5857 Route 96",,Farmington,NY,14425,"(595) 924-3232",brewpub,http://www.fingerlakesgaming.com
+"Shelter Island Craft Brewery","55 N Ferry Rd",,"Shelter Island",NY,11964,"(631) 749-5977",brewpub,http://www.home.shelterislandcraftbrewery.com
+"Shmaltz Brewing Co","6 Fairchild Sq # 1",,"Clifton Park",NY,12065-1254,,regional,
+"Shrewd Fox Brewery","552 NY State Highway 55",,Eldred,NY,12732,"(845) 557-8255",micro,http://www.shrewdfoxbrewery.com
+"Silver Lake Brewing Project","14 Borden Ave",,Perry,NY,14530,"(585) 261-0635",micro,http://silverlakebrewingproject.com
+"Sing Sing Kill Brewery",,,Ossining,NY,10562-4706,"(917) 881-2490",planning,http://www.singsingkillbrewery.com
+"Singlecut Beersmiths","1933 37th St",,Astoria,NY,11105-1118,"(718) 606-0788",micro,http://www.singlecutbeer.com
+"Six Harbors Brewing Company",,,Huntington,NY,11743,"(516) 680-3528",planning,
+"Sixpoint Brewery","40 Van Dyke St",,Brooklyn,NY,11231-1529,"(347) 227-8676",regional,http://www.sixpoint.com
+"Skewed Brewing","21182 Salmon Run Mall Loop W",,Watertown,NY,13601-2244,"(315) 788-2337",brewpub,http://www.skewedbrewing.com
+"Sloop Brewing","1065 County Route 19",,Elizaville,NY,12523-1205,"(917) 848-3865",micro,http://www.sloopbrewing.com
+"Smart Beer Company",,,"New Paltz",NY,12561-0430,,contract,http://www.smartbeercompany.com
+"Southampton Publick House","62 Jobs Ln",,Southampton,NY,11968-4807,"(631) 283-2800",brewpub,http://www.publick.com
+"Southern Tier Brewing Co","2072 Stoneman Cir",,Lakewood,NY,14750-9779,"(716) 763-5479",regional,http://www.southerntierbrewing.com
+"Spider Bite Brewing Co","920 Lincoln Ave., Unit 5",,Holbrook,NY,11741,"(631) 942-3255",micro,http://www.spiderbitebeer.com
+"SquareHead Brewing","405 High St #1",,Holbrook,NY,11741-5317,"(631) 921-3060",micro,http://www.squareheadbrewing.com
+"Staten Island Beer Company","20 Kinsey Pl",,"Staten Island",NY,10303-1427,"(917) 439-6300",micro,http://www.sibeerco.com
+"Steadfast Beer Co","1756 Western Ave Rear",,Albany,NY,12203-4414,,contract,http://www.steadfastbeer.com
+"Steuben Brewing Company","10286 Judson Rd",,Hammondsport,NY,14840-9668,"(607) 279-8874",micro,http://www.steubenbrewingcompany.com
+"Stoneyard Brewing Company","1 Main St",,Brockport,NY,14420-1901,"(585) 637-3390",brewpub,http://www.stoneyardbrewingcompany.com
+"Stout Beard Brewing Company","1153 W Fayette St Ste 102",,Syracuse,NY,13204-2740,"(315) 399-3016",brewpub,http://www.stoutbeardbrewery.com
+"Strong Rope Brewery","574A President St",,Brooklyn,NY,11215-1019,"(585) 703-3010",micro,http://www.strongropebrewery.com
+"Stumblin' Monkey Brewing Co","61 schools St suite G",,Victor,NY,14564,"(315) 506-5312",micro,http://www.stumblinmonkeybeer.com
+"Stump City Brewing LLC","521 W Fulton St Ext",,Gloversville,NY,12078-6309,"(518) 774-7241",micro,http://www.stumpcitybrewing.com
+"Suarez Family Brewery","2278 US 9",,Livingston,NY,12541-8926,"(518) 537-6464",micro,http://www.suarezfamilybrewery.com
+"Subversive Malting",,,Chatham,NY,12037-1122,"(518) 322-3512",planning,http://www.drinksubversive.com
+"Summerhill Brewing LLC","384 Champlin Rd N. Cayuga County",,Groton,NY,13073,"(607) 591-6148",micro,http://www.facebook.com/summerhill.brewing/
+"Svendaele Beer Co",,,Millerton,NY,11231,"(212) 473-7750",planning,
+"Sweet Thursday Beer Co",,,Brooklyn,NY,11215-6020,"(917) 613-3980",planning,http://www.sweetthursdaybeer.com
+"Swiftwater Brewing Company","378 Mount Hope Ave",,Rochester,NY,14620-1250,"(585) 530-3471",brewpub,http://www.swiftwaterbrewing.com
+"SwingSett Brewing Company",,,Centereach,NY,11720,,planning,http://www.facebook.com/profile.php?id=100015460966041
+"Syracuse Suds Factory","320 S Clinton St",,Syracuse,NY,13202-1220,"(315) 471-2253",brewpub,http://www.sudsfactory.com
+"Table 41 Brewing Co.","4 Dunsback Ferry Rd",,Cohoes,NY,12047-5016,"(518) 527-0221",micro,http://www.table41brewing.com
+"The Beer Diviner","243 Bly Hollow Rd",,"Cherry Plain",NY,12040,"(518) 210-6196",micro,http://www.thebeerdiviner.com
+"The Brewers Collective","1460 N Clinton Ave Unit C",,"Bay Shore",NY,11706-4058,"(516) 707-5265",micro,http://www.thebrewerscollective.com
+"The Brewery At Bacchus","4 S Chestnut St",,"New Paltz",NY,12561-1902,"(845) 255-8636",brewpub,http://www.bacchusnewpaltz.com
+"The Brewery of Broken Dreams","8319 Pleasant Valley Rd",,Hammondsport,NY,14840-9549,"(607) 224-4050",micro,http://www.thebreweryofbrokendreams.com
+"The Bronx Brewery","856 E 136th St",,Bronx,NY,10454-3509,"(718) 402-1000",micro,http://www.thebronxbrewery.com
+"The FarmHouse Brewery","14 George St",,Owego,NY,13827-1084,"(607) 227-0638",micro,http://www.thefarmhousebrewery.com
+"The Food Works",,,Manhattan,NY,10002,"(617) 851-2133",planning,http://www.thefoodworks.com
+"The Good Shepherds Brewing Co","31 Loop Rd Ste 1",,Auburn,NY,13021-3823,"(315) 406-6498",micro,http://www.shepsbeer.com
+"The Hertel Brewing Co",,,Buffalo,NY,14216,"(716) 255-0324",planning,
+"The Lost Borough Brewing Company","543 Atlantic Ave",,Rochester,NY,14609-7316,"(585) 471-8122",micro,http://www.lostboroughbrewing.com
+"The New Buffalo Brewing Co. Inc","11163 Main St",,Clarence,NY,14031-1701,"(716) 200-7275",contract,http://www.newbuffalobrewing.com
+"The Owls Brew","135 W 29th St Rm 602",,"New York",NY,10001-5175,"(212) 564-0218",large,http://www.theowlsbrew.com
+"The VB Brewery","6606 State Route 96",,Victor,NY,14564-1409,"(585) 902-8166",micro,http://www.thevbbrewery.com
+"Thin Man Brewery","486 Elmwood Ave",,Buffalo,NY,14222,"(716) 923-4100",brewpub,http://www.thinmanbrewery.com
+"Third Rail Beer","928 Broadway Ste 902",,"New York",NY,10010-8139,,contract,http://www.thirdrailbeer.com
+"Three Heads Brewing","186 Atlantic Ave",,Rochester,NY,14607-1213,"(585) 244-1224",micro,http://www.threeheadsbrewing.com
+"Three Huskies Brewing & Dobber's Grill","401 Lakeshore Dr",,Canandaigua,NY,14424-2338,"(585) 260-3530",brewpub,http://www.threehuskiesbrewing.com
+"Threes Brewing","333 Douglass St",,Brooklyn,NY,11217-3115,"(718) 522-2110",brewpub,http://www.threesbrewing.com
+"Tim's Pumpkin Patch","2901 Rose Hill Rd",,Marietta,NY,13110-3236,"(315) 673-9209",micro,http://www.timspumpkinpatch.com
+"Township 7 Brewing Co. LLC","303 State Route 11b",,"Dickinson Center",NY,12930-2008,"(518) 651-9532",micro,http://www.township7brewing.com
+"Transmitter Brewing","5302 11th St",,"Long Island City",NY,11101-5917,"(646) 378-8529",micro,http://www.transmitterbrew.com
+"Triphammer Bierwerks","111 Parce Ave Ste 3A-1",,Fairport,NY,14450-1467,"(910) 465-2862",micro,http://www.triphammerbierwerks.com
+"Tuthilltown Spirits",,,Gardiner,NY,12525-5528,"(845) 255-1527",planning,
+"Tweaking Frog Brewing Company","211 Main St Ste A",,Farmingdale,NY,11735-2675,"(631) 897-5509",micro,http://www.tweakingfrogbrewing.com
+"Twisted Rail Brewing Company","169 Lakeshore Dr",,Canandaigua,NY,14424-2309,"(585) 396-0683",micro,http://www.twistedrailbrewing.com
+"Two Goats Brewing","5027 State Route 414",,Burdett,NY,14818-9816,(607)546-BEER,brewpub,http://www.twogoatsbrewing.com
+"Upstate Brewing Co","3028 Lake Rd",,Elmira,NY,14903-1409,"(617) 519-8381",micro,http://www.upstatebrewing.com
+"Upward Brewing Co.",,,"Livingston Manor",NY,12758-,"(845) 798-0471",planning,http://www.upwardbrewing.com
+"US Beer Brewers At the Cellar Door","17 W Cayuga St",,Oswego,NY,13126-4000,"(315) 207-2381",brewpub,http://www.usbeerbrewers.beer
+"Valcour Brewing Company LLC","49 Ohio Rd",,Plattsburgh,NY,12903-4409,"(518) 324-2337",micro,http://www.valcourbrewery.com
+"Velveteen Brewing Co",,,Mamaroneck,NY,10543-4719,,planning,
+"Wagner Valley Brewing Co","9322 Route 414",,Lodi,NY,14860-9641,"(607) 582-6450",brewpub,http://www.wagnerbrewing.com
+"War Flag Brewing Co","649 Morgan Ave Ste B16-5",,Brooklyn,NY,11222-3940,"(646) 696-8096",proprietor,http://www.warflag.nyc
+"War Horse Brewing Company","623 Lerch Rd Ste 5",,Geneva,NY,14456-9295,"(315) 585-4432",brewpub,http://www.3brotherswinery.com
+Wartega,"33 35th St Unit 6A",,Brooklyn,NY,11232-2210,"(917) 397-1171",micro,http://www.wartega.com
+"Water Street Brewing Co","168 Water St Fl 1",,Binghamton,NY,13901-2736,"(607) 217-4546",brewpub,http://www.waterstreetbrewingco.com
+"West Kill Brewing","2173 Spruceton Rd",,"West Kill",NY,12492,"(518) 989-6462",micro,http://www.westkillbrewing.com
+"West Shore Brewing Co","10995 Main St",,Clarence,NY,14031,"(716) 998-3752",micro,http://westshorebrewing.com
+"Westtown Brew Works","236 Schefflers Rd",,Westtown,NY,10998-,"(845) 304-4152",micro,http://www.westtownbrewworks.com
+"WhichCraft Brews","1900 Empire blvd",,Webster,NY,14420,"(585) 222-2739",micro,http://www.whichcraftbrews.com
+"Whitlinger & Sons Brewing",,,Ossining,NY,10562-2084,"1 (503) 781-6593",planning,http://www.whitlingerbrewing.com
+"Wild East Brewing Co.",,,Brooklyn,NY,11215-5511,,planning,http://www.wildeastbrewing.com
+"Willow Creek Farm Brewery","319 Bliss Gulf Rd",,Oneonta,NY,13820-4158,"(607) 431-9740",micro,http://www.facebook.com/willow-creek-farm-brewery-milford-ny-1035829223117471
+"Willow Rock Brewing Company","115 Game Rd",,Syracuse,NY,13210-4216,"(315) 928-6948",micro,http://www.willowrockbrew.com
+"Windy Brew","733 Route 20A",,Strykersville,NY,14145-9584,"(585) 805-4006",micro,http://www.windybrews.com
+"Wolf Hollow Brewing Company","6882 Amsterdam Rd",,Schenectady,NY,12302-,"(518) 214-4093",micro,http://www.wolfhollowbrewing.com
+"Wood Boat Brewery","625 Mary St Ste A",,Clayton,NY,13624-1131,"(315) 686-3233",brewpub,http://www.woodboatbrewery.com
+"Woodcock Brothers Brewing","638 Lake St",,Wilson,NY,14172-9600,"(716) 333-4000",brewpub,http://www.woodcockbrothersbrewery.com
+"Wooden Skiff Beer Co.","21 Meadow Rd",,Buffalo,NY,14216,,contract,http://www.woodenskiff.com
+"Woodland Farm Brewery","6002 Trenton Rd",,Utica,NY,13502,"(315) 864-3051",micro,http://www.woodlandbeer.com
+"WT Brews LLC","3 W Genesee St",,Baldwinsville,NY,13027-1104,"(315) 430-2390",micro,http://www.wtbrews.com
+"Yard Owl Craft Brewery","19 Osprey Ln",,Gardiner,NY,12525-5339,"(845) 633-8576",brewpub,http://yardowlcraftbrewery.com
+"Yellow Pot Brewing Company",,,Ithaca,NY,14850-5930,,planning,http://www.ypfermentation.com/home
+"Yonkers Brewing Co","92 Main St",,Yonkers,NY,10701-7065,"(914) 391-5805",brewpub,http://www.yonkersbrewing.com
+"Young Lion Brewing Co","24 Lakeshore Dr",,Canandaigua,NY,14424-2333,"(585) 203-4337",micro,http://www.younglionbrewing.com

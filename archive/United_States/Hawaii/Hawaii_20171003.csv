@@ -1,0 +1,24 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Kona Brewing Co","74-5612 Pawai Pl",,"Kailua Kona",HI,96740-,"(808) 334-1133",regional,http://www.konabrewingco.com
+"Aloha Beer Co","700 Queen Street",,Honolulu,HI,96813-5110,"(808) 545-5959",brewpub,http://www.alohabeer.com
+"Beer Lab HI","1010 University Ave. B-1",,Honolulu,HI,96826,"(808) 888-0913",micro,http://www.beerlabhi.com
+"Big Island Brewhaus","64-1066 Mamalahoa Hwy Unit 5",,Kamuela,HI,96743-7309,"(317) 488-1230",brewpub,http://www.bigislandbrewhaus.com
+"Brewery in Planning - Haleiwa",,,Haleiwa,HI,96712,"(808) 791-8356",planning,
+"Brewery In Planning - Honolulu",,"Honolulu, HI",,,,,planning,
+"Brewery In Planning - Honolulu HI",,,Kailua,HI,96734-4059,,planning,
+"Chance Brewing Co.",,,Honolulu,HI,96815-4404,"(808) 799-2000",planning,http://www.chancebrewingcompany.com
+"Gordon Biersch Brewery Restaurant - Honolulu","Aloha Towers Ste 1123/101 Ala Moana Blvd",,Honolulu,HI,96813-4803,"(808) 599-4877",brewpub,http://www.gordonbiersch.com/restaurant
+"Hawaii Nui Brewing","275 E Kawili St",,Hilo,HI,96720-5074,"(808) 245-8884",micro,http://www.hawaiinuibrewing.com
+"Hawaiian OLA Brewing Corp/ Hawaii Cider Co",,,"Kailua Kona",HI,96740-3151,"(808) 796-1279",planning,http://olabrewco.com
+"Home of the Brave Brewseum","PO Box 25204",,Honolulu,HI,96825-0204,"(808) 396-8112",micro,http://www.hotbbc.com
+"Honolulu BeerWorks","328 Cooke St",,Honolulu,HI,96813-5531,"(808) 589-2337",brewpub,http://www.honolulubeerworks.com
+"Kauai Beer Company","2233 Walelia Pl",,Koloa,HI,96756-9766,,brewpub,
+"Kauai Island Brewery","4350 Waialo Rd",,"Port Allen",HI,96705,"(808) 335-0006",brewpub,http://www.kauaiislandbrewing.com
+"Kohola Brewery","910 Honoapiilani Hwy",,Lahaina,HI,96761-1507,,micro,http://www.koholabrewery.com
+"Lanikai Brewing Co","175-C Hamakua Dr",,Kailua,HI,96734,,micro,http://www.lanikaibrewing.com
+"Lokahi Brewing",,,Kailua,HI,96734-4005,"(808) 253-9606",planning,http://www.lokahibrewing.com
+"Maui Brewing Co - Production","605 Lipoa Pkwy",,Kihei,HI,96753-6947,"(808) 213-3002",regional,http://www.mauibrewingco.com
+"Maui Brewing Co, Brewpub","4405 Honoapiilani Hwy Ste 217",,Lahaina,HI,96761-9272,"(808) 669-3474",brewpub,http://www.mauibrewingco.com
+Stewbum,"46-174 Kahuhipa St Rm E",,Kaneohe,HI,96744-3825,"(808) 664-6684",micro,http://www.stewbumandstonewall.com
+"Taps and Apps","95-1830 Meheula Pkwy Ste C-6",,Mililani,HI,96789-6311,"(808) 626-8277",brewpub,http://www.tapsandappsbrewpub.com
+"Waikiki Brewing Company","1945 Kalakaua Ave",,Honolulu,HI,96815-1851,,brewpub,http://www.waikikibrewing.com

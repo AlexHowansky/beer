@@ -1,0 +1,408 @@
+name,address1,address2,city,state,zip,phone,type,url
+"101 Brewery","294793 US Highway 101",,Quilcene,WA,98376-9000,"(360) 765-6485",brewpub,http://www.101brewery.com
+"192 Brewing","7324 NE 175th St",,Kenmore,WA,98028-2500,"(425) 424-2337",brewpub,http://www.192brewing.com
+"20 Corners Brewing LLC","14148 NE 190th St Ste A",,Woodinville,WA,98072-8437,"(425) 375-5223",brewpub,http://www.20cornersbrewing.com
+"238 Brewing Company","10321 E Day Mt",,Spokane,WA,99021,"(509) 238-2739",micro,http://www.238brewing.com
+"5 Rights Brewing Co","7028 46th St NE",,Marysville,WA,98270-6989,"(425) 334-1026",micro,http://www.5rightsbrewing.com
+"54-40 Brewing Company","3801 S Truman St, Suite 1",,Washougal,WA,98671,"(360) 907-7062",micro,http://www.54-40brewing.com
+"7 Seas Brewing Co","2101 Jefferson Ave",,Tacoma,WA,98402-1519,"(253) 514-8129",micro,http://www.7seasbrewing.com
+"Adam's Northwest Bistro / Twin Rivers Brewing","104 N Lewis St",,Monroe,WA,98272-1502,"(360) 794-4056",brewpub,http://www.adamsnwbistro.com
+"Airways Brewing Co","8611 S 212th St",,Kent,WA,98031-1910,,micro,http://www.airwaysbrewing.com
+"Alpine Brewing Co","PO Box 2320",,Oroville,WA,98844-2320,"(509) 476-9662",micro,http://www.alpine-brewing.com
+"Amnesia Brewing","1834 Main St",,Washougal,WA,98671-4107,"(360) 335-1008",brewpub,http://www.amnesiabrews.com/
+"Anacortes Brewery/Rockfish Grill","320 Commercial Ave",,Anacortes,WA,98221-1517,"(206) 819-3093",brewpub,http://www.anacortesrockfish.com
+"Andana Brewing Company",,,Seattle,WA,98109,,planning,
+"Angel's Tap House Brewing","3438 Stoluckquamish Ln",,Arlington,WA,98223-9056,"(360) 474-9740",brewpub,http://www.angelofthewind.com
+"Ashtown Brewing Co","1175 Hudson St",,Longview,WA,98632-3158,"(360) 353-5286",micro,http://www.ashtownbrewing.com
+"Aslan Brewing Company","1330 N Forest St",,Bellingham,WA,98225-4702,"(360) 393-4106",micro,http://aslanbrewing.com
+"At Large Brewing","2730 W Marine View Dr",,Everett,WA,98201-3421,"(425) 324-0039",brewpub,http://www.atlargebrewing.com
+"Atomic Ale Brewpub and Eatery","1015 Lee Blvd",,Richland,WA,99352-4226,"(509) 946-5465",brewpub,http://www.atomicalebrewpub.com
+"Atwood Ales","4012 Sweet Rd",,Blaine,WA,98230-9108,"(360) 399-6239",micro,http://www.atwoodales.com
+"Backwoods Brewing Company","1162 Wind River Hwy",,Carson,WA,98610-,"(509) 427-3412",brewpub,http://www.backwoodsbrewingcompany.com
+"Backwoods Brewing Company - Production Only","40SW Cascade Ave Ste 85",,Stevenson,WA,98648,"(509) 427-3412",micro,http://www.backwoodsbrewingcompany.com
+"Bad Jimmy's Brewing Co","4358B Leary Way NW",,Seattle,WA,98107-4554,"(206) 789-1548",micro,http://www.badjimmysbrewingco.com
+"Badass Backyard Brewing","1415 N Argonne Rd",,"Spokane Valley",WA,99212-2685,"(509) 242-3225",micro,http://www.badassbackyardbeer.com
+"Badger Mountain Brewing","1 Orondo Ave",,Wenatchee,WA,98801-2206,"(509) 888-7468",micro,http://www.badgermountainbrewing.com
+"Bainbridge Island Brewing","9415 Coppertop Loop NE Ste 103-104",,Seattle,WA,98110-3339,"(206) 451-4646",micro,http://www.bainbridgebeer.com
+"Bale Breaker Brewing Company","1801 Birchfield Rd",,Yakima,WA,98901-9577,"(509) 424-4000",micro,http://www.balebreaker.com
+"Barhop Brewing","124 W Railroad Ave",,"Port Angeles",WA,98362-2621,"(360) 460-5155",brewpub,http://www.barhopbrewing.com
+"Barrel Mountain Brewing","607 E Main St",,"Battle Ground",WA,98604-4887,"(360) 342-8111",micro,http://www.barrelmountainbrewing.com
+"Bastion Brewing Company","12529 Christianson Rd",,Anacortes,WA,98221-8682,"(360) 399-1614",brewpub,http://www.bastionbrewingcompany.com
+"Beardslee Public House","19116 Beardslee Blvd Ste 201",,Bothell,WA,98011-0202,,brewpub,
+"Beerded Brothers Brewing","15005 NE 26th St",,Vancouver,WA,98684-7839,"(206) 235-6106",micro,http://www.beerdedbrothers.com
+"Bellevue Brewing Co","1820 130th Ave NE #2",,Bellevue,WA,98005-2205,"(425) 785-0171",brewpub,http://www.bellevuebrewing.com
+"Bellwether Brewing Co","2019 N Monroe St",,Spokane,WA,99205-4542,"(509) 280-8345",micro,http://www.bellwetherbrewing.net
+"Bennidito's Brewpub","1909 E Sprague Ave",,Spokane,WA,99202-3120,"(509) 290-5018",brewpub,http://www.benniditosbrewpub.com
+"Berchman's Brewing Company","25 N Front St #2",,Yakima,WA,98901,"(509) 952-1058",micro,http://berchmansbrewingcompany.com/
+"Big Barn Brewing Co / Bodacious Berries Fruits and Brews","16004 N Applewood Ln",,Mead,WA,99021-7818,"(509) 710-2961",micro,http://www.bigbarnbrewing.com
+"Big Block Brewing","24859 NE 2nd Ct",,Sammamish,WA,98074-3428,"(425) 457-0515",micro,http://www.bigblockbrewery.com
+"Big Time Brewery","4133 University Way NE",,Seattle,WA,98105-6213,,brewpub,http://www.bigtimebrewery.com
+"BirdsView Brewing Co","38302 State Route 20",,Concrete,WA,98237-9460,"(360) 826-3406",micro,http://www.birdsviewbrewingcompany.com
+"Black Label Brewing Company","19 W Main Ave",,Spokane,WA,99201-5124,"(509) 822-7436",micro,http://www.blacklabelbrewing.com
+"Black Raven Brewing Co","14687 NE 95th St",,Redmond,WA,98052-2556,"(425) 881-3020",micro,http://www.blackravenbrewing.com
+"Blackbeard's Brewing Company","700 W Ocean Ave",,Westport,WA,98595-9603,"(360) 268-7662",brewpub,http://www.blackbeardsbrewing.com
+"Blewett Brewing Company","911 Commercial St",,Leavenworth,WA,98826-1494,"(509) 888-8809",brewpub,
+"Bluebird Microcreamery and Brewery","7400 Greenwood Ave N",,Seattle,WA,98103-5044,"(206) 659-8154",micro,http://www.bluebirdbrewing.com
+"Bog Water Brewing Co","2858 S Forrest St",,Westport,WA,98595-,"(360) 268-7082",micro,http://www.bogwaterbrewery.com
+"Bombing Range Brewing Company","2000 Logston Blvd. #126",,Richland,WA,99354-5300,"(509) 392-3377",micro,http://www.bombingrangebrewing.com
+"Boundary Bay Brewery & Bistro","1107 Railroad Ave",,Bellingham,WA,98225-5007,"(360) 647-5593",brewpub,http://www.bbaybrewery.com
+"BrewBakers Brewery","11927 84th St NE",,"Lake Stevens",WA,98258-8906,"(360) 691-9025",micro,http://www.brewbakersbrewery.com
+"Brewery in Planning - FIRCREST",,,Fircrest,WA,98466-6681,"(253) 861-1309",planning,
+"Brewery in Planning - Hoquiam",,,Hoquiam,WA,98550-3521,"(360) 637-8252",planning,http://www.hoquiambrews.com
+"Brewery in Planning - Kennewick",,,Kennewick,WA,99338-0011,,planning,
+"Brewery In Planning - Maple Valley",,,"Maple Valley",WA,98038,,planning,
+"Brewery in Planning - Mead",,,Mead,WA,99021,,planning,
+"Brewery in Planning - Olympia",,,Olympia,WA,98506,"(253) 973-0844",planning,
+"Brewery in Planning - Seattle",,,Seattle,WA,98199,,planning,
+"Brewery in Planning - Seattle",,,Seattle,WA,98133,,planning,
+"Brewery In Planning - Seattle",,,Seattle,WA,98115,,planning,
+"Brewery In Planning - Seattle",,,Seattle,WA,98115-3330,,planning,
+"Brewery In Planning - Seattle",,,Seattle,WA,98199-1121,"(206) 604-1317",planning,http://www.fairislebrewing.com
+"Brewery In Planning - Spokane",,,Spokane,WA,99224-4704,,planning,
+"Brewery In Planning - Spokane",,,Edmonds,WA,98026,,planning,
+"Brewery In Planning - Spokane",,,Spokane,WA,99208,,planning,
+"Brewery in Planning - Tumwater",,,Tumwater,WA,98501-8615,"(360) 269-4152",planning,
+"Brewery In Planning- Battle Ground, WA.",,,"Battle Ground",WA,98604-1460,,planning,
+"Brickyard Brewing Co","5817 238th St SE Ste 3",,Woodinville,WA,98072-8669,"(509) 888-9993",micro,http://www.brickyardbrewing.com
+"Bron Yr Aur Brewing","12160 US Highway 12",,Naches,WA,98937-9222,,micro,
+"Brother Ass Brewing","11700 NE 54th Ct",,Vancouver,WA,98686-4589,"(360) 607-3275",micro,http://www.brotherassbrewing.com
+"Brothers Cascadia Brewing","9811 NE 15th Avenue",,Vancouver,WA,98665,"(360) 718-8927",micro,http://www.brotherscascadiabrewing.com
+"B-Side Brewing & Des Voigne Cellars","14125 NE 189th St",,Woodinville,WA,98072-6831,"(425) 415-8466",micro,http://www.dvcellars.com
+"Buffalo Brewing Co",,,Toppenish,WA,98948-9674,,planning,
+"Burdick Brewery","8103 8th Ave S",,Seattle,WA,98108-4377,"(206) 909-9632",proprietor,http://www.burdickbrewery.com
+"Burke-Gilman Brewing",,,Seattle,WA,98105-3924,"(206) 612-1439",planning,http://www.burkegilmanbrewing.com/
+"Burwood Brewing Company","602 Piper Ave",,"Walla Walla",WA,99362-7431,"(509) 876-6220",micro,http://www.burwoodbrewing.com
+"Bushnell Craft Brewing Company","8461 164th Ave NE",,Redmond,WA,98052-3802,"(425) 702-9743",micro,http://www.bushnellcraft.com
+"Cairn Brewing","7204 NE 175th St",,Kenmore,WA,98028-3561,"(425) 949-5295",micro,http://www.cairnbrewing.com
+"Camp Colvos Brewing",,"Vashon, WA",,,,"(206) 947-3527",planning,http://campcolvos.com
+"Cascadia Brewing Co.","211 4th Ave E",,Olympia,WA,98501-1104,"(360) 943-2337",micro,http://www.cascadiahomebrew.com
+"Cash Brewing Company","3388 NW Byron St Ste 100",,Silverdale,WA,98383-8548,,brewpub,
+"Chainline Brewing Company","503 6th St S",,Kirkland,WA,98033-6717,"(425) 242-0923",micro,http://www.chainlinebrewing.com
+"Chief Spring's Fire and Irons Brew Pub","148 E Main St",,Dayton,WA,99328-1351,"(509) 382-4677",brewpub,http://www.fireandironsbrewpub.com
+"Chuckanut - South Nut","11937 Higgins Airport Way",,Burlington,WA,98233-5312,"(360) 752-3377",micro,
+"Chuckanut Brewery","601 W Holly St",,Bellingham,WA,98225-3920,"(360) 752-3377",micro,http://www.chuckanutbreweryandkitchen.com
+"Chuckanut Brewery (South Nut)","11937 Higgins Airport Way",,Burlington,WA,98233,"(360) 752-3377",,http://www.chuckanutbrewery.com
+"Circle 7 Brew Works","20290 Corbridge Rd SE",,Monroe,WA,98272-8602,,micro,
+"Cloudburst Brewing","2116 Western Ave",,Seattle,WA,98121-2110,"(206) 602-6061",micro,http://www.cloudburstbrew.com
+"Cole Street Brewery","2551 Cole St Ste R",,Enumclaw,WA,98022-3640,"(253) 204-5570",micro,http://www.colestreetbrew.com
+"Columbia Valley Brewing","538 Riverside Dr",,Wenatchee,WA,98801-6133,"(509) 888-9993",micro,http://www.columbiavalleybrewing.com
+"Conversations Brewing",,,"Battle Ground",WA,98604-9348,,planning,
+"Counterbalance Brewing Company","503 S Michigan St Ste B",,Seattle,WA,98108-3305,"(206) 453-3615",micro,http://www.counterbalancebeer.com
+"Craft Brewing Academy/ Skagit Valley College","15579 Peterson Rd",,Burlington,WA,98233,"(360) 416-2537",micro,http://www.skagit.edu
+"Crooked Label Brewing Company",,,Seattle,WA,98125-6454,"(206) 293-1956",planning,
+"Crucible Brewing Company","909 Se Everett Mall Way, Ste d440",,Lynnwood,WA,98208,"(360) 388-0870",micro,http://www.cruciblebrewing.com
+"Decibel Brewing Co","18204 Bothell Everett Hwy, Suite C",,Bothell,WA,98012-6869,"(425) 408-1946",micro,http://www.decibelbrewing.com
+"Der Blokken Brewery","1100 Perry Ave Unit C",,Bremerton,WA,98310-4945,"(360) 377-2344",brewpub,http://www.derblokken.com
+"Diamond Knot Brewery B2 Brewery & Taproom","4602 Chennault Beach Rd Ste B2",,Mukilteo,WA,98275-5016,"(425) 355-4488",brewpub,http://www.diamondknot.com
+"Diamond Knot Craft Brewery - Brewpub @ MLT","5602 232rd St Southwest",,"Mountlake Terrace",WA,98043,"(425) 355-4488",brewpub,http://www.diamondknot.com
+"Diamond Knot Craft Brewing - Brewery & Alehouse","621 Front St",,Mukilteo,WA,98275-1557,"(425) 355-4488",brewpub,http://www.diamondknot.com
+"Dicks Brewing Co","3516 Galvin Rd",,Centralia,WA,98531-9002,"(360) 736-7760",micro,http://www.dicksbeer.com
+"Dirty Bucket Brewery","19151 144th Ave NE",,Woodinville,WA,98072-4374,"(206) 819-1570",micro,http://www.dirtybucketbrewery.com
+"Dirty Couch Brewery",,,Seattle,WA,98107,"(206) 369-6614",micro,http://www.dirtycouchbrewing.com
+"Discovery Bay Brewing",,,"Port Townsend",WA,98368-1512,"(360) 301-2632",planning,
+"Dog & Pony Alehouse and Grill","351 Park Ave N",,Renton,WA,98057-5716,"(425) 254-8080",proprietor,http://www.thedogandpony.com
+"Dog Days Brewing","260 4th St",,Bremerton,WA,98337-1813,"(206) 929-3314",brewpub,
+"Doghaus Brewery","321 9th St",,Leavenworth,WA,98826-1464,"(509) 860-1446",micro,http://www.doghausbrewery.com
+"Doomsday Brewing Co.","421 C St Ste 1B",,Washougal,WA,98671-2169,"(360) 335-9909",micro,http://www.doomsdaybrewing.com
+"Double Bluff Brewing","112 Anthes Ave",,Langley,WA,98260-,"(360) 333-9113",micro,http://www.dblfbrewing.com
+"Downpour Brewing LLC","10991 NE State Highway 104",,Kingston,WA,98346-,"(360) 881-0452",micro,http://www.downpourbrewing.com
+"Dreadnought Brewing LLC","16726 146th St SE Ste 153",,Monroe,WA,98272-2937,"(360) 863-2479",brewpub,http://www.dreadnoughtbrewing.com
+"Dru Bru","10 Pass Life Way # 3",,"Snoqualmie Pass",WA,98068,"(425) 434-0700",micro,http://www.drubru.com
+"Dunagan Brewing Co","1126 Commerce St",,Tacoma,WA,98402-4307,,micro,http://www.dunaganbrewing.com
+"Dungeness Brewing Company","4017 S Mount Angeles Rd",,"Port Angeles",WA,98362-8966,"(360) 775-1877",micro,http://www.dungenessbrewing.com
+"Dwinell Country Ales","206 West Broadway Street",,Goldendale,WA,98620,"(509) 773-3138",micro,http://www.countryales.com
+"Dystopian State Brewing","611 S Baker St",,Tacoma,WA,98402-,"(253) 302-3466",micro,http://www.dystopianstate.com
+"E2W Brewing",,,"Gig Harbor",WA,98332-8722,"(253) 214-7463",micro,http://www.e2wbrewing.com
+"Elk Head Brewing Co","28120 State Route 410 E",,Buckley,WA,98321-8721,"(360) 829-2739",micro,
+"Ellersick Brewing/ Big E Ales","5030 208th St SW Ste A",,Lynnwood,WA,98036-7642,"(425) 672-7051",brewpub,http://www.bigeales.com
+"Elliott Bay Brewery and Pub - West Seattle","4720 California Ave SW",,Seattle,WA,98116-4413,"(206) 932-8695",brewpub,http://www.elliottbaybrewing.com
+"Elliott Bay Brewhouse & Pub - Burien","255 SW 152nd St",,Burien,WA,98166-2307,"(206) 246-4211",brewpub,http://www.elliottbaybrewing.com
+"Elliott Bay Public House & Brewery - Lake City","12537 Lake City Way NE",,Seattle,WA,98125-4424,"(206) 365-2337",brewpub,http://www.elliottbaybrewing.com
+"Elysian Brewing Co","5510 Airport Way S",,Seattle,WA,98108-2255,"(206) 860-1920",large,http://www.elysianbrewing.com
+"Elysian Brewing Co","1221 E Pike St",,Seattle,WA,98122-3910,"(206) 860-1920",large,http://www.elysianbrewing.com
+"Elysian Brewing Co - Elysian Fields","542 1st Ave S Ste B",,Seattle,WA,98104-2882,"(206) 382-4498",large,http://www.elysianbrewing.com
+"Elysian Brewing Co -Tangletown","2106 N 55th St",,Seattle,WA,98103-6202,"(206) 547-5929",large,
+"Engine House No 9","611 N Pine St",,Tacoma,WA,98406-6729,"(253) 272-3435",brewpub,http://www.ehouse9.com
+"English Setter Brewing Company","15310 E Marietta Ave Ste 4",,Spokane,WA,99216-1876,"(509) 413-3663",brewpub,http://www.englishsetterbrewing.com
+"Enumclaw Brewing Company @ Rockridge Orchards & Cidery","40709 264th Ave SE",,Enumclaw,WA,98022-8366,"(360) 802-6800",micro,http://www.rockridgeorchards.com
+"Everybody's Brewing Co","151 E Jewett Blvd",,"White Salmon",WA,98672-8976,"(509) 637-2774",micro,http://www.everybodysbrewing.com
+"Farmstrong Brewing Co","110 Stewart Rd",,"Mount Vernon",WA,98273-9628,"(360) 873-8852",micro,http://www.farmstrongbrewing.com
+"Fathom & League Hop Yard Brewery","360 Grandview Dr",,Sequim,WA,98382-7875,"(360) 286-0278",micro,http://www.fathomandleaguebrewery.com
+"Feral Brewing Company","152 Haddrill Rd","Perth, Australia",,,,"+61 8 9296 4657",micro,
+"Figurehead Brewing Company","4001 21st Ave W Unit B",,Seattle,WA,98199-1201,"(206) 492-7981",micro,http://www.figureheadbrewingcompany.com
+"Fired Up Brewing",,,Addy,WA,99101-9675,"(805) 598-7536",planning,
+"Fish Brewing Co","515 Jefferson St SE",,Olympia,WA,98501-1467,"(360) 943-6480",micro,http://www.fishbrewing.com
+"Five Dons Brewing Co","1158 11th Ave",,Longview,WA,98632-3110,"(360) 430-6640",micro,http://www.fivedonsbeer.com
+"Floating Bridge Brewing","722 NE 45th St",,Seattle,WA,98105-4719,"(206) 466-4784",micro,http://www.floatingbridgebrewing.com
+"Flycaster Brewing Co.","12815 NE 124th St Ste I",,Kirkland,WA,98034-8313,"(206) 963-6626",micro,
+"Flyers Restaurant and Brewery","32295 State Route 20",,"Oak Harbor",WA,98277-5923,"(360) 675-5858",micro,http://www.eatatflyers.com
+"Flying Bike Cooperative Brewery","8570 Greenwood Ave N",,Seattle,WA,98103-3614,"(206) 428-7709",micro,http://www.flyingbike.coop
+"Flying Lion Brewing","5041 Rainier Ave S #106",,Seattle,WA,98118-1946,"(206) 659-9912",micro,http://www.flyinglionbrewing.com
+"Foggy Noggin Brewing","22329 53rd Ave SE",,Bothell,WA,98021-8017,"(206) 553-9223",micro,http://www.foggynogginbrewing.com
+"Fortside Brewing Company","2200 NE Andresen Rd Ste B",,Vancouver,WA,98661-7350,"(360) 524-4692",micro,http://www.fortsidebrewing.com
+"Four Eyed Guys Brewing",Audobon,,Spokane,WA,99205,"(509) 795-9648",micro,http://foureyedguysbrewing.com
+"Four Generals Brewing","229 Wells Ave S",,Renton,WA,98057-2131,"(425) 282-4360",micro,http://www.fourgenerals.com
+"Four Horsemen Brewery","30221 148th Ave SE",,Kent,WA,98042-9368,"(253) 981-4258",micro,http://www.fourhorsement.beer
+"Fox Island Brewing",,,"Fox Island",WA,98333,,micro,http://www.foxislandbrewing.com
+"Fremont Brewing Co","3409 Woodland Park Ave N",,Seattle,WA,98103,"(206) 420-2407",regional,http://www.fremontbrewing.com
+"Friday Harbor Brewing","665 B Mullis",,"Friday Harbor",WA,98250-7902,"(360) 378-6205",micro,http://www.fridayharborbrewhouse.com
+"Gallaghers' Where U Brew","180 W Dayton St Ste 105",,Edmonds,WA,98020-4160,"(425) 776-4209",micro,http://www.whereubrew.com
+"Garden Path Fermentation",,"Skagit Valley, WA",,,,"(512) 595-6263",planning,http://www.gardenpathfermentation.com
+"Geaux Brewing LLC","12031 Northup Way Ste 203",,Bellevue,WA,98005-1916,,micro,
+"Georgetown Brewing Co","5200 Denver Ave S",,Seattle,WA,98108-2246,"(206) 766-8055",regional,http://www.georgetownbeer.com
+"Ghost Runners Brewery","4216 NE Minnehaha St # 108",,Vancouver,WA,98661-1244,,micro,
+"Ghostfish Brewing Company","2942 1st Ave S",,Seattle,WA,98134-1820,"(253) 249-4650",micro,http://www.ghostfishbrewing.com
+"Gig Harbor Brewing","3120 South Tacoma Way",,Tacoma,WA,98409-4717,,micro,http://www.gigharborbrewing.com
+"Good Brewing Company","16104 125th Pl Ne",,Woodinville,WA,98072-7983,"(425) 247-3245",micro,http://www.globalbeercompany.com
+"Gordon Biersch Brewery Restaurant - Seattle","600 Pine St",,Seattle,WA,98101-3700,"(206) 405-4205",brewpub,http://www.craftworksrestaurants.com
+"Gruff Brewing Company","104 E Maple St # 101",,Bellingham,WA,98225-5006,"(360) 734-0115",micro,http://www.gruff-brewing.com
+"GSP Craft Brewing",,,"Gig Harbor",WA,98332-7918,"(253) 328-1121",planning,http://www.facebook.com/gspcraftbrewing/
+"Haas Innovations Brewing LLC","1600 River Rd",,Yakima,WA,98902-1249,,micro,
+"Hale's Ales Brewery and Pub","4301 Leary Way NW",,Seattle,WA,98107-4538,"(206) 706-1544",micro,http://www.halesbrewery.com
+"Half Lion Brewing Company","1723 West Valley Hwy E Ste 101",,Sumner,WA,98390-9700,"(253) 750-4479",micro,http://www.halflion.com
+"Harmon Brewing Company","204 St. Helens",,Tacoma,WA,98402,253212725,micro,http://www.harmonbrewingco.com
+"Haulback Brewing",,,"Port Angeles",WA,98362-7720,"(360) 477-6276",planning,
+"Haywire Brewing Company","12125 Treosti Rd",,Snohomish,WA,98290-6918,"(360) 568-2739",micro,http://www.haywirebrewery.com
+"Headless Mumby Brewing Co.",,,Olympia,WA,98501-3326,"(816) 590-6654",planning,http://www.facebook/headlessmumbybrewing/
+"Headworks Brewing",,,Enumclaw,WA,98022-3525,,planning,http://www.headworksbrewing.com
+"Heathen Brewing Co.","5612 NE 119th St",,Vancouver,WA,98686-3475,"(360) 601-7454",brewpub,http://www.heathenbrewing.com
+"Hellbent Brewing Company","13035 Lake City Way NE",,Seattle,WA,98125-4428,"(206) 361-3707",micro,http://www.hellbentbrewingcompany.com
+"Hemlock State Brewing Company","18305 Sunnyside Ave N",,Shoreline,WA,98133-4627,"(206) 226-1028",micro,http://www.hemlockstate.com
+"Herbert B. Friendly Brewing","527 Wells Ave S",,Renton,WA,98057-2703,"(425) 243-4372",micro,http://www.drinkhbf.com
+"Hideaway Brewing Co","18731 SE 314th St",,Auburn,WA,98092-6556,"(253) 631-9393",micro,
+"Hi-Fi Brewing Co","14950 NE 95th St Ste F",,Redmond,WA,98052-2500,"(425) 307-1932",micro,http://www.hifibrewing.com
+"Hoh River Brewery","2442 Mottman Rd SW",,Tumwater,WA,98512-6219,"(360) 705-4000",micro,http://www.hohriverbrewery.com
+"Holy Mountain Brewing Co","1421 Elliott Ave W",,Seattle,WA,98119,"(206) 498-8435",micro,http://holymountainbrewing.com
+"Hood Canal Brewery","26499 Bond Rd NE",,Kingston,WA,98346-8477,"(360) 297-8316",brewpub,http://www.hoodcanalbrewery.com
+"Hop Nation Brewing Company","31 N 1st Ave",,Yakima,WA,98902-2663,"(509) 985-6449",micro,http://www.hopnation.us
+"Hopped Up Brewing Company","10421 E Sprague Ave",,Spokane,WA,99206-3629,"(509) 413-2488",micro,http://www.hoppedupbrew.com
+"Hopworks Urban Brewery - Vancouver","17707 SE Mill Plain Blvd",,Vancouver,WA,98683,"(503) 232-4677",micro,
+"Horse Heaven Hills Brewery","PO Box 132",,Prosser,WA,99350-0132,"(509) 781-6400",micro,http://www.horseheavenhillsbrewery.com
+"Ice Harbor Brewing Co","206 N Benton St Ste C",,Kennewick,WA,99336-3608,"(509) 582-5340",brewpub,http://www.iceharbor.com
+"Icicle Brewing Co","935 Front St",,Leavenworth,WA,98826-1427,"(509) 548-2739",brewpub,http://www.iciclebrewing.com
+"Iron Goat Brewing","1302 W 2nd Ave",,Spokane,WA,99201-4616,"(509) 474-0722",brewpub,http://www.irongoatbrewing.com
+"Iron Horse Brewery","412 Main Street",,Ellensburg,WA,98926,"(509) 933-3134",regional,http://www.ironhorsebrewery.com
+"Island Hoppin' Brewery","33 Hope Ln",,Eastsound,WA,98245-8915,"(360) 376-9253",micro,http://www.islandhoppinbrewery.com
+"Jellyfish Brewing Company",,,Seattle,WA,98108-2747,"(206) 397-4999",micro,http://www.jellyfishbrewing.com
+"Justice Brewing","2414 Chestnut St",,Everett,WA,98201-3243,"(425) 835-2337",micro,http://www.justicebrewing.com
+"Kastellan Brauerei","4414 Montclair Dr SE",,Lacey,WA,98503-3541,"(360) 791-3834",micro,http://www.kastellanbier.com
+"Kulshan Brewing Co","2238 James St",,Bellingham,WA,98225-4142,"(360) 389-5348",micro,http://www.kulshanbrewing.com
+"Kulshan Brewing Co - K2","1538 Kentucky St",,Bellingham,WA,98229-4720,"(360) 389-5348",micro,
+"La Conner Brewing Co","PO Box 397",,"La Conner",WA,98257-0397,"(360) 466-1415",brewpub,http://www.laconnerbrewing.com
+"Laht Neppur Brewing","444 Preston Ave (Hwy 12)",,Waitsburg,WA,99361-0738,"(509) 337-6261",brewpub,http://lahtneppur.com
+"Lake Chelan Brewing Co","50 Wapato Way",,Manson,WA,98831-,"(425) 359-1551",micro,http://lakechelanmicrobrewery.com
+"Lake Stevens Brewing Company","2010 Grade Rd",,"Lake Stevens",WA,98258-8680,,micro,
+"Lake Tapps Brewing Company","13704 Valley Ave E",,Sumner,WA,98390-1537,"(253) 750-0869",micro,http://www.laketappsbrewingco.com
+"Lantern Brewing","938 N 95th St",,Seattle,WA,98103-3206,"(206) 729-5350",micro,http://www.lanternbrewing.com
+"Laurelwood Public House and Brewery - NE","14300 NE 145th St",,Woodinville,WA,98072-6950,"(425) 483-3232",proprietor,
+"Lazy Boy Brewing","715 100th St SE Ste A1",,Everett,WA,98208-3762,"(425) 423-7700",micro,http://www.lazyboybrewing.com
+"Little Spokane Brewing Company","154 S Madison St Ste 101",,Spokane,WA,99201-4531,,micro,http://www.littlespokanebrewingco.com
+"Loowit Brewing","507 Columbia St",,Vancouver,WA,98660-3194,"(360) 566-2323",micro,http://www.loowitbrewing.com
+"Lopez Island Brewing Co","4817 Center Rd",,"Lopez Island",WA,98261-8653,"(360) 468-2646",micro,http://www.lopezislandbrewingco.rocks
+"Lost Canoe Brewing Co","1208 10th St",,Snohomish,WA,98290,"(360) 568-3984",micro,http://www.facebook.com/lostcanoebrew/
+"Lost Falls Brewery","347 W 2nd Ave Ste D",,Colville,WA,99114-2300,"(509) 684-0638",micro,http://www.lostfallsbrewery.com
+"Lost Woods Brewery","10609 203rd Ave E",,"Bonney Lake",WA,98391-5913,"(253) 678-4438",micro,
+"LoveCraft Brewing Co","275 5th St Ste 101",,Bremerton,WA,98337-1907,,micro,http://www.lovecraftbrewing.com
+"Lowercase Brewing - Production Facility","8103 8th Ave S",,Seattle,WA,98108-4377,"(206) 258-4987",micro,http://www.lowercasebrewing.com
+"Lucky Envelope Brewing","907 NW 50th St",,Seattle,WA,98107-3635,"(206) 289-0425",micro,http://www.luckyenvelopebrewing.com
+"Lumber House Brewing Company","21830 284th Ave SE",,"Maple Valley",WA,98038-7714,"(425) 432-0121",micro,http://www.lumberjackbrewing.com
+"Mac and Jacks Brewery Inc","17825 NE 65th St Ste B110",,Redmond,WA,98052-4995,"(425) 558-9697",regional,http://www.macandjacks.com
+"Machine House Brewery","5840 Airport Way S Ste 121",,Seattle,WA,98108-2751,"(206) 402-6025",micro,http://machinehousebrewery.com
+"Maelstrom Brewing Company","11014 120th Ave NE",,Kirkland,WA,98033,,micro,http://www.maelstrombrewing.com
+"Maritime Pacific Brewing Co","1111 NW Ballard Way",,Seattle,WA,98107-4639,"(206) 782-6181",micro,http://www.maritimebrewery.com
+"Matchless Brewing","8036 River Dr SE Ste 208",,Tumwater,WA,98501-6868,"(503) 317-3284",micro,http://www.matchlessbrewing.com
+"Matso's Broome Brewery","PO Box 1547","Broome, Australia",,,,,,http://www.kimberly-accom.com.au
+"McMenamins Anderson School Brewery","18607 Bothell Way NE",,Bothell,WA,98011-1928,"(425) 398-0122",brewpub,http://www.mcmenamins.com/andersonschool
+"McMenamins East Vancouver Brewery","1900B NE 162nd Ave Ste B107",,Vancouver,WA,98684-3013,"(360) 695-9033",micro,http://www.mcmenamins.com
+"McMenamins Mill Creek Brewery","13300 Bothell Everett Hwy Ste 304",,"Mill Creek",WA,98012-5312,"(425) 316-9817",brewpub,http://www.mcmenamins.com
+"McMenamins Olympic Club Brewery","112 N Tower Ave",,Centralia,WA,98531-4220,"(360) 736-5164",brewpub,http://www.mcmenamins.com
+"McMenamins On the Columbia Brewery","1801 SE Columbia River Dr",,Vancouver,WA,98661-8030,"(360) 669-1521",brewpub,http://www.mcmenamins.com
+"McMenamins Queen Anne Brewery","200 Roy St Ste 105",,Seattle,WA,98109-4110,"(206) 285-4722",micro,http://www.mcmenamins.com
+"McMenamins Spar Cafe Brewery","114 4th Ave E",,Olympia,WA,98501-1103,"(360) 357-6444",brewpub,
+"Menace Brewing","2529 Meridian St.",,Bellingham,WA,98225,"(360) 595-4059",micro,
+"Methow Valley Brewing Co / Twisp River Pub",,,Twisp,WA,98856-1038,"(509) 997-6822",planning,http://www.methowbrewing.com
+"Middleton Brewing Co","607 SE Everett Mall Way Ste 27A",,Everett,WA,98208-3264,"(425) 280-9178",brewpub,http://www.middletonbrewing.net
+"Mile Post 111 Brewing","PO Box 792",,Cashmere,WA,98815-0792,,brewpub,
+"Mill City Brew Werks","339 NE Cedar St",,Camas,WA,98607-2142,"(360) 210-4761",brewpub,http://www.mcbwbeer.com
+"Mill Creek Brewpub","11 S Palouse St",,"Walla Walla",WA,99362-1925,"(509) 522-2440",brewpub,http://www.millcreek-brewpub.com
+"Mirage Beer Co.",,,Tacoma,WA,98407-5610,"(253) 225-6654",planning,http://miragebeer.com
+"Mollusk Brewing","803 Dexter Ave N",,Seattle,WA,98109-4320,"(206) 403-1228",brewpub,http://www.molluskseattle.com
+"Mountain Lakes Brewing Company",,,Spokane,WA,99203,"(503) 348-1733",planning,http://www.mountainlakesbrewco.com
+"MT Head Brewing Co","PO Box 1510",,Graham,WA,98338-1510,"(253) 208-8999",micro,http://www.mtheadbrewingco.com
+"Mt. Index Brewery","49315 sr 2",,index,WA,98256,"(360) 793-6584",micro,
+"Mule & Elk Brewing Co","811 Hwy 970, Suite 7",,"Cle Elum",WA,98922-7000,"(206) 321-1911",micro,http://www.muleandelk.com
+"Nail Brewing Australia","301 Collier Rd","Bassendean, Australia",,,,"+61 413 872 337",,http://www.nailale.com
+"Naked City Brewing Co","8564 Greenwood Ave N",,Seattle,WA,98103-3614,"(206) 838-6299",brewpub,http://www.nakedcitybrewing.com
+"Narrows Brewing Company","9007 S 19th St",,Tacoma,WA,98466-1819,"(253) 327-1400",micro,http://www.narrowsbrewing.com
+"New Boundary Brewing","505 1st St",,Cheney,WA,99004-1651,"(907) 398-8664",micro,
+"Nine Yards Brewing","7324 NE 175th St Ste A",,Kenmore,WA,98028-2500,"(206) 693-2333",micro,http://www.nineyardsbrewing.com
+"No Boat Brewing Company","35214 SE Center St #2",,Snoqualmie,WA,98065-9279,"(206) 399-5626",micro,http://www.noboatbrewing.com
+"No-Li Brewhouse","1003 E Trent Ave Ste 170",,Spokane,WA,99202-2185,"(509) 242-2739",micro,http://www.nolibrewhouse.com
+"North 47 Brewing Co","1000 Town Ctr NE Ste 160",,Tacoma,WA,98422-1197,"(253) 517-9865",micro,http://www.north47brewery.com
+"North Cascades Craft, LLC",,,Bellingham,WA,98225,,planning,
+"North Fork Brewing Co","6186 Mt Baker Hwy",,Deming,WA,98244-9501,"(360) 599-2337",brewpub,http://www.northforkbrewery.com
+"North Jetty Brewing","4200 Pacific Way",,Seaview,WA,98644-4212,"(360) 642-4234",micro,http://www.northjettybrewing.com
+"North Pacific Brewing Company",,,Edmonds,WA,98020-2636,,planning,
+"North Sound Brewing Co.","17406 SR 536 Unit A",,"Mount Vernon",WA,98273,"(360) 982-2057",micro,http://northsoundbrewing.com
+"Northern Ales","325 W 3rd Ave",,"Kettle Falls",WA,99141,"(509) 738-6913",brewpub,http://www.northernales.com
+"Northwest Brewery Works",,,Newcastle,WA,98059,"(425) 757-6722",planning,http://www.northwestbreweryworks.com
+"Northwest Brewing Company","1091 Valentine Ave SE",,Pacific,WA,98047-2127,"(206) 762-3642",micro,http://www.nwbrewingcompany.com
+"Northwest Peaks Brewery","4912 17th Ave NW Ste B",,Seattle,WA,98107-4725,"(206) 853-0525",micro,http://www.nwpeaksbrewery.com
+"Northwest Peaks Brewery - Hillman City","5718 Rainier Ave S.",,Seattle,WA,98118-2704,"(206) 725-2337",brewpub,
+"Northwood Public House & Brewery","1401 SE Rasmussen Blvd",,"Battle Ground",WA,98604-8620,"(360) 723-0937",brewpub,http://www.northwoodpublichouse.com
+"Nosdunk Brewing Company","214 Chapelwood Ave",,"Walla Walla",WA,99362-9311,"(509) 540-8784",micro,http://www.nosdunkbrewing.com
+"NW Legends Brewing Co.",,,"Gig Harbor",WA,98332,"(406) 671-4191",planning,
+"Odd Otter Brewing Company","716 Pacific Ave",,Tacoma,WA,98402-5208,"(253) 209-7064",micro,http://www.oddotterbrewing.com
+"Odin Brewing Co","402 Baker Blvd",,Tukwila,WA,98188-2905,"(206) 243-2363",micro,http://www.odinbrewing.com
+"Off Camber Brewing","6506 114th Ave Ct E",,Puyallup,WA,98372,"(253) 312-8796",micro,http://www.facebook.com/offcamberbrew/
+"Ogres Brewing","7693 Cultus Bay Rd Ste 1",,Clinton,WA,98236-9432,,micro,
+"Old Ivy Brewery and Taproom","108 W Evergreen Blvd Ste A",,Vancouver,WA,98660-3124,"(360) 993-1827",brewpub,http://www.oldivybrewery.com
+"Old Opera Brewing","443 Electric Ave",,"Walla Walla",WA,99362-9571,"(208) 610-0065",micro,http://www.facebook.com/oldoperabrewing/
+"Old Rock Brewing Co","26331 NE Valley St Ste 1",,Duvall,WA,98019-,"(425) 444-4377",contract,http://www.oldrockbrewery.com
+"Old Schoolhouse Brewery","155 Riverside Ave",,Winthrop,WA,98862-0577,"(509) 996-3183",brewpub,http://www.oldschoolhousebrewery.com
+"Old Stove Brewing Company","1916 Pike Pl. STE 12 #420",,Seattle,WA,98101,"(206) 660-2682",brewpub,http://www.oldstove.com
+"Optimism Brewing Company","1158 Broadway",,Seattle,WA,98122-4202,"(206) 227-0733",micro,http://www.optimismbrewing.com
+"Orlison Brewing Company","12921 West 17th Ave",,"Airway Heights",WA,99001,"(509) 389-6253",micro,http://www.orlisonbrewing.com
+"O-Town Brewing Company",,"Olympia, WA",,,,"(360) 701-4706",micro,http://www.o-townbrewing.com
+"Outer Planet Craft Brewing","1812 12th Ave",,Seattle,WA,98122-8420,"(206) 763-7000",micro,http://www.outerplanetbrewing.com
+"Outlander Brewery & Pub","225 N 36th St",,Seattle,WA,98103-8610,"(206) 486-4088",brewpub,http://www.outlanderbrewing.com
+"Pacific Brewing and Malting","610 Pacific Ave",,Tacoma,WA,98402-4606,"(253) 383-2337",micro,http://www.pacificbrewingandmalting.com
+"Pacific Northwest Brewing Center, LLC",,,Everett,WA,98208-3320,,planning,
+"Paper Street Brewing Company","701 The Parkway",,Richland,WA,99352-4234,"(509) 713-7088",brewpub,http://www.paperstbrewing.com
+"Paradise Creek Brewery","245 SE Paradise St",,Pullman,WA,99163-2669,"(509) 592-0114",micro,http://www.paradisecreekbrewery.com
+"Parker's Steakhouse and Brewery","1300 Mt Saint Helens Way NE",,"Castle Rock",WA,98611-9014,"(360) 414-9180",brewpub,http://www.parkerssteakhouse.com
+"Peddler Brewing","1514 NW Leary Way",,Seattle,WA,98107-4739,"(360) 362-0002",micro,http://www.peddlerbrewing.com
+"Perihelion Brewery","2800 16th Ave S",,Seattle,WA,98144-5732,"(206) 200-3935",brewpub,
+"Perry Street Brewing Co.","1025 S Perry St # 2",,Spokane,WA,99202-3464,"(509) 279-2820",micro,http://www.perrystreetbrewing.com
+"Pike Brewing Co","1415 1st Ave",,Seattle,WA,98101-2017,"(206) 622-3373",micro,http://www.pikebrewing.com
+"Populuxe Brewing","826 NW 49th St",,Seattle,WA,98107-3614,"(206) 706-3400",micro,http://www.populuxebrewing.com
+"Port Townsend Brewing Co","330 10th St Ste C",,"Port Townsend",WA,98368-1815,"(360) 385-9967",micro,http://www.porttownsendbrewing.com
+"Postdoc Brewing Company","17625 NE 65th St Ste 100",,Redmond,WA,98052-7908,"(425) 658-4963",micro,http://www.postdocbrewing.com
+"Powerhouse Restaurant and Brewery","454 E Main",,Puyallup,WA,98372-3258,"(253) 845-1370",brewpub,http://www.powerhousebrewpub.com
+"Prison Break Brewing Company","920 1st St",,Snohomish,WA,98290-2907,"(360) 722-1516",micro,http://www.facebook.com/prisonbreakbrewery
+"Propolis Brewing LLC","2457 Jefferson St",,"Port Townsend",WA,98368-4634,"(765) 215-5850",micro,http://www.propolisbrewing.com
+"Puyallup River Brewing Co","9123 152nd St E",,Puyallup,WA,98375-6923,"(253) 590-8219",micro,http://www.puyallupriverbrewing.com
+"Pyramid Breweries / North American Breweries","1201 1st Ave S",,Seattle,WA,98134-1238,"(206) 682-3377",brewpub,http://www.pyramidbrew.com
+"Quartzite Brewing Company","105 W Main Ave",,Chewelah,WA,99109-9257,"(509) 936-3686",micro,
+"Quirk Brewing","425 B St",,"Walla Walla",WA,99362-2265,,micro,
+"Rail Hop'n Brewing Co","513 A St NE",,Auburn,WA,98002-4028,"(253) 217-6800",micro,http://www.railhopn.com
+"Railside Brewing","309 NE 76th St",,Vancouver,WA,98665-8210,"(360) 907-8582",micro,http://www.railsidebrewing.com
+"Rainy Daze Brewing","14974 Olympic View Loop Rd NW",,Silverdale,WA,98383-9775,"(360) 692-1858",micro,http://www.rainydazebrewing.com
+"RAM Restaurant and Brewery - Lakewood","10019 59th Ave SW",,Lakewood,WA,98499-2757,"(253) 584-3191",brewpub,http://www.theram.com
+"RAM Restaurant and Brewery - Production","5001 S Washington St",,Tacoma,WA,98409-2828,"(253) 474-7465",micro,http://www.theram.com
+"RAM Restaurant and Brewery - Puyallup South Hill","103 35th Ave SE",,Puyallup,WA,98374-1231,"(253) 841-3317",brewpub,http://www.theram.com
+"RAM Restaurant and Brewery - Seattle","2650 NE University Village St",,Seattle,WA,98105-5023,"(206) 525-3565",brewpub,http://www.theram.com
+"RAM Restaurant and Brewery - Tacoma","3001 Ruston Way",,Tacoma,WA,98402-5306,"(253) 756-7886",brewpub,http://www.theram.com
+"RAM Restaurant and Brewery- Northgate","401 NE Northgate Way Spc 1102",,Seattle,WA,98125-8538,"(206) 364-8000",brewpub,http://www.theram.com
+"Rattlesnake Mountain Brewery / Kimo's Restaurant","1250 Columbia Center Blvd",,Richland,WA,99352-4839,"(509) 783-5747",brewpub,http://www.rattlesnakemountainbrewery.com
+"Ravenna Brewing Company","5408 26th Ave NE",,Seattle,WA,98105-3137,"(206) 743-8450",micro,http://www.ravennabrewing.com
+"Redhook Brewery","714 E Pike St.",,Seattle,WA,98122-4697,"(425) 483-3232",regional,http://www.redhook.com
+"Republic Brewing Co","PO Box 96",,Republic,WA,99166-0096,,micro,
+"Resonate Brewery + Pizzeria","5606 119th Ave SE",,Bellevue,WA,98006-3754,"(425) 644-3164",brewpub,http://www.resonatebrewery.com
+"Reuben's Brews","1133 NW 51st St",,Seattle,WA,98107-5126,"(206) 784-2859",micro,http://www.reubensbrews.com
+"Reuben's Brews Taproom","5010 14th Ave NW",,Seattle,WA,98107-5113,"(206) 784-2859",micro,http://www.reubensbrews.com
+"River City Brewing","121 S Cedar St",,Spokane,WA,99201-6500,"(904) 398-2299",micro,http://www.rivercitybrew.com
+"River Mile 38 Brewing Co","285 3rd St",,Cathlamet,WA,98612-9561,"(360) 355-4662",micro,http://www.rivermile38.com
+"River Time Brewing","PO Box 181",,Darrington,WA,98241-0181,"(267) 483-7411",brewpub,http://www.rivertimebrewing.com
+"Riverport Brewing Co","150 9th St Ste B",,Clarkston,WA,99403-1856,"(509) 758-8889",micro,http://www.riverportbrewing.com
+"Rock Wood Fired Pizza & Brewery - Auburn","1408 Lake Tapps Pkwy SE # E",,Auburn,WA,98092-8158,"(253) 833-7887",contract,http://www.therockwfp.com
+"Rock Wood Fired Pizza / Keep Rockin' LLC","14209 29th St E Ste 102",,Sumner,WA,98390-9689,"(253) 987-5479",contract,
+"Rock Wood Fired Pizza / Keep Rockin' LLC","14209 29th St E Ste 102",,Sumner,WA,98390-9689,"(253) 987-5479",contract,
+"Rock Wood Fired Pizza and Brewery - Lynnwood","4010 196th St SW",,Lynnwood,WA,98036-6715,"(425) 697-6007",contract,http://www.therockwfp.com
+"Rock Wood Fired Pizza and Brewery - Tacoma","1920 Jefferson Ave",,Tacoma,WA,98402-1608,"(253) 272-1221",contract,http://www.therockwfp.com
+"Rocky Coulee Brewing","812 E 3rd Ave",,Odessa,WA,99159-9802,,micro,http://www.rockycouleebrewingco.com
+"Rogue Ales Issaquah Brewhouse","35 Sunset Way #C",,Issaquah,WA,98027,"(425) 557-1911",brewpub,http://www.rogue.com
+"Rooftop Brewing Co","1220 W Nickerson St",,Seattle,WA,98119-1325,,micro,
+"Roslyn Brewing Co","208 Pennsylvania Ave",,Roslyn,WA,98941-0024,"(509) 649-2232",micro,http://www.roslynbrewng.com
+"Saddle Rock Pub & Brewery","25 N Wenatchee Ave Ste 107",,Wenatchee,WA,98801-2201,"(509) 888-4790",brewpub,http://www.saddlerockbrewery.com
+"Sail & Anchor","64 South Terrace","Fremantle, Australia",,,,"+61 8 9431 1666",,http://www.sailandanchor.com.au
+"Salish Sea Brewing Company","518 Dayton St Ste 104",,Edmonds,WA,98020-,"(206) 295-3116",micro,http://www.salishbrewing.com
+"San Juan Brewing Company",,,"Friday Harbor",WA,98250-0948,,planning,
+"Scampt Brewing Co","402 16th St NE #107",,Auburn,WA,98002,,micro,http://scampbrewing.com
+"Schooner Exact Brewing Co","3901 1st Ave S",,Seattle,WA,98134-2236,,micro,
+"Scrappy Punk Brewing","9029A 112th Dr SE",,Snohomish,WA,98290-,"(503) 810-1655",micro,http://www.facebook.com/scrappypunkbrew
+"Scuttlebutt Brewing Co","3310 Cedar St",,Everett,WA,98201-4518,"(425) 257-9316",micro,http://www.scuttlebuttbrewing.com
+"Seapine Brewing Company","2959 Utah Ave S",,Seattle,WA,98134-1815,"(530) 902-8110",micro,http://www.seapinebrewing.com
+"Shoug Brewing Company",,,Washougal,WA,98671-8750,"(360) 487-0172",planning,http://www.shougbrewing.com
+"Shrub Steppe Smokehouse Brewery","2000 Logston Blvd # 122",,Richland,WA,99354-5300,"(509) 375-9092",brewpub,http://www.shrubsteppebrewing.com
+"Silver City Brewery","206 Katy Penman Ave",,Bremerton,WA,98312-4301,"(360) 813-1487",micro,http://www.silvercitybrewery.com
+"Silverback Brewing Pty. Ltd.","C/O Brunswick Tavern S.W. Hwy","Brunswick Jct, Australia",,,,,,
+"Skagit River Brewery","404 S 3rd St",,"Mount Vernon",WA,98273-3824,"(360) 336-2884",brewpub,http://www.skagitbrew.com
+"Skookum Brewery","17925 59th Ave NE # A",,Arlington,WA,98223-6352,"(360) 403-7094",micro,http://www.skookumbrewing.com
+"Slaughter County Brewing","1307 Bay St",,"Port Orchard",WA,98366-5105,"(360) 329-2340",brewpub,http://www.slaughtercountybrewing.com
+"Slippery Pig Brewery","902 NW Slippery Pig Way",,Poulsbo,WA,98370-9622,"(360) 394-1686",micro,http://www.slipperypigbrewing.com
+"Sluggo Brewing","2712 6th Ave",,Tacoma,WA,98406-7213,"(253) 327-1894",micro,http://www.halfpintpizzapub.com
+"Smitty's Brewing","4500 shady hollow Ln NW",,Bremerton,WA,98312,"(360) 710-8921",micro,
+"Snipes Mountain Brewing Co","PO Box 274",,Sunnyside,WA,98944-0274,"(509) 837-2739",micro,http://www.snipesmountain.com
+"Snoqualmie Falls Brewing Co","PO Box 924",,Snoqualmie,WA,98065-0924,,brewpub,
+"SnoTown Brewery","511 2nd St",,Snohomish,WA,98290-3009,"(425) 231-8113",micro,http://www.facebook.com/snotownbrewery/
+"Snow Eater Brewing Company",,,Richland,WA,99354-4915,,planning,
+"Sound Brewery","19479 VIKING AVE NW",,POULSBO,WA,983708370,"(360) 930-8696",micro,http://www.soundbrewery.com
+"Sound To Summit","1830 Bickford Ave Ste 111",,Snohomish,WA,98290-1751,"(360) 294-8127",brewpub,http://www.sound2summit.com
+"Spada Farmhouse Brewery",,,Snohomish,WA,98290-6125,"(425) 330-6938",micro,http://www.spadafarmhousebrewery.com
+"Spinnaker Bay Brewing",,,Seattle,WA,98118-4709,"(206) 725-2337",contract,http://www.spinnakerbaybrewing.com
+"Square Wheel Brewing Co","4705 N. Fruit Hill Rd.",,Spokane,WA,99217-9619,"(509) 994-2600",micro,http://www.squarewheelbrewing.com
+"St Brigid's Brewery","606 W Broadway Ave",,"Moses Lake",WA,98837-1900,"(509) 750-8357",brewpub,http://www.stbrigidsbrewery.com
+"Standard Brewing","2504 S Jackson St Ste C",,Seattle,WA,98144-2382,,brewpub,
+"Steam Donkey Brewing Co","101 E Wishkah",,Aberdeen,WA,98520,"(360) 637-9431",micro,http://steamdonkeybrewing.com
+"Steam Plant Grill","159 S Lincoln St Ste 1",,Spokane,WA,99201-4409,"(509) 777-3900",brewpub,http://www.steamplantspokane.com
+"Stones Throw Brewery","1009 Larrabee Ave",,Bellingham,WA,98225-7338,"(360) 362-5058",micro,http://www.stonesthrowbrewco.com
+"Stormy Mountain Brewing Company","133 E Woodin Ave",,Chelan,WA,98816-,"(509) 888-5665",brewpub,http://www.stormymountainbrewing.com
+"Stoup Brewing","1108 NW 52nd St",,Seattle,WA,98107-5129,"(206) 457-5524",micro,http://www.stoupbrewing.com
+"Strong Arm Brewing Co","14037 SE 192nd St",,Renton,WA,98058-9408,"(425) 275-7413",micro,http://www.strongarmbrewing.com
+"Structures Brewing","1420 N State St",,Bellingham,WA,98225-4513,"(360) 383-8741",micro,http://www.structuresbrewing.com
+"Sumerian Brewing Company","15510 Woodinville Redmond Rd NE Suite E 110",,Woodinville,WA,98072-6979,"(425) 486-5330",micro,http://www.sumerianbrewingco.com
+"Swinnerton Brewery","1809 8th St",,Marysville,WA,98270-4610,"(425) 387-7045",micro,http://www.swinnertonbrewery.com
+"Tacoma Brewing Co.","625 St Helens Ave",,Tacoma,WA,98402-2304,"(253) 242-3370",micro,http://www.tacomabrewing.com
+"Talus Brewing Company",,,Arlington,WA,98223,"(425) 492-0098",planning,http://talusbrewingco.com
+"Ten Pin Brewing - Production Facility","1149 N Stratford Rd",,"Moses Lake",WA,98837-1514,"(509) 766-2739",micro,http://www.tenpinbrewing.com
+"Ten Pin Brewing Co","1165 N Stratford Rd",,"Moses Lake",WA,98837-1514,"(509) 765-1265",brewpub,http://www.tenpinbrewing.com
+Terramar,,,Bow,WA,98232,"(360) 510-6747",planning,http://terramarbrewing.com
+"The Best Of Hands Barrelhouse",,,Seattle,WA,98116-3636,"(206) 335-2739",planning,http://bestofhandsbarrelhouse.com
+"The Heavy Metal Brewing Co.","809 MacArthur Blvd",,Vancouver,WA,98661,"(360) 258-1691",brewpub,http://www.theheavymetalbrewingco.com
+"The Station U Brew","211 W Stewart",,Puyallup,WA,98371-4393,"(253) 466-3721",micro,
+"Thirsty Crab Brewery","13718 30th Ave NE",,Seattle,WA,98125-3510,"(360) 920-5579",micro,http://www.thirstycrabbrewery.com/
+"Three Bull Brewing Co","809 19th St",,Snohomish,WA,98290-1444,"(206) 550-5244",micro,http://www.threebullbrewing.com
+"Three Magnets Brewing","600 Franklin St SE Unit 105",,Olympia,WA,98501-1360,"(360) 972-2481",brewpub,http://www.threemagnetsbrewing.com
+"Tin Dog Brewing","309 S Cloverdale St Ste A2",,Seattle,WA,98108-4500,"(206) 438-4257",micro,http://www.tindogbrewing.com
+"Top Frog Brewery","221 Vista Dr",,Newport,WA,99156-7014,,micro,
+"Top Rung Brewing Company","8343 Hogum Bay Ln NE Ste E",,Lacey,WA,98516-3135,"(360) 915-8766",micro,http://www.toprungbrewing.com
+"Trap Door Brewing","2315 Main St",,Vancouver,WA,98660-2641,"(503) 758-2569",micro,http://www.trapdoorbrewing.com
+"Triceratops Brewing","1710 Dickinson Ave NW",,Olympia,WA,98502-4623,"(360) 480-5626",proprietor,
+"Triple R Brewing","3835 corliss ave n",,seattle,WA,98103,"(206) 579-3370",micro,http://triplerbrewery.com
+"Triplehorn Brewing Co","19510 144th Ave NE Ste E6",,Woodinville,WA,98072-8429,"(425) 242-7979",micro,http://www.triplehornbrewing.com
+"Trusty Brewing Co.","114 E Evergreen Blvd",,Vancouver,WA,98660-3219,"(360) 258-0413",brewpub,http://www.trustybrewing.com
+"Twelve Bar Brews","12826 NE 178th St Ste C",,Woodinville,WA,98072-8737,"(425) 482-1188",micro,http://www.twelvebarbrews.com
+"Twelve String Brewing Co","11616 E Montgomery Dr Ste 26",,Spokane,WA,99206-6608,"(509) 241-3697",micro,http://www.twelvestringbrewingco.com
+"Twin Sisters Brewing Company",,,Bellingham,WA,98225-,"(360) 650-1150",planning,
+"Two Beers Brewing Co","4700 Ohio Ave S Ste A",,Seattle,WA,98134-2359,"(206) 762-0490",micro,http://www.twobeersbrewery.com
+"Unified Brewing",,,Seattle,WA,98106,"(206) 819-2241",planning,http://www.unifiedbrewing.com
+"Urban Family Brewing","4441 26th Ave W",,Seattle,WA,98199-1218,"(206) 783-2337",micro,http://www.urbanfamilybrewing.com
+"V Twin Brewing Company","2302 N Argonne Rd Ste H",,Spokane,WA,99212-2366,"(509) 868-0182",micro,http://www.facebook.com/vtwinbrewingco
+"Valholl Brewing Company","20186 Suite B - Front Street NE",,Poulsbo,WA,98370,"(360) 550-5825",micro,http://www.valhollbrewing.com
+"Varietal Beer Company","416 E. Edison Ave.",,Sunnyside,WA,98944,"(509) 307-4622",micro,http://varietalbeer.com
+"Vashon Brewing Co",,,Vashon,WA,98070-5900,,micro,http://www.vashonbrewingco.com
+"Vessel Ales & Taphouse","19405 144th Ave NE Bldg D",,Woodinville,WA,98072-6485,"(206) 629-5024",micro,http://www.vesselwines.com
+"Victor 23 Craft Brewery","2905 St. John's blvd",,Vancouver,WA,98661,"(360) 984-5413",brewpub,http://www.victor23.com
+"Waddell's Brewing Co.","6501 N Cedar Rd Ste 1",,Spokane,WA,99208-4571,"(509) 321-7818",brewpub,http://www.waddellsbrewery.com
+"Walking Man Brewing Co","240 SW 1st St",,Stevenson,WA,98648-6649,"(509) 427-5520",micro,http://www.walkingmanbeer.com
+"Wander Brewing","1807 Dean Ave",,Bellingham,WA,98225-4616,"(360) 647-6152",micro,http://www.wanderbrewing.com
+"Water Buffalo Brewery","136 Russet Rd",,"Walla Walla",WA,99362-8253,"(509) 525-3241",micro,
+"Watts Brewing Company","19813 51st Ave SE",,Bothell,WA,98012-7440,"(206) 658-3646",micro,http://www.wattsbrewingcompany.com
+"Well 80 Brewing Company",,,Olympia,WA,98501-1527,"(360) 352-0440",planning,http://www.well80.com
+"Wenatchee Valley Brewing Co.","4359 Anna Ln",,Wenatchee,WA,98801-9034,"(509) 888-8088",micro,http://wenatcheevalleybrewing.com/
+"West Seattle Brewing Co","4415 Fauntleroy Way SW",,Seattle,WA,98126-2631,"(206) 405-0972",micro,http://www.westseattlebrewing.com
+"Western Red Brewing",,,Poulsbo,WA,98370,,planning,
+"Wet Coast Brewing Co.","6820 Kimball Dr Ste C",,"Gig Harbor",WA,98335-5124,"(253) 432-4966",micro,http://www.wetcoastbrewing.com
+"Whipsaw Brewing LLC","706 E 5TH AVE",,ELLENSBURG,WA,989263204,,micro,
+"Whiskey Ridge Brewing","116 E 5th St",,Arlington,WA,98223-1272,"(360) 913-0425",micro,http://www.whiskeyridgebrewing.com
+"Whistle Punk Brewing Company","122 S Monroe",,Spokane,WA,99201,"(509) 315-4465",micro,http://www.whistlepunkbrewing.com
+"White Bluffs Brewing","2034 Logston Blvd",,Richland,WA,99354-5300,"(509) 554-7059",micro,http://www.whitebluffsbrewing.com
+"Whitewall Brewing Company","14524 Smokey Point Blvd Ste 1",,Marysville,WA,98271-8921,"(360) 454-0464",micro,http://www.whitewallbrewing.com
+"Whitstran Pub & Brewing Co","1427 Wine Country Rd",,Prosser,WA,99350-1148,"(509) 786-4922",brewpub,http://www.whitstranbrewing.com
+"Wicked Tueton Brewing",,,"Oak Harbor",WA,98277-3159,"(360) 682-5011",planning,
+"Wingman Brewers","509 1/2 Puyallup Ave",,Tacoma,WA,98421-1318,"(253) 256-5240",micro,http://www.wingmanbrewers.com
+"Yakima Craft Brewing Co","2920 River Rd Ste 6",,Yakima,WA,98902-7332,"(509) 654-7357",brewpub,http://www.yakimacraftbrewing.com
+"Young Buck Brewing","154 S Madison St",,Spokane,WA,99201-4531,"(509) 270-3306",micro,http://www.youngbuckbrewing.com
+Zympact,,,Seattle,WA,98136-2652,,planning,
+"Zythum Brewing Company","101 N Railroad Ave",,Fairfield,WA,99012,"(509) 283-2739",micro,http://www.zythumbc.com

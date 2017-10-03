@@ -1,0 +1,7 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Pasteur Street Brewing Company","144 Pasteur, District 1","Ho Chi Minh City, Viet Nam",,,,"(865) 919-3042",micro,http://www.pasteurstreet.com
+"Platinum Premium Beer","61 Phan Dinh Phung","Ho Chi Minh, Viet Nam",,,,,brewpub,
+"Saigon Beer - Alcohol-Beverage Joint Stock Corporation","6 Hai Ba Trung","Ho Chi Minh, Viet Nam",,,,"(090) 183-8999",proprietor,http://www.sabeco.com.vn
+"South-East Asia Brewery Ltd.","167B Minh Khai Street","Hanoi, Viet Nam",,,,"(844) 863-1306",large,
+"Turtle Lake Brewing Co",,"Hanoi, Viet Nam",,,,"84 1245198475",planning,
+Vinnet,"101 Lang Ha street","Hanoi, Viet Nam",,,,84902436969,micro,http://www.vinnet.vn

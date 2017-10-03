@@ -1,0 +1,82 @@
+name,address1,address2,city,state,zip,phone,type,url
+"13 Stripes Brewery","250 Mill St, Suite PW3101",,Taylors,SC,29687,"(864) 349-1430",brewpub,http://www.13stripesbrewery.com
+"Aiken Brewing Co","140 Laurens St SW",,Aiken,SC,29801-3848,"(803) 502-0707",brewpub,http://www.aikenbrewingcompany.com
+"Benford Brewing Co.","2271 Boxcar Rd",,Lancaster,SC,29720-9443,,micro,
+"Birds Fly South Ale Project","1320 Hampton Avenue Ext",,Greenville,SC,29601-1019,"(864) 412-8825",micro,http://www.bfsbeer.com
+"Blue Ridge Brewing Co/Foothills Brewing","308 Trade St",,Greer,SC,29651-3432,"(864) 232-4677",brewpub,http://www.blueridgebrewing.com
+"Brewery 85","6 Whitlee Ct",,Greenville,SC,29607-3791,,micro,http://www.brewery85.com
+"Brewery In Planning",,"Rock Hill, SC",,,,,planning,
+"Brewery In Planning - Aiken",,,Aiken,SC,29801,,planning,
+"Brewery In Planning - Dulles",,,Columbia,SC,29229-7322,,planning,
+"Brewery in Planning - Fort Mill",,,"Fort Mill",SC,29708-7870,"(803) 415-5425",planning,http://tbd.com
+"Brewery in Planning - Greenville",,,Greenville,SC,29615-4178,"(864) 561-6677",planning,
+"Brewery in Planning - Hollywood",,,"Johns Island",SC,29455-3461,,planning,
+"Brewery in Planning - Piedmont",,"Piedmont, SC",,,,,planning,
+"Brewery in Planning - salem",,,salem,SC,29676,"(925) 963-2763",planning,
+"Carolina Bauernhaus Ales","115 Federal St",,Anderson,SC,29625-4364,"(864) 401-8167",brewpub,http://carolinabauernhaus.com
+"Cervejaria Eisenbahn","Rua Bahia, 5181-Salto Weissbach","Blumenau, Brazil",,,,"(473) 488-7307",,http://www.eisenbahn.com.br
+"Charles Towne Fermentory","809 Savannah Highway",,Charleston,SC,29407,"(843) 641-0431",micro,http://www.chsfermentory.com
+"Charleston Taproom and Beer Sanctuary","161 E Bay St",,Charleston,SC,29401-2125,"(843) 853-4677",large,
+"Cia. Sulina De Bebidas","Rua De Novembro 1383/1445 Caixa Postal 68","Joinville, Brazil",,,,"(047) 422-3166",regional,
+"Ciclops Cyderi and Brewery","197 E Saint John St",,Spartanburg,SC,29306-5121,"(864) 704-9080",brewpub,http://www.hubcitytaphouse.com
+"COAST Brewing Co","1250 N 2nd St",,"North Charleston",SC,29405-1804,"(843) 343-4727",micro,http://www.coastbrewing.com
+"Columbia Craft Brewing Company",,,Columbia,SC,29202-7457,"(803) 771-2353",planning,http://www.columbiacraft.com
+"Commonhouse Aleworks",,,"North Charleston",SC,29405-4925,"(843) 608-1331",planning,http://www.commonhousealeworks.com
+"Conquest Brewing Co.","947 S Stadium Rd",,Columbia,SC,29201-4724,"(803) 712-3063",micro,http://www.conquestbrewing.com
+"Cooper River Brewing Company","2201-B Mechanic St",,Charleston,SC,29405,"(843) 405-7979",micro,http://www.cooperriverbrewing.com
+"Cotton Town Brew Lab",,,Lexington,SC,29072-2218,,planning,
+"Dammed River Brewing, LLC",,,"Rock Hill",SC,29730,"(434) 265-6582",planning,http://www.dammedriverbrewing.com
+"Dead Eric Brewing Co. LLC","433 Old House Rd",,Ridgeland,SC,29936-6946,"(843) 338-3693",micro,http://www.deadericbrewing.com
+Dockery's,,,Charleston,SC,29492-6500,"(843) 971-5025",planning,
+"Edmund’s Oast","1081 Morrison Dr",,Charleston,SC,29403-3117,"(864) 350-5277",brewpub,http://www.edmundsoast.com
+"Fatty's Beer Works","1436 Meeting Street Rd",,Charleston,SC,29405-9342,"(843) 974-5330",contract,http://www.followfatty.com
+"Fireforge Crafted Beer",,"Greenville, SC",,,,,planning,
+"Freehouse Brewery","2895 Pringle St Ste B",,Charleston,SC,29405-7506,,micro,
+"Frothy Beard Brewing Co","1401 SAM RITTENBERG BLVD STE 1",,Charleston,SC,29407-5031,"(843) 793-2970",micro,http://www.frothybeard.com
+"Full Spectrum Brewing Co","2180 Carolina Place Dr Ste 101",,"Fort Mill",SC,29708-6998,"(803) 792-4556",micro,http://www.fullspectrumbrewingco.com
+"Ghost Monkey Brewery","522 Wando Ln",,"Mount Pleasant",SC,29464-8211,,micro,
+"Good Times Brewing","237 Maxwell Ave",,Greenwood,SC,29646-2616,"(864) 993-7302",brewpub,http://www.goodtimesbrewing.beer
+"Gordon Biersch Brewery Restaurant - Myrtle Beach","3060 Howard Ave",,"Myrtle Beach",SC,29577-1643,"(843) 839-0249",brewpub,http://www.craftworksrestaurants.com
+"Hilton Head Brewing Co","1 Cardinal Ct Ste 13",,"Hilton Head Island",SC,29926-3401,"(843) 715-3251",micro,
+"Holy City Brewing","4155 Dorchester Rd Ste C",,Charleston,SC,29405-7486,"(843) 225-6089",micro,http://www.holycitybrewing.com
+"Hunter Gatherer Brewery and Alehouse","900 Main St",,Columbia,SC,29201-3964,"(803) 748-0540",brewpub,http://www.huntergathererbrewery.com
+"Hunter Gatherer Brewery and Alehouse",,"Columbia, SC",,,,"(803) 748-0540",planning,
+"Legal Remedy Brewing","129 Oakland Ave",,"Rock Hill",SC,29730-4019,"(803) 324-2337",brewpub,http://www.legalremedybrewing.com
+"Liberty Steakhouse and Brewery","1321 Celebrity Cir",,"Myrtle Beach",SC,29577-7445,"(843) 626-4677",brewpub,http://www.libertybreweryandgrill.com/home
+"Lo-Fi Brewing","2038 Meeting St Rd",,"North Charleston",SC,29405-9357,"(828) 582-2175",micro,http://www.lofibrewing.com
+"Low Tide Brewing","2863 Maybank Hwy",,"Johns Island",SC,29455-4808,"(843) 501-7570",micro,http://www.lowtidebrewing.com
+"New Groove Artisan Brewery","4078 Hwy 9",,"Boiling Springs",SC,29316,"(864) 706-8856",brewpub,http://www.newgroovebrew.com
+"New South Brewing Co","1109 Campbell St",,"Myrtle Beach",SC,29577-3527,"(843) 916-2337",micro,http://www.newsouthbrewing.com
+"Oak Road Brewery","108 E 3rd North St Ste C",,Summerville,SC,29483-6810,"(843) 695-9886",micro,http://www.oakroadbrewery.com
+"Old Mill Brewpub","711 E Main St",,Lexington,SC,29072-3670,"(803) 785-2337",brewpub,http://www.oldmillbrewpub.net
+"Palmetto Brewing Co","289 Huger St Bldg B",,Charleston,SC,29403-4560,"(843) 937-0903",micro,http://www.palmettobrewery.com
+"Pawley Island Brewing Company","2668 Industrial Ave",,"North Charleston",SC,29405-7429,"(843) 225-8292",micro,http://www.pawleysislandbrewing.com
+"PeaceKeeper Brewing",,,"Rock Hill",SC,29730,"(803) 524-4608",planning,
+"Quest Brewing Company","55 Airview Dr",,Greenville,SC,29607-2632,"(864) 272-6232",micro,http://www.questbrewing.com
+"Quigley's Pint and Plate","257 Willbrook Blvd",,"Pawleys Island",SC,29585-7789,"(843) 237-7010",brewpub,
+"Rail Line Brewing",,,Simpsonville,SC,29681-2311,"(864) 593-9722",planning,http://www.raillinebrewing.com
+"Revelry Brewing Co.","10 Conroy St",,Charleston,SC,29403-3815,"(843) 203-6194",micro,http://www.revelrybrewingco.com
+"River Dog Brewing Co","591 Browns Cove Rd Unit H",,Ridgeland,SC,29936-7281,,micro,
+"River Rat Brewery","1231 Shop Rd",,Columbia,SC,29201-4744,"(803) 724-5712",micro,http://www.riverratbrewery.com
+"RJ Rockers Brewing Co","226 W Main St Ste A",,Spartanburg,SC,29306-2308,"(864) 587-1435",micro,http://www.rjrockers.com
+"Rusty Bull Brewing Company","3005 W. Montague Ave",,"North Charleston",SC,29418-7908,"(843) 225-8600",micro,http://www.rustybullbrewing.com
+"Salt Marsh Brewing","207 Bluffton Rd",,Bluffton,SC,29910-6213,"(843) 321-9556",brewpub,http://www.facebook.com/saltmarshbrew/
+"Seminar Brewing","551 W. Lucas St.",,Florence,SC,29501,,micro,http://seminar%20brewing.com
+"Snafu Brewing Company","3280 Industry Dr",,Charleston,SC,29418-8452,"(843) 767-4121",micro,http://www.snafubrewingcompany.com
+"Southern Barrel Brewing Company","375 Buckwalter Place Blvd",,Bluffton,SC,29910,"(843) 837-2337",micro,http://www.southernbarrelbrewingco.com
+"Southern Hops Brewing Co.","911 Sunset Acres Ln",,Florence,SC,29501-6073,"(843) 667-1900",brewpub,http://www.southernhops.com
+"Steel Hands Brewing",,,Cayce,SC,29033,"(803) 920-0592",planning,
+"Swamp Cabbage Brewing Company","921 Brookwood Dr",,Columbia,SC,29201-4609,"(803) 939-2859",micro,http://www.swampcabbagebrewing.com
+"Swamp Rabbit Brewery and Taproom","26 S Main St",,"Travelers Rest",SC,29690-1810,"(864) 610-2424",micro,http://www.theswamprabbitbrewery.com
+"Tetrad Brewing Co",,,Greenville,SC,29615,"(864) 430-8234",planning,
+"The Hold By Revelry Brewing","36 Romney St.",,Charleston,SC,29403-3825,,micro,http://www.revelrybrewingco.com
+"The Southern Growl",,,Greer,SC,29650,,planning,http://www.thesoutherngrowl.com
+"Thomas Creek Brewery","2054 Piedmont Hwy",,Greenville,SC,29605-4840,"(864) 605-1166",micro,http://www.thomascreekbeer.com
+"Tradesman Brewing Company","1639 Tatum St",,Charleston,SC,29412-2646,,micro,
+"Twisted Cypress Brewing Company","1897 Sam Rittenberg Blvd",,Charleston,SC,29407,"(843) 608-1899",micro,http://www.twistedcypressbrewingco.com
+"Twisted Spur Brewing","705 Gervais St Ste A",,Columbia,SC,29201-6012,"(803) 764-0203",brewpub,
+"Two Blokes Brewing Co.","547 Long Point Road, Unit 101",,"Mount Pleasant",SC,29464-9524,"(843) 654-4564",micro,http://www.twoblokesbrewing.com
+"Upstate Craft Beer Company","400 Augusta St Ste 120",,Greenville,SC,29601-3552,"(864) 609-4590",brewpub,http://www.upstatecraftbeer.com
+"Westbrook Brewing Co","510 Ridge Rd",,"Mount Pleasant",SC,29464-7811,"(843) 654-9114",micro,http://www.westbrookbrewing.com
+"Winding Creek Brewing Company","322 E Mills St",,Lancaster,SC,29722-0001,"(828) 894-8715",micro,http://www.wcbrewco.com/wcbc_home.htm
+"Wooden Skiff Brewing","141 Island Dr Ste 16",,"Hilton Head Island",SC,29926-4500,"(843) 290-4364",micro,http://www.woodenskiffbrewing.com
