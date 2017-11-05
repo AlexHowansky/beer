@@ -1,0 +1,4 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Brewery Egill Skallagrímsson Ltd.","Grjothals 7 - 11","110 Reykjavik, Iceland",,,,"(354) 580-9068",regional,http://www.egils.is
+"Carlsberg Vifilfell","Thverolte 19-21","Reykjavik, Iceland",,,,"(354) 525-2500",large,http://www.carlsberg.com
+"Ölvisholt Iceland",Ölvisholt,"Selfoss, Iceland",,,,4800200,micro,http://www.brugghus.is

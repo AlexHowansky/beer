@@ -1,0 +1,10 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Camino Del Sol","El Tablon Oe1-277 Y Manglaralto","Quito, Ecuador",,,,"593 2 2687028",micro,
+"CERVCA, Cervezas Ecuatorianas","Casilla 17-03-4644 Panamericana Sur Km 10.5","Quito, Ecuador",,,,"32 674 103, 674249",regional,
+"Cerveceria Andina SA","Cumbaya Casilla Postal 4027","Quito, Ecuador",,,,355-006,large,
+"Cervecería Bajamar",,"Guayaquil, Ecuador",,,,593994569600,planning,
+"Cia. De Cervezas Nacionales CA","Parque Industrial Ecuatoriano Km 16.5 Via Duale, Calle Cobre","Casilla Postal 519, Guayaquil, Ecuador",,,,"253 553 250 088",regional,
+"Companhia De Cervejas Nacionals","Planta Pascuales Km 16.5 Via Daule","Guayaquil, Ecuador",,,,253454,large,
+"Nine Peaks Brewing",,", Ecuador",,,,,planning,
+"Odisea Brewing Company","Urdesa, Circunvalacion Norte #220 Y 1era","Guayaquil, Ecuador",,,,,contract,
+"SINNERS Brewery","Farsalias N50-460 y los Nogales","Quito, Ecuador",,,,593-98-564-3374,contract,http://www.sinnersbrewery.com

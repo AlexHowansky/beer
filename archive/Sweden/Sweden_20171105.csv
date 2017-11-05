@@ -1,0 +1,11 @@
+name,address1,address2,city,state,zip,phone,type,url
+"AB Pripps Bryggerier","Bryggerivagen 10 S-161 86","Bromma, Sweden",,,,"(468) 757-7000",large,
+"Carlsberg Sverige AB","Bryggerivagen 10","Stockholm, Sweden",,,,"(468) 757-7000",large,
+"Hogbergs Bryggeri Kollecktiv","c/o Charles Cassino CF Box 1419","Stockholm, Sweden",,,,,micro,
+"Malmo Brygghus","Bergsgatan 33","Malmo, Sweden",,,,,brewpub,http://www.malmobrewing.com
+"Monks Cafe","Wallingatan 38","Stockholm, Sweden",,,,46707757531,brewpub,http://www.monkscafe.se
+"Nynashamns Angbryggeri AB","PO Box 186","Nynashamn, Sweden",,,,46852021213,micro,http://www.angbryggeri.se
+"Oppigårds Bryggeri","Smedjegatan 15","Hedemora, Sweden",,,,"46 (0)225 772134",micro,http://www.oppigards.com
+"Poppels Bryggeri","Kanalstaket 5","Jonsered, Sweden",,,,,micro,http://www.poppels.se
+"Sahlins Brygghus AB","Sveden 1","Borlange, Sweden",,,,,micro,http://www.sahlinsbrygghus.com
+"The Nils Oscar Company AB","The NIls Oscar Compoany AB, Fruangsgatan Fruängsgatan 2","Nykoping, Sweden",,,,"(461) 557-7280",micro,http://wwww.nilsoscar.se

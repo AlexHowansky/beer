@@ -1,0 +1,8 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Brauerei Sopron","Vandor Su. 1","Sopron, Hungary",,,,,regional,
+"Brewery At Borsod Ltd.","Pf. 6","Bocs, Hungary",,,,,regional,
+"Brewery At Kobanya Rt","Maglodi Ut 17","Budapest, Hungary",,,,"1 157 2854",regional,
+"Brewery in Planning - Budapest","Maglódi út 47","Budapest, Hungary",,,,,contract,
+"Dreher Breweries Ltd","Maglodi 17","Budapest, Hungary",,,,"(361) 432-9760",large,http://www.dreher.hu
+"Hedon Brewing Company","HU 2120","Dunakeszi, Hungary",,,,,contract,
+"Reketye Brewing Co.","Also Ipari Krt. 4.","Nagytarcsa, Hungary",,,,,micro,http://www.reketye.com
