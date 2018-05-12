@@ -1,16 +1,16 @@
 name,address1,address2,city,state,zip,phone,type,url
-"1817 Brewery","100 B South Olive St",,okolona,MS,38860,"(662) 305-5907",,
-"Biloxi Brewing Co","186 Bohn St",,Biloxi,MS,39530-3812,"(228) 273-1638",,http://www.biloxibrewing.com
-"Chandeleur Island Brewing Company","2711 14th St",,Gulfport,MS,39501-1928,"(228) 701-9985",,http://www.chandeleurbrew.com
-"Crooked Letter Brewing Co","6616 Rose Farm Rd",,"Ocean Springs",MS,39564-2117,"(228) 235-3994",,http://www.crookedletterbrewery.com
-"Key City Brewing Co.","1311 Washington St.",,Vicksburg,MS,39180,"(626) 487-1330",,http://keycitybeer.com
-"Lazy Magnolia Brewing Co, LLC","7030 Roscoe Turner Rd",,Kiln,MS,39556-8000,"(228) 467-2727",,http://www.lazymagnolia.com
-"Lucky Town Brewing Co","1710 N Mill St",,Jackson,MS,39202-1536,"(601) 790-0142",,http://www.luckytownbrewing.com
-"Mayhew Junction Brewing Company","106 Eckford Dr",,Starkville,MS,39759-3710,"(662) 546-0510",,http://www.mayhewjunction.com
-"Mighty Miss Brewing Co.","525 S Washington Ave Ste B",,Greenville,MS,38701-,"(662) 379-6477",,http://www.mightymissbeer.com
-"Morena Bier","Av Jamil Nahas 236 Polo Empresarial Oeste","Campo Grande, Brazil",,,,"55 67 3363 7958",,http://www.morenabier.com.br
-"Natchez Brewing Co","207 High St",,Natchez,MS,39120-3222,"(828) 713-5311",,http://www.natchezbrew.com
-"Slowboat Brewing Company","318 W 5th St",,Laurel,MS,39440-3461,"(601) 433-2723",,http://www.slowboatbrewco.com
-"Southern Prohibition Brewing","301 Mobile St",,Hattiesburg,MS,39401-3406,"(601) 467-1057",,http://www.soprobrewing.com
-"Threefoot Brewing Company, LLC",,,Meridian,MS,39305,"(601) 693-1074",,http://www.threefootbrewing.com
-"Yalobusha Brewing Company","102 S Main St",,"Water Valley",MS,38965-2906,,,http://www.yalobrew.com
+"1817 Brewery","100 B South Olive St",,okolona,MS,38860,"(662) 305-5907",micro,
+"Biloxi Brewing Co","186 Bohn St",,Biloxi,MS,39530-3812,"(228) 273-1638",micro,http://www.biloxibrewing.com
+"Chandeleur Island Brewing Company","2711 14th St",,Gulfport,MS,39501-1928,"(228) 701-9985",micro,http://www.chandeleurbrew.com
+"Crooked Letter Brewing Co","6616 Rose Farm Rd",,"Ocean Springs",MS,39564-2117,"(228) 235-3994",micro,http://www.crookedletterbrewery.com
+"Key City Brewing Co.","1311 Washington St.",,Vicksburg,MS,39180,"(626) 487-1330",brewpub,http://keycitybeer.com
+"Lazy Magnolia Brewing Co, LLC","7030 Roscoe Turner Rd",,Kiln,MS,39556-8000,"(228) 467-2727",regional,http://www.lazymagnolia.com
+"Lucky Town Brewing Co","1710 N Mill St",,Jackson,MS,39202-1536,"(601) 790-0142",micro,http://www.luckytownbrewing.com
+"Mayhew Junction Brewing Company","106 Eckford Dr",,Starkville,MS,39759-3710,"(662) 546-0510",micro,http://www.mayhewjunction.com
+"Mighty Miss Brewing Co.","525 S Washington Ave Ste B",,Greenville,MS,38701-,"(662) 379-6477",micro,http://www.mightymissbeer.com
+"Morena Bier","Av Jamil Nahas 236 Polo Empresarial Oeste","Campo Grande, Brazil",,,,"55 67 3363 7958",micro,http://www.morenabier.com.br
+"Natchez Brewing Co","207 High St",,Natchez,MS,39120-3222,"(828) 713-5311",micro,http://www.natchezbrew.com
+"Slowboat Brewing Company","318 W 5th St",,Laurel,MS,39440-3461,"(601) 433-2723",micro,http://www.slowboatbrewco.com
+"Southern Prohibition Brewing","301 Mobile St",,Hattiesburg,MS,39401-3406,"(601) 467-1057",micro,http://www.soprobrewing.com
+"Threefoot Brewing Company, LLC",,,Meridian,MS,39305,"(601) 693-1074",contract,http://www.threefootbrewing.com
+"Yalobusha Brewing Company","102 S Main St",,"Water Valley",MS,38965-2906,,micro,http://www.yalobrew.com

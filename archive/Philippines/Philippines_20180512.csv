@@ -1,7 +1,7 @@
 name,address1,address2,city,state,zip,phone,type,url
-"Asia Brewery","6th Floor Allied Bank Center","1226 Metro Manila, Philippines",,,,"+63 28 188621-25",,
-"Palaweño Brewery","82 Manalo Street","Puerto Princesa City, Philippines",,,,639175599109,,http://www.palawenobrewery.com
-"Pedro Brewcrafters Inc.","Attn: Jillina Borja","Makati City, Philippines",,,,,,
-"Ruething Craft Brewing","Km 7.5 C. P. Garcia National Highway - D Matina Pangi","Davao City, Philippines",,,,"+63 02 224-5669",,http://www.ruethingcraftbrewing.com
-"Turning Wheels Craft Brewery","11 Gov. M. Cuenco Ave.","Cebu City, Philippines",,,,639175520793,,http://www.turningwheelsbeer.com
-"White Rapids Craft Brewery","3741 zone 6, Capisnon, Kuswagan","Cagayan de oro, Philippines",,,,639173184672,,
+"Asia Brewery","6th Floor Allied Bank Center","1226 Metro Manila, Philippines",,,,"+63 28 188621-25",large,
+"Palaweño Brewery","82 Manalo Street","Puerto Princesa City, Philippines",,,,639175599109,micro,http://www.palawenobrewery.com
+"Pedro Brewcrafters Inc.","Attn: Jillina Borja","Makati City, Philippines",,,,,micro,
+"Ruething Craft Brewing","Km 7.5 C. P. Garcia National Highway - D Matina Pangi","Davao City, Philippines",,,,"+63 02 224-5669",brewpub,http://www.ruethingcraftbrewing.com
+"Turning Wheels Craft Brewery","11 Gov. M. Cuenco Ave.","Cebu City, Philippines",,,,639175520793,micro,http://www.turningwheelsbeer.com
+"White Rapids Craft Brewery","3741 zone 6, Capisnon, Kuswagan","Cagayan de oro, Philippines",,,,639173184672,micro,

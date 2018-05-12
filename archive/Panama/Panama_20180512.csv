@@ -1,10 +1,10 @@
 name,address1,address2,city,state,zip,phone,type,url
-"BOQUETE BREWING COMPANY","Avenida Central, Bajo Boquete","Boquete, Panama",,,,50766744246,,http://www.boquetebrewingcompany.com
-"Carnival Cruise Line",,", Panama",,,,"(305) 599-2600",,http://www.carnival.com
-"Cerveceria 3 Gatos, S.A.","Calle 87 Este, Plaza Rio Local No.26 &27","Panama, Panama",,,,"(507) 221-6977",,http://www.cerveceria3gatos.com
-"Cerveceria Chiricana","Apartado 503","David, Chiriqui, Panama",,,,75-4141,,
-"Cerveceria Del Baru","Apartado 418","Panama, Panama",,,,,,
-"Cerveceria La Rana Dorada","Urbanizacion Industrial La Loceria, Aven","Panama, Panama",,,,50769481294,,http://www.laranadorada.com
-"Cerveceria Panama SA","Urbanizacion Industrial Calle Sta. Rosa.","Panama, Panama",,,,,,
-"Dogocri Brew","Via Interamericana, Alado del Hospital M","David, Panama",,,,"(507) 709-0158",,
-"El Republicano Pub","Ave. Cincuentenario Y Cl Jaime de la Gua","Panama City, Panama",,,,50766798188,,http://www.elrepublicanopub.com
+"BOQUETE BREWING COMPANY","Avenida Central, Bajo Boquete","Boquete, Panama",,,,50766744246,brewpub,http://www.boquetebrewingcompany.com
+"Carnival Cruise Line",,", Panama",,,,"(305) 599-2600",micro,http://www.carnival.com
+"Cerveceria 3 Gatos, S.A.","Calle 87 Este, Plaza Rio Local No.26 &27","Panama, Panama",,,,"(507) 221-6977",micro,http://www.cerveceria3gatos.com
+"Cerveceria Chiricana","Apartado 503","David, Chiriqui, Panama",,,,75-4141,large,
+"Cerveceria Del Baru","Apartado 418","Panama, Panama",,,,,large,
+"Cerveceria La Rana Dorada","Urbanizacion Industrial La Loceria, Aven","Panama, Panama",,,,50769481294,brewpub,http://www.laranadorada.com
+"Cerveceria Panama SA","Urbanizacion Industrial Calle Sta. Rosa.","Panama, Panama",,,,,regional,
+"Dogocri Brew","Via Interamericana, Alado del Hospital M","David, Panama",,,,"(507) 709-0158",micro,
+"El Republicano Pub","Ave. Cincuentenario Y Cl Jaime de la Gua","Panama City, Panama",,,,50766798188,brewpub,http://www.elrepublicanopub.com

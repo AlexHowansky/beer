@@ -1,6 +1,6 @@
 name,address1,address2,city,state,zip,phone,type,url
-"Beer Thai (1991) Co Ltd","15 SangSom Bldg. Viphavadi-Rangsit Rd","Chatujak, Bangkok, Thailand",,,,"2 272 2051",,
-"Boon Rawd Brewery Co., Ltd.","999 Samsen Road, Dusit, PO Box 907","Bangkok, Thailand",,,,"(662) 669-2050",,http://www.boonrawd.co.th
-"Carlsberg Brewery Thailand Co., Ltd.","77 Moo 1 Phaholyothin Rd, K.M. 54 Amphur Wang Noi","Ayutthaya 13170, Thailand",,,,"+66 35 28 70 804",,
-"Full Moon Brew Work","JUNGCEYLON, 193 UNIT #2110, 2210 RAJ-U-THIT 200 PEE ROAD, PATONG","KATHU, Thailand",,,,66814844040,,http://www.fullmoonbrewworks.com
-"Thai Amarit Brewery Ltd.","3726/24 Liab Mae-nam Rd Rama III","Bangkok 10 800, Thailand",,,,"(662) 587-0121",,
+"Beer Thai (1991) Co Ltd","15 SangSom Bldg. Viphavadi-Rangsit Rd","Chatujak, Bangkok, Thailand",,,,"2 272 2051",regional,
+"Boon Rawd Brewery Co., Ltd.","999 Samsen Road, Dusit, PO Box 907","Bangkok, Thailand",,,,"(662) 669-2050",large,http://www.boonrawd.co.th
+"Carlsberg Brewery Thailand Co., Ltd.","77 Moo 1 Phaholyothin Rd, K.M. 54 Amphur Wang Noi","Ayutthaya 13170, Thailand",,,,"+66 35 28 70 804",large,
+"Full Moon Brew Work","JUNGCEYLON, 193 UNIT #2110, 2210 RAJ-U-THIT 200 PEE ROAD, PATONG","KATHU, Thailand",,,,66814844040,brewpub,http://www.fullmoonbrewworks.com
+"Thai Amarit Brewery Ltd.","3726/24 Liab Mae-nam Rd Rama III","Bangkok 10 800, Thailand",,,,"(662) 587-0121",regional,

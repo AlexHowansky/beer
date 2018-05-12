@@ -1,36 +1,36 @@
 name,address1,address2,city,state,zip,phone,type,url
-"Beba SRL Train Robbers Synd.","V.le Italia, 11","Villar Perosa, Italy",,,,"+39 1213 15755",,http://www.birrabeba.it
-"Birra Amiata Srl","Via Poderino 1 Loc. Zancona","Arcidosso, Italy",,,,+393405106742,,http://www.birra-amiata.it
-"Birra Bellazzi","Via Fonde 21","San Lazzaro Di Savena, Italy",,,,,,http://www.birrabellazzi.it
-"Birra Del Borgo Srl","Loc. Piana di spedino snc","Borgorose, Italy",,,,39074631287,,http://www.birradelborgo.it
-"Birra Dreher","Via Maffucci 10","Milano, Italy",,,,39-2-37751,,
-"Birra Forst SpA","Casella Postale 29 Via Val Venosta 8","Lagundo, Italy",,,,473260111,,
-"Birra Peroni-napoli","Piazza Madonna Del`Arco 12 I-80145 Miano Di Napoli","Naploi, Italy",,,,390817305111,,
-"Birra Stelvio","Via ROMA N27","23032 Bormio/Sondrio, Italy",,,,+39-342-904785,,http://www.braulio.it
-"Birrificio Artigianale Foglie d`Erba","Via Nazionale 87, P.I. 02506010301","Forni Di Sopra, UD, Italy",,,,000393473555197,,http://www.birrificiofogliederba.it
-"Birrificio Casa Del Popolo","Via F.lli Borghini 34 Anzola D`Ossola","Verbania, Italy",,,,"(393) 238-3031",,http://www.roybeer.com/microbirrifici/casadelpopolo.htm
-"Birrificio Italiano srl","Via G. Marconi 27","Limido Comasco, Italy",,,,39315481162,,http://www.birrificio.it
-"BIRRIFICIO LAMBRATE SRL","Via Privata Gaetano Sbodio 30/1","Milan, Italy",,,,"(022) 641-6460",,http://www.birrificiolambrate.com
-"Birrificio Rurale S.r.l.","Via Del Commercio, 2","Desio, Italy",,,,393402265986,,http://www.birrificiorurale.it
-"Birrificio Toccalmatto","Via San Michele Campagna 22/c","FIDENZA, Italy",,,,,,
-"Birrificio Udinese Brewpub","Piazzale Osoppo Via Caccia 5","Udine, Italy",,,,,,http://www.bire.it
-"Brew Pub Turbacci","Via della Mezzaluna, 50 Ctr Sportivo Mezzaluna di Mentana","ROMA (Mentana), Italy",,,,"(396) 909-4701",,
-"Brewery In Planning- Italy",,"Villafranca Padovana, Italy",,,,,,
-"Brewery In Planning- Milan","Via Montello 43","Seregno, Italy",,,,393331313538,,http://www.drinkrailroad.com
-"Canediguerra SRL - CDG SRL","Via Del Prato 11","Alessandria, Italy",,,,"39 0131 325438",,http://www.canediguerra.com
-"Carlsberg Italia S.p.A","Via Olona, 103","Inovno Olona, Italy",,,,"+39 (0)332 208 111",,
-"Centrale Della Birra","Viale Trento Trieste 62/A","26100 Cremona, Italy",,,,"(393) 723-3267",,http://www.centraledellabirra.it
-"Crak Brewery","Via Pontarola, 9","Campodarsego, Italy",,,,"39 (349) 261-3292",,http://www.crakbrewery.com
-"Gasthaus Alpen Keller","Via Cola D` Amatrice 30","Ascoli Piceno, Italy",,,,"(397) 364-1786",,
-"Gruppo Italy SRL","Via G Strepponi 50 / A","Roncole Verdi di Busseto (PR), Italy",,,,39-0524-90137,,
-"Hausbrandt Theresianer Antica Birreria","Via Foscarini 52","Nervesa della Battagliua, TV, Italy",,,,"(390) 422-8891",,http://www.theresianer.com
-"Heineken Italia S.p.A.","Stabilimento di Pedavena Viale Vittorio Veneto, 78","I-32034 Pedavena (BL), Italy",,,,"+39 439 330 213",,
-"I.C.B. ITALIAN CRAFT BREWERY SRL","VIA TORRI 365","RAVENNA, Italy",,,,390544532303,,http://www.craft-brewery.it
-"Industrie Poretti SPA","Via Olona 103","Induno Olona, Italy",,,,200.12,,
-"Le Baladin","P. 5 Luglio n15","PIOZZO (CN), Italy",,,,"+39 173795431",,
-"MC77 - Birrificio Artigianale Snc","Via Enrico Mattei 4","Serrapetrona, Italy",,,,00393200548244,,http://www.mc-77.com
-"Real Beer Brewing Company","49 Viale F. Redi","50144 Firenze, Italy",,,,,,
-"Rome Brewery","Via Passaglia No. 1 I-00136 Roma","Rome, Italy",,,,+39-0639.7211.53,,http://www.starbess.it
-"St. Gabriel","Via 4 Novembre 7/8","Busco di Ponte di Piave (TV), Italy",,,,"+39 422 752899",,
-"Vecchio Birraio","VIA CASELLE 87 Campo S. Martino","Marsango/Padova, Italy",,,,"(394) 955-2088",,
-"Wunster SPA","Via Spirano 26 24040 Commun","Nuovo, Italy",,,,035-59-51-83,,
+"Beba SRL Train Robbers Synd.","V.le Italia, 11","Villar Perosa, Italy",,,,"+39 1213 15755",brewpub,http://www.birrabeba.it
+"Birra Amiata Srl","Via Poderino 1 Loc. Zancona","Arcidosso, Italy",,,,+393405106742,micro,http://www.birra-amiata.it
+"Birra Bellazzi","Via Fonde 21","San Lazzaro Di Savena, Italy",,,,,micro,http://www.birrabellazzi.it
+"Birra Del Borgo Srl","Loc. Piana di spedino snc","Borgorose, Italy",,,,39074631287,micro,http://www.birradelborgo.it
+"Birra Dreher","Via Maffucci 10","Milano, Italy",,,,39-2-37751,large,
+"Birra Forst SpA","Casella Postale 29 Via Val Venosta 8","Lagundo, Italy",,,,473260111,regional,
+"Birra Peroni-napoli","Piazza Madonna Del`Arco 12 I-80145 Miano Di Napoli","Naploi, Italy",,,,390817305111,large,
+"Birra Stelvio","Via ROMA N27","23032 Bormio/Sondrio, Italy",,,,+39-342-904785,micro,http://www.braulio.it
+"Birrificio Artigianale Foglie d`Erba","Via Nazionale 87, P.I. 02506010301","Forni Di Sopra, UD, Italy",,,,000393473555197,micro,http://www.birrificiofogliederba.it
+"Birrificio Casa Del Popolo","Via F.lli Borghini 34 Anzola D`Ossola","Verbania, Italy",,,,"(393) 238-3031",brewpub,http://www.roybeer.com/microbirrifici/casadelpopolo.htm
+"Birrificio Italiano srl","Via G. Marconi 27","Limido Comasco, Italy",,,,39315481162,micro,http://www.birrificio.it
+"BIRRIFICIO LAMBRATE SRL","Via Privata Gaetano Sbodio 30/1","Milan, Italy",,,,"(022) 641-6460",micro,http://www.birrificiolambrate.com
+"Birrificio Rurale S.r.l.","Via Del Commercio, 2","Desio, Italy",,,,393402265986,micro,http://www.birrificiorurale.it
+"Birrificio Toccalmatto","Via San Michele Campagna 22/c","FIDENZA, Italy",,,,,contract,
+"Birrificio Udinese Brewpub","Piazzale Osoppo Via Caccia 5","Udine, Italy",,,,,brewpub,http://www.bire.it
+"Brew Pub Turbacci","Via della Mezzaluna, 50 Ctr Sportivo Mezzaluna di Mentana","ROMA (Mentana), Italy",,,,"(396) 909-4701",brewpub,
+"Brewery In Planning- Italy",,"Villafranca Padovana, Italy",,,,,planning,
+"Brewery In Planning- Milan","Via Montello 43","Seregno, Italy",,,,393331313538,micro,http://www.drinkrailroad.com
+"Canediguerra SRL - CDG SRL","Via Del Prato 11","Alessandria, Italy",,,,"39 0131 325438",micro,http://www.canediguerra.com
+"Carlsberg Italia S.p.A","Via Olona, 103","Inovno Olona, Italy",,,,"+39 (0)332 208 111",large,
+"Centrale Della Birra","Viale Trento Trieste 62/A","26100 Cremona, Italy",,,,"(393) 723-3267",brewpub,http://www.centraledellabirra.it
+"Crak Brewery","Via Pontarola, 9","Campodarsego, Italy",,,,"39 (349) 261-3292",micro,http://www.crakbrewery.com
+"Gasthaus Alpen Keller","Via Cola D` Amatrice 30","Ascoli Piceno, Italy",,,,"(397) 364-1786",brewpub,
+"Gruppo Italy SRL","Via G Strepponi 50 / A","Roncole Verdi di Busseto (PR), Italy",,,,39-0524-90137,micro,
+"Hausbrandt Theresianer Antica Birreria","Via Foscarini 52","Nervesa della Battagliua, TV, Italy",,,,"(390) 422-8891",micro,http://www.theresianer.com
+"Heineken Italia S.p.A.","Stabilimento di Pedavena Viale Vittorio Veneto, 78","I-32034 Pedavena (BL), Italy",,,,"+39 439 330 213",large,
+"I.C.B. ITALIAN CRAFT BREWERY SRL","VIA TORRI 365","RAVENNA, Italy",,,,390544532303,micro,http://www.craft-brewery.it
+"Industrie Poretti SPA","Via Olona 103","Induno Olona, Italy",,,,200.12,large,
+"Le Baladin","P. 5 Luglio n15","PIOZZO (CN), Italy",,,,"+39 173795431",brewpub,
+"MC77 - Birrificio Artigianale Snc","Via Enrico Mattei 4","Serrapetrona, Italy",,,,00393200548244,micro,http://www.mc-77.com
+"Real Beer Brewing Company","49 Viale F. Redi","50144 Firenze, Italy",,,,,contract,
+"Rome Brewery","Via Passaglia No. 1 I-00136 Roma","Rome, Italy",,,,+39-0639.7211.53,brewpub,http://www.starbess.it
+"St. Gabriel","Via 4 Novembre 7/8","Busco di Ponte di Piave (TV), Italy",,,,"+39 422 752899",brewpub,
+"Vecchio Birraio","VIA CASELLE 87 Campo S. Martino","Marsango/Padova, Italy",,,,"(394) 955-2088",brewpub,
+"Wunster SPA","Via Spirano 26 24040 Commun","Nuovo, Italy",,,,035-59-51-83,large,

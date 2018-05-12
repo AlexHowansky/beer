@@ -1,14 +1,14 @@
 name,address1,address2,city,state,zip,phone,type,url
-"Budnamu Brewery","93-8 Hongje Dong","Gangneung, Korea, Republic Of",,,,82-10-9404-1691,,http://www.budnamu.kr
-"Chosun Brewery Co., Ltd.","640 Youngdeungpo-Dong Youngdeoungpo-Ku","Seoul, Korea, Republic Of",,,,,,
-Delete.,,"Jeungpyeong-gun, Korea, Republic Of",,,,821053913533,,
-"Devil's Door","6th Floor, A-Ju Digital Tower 284-56 Sung-Su 2ga","Seoul, Korea, Republic Of",,,,"(026) 282-4466",,
-"Galmegi Brewing Company","58 Gwangnam-ro","Busan, Korea, Republic Of",,,,,,
-"HITEJINRO Group","132-12, Cheongdam-dong","Kangseo-ku, Seoul, Korea, Republic Of",,,,,,
-"Jeju Brewery - Modern Time","263-6 Yeon-dong Jeju Si","Jeju Do, Korea, Republic Of",,,,82-64-748-4180,,
-"Jinro Coors Brewing Co Ltd","52 Joongsam-Ri-hyundo Mym Cheongum-Gu","Cheongum-Gu, Korea, Republic Of",,,,82432794881,,
-Kabrew,"17, Surijae-gil, Sangcheon-ri","Cheongpyeong-myeon, Korea, Republic Of",,,,"82 2 3143 4082",,http://www.kabrew.co.kr
-"Micro Brewery Korea Co Ltd","125 seonggok-gil, useong-meeon,","gongju-si, Korea, Republic Of",,,,"82 010 5403 5048",,http://www.weizenhaus.com
-Platinum,"Yeoksamdong 822-2","Seoul, Korea, Republic Of",,,,"(822) 465-3100",,http://www.platinumbeer.com
-"The Satellite Brewing Co., Ltd",,"Anyang, Korea, Republic Of",,,,82-31-382-1551,,http://www.thesatellitebrewing.com
-"Zeus Brewing Company","48-7, Bongo-daero 894beon-gil, Gyeyang-gu","Incheon, Korea, Republic Of",,,,82-32-555-4892,,
+"Budnamu Brewery","93-8 Hongje Dong","Gangneung, Korea, Republic Of",,,,82-10-9404-1691,brewpub,http://www.budnamu.kr
+"Chosun Brewery Co., Ltd.","640 Youngdeungpo-Dong Youngdeoungpo-Ku","Seoul, Korea, Republic Of",,,,,large,
+Delete.,,"Jeungpyeong-gun, Korea, Republic Of",,,,821053913533,micro,
+"Devil's Door","6th Floor, A-Ju Digital Tower 284-56 Sung-Su 2ga","Seoul, Korea, Republic Of",,,,"(026) 282-4466",brewpub,
+"Galmegi Brewing Company","58 Gwangnam-ro","Busan, Korea, Republic Of",,,,,brewpub,
+"HITEJINRO Group","132-12, Cheongdam-dong","Kangseo-ku, Seoul, Korea, Republic Of",,,,,proprietor,
+"Jeju Brewery - Modern Time","263-6 Yeon-dong Jeju Si","Jeju Do, Korea, Republic Of",,,,82-64-748-4180,brewpub,
+"Jinro Coors Brewing Co Ltd","52 Joongsam-Ri-hyundo Mym Cheongum-Gu","Cheongum-Gu, Korea, Republic Of",,,,82432794881,regional,
+Kabrew,"17, Surijae-gil, Sangcheon-ri","Cheongpyeong-myeon, Korea, Republic Of",,,,"82 2 3143 4082",micro,http://www.kabrew.co.kr
+"Micro Brewery Korea Co Ltd","125 seonggok-gil, useong-meeon,","gongju-si, Korea, Republic Of",,,,"82 010 5403 5048",brewpub,http://www.weizenhaus.com
+Platinum,"Yeoksamdong 822-2","Seoul, Korea, Republic Of",,,,"(822) 465-3100",micro,http://www.platinumbeer.com
+"The Satellite Brewing Co., Ltd",,"Anyang, Korea, Republic Of",,,,82-31-382-1551,planning,http://www.thesatellitebrewing.com
+"Zeus Brewing Company","48-7, Bongo-daero 894beon-gil, Gyeyang-gu","Incheon, Korea, Republic Of",,,,82-32-555-4892,micro,
