@@ -61,7 +61,7 @@ foreach ($xml->xpath('//div[@class="brewery"]/ul[@class="vcard simple brewery-in
     $phone = empty($phoneBlock) ? '' : phone(untag(filter((string) $phoneBlock[0])));
 
     $typeBlock = $block->xpath('li[@class="brewery_type"]');
-    $type = empty($typeBlock) ? '' : strtolower(untag(filter((string) $typeBlock[0])));
+    $type = empty($typeBlock) ? '' : strtolower(filter((string) $typeBlock[0]->a));
 
     $urlBlock = $block->xpath('li[@class="url"]/a');
     $url = empty($urlBlock) ? '' : strtolower(filter((string) $urlBlock[0]->attributes()->href));
