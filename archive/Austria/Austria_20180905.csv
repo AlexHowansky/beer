@@ -1,0 +1,40 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Brau Am Berg,","Hauptstrasse 3","Frankenmarkt, Austria",,,,"07684 444",regional,
+"Brau Getrankeind Gesellschaft","Schleppe Brauerei, Postfach 25 Feldkirchner-str 147","Klagenfurt, Austria",,,,"0463 2 27 00",regional,
+"Brau Union Osterreich AG","A-4021 LINZ Poschacherstrae 35","Graz, Austria",,,,43732169790,regional,
+"Braucommune Freistadt",,"Freistadt, Austria",,,,"(079) 422-4920",regional,
+"Brauerei Eggenberg","Postfach 44","Vorchdorf, Austria",,,,"07614 345",regional,
+"Brauerei Ernst Mayr GmbH","Ertlstrasse 3","Kirchdorf, Austria",,,,"(075) 822-2460",regional,
+"Brauerei Goess","Brauhausgasse 1","Leoben, Austria",,,,"(038) 422-2621",large,
+"Brauerei Goess","Brauhausgasse 1","Leoben, Austria",,,,"(038) 422-2621",regional,
+"Brauerei Ing. Matth. Schnaitl","Post Eggelsberg","Gundertshausen, Austria",,,,"07748 66 82",regional,
+"Brauerei Jos. Baumgartner","Denisgasse 10","Scharding, Austria",,,,"07712 31 16",regional,
+"Brauerei Raschhofer","Braunauer Strasse 12","Altheim, Austria",,,,"(077) 232-2050",regional,
+"Brauerei Reininghaus/Puntigam","Triester Str. 357-359 8055 Graz",", Austria",,,,"0316 502 0",large,
+"Brauerei Schrems","Niederschremserstrasse 1","Schrems, Austria",,,,"02853 275 0",regional,
+"Brauerei Schwechat","Alanovaplatz 5","Schwechat, Austria",,,,"01 77 76 81",large,
+"Brauerei Simon Strasser","Gerlosstrasse 1","Zell Am Ziller, Austria",,,,"05282 23 66",regional,
+"Brauerei Wieselburg","Josef-Riedmueller Str 2","Wieselburg, Austria",,,,"07416 5010",large,
+"Brauerei Zipf","Osterreichische Brau AG","Zipf 22, Austria",,,,07682-6431,large,
+"Brauerei-Schwarzach,","Brauhausgasse 28","Schwarzach, Austria",,,,"06415 236",regional,
+"Brau-Union AG","Poschacherstrasse 35","Linz, Donau, Austria",,,,"(437) 326-9510",large,http://www.brauunion.com
+"Brau-Union Oesterreich AG","Poschacherstrasse 35","Linz, Donau, Austria",,,,"(437) 326-9790",large,http://www.brauunion.com%20www.goesser.at%20www.bierakademie.com%20www.zipfer.at%20www.puntigamer.at
+"Brau-Union Oesterreich AG, Brauerei Falkenstein","Pustertaler Strasse 40","Lienz, Osttirol, Austria",,,,"+43 (4852) 62062",large,
+"Brau-Union Oesterreich AG, Brauerei Goess","Brauhausgasse 1, Goess","Leoben, Austria",,,,"+43 (3842) 2090-0",large,
+"Brau-Union Oesterreich AG, Brauerei Puntigam","Triester Strasse 359","Graz, Austria",,,,"+43 (316) 502-0",large,
+"Brau-Union Oesterreich AG, Brauerei Schwechat","Alanovaplatz 5","Schwechat, Austria",,,,"+43 (1) 70140",large,
+"Brau-Union Oesterreich AG, Brauerei Wieselburg","Dr.-Beurle-Strasse 1","Wieselburg an der Erlauf, Austria",,,,"(437) 416-5010",large,
+"Brau-Union Oesterreich AG, Brauerei Zipf",,"Zipf, Austria",,,,"+43 (7682) 3600-0",large,
+"Brau-Union Oesterreich AG, Buergerbraeu Innsbruck","Ing.-Etzel-Strasse 11","Innsbruck, Austria",,,,"+43 (512) 59738-0",large,
+"Brau-Union Oesterreich AG, Hofbraeu Kaltenhausen",,"Hallein, Austria",,,,"(436) 245-7950",large,
+Diebrauerei.com,"Schillerplatz 3","Leutschach, Austria",,,,069910438749,regional,http://www.diebrauerei.com
+"Erste Alpenlandische","Postfach 6 Hammerfeldweg 163","Schladming, Austria",,,,"(036) 872-2603",regional,
+"Fischer and Fischer GmbH","Billrothstrasse 17","Wien, Austria",,,,"01 31 62 64",regional,
+"Gerstl-Brau Erste Welser","Freiung 9-11","4600 Wels, Austria",,,,"+43 7242 63262",brewpub,http://www.welsheute.at/gerstl/index.htm
+"Keltenhof Restaurationsbetriebsges mbH","Puszta 304, Keltenhof","Sauerbrunn, Austria",,,,"+43 (2625) 32271",brewpub,
+"Piuk Bernhard GmbH","Beverage-specialist Bad Eisenkappel","A-9133 Rechberg, Austria",,,,"+43 (4238) 84840",large,http://www.piuk.com
+"Puntigamer-Reininghaus Goesser","Triester Strasse 395","Graz, Austria",,,,433165020,large,
+Schliebbrau,,"St. Stefan, Austria",,,,"03463 37 11",regional,
+"Steirebrau AG","Reininghausstrasse 1-7 8020","Graz, Austria",,,,,regional,
+"Stieglbrauerei Zu Salzburg","Kendlerstrasse 1","Salzburg, Austria",,,,00435014922041,micro,http://www.stiegl.at
+"Voralberger Brauerei-",,"Frastanz, Austria",,,,"(055) 225-1701",regional,

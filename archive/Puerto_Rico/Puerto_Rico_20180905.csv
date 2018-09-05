@@ -1,0 +1,5 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Cervecera De Puerto Rico","100 Blvd Alfonso Valdes","Mayaguez, Puerto Rico",,,,"(787) 834-1000",regional,
+"F.O.K. Brewing Co. LLC","Road PR 189 Km 2.8","Caguas, Puerto Rico",,,,"(787) 437-0365",micro,http://www.fokbrewing.com
+"Ocean Lab Brewing","Balneario De Carolina Road PR187 KM 2.6","Carolina, Puerto Rico",,,,,brewpub,
+"Yerba Mala Brewery LLC",,"Bairoa, Puerto Rico",,,,"01 (575) 791-1959",planning,http://www.yerbamala.com

@@ -1,0 +1,9 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Cerveceria Costa Rica","Apartado 795","San Jose, Costa Rica",,,,"(506) 221-3511",large,http://www.ccr.co.cr
+"Cerveceria Tropical","Apratado 1610","San Jose, Costa Rica",,,,,large,
+"Costa Rica Beer Factory","Ofibodegas Barreal, 106","Heredia, Costa Rica",,,,"(506) 410-0142",micro,http://www.facebook.com/costaricabeerfactory/
+"Costa Rica Craft Brewing Co.","125 Mts Noreste De La Escuela Publica De","San Jose, Costa Rica",,,,"506 22490919",micro,http://www.beer.cr
+"Florida Ice & Farm Co","Calle 12, Av 4-6, Aptdo 10021 Apartado 10021-1000","San Jose, Costa Rica",,,,"(506) 221-3511",large,http://www.fifco.com
+"La Micro Brewing Company","Autopista Gral Canas","Heredia, Costa Rica",,,,0050624376812,micro,
+"Palmareña Brewing Company","Bodega # 4, Pastas Viena","Palmares, Costa Rica",,,,"(506) 6040-7926",micro,
+"Rich Coast Brewing Co.",,"Cariari, Costa Rica",,,,"(506) 84465917",planning,

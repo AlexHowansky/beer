@@ -1,0 +1,328 @@
+name,address1,address2,city,state,zip,phone,type,url
+"13 Below Brewery","7391 Forbes Rd",,Cincinnati,OH,45233-1013,"(513) 975-0613",micro,http://www.13belowbrewery.com
+"1487 Brewery",,"Alexandria, OH",,,,,micro,
+"16 Lots Brewing","753 Reading Rd",,Mason,OH,45040-1303,"(513) 486-3672",brewpub,http://www.16lots.com
+"2 Tones Brewing Co.",,,Whitehall,OH,43213-1308,,micro,http://www.2tonesbrewingco.com
+"4kd Crick Brewery","211 Carpenter Rd",,Defiance,OH,43512-1718,"(419) 956-2863",brewpub,http://www.4kdcrickbrewery.com
+"7 Pour 0 Brewery","3168 Melody Ln",,Portsmouth,OH,45662,"(740) 352-2223",micro,http://www.7pour0brewery.com
+"Actual Brewing Company, LLC","655 N James Rd",,Columbus,OH,43219-1837,"(614) 636-3825",micro,http://wwww.actualbeer.com
+"Aistear Brewing",,,"Bowling Green",OH,43402,"(419) 606-3478",planning,https://facebook.com/aistearbrewing/
+"Akronym Brewing LLC","58 E Market St",,Akron,OH,4430,"(330) 620-8274",micro,http://www.akronymbrewing.com
+"Alematic Artisan Ales",,,"Huber Heights",OH,45424-3857,"(937) 612-2337",planning,http://www.alematicbrewing.com
+"Anheuser-Busch Inc – Columbus","700 Schrock Rd",,Columbus,OH,43229-1123,"(614) 888-6644",large,
+"Antiques On High",,,Columbus,OH,43206,,planning,http://www.antiquesonhigh.com
+"Aqueduct Brewing","529 Grant St Ste 106",,Akron,OH,44311-1184,"(330) 606-6583",micro,http://www.aqueductbrewing.shutterfly.com
+"Bad Tom Smith Brewing","1836 W 25th St",,Cleveland,OH,44113-3142,,brewpub,
+"Bad Tom Smith Brewing","4720 Eastern Ave",,Cincinnati,OH,45226-1893,"(513) 871-4677",micro,http://www.badtomsmithbrewing.com
+"Baithouse Brewery",,,Sandusky,OH,44870,"(419) 366-5372",planning,http://www.baithousebrewery.com
+"Bardwell Winery and Brewery","716 N High St",,"Mount Orab",OH,45154,,micro,http://www.bardwellwinery.com
+"Barley's Brewing Company (Ale House No. 1)","467 N High St",,Columbus,OH,43215-2007,"(614) 228-2537",brewpub,http://www.barleysbrewing.com
+"Bascule Brewery And Public House","1397 Colorado Ave",,Lorain,OH,44052-3377,,micro,http://www.basculebrewingcompany.com
+"Big Ash Brewing Company",,,Cincinnati,OH,45244-3244,"(513) 307-9688",planning,http://www.bigashbrewing.com
+"Biker Brew House","5700 Interstate Blvd",,Austintown,OH,44515-1170,,micro,http://www.bikerbrewhouse.com
+"BirdFish Brewing Co","16 S Main St",,Columbiana,OH,44408-1348,"(330) 333-9385",micro,http://www.birdfishbrew.com
+"Black Cloister Brewing Co","619 Monroe St",,Toledo,OH,43604-1015,"(419) 214-1500",brewpub,http://www.blackcloister.com
+"Black Frog Brewing Co","831 S McCord Rd",,Holland,OH,43528-8746,"(419) 389-7136",micro,http://www.blackfrogbrewery.com
+"Bookhouse Brewing, LLC.",,,Cleveland,OH,44113-3104,"(414) 426-4555",planning,http://www.bookhouse.beer
+"Boss Dog Brewing","2179 Lee Rd",,Cleveland,OH,44118-2907,"(216) 321-2337",brewpub,http://www.bossdogbrewing.com
+"Boston Beer Co - DBA Samuel Adams Brewing Co","1625 Central Pkwy",,Cincinnati,OH,45214-2423,"(617) 368-5000",regional,http://www.samueladams.com
+"BottleHouse Brewery","13368 Madison Ave",,Lakewood,OH,44107-4840,"(216) 214-2120",micro,http://www.thebottlehousebrewingcompany.com
+"Bowling Green Beer Works","322 N Grove St Ste C",,"Bowling Green",OH,43402-2322,"(512) 299-2101",micro,
+"Branch & Bone Artisan Ales","905 Wayne Ave",,Dayton,OH,45410-1247,"(937) 723-7608",micro,http://www.branchandboneales.com
+"Brausch Brewery","1030 S South St",,Wilmington,OH,45177-2924,"(937) 302-2337",micro,
+"Breaking Point Brewery",,,"Cleveland Heights",OH,44121-1706,"(216) 235-7411",micro,
+"Brew Kettle - Hudson",,,Hudson,OH,44236,"(440) 239-8788",planning,
+"Brew Kettle - Production Works","20102 Progress Dr",,Strongsville,OH,44149-3259,,micro,
+"BrewDog Brewing Company, LLC","96 Gender Rd",,"Canal Winchester",OH,43110-7539,"(614) 908-3059",micro,http://www.brewdog.com/usa
+"Brewery 33 Hocking Hills, LLC","12684 College Prospect Dr",,Logan,OH,43138-8983,,micro,
+"Brewery In Planning - Bethel",,,Bethel,OH,45106-8228,"(513) 491-1227",planning,
+"Brewery in Planning - Cincinnati",,,Cincinnati,OH,45244-1094,,planning,
+"Brewery in Planning - Cincinnati",,,Cincinnati,OH,45245-2833,"(585) 576-7169",planning,
+"Brewery in Planning - Cuyahoga Falls",,,"Cuyahoga Falls",OH,44221-2946,,planning,
+"Brewery in Planning - Dublin",,,Dublin,OH,43016-8696,"(815) 236-6393",planning,
+"Brewery in Planning - Miami County",,,"Miami County",OH,45373,,planning,
+"Brewery in Planning - Newark",,,Newark,OH,43055-6722,"(740) 404-4646",planning,
+"Brewery In Planning - Pensacola",,,Hilliard,OH,43026-7511,,planning,
+"Brewery in Planning - Solon, OH",,,Solon,OH,44139-3884,"(440) 725-2441",planning,
+"Brewery in Planning - Stow, OH",,,Stow,OH,44224-1009,,planning,
+"Brewery in Planning - Upper Arlington",,,"Upper Arlington",OH,43221-4112,,planning,
+"Brewery In Planning - Wadsworth",,,Wadsworth,OH,44281-7401,,planning,
+"Brewery in Planning - Waynesville",,,Waynesville,OH,45068-7004,"(937) 581-3539",planning,
+"Brewery In Planning - Worthington, OH.",,,Columbus,OH,43085,,planning,
+"Brick and Barrel","1844 Columbus Rd",,Cleveland,OH,44113-2412,"(503) 927-0629",micro,http://www.brickandbarrelbrewing.com
+"Brim Kitchen and Brewery","3941 Erie St",,Willoughby,OH,44094-7704,"(440) 206-8183",brewpub,http://www.brimbrewery.com
+"Brink Brewing Company","5905 Hamilton Ave",,Cincinnati,OH,45224-3045,"(513) 882-3334",micro,http://www.brinkbrewing.com
+"Buckeye Beer Engine","15315 Madison Ave",,Lakewood,OH,44107-4020,"(216) 226-2337",brewpub,http://www.buckeyebeerengine.com
+"Buckeye Lake Brewery","5176 Walnut Rd",,"Buckeye Lake",OH,43008,"(740) 535-6225",micro,
+"Buck's Brewing Co","993 Mount Vernon Rd",,Newark,OH,43055-4728,"(740) 641-2337",micro,
+"Canton Brewing Company","120 3rd St NW",,Canton,OH,44702,,brewpub,http://www.drinkcantonbeer.com
+"Carillon Brewing Company","1000 Carillon Blvd",,Dayton,OH,45409-2023,"(937) 293-2841",brewpub,http://www.carillonbrewingco.org
+"Catawba Island Brewing Company","2330 East Harbor Rd",,"Port Clinton",OH,43452-1517,"(419) 960-7764",micro,http://catawbaislandbrewing.com
+"Chagrin Beer Company","178 E Washington St",,"Chagrin Falls",OH,44022-2978,"(216) 645-1739",contract,
+"Christian Moerlein Brewing Co","1621 Moore St",,Cincinnati,OH,45202-6438,"(513) 827-6025",regional,http://www.christianmoerlein.com
+"CLE Brewing","9431 Mercantile Dr",,Mentor,OH,44060,"(440) 527-8330",micro,http://www.smarterbrewing.com
+"Cleveland Brewing Company @ Butcher and The Brewer","2043 E 4th St",,Cleveland,OH,44115-1023,,brewpub,
+"Clubhouse Brewing Company Ltd","668 N River Rd NW",,Warren,OH,44483,"(330) 548-7854",micro,
+"Collision Bend Brewing Co","1250 Old River Rd",,Cleveland,OH,44113-1243,"(216) 273-7879",brewpub,http://www.collisionbendbrewery.com
+"Columbus Brewing Co","2555 Harrison Rd",,Columbus,OH,43204-3511,"(614) 224-3626",regional,http://www.columbusbrewing.com
+"Combustion Brewery","80 W Church St Ste 101",,Pickerington,OH,43147-1484,"(614) 362-8450",micro,http://www.combustionbrewing.com
+"Commonhouse Ales","535 Short St",,Columbus,OH,43215-5614,"(614) 253-0272",micro,http://www.commonhouseales.com
+"Cornerstone Brewing Co","58 Front St",,Berea,OH,44017-1911,"(440) 239-9820",brewpub,
+"Cornerstone Brewing Co","70 W Main St",,Madison,OH,44057-3126,"(440) 239-9820",brewpub,
+"Crooked Handle Brewing Co.","760 N Main St",,Springboro,OH,45066-8944,"(937) 790-3450",micro,http://www.crookedhandle.com
+"Crooked Pecker Brewing",,,Newbury,OH,44065-9735,"(440) 476-3427",planning,
+"Dalton Union Winery & Brewery","2110 Shirk Rd",,Marysville,OH,43040,"(937) 319-3667",micro,http://www.daltonunion.com
+"DankHouse Brewing Company","161 Forry St",,Newark,OH,43055-3760,,micro,http://www.dankhousebrewing.com
+"Dayton Beer Co Production Brewery & Bierhall","41 Madison St",,Dayton,OH,45402-2105,"(937) 228-2337",micro,http://www.thedaytonbeerco.com
+"Dead Low Brewing",,,Cincinnati,OH,45230,"(513) 290-9434",planning,http://www.deadlowbrewing.com
+"Devil Wind Brewing LLC","130 S Detroit St",,Xenia,OH,45385,"(937) 609-0002",micro,http://www.devilwindbrewing.com
+"Devil's Kettle Brewing","97 Columbus Rd",,Athens,OH,45701-1313,"(740) 589-7187",micro,http://www.devilskettlebrewing.com
+"DogBerry Brewing LLC","9964 Crescent Park Dr",,"West Chester ",OH,45069,"(513) 847-8208",micro,http://www.dogberrybrewing.com
+"Double Edge Brewing Co","158 W Chestnut St",,Lancaster,OH,43130-4308,"(740) 277-7465",micro,http://www.double-edge.beer
+"Double Wing Brewing Co","7840 Doty Rd",,Madison,OH,44057-9511,"(440) 466-3485",brewpub,http://www.ratbrew.com
+"Dungeon Hollow Brewing","572 County Rd 22A",,Bloomingdale,OH,43910,"(740) 337-1510",micro,http://www.dungeonhollow.com
+"Earlybird Brewing Company","737 Bolivar Rd Ste 4100",,Cleveland,OH,44115-1259,,contract,http://www.earlybirdbrewing.com
+"Earnest Brew Works","4342 S Detroit Ave",,Toledo,OH,43614-5367,"(419) 340-2589",micro,http://www.earnestbrewworks.com
+"Earthworks Brewing","1889 Faye Dr NE Unit 21",,Heath,OH,43056,,micro,http://www.earthworksbrewing.com
+"Elevator Brewery and Draught Haus","161 N High St",,Columbus,OH,43215-2402,"(614) 228-0500",brewpub,http://www.elevatorbrewing.com
+"Elevator Brewing Co - Production facility","165 N 4th St",,Columbus,OH,43215-2906,"(614) 679-2337",micro,http://elevatorbrewery.com
+"Endeavor Brewing Company","909 W 5th Ave",,Columbus,OH,43212,"(614) 456-7074",micro,http://www.endeavorbrewingco.com
+"Endless Pint Brewing","39 E Main St",,Versailles,OH,45380,"(419) 733-8806",micro,http://www.endlesspintbrewing.com
+"Eudora Brewing Co","4716 Wilmington Pike",,Dayton,OH,45440-2021,"(937) 723-6863",micro,http://www.eudorabrewing.com
+"Fat Head's Brewery","18741 Sheldon Rd",,"Middleburg Heights",OH,44130-2472,"(216) 898-0242",regional,http://www.fatheads.com
+"Fat Head's Brewery & Saloon","24581 Lorain Rd",,"North Olmsted",OH,44070-2170,"(440) 801-1001",brewpub,http://www.fatheadscleveland.com
+"Fat Head's Brewpub - Canton","3885 Everhard Rd NW",,Canton,OH,44709-4003,,brewpub,
+"Father John's Microbrewery","301 W Butler St",,Bryan,OH,43506-1608,"(419) 633-1313",brewpub,http://www.fatherjohnsbrewery.com
+"Fibonacci Brewing Company","1445 Compton Rd",,Cincinnati,OH,45231-3559,"(513) 832-1422",micro,http://fibbrew.com
+"Fifth Street Brewpub","1600 E 5th St",,Dayton,OH,45403-2304,"(937) 443-0919",brewpub,http://fifthstreetbrewpub.coop
+"Fifty West Brewing Co","7668 Wooster Pike",,Cincinnati,OH,45227-3926,"(513) 834-8789",brewpub,http://www.fiftywestbrew.com
+"Fifty West Brewing Co","7605 Wooster Pike",,Cincinnati,OH,45227-3925,"(513) 834-8789",micro,
+"FigLeaf Brewing Company","3387 Cincinnati Dayton Rd",,Middletown,OH,45044-8905,"(937) 361-2573",micro,http://www.figleafbrewing.com
+"Findlay Brewing Co.","213 E. Crawford St.",,Findlay,OH,45840,"(419) 722-7395",micro,http://www.findlaybrewingcompany.com
+"Flatrock Brewery","621 N Perry St",,Napoleon,OH,43545-1701,"(419) 966-1440",micro,http://www.flatrockbrewery.com
+"Flatrock Brewing Company","621 North Perry Street",,Napoleon,OH,43545,"(419) 868-8114",brewpub,http://www.flatrockbrewery.com
+"Forest City Brewery","2135 Columbus Rd Ste A",,Cleveland,OH,44113-4243,,brewpub,http://www.forestcitybrewery.com
+"Four String Brewing Company","660 North Hague Ave",,Columbus,OH,43204,"(614) 725-1282",micro,http://www.fourstringbrewing.com
+"Four String Brewing Company - West Side Production Facility","660 N Hague Ave",,Columbus,OH,43204-,"(614) 725-1282",micro,
+"Franklin Brewing Co","1345 East Ave",,Elyria,OH,44035-7681,,micro,
+"Fretboard Brewing Company","5800 Creek Rd",,"Blue Ash",OH,45242-4010,"(513) 914-4677",micro,http://www.fretboardbrewing.com
+"Goldhorn Brewery","1361 E 55th St",,Cleveland,OH,44103-1301,,brewpub,
+"Gordon Biersch Brewery Restaurant - Columbus","401 N Front St Ste 120",,Columbus,OH,43215-8200,"(614) 246-2900",brewpub,http://www.gordonbiersch.com/restaurant
+"GOTL Brewing Co","5243 Lake Rd E",,Geneva,OH,44041-9433,"(440) 361-4864",brewpub,http://www.gotlbrewing.com
+"Grainworks Brewing Company","7790 Service Center Dr",,"West Chester",OH,45069-2442,"(513) 480-2337",micro,
+"Granite City Food & Brewery","24519 Cedar Rd",,Cleveland,OH,44124-3780,,brewpub,
+"Granite City Food & Brewery (#25)","2300 Village Dr W",,Maumee,OH,43537-7550,"(419) 878-9050",brewpub,http://www.gcfb.net
+"Granville Brewing Company","5371 Columbus Rd",,Granville,OH,43023-9192,,micro,http://www.granvillewbrewing.com
+"Great Black Swamp Brewing Co","3323 Monroe St",,Toledo,OH,43606-4553,"(419) 973-1256",micro,http://www.greatblackswampbrewing.com
+"Great Lakes Brewing Co","2516 Market Ave",,Cleveland,OH,44113-3434,,brewpub,http://www.greatlakesbrewing.com
+"Great Lakes Brewing Co","1947 W 28th St",,Cleveland,OH,44113-3422,"(216) 771-4404",regional,http://www.greatlakesbrewing.com
+"Grove City Brewing Company","3946 Broadway",,"Grove City",OH,43123-2623,"(614) 991-0338",brewpub,http://www.grovecitybrewingcompany.com
+"Gypsy Brewery","3506 Vega Ave",,Cleveland,OH,44113-4900,,micro,
+"Hairless Hare Brewery","738 W National Rd",,Vandalia,OH,45377-1015,"(937) 387-6476",micro,http://www.hairlessharebrewery.com
+"Hansa Brewery","2717 Lorain Ave",,Cleveland,OH,44113-3414,"(216) 631-6585",brewpub,http://www.hansabrewery.com
+"Hasseman Brewing","115 S 6th St",,Coshocton,OH,43812-1625,"(740) 294-1364",micro,http://www.hassemanbrewing.com
+"Headtrip Brewery","1634 Norton Rd",,Stow,OH,44224-1412,,micro,http://www.headtripbrewery.com
+"Heavier Than Air Brewing Co","497 Miamisburg Centerville Rd",,Centerville,OH,45459-4753,"(937) 433-1500",micro,http://www.heavierthanairbrewing.com
+"Hightower Brewing Co","3445 County Road 16 Unit B",,Rayland,OH,43943-7765,"(740) 859-0764",micro,http://www.hightowerbrewingcompany.com
+"HiHO Brewing Co","1707 Front St",,"Cuyahoga Falls",OH,44221-4711,"(234) 334-7564",brewpub,http://www.hihobrewingco.com
+"Hofbrauhaus Cleveland / Cincinatti Restaurant Group","1550 Chester Ave",,Cleveland,OH,44114-3615,"(216) 621-2337",brewpub,http://www.hofbrauhauscleveland.com
+"Hofbrauhaus Columbus","800 Goodale Blvd",,Columbus,OH,43212-3825,"(614) 294-2437",brewpub,http://www.hofbrauhauscolumbus.com
+"Homestead Beer Co.","811 Irving Wick Dr W",,Heath,OH,43056-1199,"(740) 522-8018",micro,http://www.homesteadbeerco.com
+"Hoof Hearted Brewing","300 County Road 26",,Marengo,OH,43334-9678,"(567) 233-3115",micro,http://www.hoofheartedbrewing.com
+"Hoof Hearted Brewing - Brewery and Kitchen","850 N 4th St",,Columbus,OH,43215-1845,"(614) 401-4033",brewpub,
+"Hop Tree Brewing Company Ltd","1297 Hudson Gate Dr",,Hudson,OH,44236-3764,"(330) 342-0060",brewpub,http://www.hoptreebrewing.com
+"Hoppin' Frog Brewing Co","1680 E Waterloo Rd Ste F",,Akron,OH,44306-4523,,micro,http://www.hoppinfrog.com
+"Hoster Brewing Co","760 Harmon Ave",,Columbus,OH,43223,"(614) 221-3606",contract,http://www.hosterbeer.com
+"Ignite Brewing Company, Ltd.","600 W Tuscarawas Ave",,Barberton,OH,44203-2460,"(330) 696-6881",micro,http://www.facebook.com/ignitebrewingcompany
+"Ill Mannered Brewing Company","30 Grace Dr",,Powell,OH,43065-8466,,micro,
+"Ill Mannered Brewing Company","38 Grace Dr",,Powell,OH,43065-8466,,micro,
+"Inside The Five Brewing","5703 Main St",,Sylvania,OH,43560-4901,"(567) 408-7212",brewpub,http://www.insidethefive.com
+"Jackie O's Brewery","25 Campbell St",,Athens,OH,45701-2616,"(614) 747-3434",micro,
+"Jackie O's Pub & Brewery","22-24 W Union St",,Athens,OH,45701-2818,"(740) 592-9686",brewpub,http://www.jackieos.com
+"JAFB Brewery","120 Beall Ave",,Wooster,OH,44691-3673,"(330) 601-1827",micro,http://www.jafbbeer.com
+"Kennedy Vineyard","3911 State Route 722",,"New Madison",OH,45346,"(937) 273-8381",micro,http://www.kennedyvineyard.net
+"Kindred Beer","505 Morrison Rd",,Columbus,OH,43230,"(614) 528-4341",micro,
+"Kindred Beer","750 Cross Pointe Rd Unit I and J",,Columbus,OH,43230,"(614) 626-4341",micro,http://www.kindredbeer.com
+"Kindred Brewing",,,Columbus,OH,43214,,planning,
+"Knotty Pine Brewing","1765 W 3rd Ave",,Columbus,OH,43212-2769,"(614) 817-1515",brewpub,http://www.knottypinebrewing.net
+"Lager Heads Brewing Co.","325 W Smith Rd",,Medina,OH,44256-2352,"(330) 721-2337",micro,http://www.lagerheads.us
+"Lager Heads Smokehouse","2832 Abbeyville Rd",,Medina,OH,44256,"(330) 725-1947",brewpub,
+"Lake Rat Brewing","108 S Main St",,Celina,OH,45822,"(419) 733-1830",brewpub,http://www.lakeratbrewing.com
+"Land-Grant Brewing Company","424 W Town St",,Columbus,OH,43215-4040,"(216) 956-2634",micro,http://www.landgrantbrewing.com
+"Laxton Hollow Brewing Works","302 E Main St",,Mansfield,OH,44904-1300,"(419) 525-2842",micro,http://www.laxtonhollow.com
+Levitate,,,"Mount Victory",OH,43340-8908,"(313) 384-9757",planning,
+"Lil Paws Winery","17574-A Mahoning Ave",,"Lake Milton",OH,44429-9583,"(330) 970-9463",micro,http://www.lilpawswinery.com
+"Lineage Brewing","2971 N High St",,Columbus,OH,43202,"(614) 461-3622",brewpub,http://www.lineagebrew.com
+"Listermann Brewing Company","1621 Dana Ave",,Cincinnati,OH,45207-1007,"(513) 731-1130",micro,http://listermannbrewing.com
+"Little Fish Brewing Company","8675 Armitage Rd",,Athens,OH,45701-8900,"(740) 204-6187",micro,http://www.littlefishbrewing.com
+"Little Miami Brewing Company","208 Mill St",,Milford,OH,45150-1072,"(513) 713-1121",brewpub,http://www.littlemiamibrewing.com
+"Lock 15 Brewing Co","21 W North St Ste TL1",,Akron,OH,44304-1035,"(234) 900-8277",brewpub,http://www.lock15brewing.com
+"Lock 27 Brewing","329 E 1st St",,Dayton,OH,45402-1705,"(937) 433-2739",brewpub,http://www.lock27brewing.com
+"Lock 27 Brewing","1035 S Main St",,Centerville,OH,45458-3840,"(937) 433-2739",brewpub,http://www.lock27brewing.com
+"Lockport Brewery","10891 OH-212",,Bolivar,OH,44612-8664,"(330) 874-6037",brewpub,http://www.lockportbeer.com
+"Loose Rail Brewing","37 W Waterloo St",,"Canal Winchester",OH,43110-1140,"(614) 321-6634",micro,http://www.looserailbrewing.com
+"Lucky Owl Brewing","8660 Tamarack Trl",,"Chagrin Falls",OH,44023-1876,"(440) 836-3440",micro,http://www.luckyowlbrewing.com
+"Lucky Star Brewery","219 S 2nd St",,Miamisburg,OH,45342-2924,"(937) 866-2739",brewpub,http://www.luckystarbrewery.com
+"Madcap Brew Co.","1422 Mogadore Rd",,Kent,OH,44240-7536,"(330) 548-9654",micro,
+"MadTree Brewing","3301 Madison Rd",,Cincinnati,OH,45209-1132,"(513) 836-8733",regional,http://www.madtreebrewing.com
+"MadTree Brewing 2.0","3301 MADISON RD",,Cincinnati,OH,45209-1132,"(513) 836-8733",regional,http://www.madtreebrewing.com
+"Magic City Brewing Company","161 2nd St NW",,Barberton,OH,44203,"(330) 703-9806",micro,http://www.magiccitybrewingcompany.com
+"Main Sail Brewery / Atwood Yacht Club","2637 Lodge Rd SW",,Sherrodsville,OH,44675-9719,"(330) 735-2135",micro,http://www.atwoodyachtclub.com
+"Maize Valley Craft Brewery","6193 Edison St NE",,Hartville,OH,44632-9326,"(330) 877-8344",brewpub,http://www.maizevalley.com
+"Maple Lawn Brewery","110 Mulberry Ave",,Pomeroy,OH,45769-1004,"(740) 691-5018",micro,http://www.maplelawnbrew.com
+"March First Brewing","7885 E Kemper Rd",,Cincinnati,OH,45249-1622,"(513) 562-0759",brewpub,http://www.marchfirstbrewing.com
+"Marietta Brewing Co","167 Front St",,Marietta,OH,45750-3125,"(740) 373-2739",brewpub,http://www.mariettabrewingcompany.com
+"Market Garden Brewery","1947 W 25th St",,Cleveland,OH,44113-3418,"(216) 621-4000",micro,http://www.marketgardenbrewery.com
+"Market Garden Brewery","1849 W 24th St",,Cleveland,OH,44113,"(216) 621-4000",micro,
+"Masthead Brewing Co","1261 Superior Ave E",,Cleveland,OH,44114-3204,"(419) 260-4770",brewpub,http://www.mastheadbrewingco.com
+"Maumee Bay Brewing Co","27 Broadway St Ste A",,Toledo,OH,43604-8701,"(419) 243-1302",brewpub,http://www.maumeebaybrewing.com
+"McArthur's Brew House","2721 Front St",,"Cuyahoga Falls",OH,44221-1904,"(330) 805-4600",micro,http://www.mcarthursbrewhouse.com
+"MillerCoors Brewing Co - Trenton","2525 Wayne Madison Rd",,Trenton,OH,45067-9760,"(513) 896-4601",large,http://www.millerbrewing.com
+"Millersburg Brewing","60 E Jackson St",,Millersburg,OH,44654-1257,"(330) 674-4728",brewpub,http://www.millersburgbrewing.com
+"Missing Falls Brewery",,,Akron,OH,44311-1079,"(330) 808-6097",planning,
+"Missing Mountain Brewing Company","2811 Front St",,"Cuyahoga Falls",OH,44262,,brewpub,http://www.missingmountain.com
+"Modern Methods Brewing Company","125 David Grohl Alley",,Warren,OH,44481,"(330) 333-1594",micro,http://www.modernmethodsbrew.com
+"Moeller Brew Barn","8016 Marion Dr",,"Maria Stein",OH,45860-8706,"(419) 925-3005",micro,http://www.moellerbrewbarn.com
+"Moeller Brew Barn",,,Troy,OH,45373,,planning,
+"Moerlein Lager House","115 Joe Nuxhall Way",,Cincinnati,OH,45202-4143,"(513) 421-2337",brewpub,http://www.moerleinlagerhouse.com
+"Monzula Farm Brewery / Vineyard 22","83800 Monzula Rd",,Cadiz,OH,43907,"(740) 491-7000",micro,http://www.vineyard22winery.com
+"Mosaic Brewing",,,Lancaster,OH,43130-4308,"(614) 940-2500",planning,http://www.double.edge.beer
+"Mother Stewart's Brewing Co","109 W North St",,Springfield,OH,45504-2546,,micro,
+"Mt. Carmel Brewing Co","4362 Mount Carmel Tobasco Rd",,Cincinnati,OH,45244-2338,"(513) 240-2739",micro,
+"Mucky Duck Brewery","4019 S Main St",,Akron,OH,44319-3668,"(330) 644-5444",brewpub,
+"Multiple Brewing Company","82 W Washington St",,Nelsonville,OH,45764-1135,"(614) 495-7199",micro,
+"Municipal Brew Works","20 High St",,Hamilton,OH,45011-2709,"(513) 642-2424",micro,http://municipalbrewworks.com
+"Muskellunge Brewing Company","425 5th St NW",,Canton,OH,44702,"(513) 802-3417",micro,http://www.muskybrewco.com
+"Nano Brew Cleveland","1859 W 25th St",,Cleveland,OH,44113,"(216) 862-6631",brewpub,http://www.nanobrewcleveland.com
+"Narrow Path Brewing Company","106 Karl Brown Way",,Loveland,OH,45140-2902,"(513) 312-3414",micro,http://www.narrowpathbrewing.com
+"Neon Groundhog Brewery - Majestic Oak Winery","13554 Mohler Rd",,"Grand Rapids",OH,43522-9648,"(419) 875-6474",micro,http://www.majesticoakwinery.com
+"New Bremen Brewing Company",,,"New Bremen",OH,45869-1328,,planning,http://www.gongoozlersbeer.com
+"Nine Giant Brewing","6095 Montgomery Rd",,Cincinnati,OH,45213-1617,"(513) 366-4550",brewpub,http://www.ninegiant.com
+"Noble Beast Brewing Co.","1470 Lakeside Ave E",,Cleveland,OH,44114-1137,"(717) 585-9216",brewpub,http://noblebeastbeer.com
+"Noble Creature Cask House","126 E Rayen Ave",,Youngstown,OH,44503-1619,"(234) 719-1827",brewpub,http://www.noblecreaturebeer.com
+"Nocterra Brewing Company",,,Powell,OH,43065-9344,"(614) 282-2266",planning,http://www.nocterrabrewing.com
+"North High Brewing","1125 Cleveland Ave",,Columbus,OH,43201-2900,"(614) 226-3244",micro,http://www.northhighbrewing.com
+"Northern Row Brewery & Distillery","111 W McMicken Ave",,Cincinnati,OH,45202-4915,"(513) 673-6689",micro,http://www.northernrow.com
+"Nowhere In Particular Brewing Company","6826 Loop Rd",,Dayton,OH,45459-2159,"(513) 348-7282",proprietor,http://www.nipbrewco.com
+"Numbers Brewing Company","127 N Beaver St",,Lisbon,OH,44432-1121,"(330) 870-5305",brewpub,
+"Off Track Brewing Company","227 Stark Street",,Cincinnati,OH,45214,"(513) 604-4527",micro,http://www.offtrackbrewingcompany.com
+"Ohio Brewing Co",,,Columbus,OH,43201,,planning,
+"Ohio Brewing Company","2250 Front St",,"Cuyahoga Falls",OH,44221-2510,"(234) 208-6243",micro,http://www.ohiobrewing.com
+"Old Firehouse Brewery","237 W Main St",,Williamsburg,OH,45176-1342,"(513) 536-9071",micro,http://www.oldfirehousebrewery.com
+"Old Mill Craft Beer","2376 State Route 850",,Bidwell,OH,45614-9590,"(740) 245-9463",micro,
+"On The Fly Brewing Company",,,Sunbury,OH,43074-9022,"(614) 561-8735",planning,http://www.ontheflybrewing.com
+"Outerbelt Brewing Company",,,Carroll,OH,43112,"(614) 309-6796",planning,http://www.outerbeltbrewing.com
+"Paladin Brewing","6520 Mahoning Ave",,Austintown,OH,44515-2012,"(330) 550-6338",micro,http://www.paladinbrewing.com
+"Paradigm Shift Brewing","128 North Ave NE",,Massillon,OH,44646-5526,"(330) 880-0008",micro,http://www.paradigmshiftbrew.com
+"Paradune Brewing","10551 1/2 County Rd 286",,Huntsville,OH,43324,,micro,
+"Paradune Brewing Company","20707 Township Rd 119",,"Belle Center",OH,43310,"(937) 589-1730",micro,http://www.paradunebrewing.com
+"Patron Saints Brewery","4730 W Bancroft St #8",,Toledo,OH,43615,"(419) 720-2337",micro,http://www.patronsaintsbrewery.com
+"Pedestrian Brewing",,,Lakewood,OH,44107-3309,"(216) 262-0740",planning,http://pedestrian.beer
+"Permission Brewing Company",,,Columbus,OH,43004,"(614) 353-0762",planning,http://www.permissionbrewing.com
+"Pigskin Brewing Company","81 Mill St Ste 150",,Gahanna,OH,43230-1718,"(614) 944-9311",brewpub,
+"Pinups & Pints","10963 Lower Valley Pike",,Medway,OH,45341-9706,"(937) 849-1400",micro,http://www.pinupsandpints.com
+"Platform Beer Co","4125 Lorain Ave",,Cleveland,OH,44113-3718,"(216) 202-1386",regional,http://platformbeer.co
+"Platform Beer Co - Locoba",,,Cincinnati,OH,45202,,planning,
+"Platform Beer Co - Production Facility","3506 Vega Ave",,Cleveland,OH,44113-4900,,micro,http://www.platformbeer.co
+"Platform Beer Co Taproom","408 N 6th St",,Columbus,OH,43215-2137,"(614) 826-2285",micro,http://www.platformbeer.co
+"Platform Beer Phunkenship",,,Cleveland,OH,44109,,planning,
+"Platform Cincinnati","916 Dalton Ave",,Cincinnati,OH,45203,"(216) 202-1386",micro,
+"Portsmouth Brewing Co/Maults","224 Second St",,Portsmouth,OH,45662-0218,"(740) 354-6106",brewpub,http://www.portsmouthohbrewing.com
+"Pretentious Barrel House","745 Taylor Ave",,Columbus,OH,43219-2526,"(614) 887-7687",micro,http://www.pretentiousbarrelhouse.com
+"Put-In-Bay Brewing Co","441 Catawba Ave",,"Put In Bay",OH,43456-6536,"(419) 285-4677",brewpub,http://www.putinbaybrewery.com
+"Quarter Barrel Brewery","107 E Church St",,Oxford,OH,45056-1317,"(513) 523-2525",brewpub,
+"Quarter Barrel Brewery and Pub","103 Main St",,Hamilton,OH,45013,"(513) 555-2525",brewpub,
+"Queen City Brewery of Cincinnati","11253 Williamson Rd",,Cincinnati,OH,45241-2230,,micro,
+"R.Shea Brewing","1662 Merriman Rd",,Akron,OH,44313-9000,"(330) 794-5654",micro,http://www.rsheabrewing.com
+"Railroad Brewing Company","1010 Center Rd",,Avon,OH,44011-1206,"(440) 723-8234",micro,http://www.railroadbrewingcompany.com
+"RAM Restaurant and Brewery - Dublin","6623 Longshore St","Dublin, OH |",,,,"(614) 698-0308",brewpub,
+"Ramblin Reds Brewing Company","1493 N Shoop Ave Unit A",,Wauseon,OH,43567-2801,"(419) 335-2000",brewpub,http://www.northriverbrewingco.com
+"Random Precision Brewing Company","2365 W Dublin Granville Rd",,Columbus,OH,43235-2700,"(614) 389-3864",micro,http://www.randomprecisionbrewing.com
+"Rebel Mettle Brewing LLC",,,Cincinnati,OH,45245-1926,"(513) 526-0558",planning,http://www.rebelmettlebrewery.com
+"Restoration Brew Worx","25 N Sandusky St",,Delaware,OH,43015-1901,,brewpub,http://www.restorationbrewworx.com
+"Revel Urban Winery / Revel OTR","111 E 12th St",,Cincinnati,OH,45202,"(513) 579-9463",brewpub,http://www.revelotr.com
+"Rhinegeist Brewery","1910 Elm St",,Cincinnati,OH,45202-7751,"(513) 381-1356",regional,http://www.rhinegeist.com
+"Rhinegeist Brewery",,,Cincinnati,OH,45225,,planning,
+"Ridge Runner Brewing LLC",,,Wauseon,OH,43567-9294,,planning,
+"Rivals Brewing Company",,,"middleburg hts",OH,44130,"(330) 631-6700",planning,https://www.facebook.com/rivalsbrewingco/
+"Rivals Sports Grille","6710 Smith Rd",,"Middleburg Heights",OH,44130-2656,"(216) 267-0005",contract,http://www.rivalscleveland.com
+"Rivertown Brewing Co - Monroe Barrel House","6550 Hamilton Lebanon Rd",,Monroe,OH,45044-9285,"(513) 360-7839",micro,http://www.rivertownbrewery.com
+"Rock Bottom Brewery - Cincinnati","10 Fountain Square Plz",,Cincinnati,OH,45202-3102,"(513) 621-1588",brewpub,http://www.rockbottom.com
+"Rockmill Brewing Co","5705 Lithopolis Rd NW",,Lancaster,OH,43130-9515,"(740) 205-8076",micro,http://www.rockmillbrewery.com
+"Rocky River Brewing Co","21290 Center Ridge Rd",,"Rocky River",OH,44116-3204,"(440) 895-2739",brewpub,http://www.rockyriverbrewco.com
+"Rolling Mill Brewing Company","916 1st Ave",,Middletown,OH,45044-8217,"(513) 217-4444",micro,http://www.rollingmillbc.com
+Roobrew,,,Akron,OH,44311-1051,"(330) 703-3947",contract,http://www.roobrew.com
+"Roundhouse Depot Brewing","217 W Chillicothe Ave",,Bellefontaine,OH,43311,"(540) 323-1295",micro,
+"Royal Docks Brewhouse and Cannery","5646 Wales Ave NW",,Massillon,OH,44646,,micro,
+"Royal Docks Brewing Company","7162 Fulton Dr NW",,Canton,OH,44718-1523,"(330) 353-9103",brewpub,http://www.docks.beer
+"Saint Hazards Brewery","1233 Fox Road",,"Middle Bass Island",OH,43446,"(419) 285-6121",brewpub,
+"Sandy Springs Brewing Company","232 N Market St",,Minerva,OH,44657-1616,"(330) 451-6926",brewpub,http://www.sandyspringsbrewery.com
+"Saucy Brew Works","2885 Detroit Ave",,Cleveland,OH,44113-2765,"(216) 666-2568",brewpub,http://www.saucybrewworks.com
+"Seventh Son Brewing Co","1101 N 4th St",,Columbus,OH,43201-3683,"(614) 421-2337",micro,http://www.seventhsonbrewing.com
+"Shale Brewing Co","7253 Whipple Ave NW",,"North Canton",OH,44720,"(330) 776-8812",micro,http://www.shalebrewing.com
+"Sibling Revelry Brewing","29305 Clemens Rd",,Westlake,OH,44145-1008,"(440) 471-8589",micro,http://www.siblingrevelrybrewing.com
+"Sideswipe Brewing","2419 Scioto Harper Dr",,Columbus,OH,43204-3420,"(614) 719-9654",micro,http://www.sideswipebrewing.com
+"Sixth Sense Brewing Company","175 Main St.",,Jackson,OH,45640,"(740) 577-3681",micro,http://www.sixthsensebrewing.com
+"Smokehouse Brewing","1130 Dublin Rd",,Columbus,OH,43215-1039,"(614) 485-0227",brewpub,http://www.smokehousebrewing.com
+"Snow Belt Brew","9511 Kile Rd",,Chardon,OH,44024,,micro,
+"Sonder Brewing",,,Maineville,OH,45039-8103,"(630) 347-3323",planning,http://www.sonderbrewery.com
+"Sons Of Toil Brewing LLC","14090 Klein Rd",,"Mount Orab",OH,45154-8312,"(513) 250-9082",micro,http://www.sonsoftoilllc.com/
+"Southern Tier Brewing Co",,,Cleveland,OH,44115-1111,,planning,
+"Southside Brewing Co","62920 Georgetown Rd",,Cambridge,OH,43725-9749,"(740) 435-3222",brewpub,http://www.southsidebrewing.net
+"Spires Social Brewing Co.",,,Westerville,OH,43082-8919,"(614) 426-8057",planning,http://www.spiressocial.com
+"Staas Brewing Company","31 W Winter St",,Delaware,OH,43015-1948,"(740) 417-4690",micro,http://www.staasbrewing.com
+"Star City Brewing Company","319 S 2nd St",,Miamisburg,OH,45342-2926,"(937) 701-7827",micro,http://www.starcitybrewing.com
+"Stein Brewing Company",,,"Mount Vernon",OH,43050-3323,,planning,http://www.steinbrewco.com
+"Streetside Brewery","4003 Eastern Ave",,Cincinnati,OH,45226-1747,"(513) 615-5877",micro,
+"Swine City Brewing Company","4614 Industry Dr",,Fairfield,OH,45014-1923,"(704) 560-1214",micro,http://www.swinecitybrewing.com
+"Taft's Ale House","1429 Race St",,Cincinnati,OH,45202-7009,,micro,
+"Taft's Brewing Co","4831 Spring Grove Ave",,Cincinnati,OH,45232-1938,"(513) 853-5016",brewpub,
+"Tailspin Brewing Co","626 S 2nd St",,Coldwater,OH,45828-9603,"(419) 852-9366",micro,http://www.tailspinbrewing.co
+"Temperance Row Brewing and Uptown Deli","41 N State St",,Westerville,OH,43081-2123,"(614) 891-2337",brewpub,http://www.uptowndeliandbrew.com
+"Terrestrial Brewing Company","7524 Father Frascati Dr",,Cleveland,OH,44102-2087,"(216) 465-9999",micro,
+"The Blue Heron Brewery",,,Hinckley,OH,44233,,planning,http://www.bookblueheron.com
+"The BottleHouse Brewery And Meadery","2050 Lee Rd",,"Cleveland Heights",OH,44118-2557,"(216) 214-2120",micro,http://www.thebottlehousebrewingcompany.com
+"The Brew Brothers / Scioto Downs Racino","6000 S. High Street",,Columbus,OH,43207,,brewpub,
+"The Brew Kettle, Taproom and Smokehouse","8377 Pearl Rd",,Strongsville,OH,44136-1637,"(440) 239-8788",brewpub,http://www.thebrewkettle.com
+"The Brew Mentor","9528 Diamond Centre Dr",,Mentor,OH,44060-1876,"(440) 951-2739",micro,http://www.thebrewmentor.com
+"The Brick Oven Brewpub","604 Canton Rd",,Akron,OH,44312-2513,"(330) 475-7005",brewpub,http://www.thebrickovenbrewpub.com
+"The Cleveland Brewery","777 E 185th St",,Cleveland,OH,44119-2170,"(216) 534-6992",micro,http://www.facebook.com/216brew
+"The Common Beer Company",,,Mason,OH,45040,"(513) 658-0170",planning,https://commonbeercompany.com/
+"The Jolly Scholar","11111 Euclid Ave",,Cleveland,OH,44106-1715,"(216) 368-0090",brewpub,http://www.thejollyscholar.com
+"The Laird Arcade Brewery","114 S Washington St Ste D",,Tiffin,OH,44883-3915,"(419) 618-6489",micro,
+"The Lodge Restaurant & Microbrewery","29042 Hide AWay Hills Rd",,"Sugar Grove",OH,43155,"(740) 569-7944",brewpub,http://www.hideawayhillslodge.com
+"The Phoenix Brewing Company","131 N Diamond St",,Mansfield,OH,44902-1331,"(419) 522-2552",micro,http://www.phoenixbrewing.com
+"The Vine N Hop Shop","1327 N. Carpenter Rd.",,Brunswick,OH,44212,"(330) 623-6940",micro,http://www.vinehop.com
+"The Woodburn Brewery","2800 Woodburn Ave",,Cincinnati,OH,45206-1793,"(513) 221-2337",micro,http://www.woodburnbrewery.com
+"Third Eye Brewery",,,Cincinnati,OH,45246,,planning,http://www.thirdeyebrewingcompany.com
+"Thirsty Dog Brewing Company","529 Grant St Ste 103",,Akron,OH,44311-1184,"(330) 252-2739",micro,http://www.thirstydog.com
+"Three Points Urban Brewery","331 E 13th St",,Cincinnati,OH,45202-7307,"(513) 555-5555",micro,http://www.3pointsbeer.com
+"Three Tigers Brewing Company","140 N Prospect St",,Granville,OH,43023-1337,"(740) 920-4680",brewpub,http://www.threetigersbrewing.com
+"Toxic Brew Company","431 E 5th St",,Dayton,OH,45402-2911,"(937) 985-3618",brewpub,http://www.toxicbrewcompany.com
+"Trek Brewing","1486 Granville Rd",,Newark,OH,43055-1538,,micro,http://www.trekbeer.com
+"TwentyNine Brewpub","1775 Marion-Waldo Rd",,Marion,OH,43302,"(740) 751-4586",brewpub,
+"Twin Oast Brewing","3630 NE Catawba Rd",,"Catawba Island",OH,43452,"(419) 573-6126",brewpub,http://www.twinoast.com
+"Two Bandits Brewing Company","106 E High St",,Hicksville,OH,43526,"(419) 542-1087",brewpub,
+"Two Monks Brewing Company","352 Massillon Rd",,Akron,OH,44312-2021,"(234) 738-2337",micro,http://www.2monksbru.com
+"Uniontown Brewing Co.","105 W Main St",,Ashland,OH,44805-2221,"(419) 908-8542",brewpub,http://www.uniontownbrewing.com
+"Upside Brewing","5692 N Main St",,Sylvania,OH,43560-1928,"(419) 882-6061",brewpub,http://www.facebook.com/upsidebrewing
+"Urban Artifact","1660 Blue Rock St",,Cincinnati,OH,45223-2554,,micro,http://www.artifactbeer.com
+"Valley Vineyards Winery & Cellar Dweller Brewing","2276 E US Highway 22 and 3",,Morrow,OH,45152-9414,"(513) 899-2485",brewpub,http://www.valleyvineyards.com
+"Veteran Brewhouse","829 CR 801",,Ashland,OH,44805,"(419) 606-4014",micro,http://www.veteranbrewhouse.com
+"Virant Family Winery / Black Angus Brewery","541 Atkins Rd",,Geneva,OH,44041,"(440) 466-6279",micro,http://www.virantfamilywinery.com
+"Wadsworth Brewing Company","126 Main St",,Wadsworth,OH,44281-1432,"(330) 475-4935",brewpub,http://www.wadsworthbrewingcompany.com
+"Wandering Griffin",,,Beavercreek,OH,45324-9095,"(937) 956-5216",planning,http://www.wanderinggriffin.com
+"Warped Wing Brewing Co","26 Wyandot St",,Dayton,OH,45402-2145,"(937) 222-7003",micro,http://www.warpedwing.com
+"Weasel Boy Brewing Co LLC","126 Muskingum Ave Unit E",,Zanesville,OH,43701-4921,"(740) 455-3767",brewpub,http://www.weaselboybrewing.com
+"West East Brewing Co","4125 Lorain Ave",,Cleveland,OH,44113-3718,"(216) 202-1386",contract,
+"West Side Brewing","3044 Harrison Ave",,Cincinnati,OH,45211-5752,"(513) 661-2337",micro,http://www.westsidebrewing.com
+"White Shutter Winery and Brewery","3794 County Hwy 56",,Nevada,OH,44849,"(419) 835-2900",micro,http://www.whiteshutterwinery.com
+"Wiedemann Brewing Co, LLC","4811 Vine St",,Cincinnati,OH,45217-1217,"(513) 800-9560",micro,http://www.wiedemannbeer.com
+"Wild Side Brewing Company","24194 Front St",,"Grand Rapids",OH,43522,"(419) 389-2776",micro,http://www.wildsidebrewing.com
+"Willoughby Brewing Co","4057 Erie St",,Willoughby,OH,44094-7804,"(440) 975-0202",brewpub,http://www.willoughbybrewing.com
+"Wolf's Ridge Brewing","215 N 4th St",,Columbus,OH,43215-2510,"(614) 429-3936",micro,http://www.wolfsridgebrewing.com
+"Wooly Pig Farm Brewery","23631 Township Road 167",,Fresno,OH,43824-9704,"(740) 693-5050",micro,http://www.woolypigfarmbrewery.com
+"Working Class Brewery","17448 Lorain Ave",,Cleveland,OH,44111-4028,"(216) 417-5112",micro,http://www.workingclassbrewery.com
+"Y Bridge Brewing Company","1417 Linden Ave",,Zanesville,OH,43701,"(740) 868-4265",micro,
+"Yellow Springs Brewery","305 N Walnut St Ste B",,"Yellow Springs",OH,45387-2059,"(937) 767-0222",micro,http://www.yellowspringsbrewery.com
+"Zaftig Brewing Co.","7020 Huntley Rd Ste A",,Columbus,OH,43229-1050,"(614) 636-2537",micro,http://www.drinkzaftig.com

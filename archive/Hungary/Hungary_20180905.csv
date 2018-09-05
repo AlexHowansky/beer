@@ -1,0 +1,9 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Beerd Brew Design Kft. (Mad Scientist)","47 Maglodi road","Budapest, Hungary",,,,"(362) 036-5592",micro,http://www.madscientist.hu
+"Brauerei Sopron","Vandor Su. 1","Sopron, Hungary",,,,,regional,
+"Brewery At Borsod Ltd.","Pf. 6","Bocs, Hungary",,,,,regional,
+"Brewery At Kobanya Rt","Jászberényi Út 3 1106 Hungary","Budapest, Hungary",,,,"1 157 2854",regional,
+"Brewery in Planning - Budapest","Maglódi út 47","Budapest, Hungary",,,,,contract,
+"Dreher Breweries Ltd","Budapest Jászberényi Út 7-11",", Hungary",,,,"(361) 432-9760",large,http://www.dreher.hu
+"Hedon Brewing Company","Petofi Sándor Utca 46. Balatonvilágos 8171",", Hungary",,,,,contract,
+"Reketye Brewing Co.","Also Ipari Krt. 4.","Nagytarcsa, Hungary",,,,,micro,http://www.reketye.com
