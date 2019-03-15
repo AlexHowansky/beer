@@ -1,0 +1,386 @@
+name,address1,address2,city,state,zip,phone,type,url
+"127 Brewing","3090 Shirley Dr",,Jackson,MI,49201-7010,"(517) 258-1346",micro,
+"5 Lakes Brewing Co.","1638 142nd Ave",,Dorr,MI,49323-9312,"(616) 359-9555",brewpub,http://www.5lakesbrewing.com
+"51st State Brewing Company","115 Harding Ave",,Kingsford,MI,49802-3815,"(906) 828-2167",brewpub,http://www.51ststatebrewingcompany.com
+"734 Brewing Company","15 E Cross St",,Ypsilanti,MI,48198,"(734) 649-6453",micro,
+"Aberrant Ales","219 W Grand River Ave",,Howell,MI,48843,"(517) 518-8699",brewpub,http://www.aberrantales.com
+"Abner's Restaurant Inc / Northern Michigan Beer","7528 N Woodbridge (M37)",,Brohman,MI,49312,"(231) 689-2295",brewpub,
+"Albion Malleable Brewing Company","420 S Superior St",,Albion,MI,49224,"(517) 343-2202",brewpub,http://www.albionmalleable.com
+"Alma Brewing Co","208 E Superior St",,Alma,MI,48801-1819,"(989) 462-0208",brewpub,http://www.almabrewing.com
+"Alpha Michigan Brewing Company","303 E Center St",,Alpha,MI,49902,"(920) 358-9551",micro,http://www.alphamibeer.com
+"American Badass Beer","1401 Abbott St Corktown",,Detroit,MI,48216-1946,,contract,http://www.americanbadassbeer.com
+"American Brewers Inc","3408 Miller Rd",,Kalamazoo,MI,49001-4111,"(269) 217-1920",micro,http://www.americanbrewers.us
+"American Harvest Brewpub At Schoolcraft College","18600 Haggerty Rd",,Livonia,MI,48152-3932,"(734) 462-7659",brewpub,http://www.schoolcraft.edu
+"Arbor Brewing Co","114 E Washington St",,"Ann Arbor",MI,48104-1905,"(734) 213-1393",brewpub,http://www.arborbrewing.com
+"Arbor Brewing Co. Microbrewery","720 Norris St",,Ypsilanti,MI,48198-2825,"(734) 480-2739",brewpub,
+"Arcadia Brewing Co","701 E Michigan Ave",,Kalamazoo,MI,49007-4946,"(269) 276-0458",micro,http://www.arcadiaales.com
+"Arclight Brewing Company","544 N Main St",,Watervliet,MI,49098-9797,"(269) 332-0718",micro,http://www.arclightbrewing.com
+"Arvon Brewing Co.","3057 Broadway Ave SW",,Grandville,MI,49418-1528,"(616) 224-0086",micro,http://www.arvonbrewingco.com
+"Ascension Brewing Company","42000 Grand River Ave",,Novi,MI,48375-1831,"(248) 308-2093",brewpub,http://www.ascension.beer
+"Atwater Brewing Co","237 Joseph Campau St",,Detroit,MI,48207-4107,"(313) 877-9205",regional,http://www.atwaterbeer.com
+"Atwater Grand Rapids","201 Michigan St NW",,"Grand Rapids",MI,49503-2323,"(616) 649-3020",brewpub,
+"Atwater In the Park Biergarten and Tap House","1175 Lakepointe St",,"Grosse Pointe Park",MI,48230-1319,"(313) 344-5104",brewpub,http://www.atwaterbeer.com
+"Austin Brothers' Beer Company","821 W Miller St",,Alpena,MI,49707-1825,"(989) 340-2300",brewpub,http://www.austinbrosbeerco.com
+"Axle Brewing Company","567 Livernois St",,Ferndale,MI,48220-2303,"(248) 613-7002",micro,http://www.axlebrewing.com
+"Axle Brewing Company","567 Livernois St",,Ferndale,MI,48220-2303,"(248) 284-2422",brewpub,
+"B. Nektar Meadery","1511 Jarvis St",,Ferndale,MI,48220-2025,"(313) 744-6323",micro,http://www.bnektar.com
+"B.O.B's Brewery","20 Monroe Ave NW",,"Grand Rapids",MI,49503-6208,"(616) 356-2000",brewpub,http://thebobsbrewery.thebob.com
+"BAD Brewing Co","440 S Jefferson St",,Mason,MI,48854-1654,"(517) 676-7664",micro,http://www.badbrewing.com
+"Baffin Brewing Co","25113 Jefferson Ave",,"Saint Clair Shores",MI,48081-2303,"(586) 218-7990",micro,http://baffinbrewing.com
+"Bam Entertainment Center","478 E 16th St",,Holland,MI,49423-3793,"(616) 392-7086",brewpub,http://www.gobamgo.com
+"Barn Brewers","114 N Main St",,Lawton,MI,49065-8634,"(269) 299-0482",brewpub,http://www.barnbrewersbrewery.com
+"Barrel and Beam","260 Northwoods RD",,Marquette,MI,49855,"(906) 273-2559",micro,http://www.barrelandbeam.com
+"Bastone Brewery","419 S Main St",,"Royal Oak",MI,48067-2615,"(248) 544-6250",brewpub,http://www.bastone.net/br/bastone-brewery
+"Batch Brewing Co","1400 Porter St",,Detroit,MI,48216-1934,"(313) 338-8008",brewpub,http://www.batchbrewingcompany.com
+"Beards Brewery","215 E Lake St",,Petoskey,MI,49770-2415,"(231) 753-2221",brewpub,http://www.beardsbrewery.com
+"Beards Brewery Production Facility","6328 Ferry Ave",,Charlevoix,MI,49720-9504,,micro,
+"Beer Church Brewing Company","24 S Whittaker St",,"New Buffalo",MI,49117-1820,"(219) 241-3876",contract,http://www.beerchurchbrewing.com
+"Belding Brewing Company",,,Belding,MI,48809-1678,"(616) 308-6285",planning,
+"Bell's Brewery, Inc","8938 Krum Ave",,Galesburg,MI,49053-9558,"(269) 382-2338",regional,http://www.bellsbeer.com
+"Bell's Eccentric Cafe","355 E Kalamazoo Ave",,Kalamazoo,MI,49007-3807,"(269) 382-2332",brewpub,http://www.bellsbeer.com
+"Bier Distillery","5295 West River Dr NE Ste 100",,"Comstock Park",MI,49321-8030,"(616) 888-9746",micro,http://bierdistillery.com
+Biercamp,"1643 S State St",,"Ann Arbor",MI,48104-4302,"(734) 995-2437",brewpub,http://www.bier-camp.com
+"Biere De Mac Brew Works","14277 N Mackinaw Hwy",,"Mackinaw City",MI,49701-8622,"(231) 427-7007",micro,http://www.bieredemac.com
+"Big Boiler Brewing","318 E Main St Suite B",,Lowell,MI,49331-1714,"(616) 987-3155",micro,http://bigboilerbrewing.com
+"Big Buck Brewery and Steakhouse - Gaylord","550 S Wisconsin Ave",,Gaylord,MI,49735-1742,"(989) 619-6299",micro,http://www.bigbuckbrewery.com
+"Big Cat Brewing Company","8699 S Good Harbor Trl",,Cedar,MI,49621-8580,"(231) 228-2282",brewpub,http://www.bigcatbrewingco.com
+"Big Hart Brewing Company","4086 W Polk Rd",,Hart,MI,49420-8172,"(231) 301-8226",brewpub,http://www.bighartbrewing.com
+"Big Lake Brewing","13 W 7th St",,Holland,MI,49423-2821,"(616) 796-8888",micro,http://www.biglakebrewing.com
+"Big Lake Brewing Production Facility","166 E 19th St",,Holland,MI,49423-4230,,micro,
+"Big Rock Chop House & Brewery","245 S Eton St",,Birmingham,MI,48009-6577,"(248) 647-7774",contract,http://www.bigrockchophouse.com
+"Big T Brew Pub","155 N Main St",,Lawton,MI,49065-8634,"(269) 624-1200",brewpub,http://www.bigtrestaurant.com
+"Bilbo's Pizza and Brewery","3307 Stadium Dr",,Kalamazoo,MI,49008-1528,"(269) 382-5544",brewpub,http://www.bilbospizza.com
+"Black Fire Winery","1261 E Munger Rd",,Tecumseh,MI,49286-8714,"(517) 424-9232",micro,
+"Black Lotus Brewing Co","1 E 14 Mile Rd",,Clawson,MI,48017-2132,"(248) 577-1878",brewpub,http://www.blacklotusbeer.com
+"Blackrocks Brewery","424 N 3rd St",,Marquette,MI,49855-3555,"(906) 273-1333",micro,http://www.blackrocksbrewery.com
+"Blackrocks Brewery - Production Facility","950 W Washington St",,Marquette,MI,49855-4019,"(906) 273-1333",micro,http://www.blackrocksbrewery.com
+"Block Brewing Company","1140 S Michigan Ave",,Howell,MI,48843-2669,,brewpub,http://www.blockbrewingcompany.com
+"Blue Cow Cafe/Big Rapids Brewing Co","119 N Michigan Ave",,"Big Rapids",MI,49307-1401,"(231) 796-0100",brewpub,http://www.bluecowcafe.com
+"Blue Pike Cantina","152 S Water St",,"Marine City",MI,48039-1687,"(810) 765-4200",brewpub,
+"Blue Tractor Brewing Co","207 E Washington St",,"Ann Arbor",MI,48104-2007,"(734) 222-4095",brewpub,
+"Boatyard Brewing Co","432 E Paterson St",,Kalamazoo,MI,49007-2599,"(269) 226-0300",micro,http://www.boatyardbrewing.com
+"Brass Ring Brewery","2404 Eastern Ave SE",,"Grand Rapids",MI,49507-3632,"(616) 460-1587",brewpub,http://www.brassringbrewing.com
+"Bravo! Restaurant & Cafe","5402 Portage Rd",,Portage,MI,49002-1718,"(269) 344-7700",brewpub,http://www.bravokalamazoo.com
+"Brew Detroit","1401 Abbott St",,Detroit,MI,48216-1946,"(313) 974-7366",micro,http://www.brewdetroit.com
+"Brew Works of Fremont","5909 S Warner Ave",,Fremont,MI,49412,"(231) 335-5105",brewpub,http://www.thecommonsoffremont.com
+"Brewery 4 Two 4","321 Douglas Ave Ste 120",,Holland,MI,49424-6599,"(616) 377-7773",micro,http://brewery424.com
+"Brewery Becker","500 W Main St",,Brighton,MI,48116-1471,"(810) 844-0225",brewpub,http://www.brauereibecker.us
+"Brewery Faisan",,,Detroit,MI,48207,"(586) 703-2030",planning,http://www.breweryfaisan.com
+"Brewery in Planning - Mattawan",,"Mattawan, MI",,,,"(810) 588-9958",planning,
+"Brewery in Planning - Plymouth",,,Plymouth,MI,48170-5738,"(313) 909-0179",planning,
+"Brewery in Planning - Stevensville, MI",,,Allegan,MI,49010-1309,"(734) 864-6075",planning,https://www.schaendorfbrewingco.com/
+"Brewery in Planning - Stevensville, MI",,,Stevensville,MI,49127,,planning,
+"Brewery in Planning - WHITMORE LAKE",,,"Whitmore Lake",MI,48189-9771,,planning,
+"Brewery In Planning- Gonzales",,,Midland,MI,48642-8513,"(225) 257-4118",planning,
+"Brewery Terra Firma","2959 Hartman Rd",,"Traverse City",MI,49685-8838,"(231) 929-1600",micro,http://www.breweryterrafirma.com
+"Brewery Vivant","925 Cherry St SE",,"Grand Rapids",MI,49506-1403,"(616) 719-1604",brewpub,http://www.breweryvivant.com
+"Brewery Vivant",,,Kentwood,MI,49512,,planning,
+"BrickHaven Brewing Company","200 E Jefferson St",,"Grand Ledge",MI,48837-1537,"(517) 925-1319",micro,
+"Brickside Brewery","64 Gratiot Street",,"Copper Harbor",MI,49918,"(906) 289-4772",micro,http://www.bricksidebrewery.com
+"Brite Eyes Brewing Co","1156 S Burdick St",,Kalamazoo,MI,49001-2741,"(269) 220-5001",brewpub,
+"Broken Rock Brewery","282 Grindstone Rd Bird Creek Farms",,"Port Austin",MI,48467-9390,"(248) 703-3114",brewpub,http://birdcreekfarms.com
+"Brooks Brewing","52033 Van Dyke",,"Shelby Charter Township",MI,48316,"(586) 884-4741",micro,http://www.bbrewing.com
+"Brown Iron Brewhouse","57695 Van Dyke Rd",,Washington,MI,48094-2879,586697330,brewpub,http://www.browniron.com
+"Buchanan Craft LLC",,,BUCHANAN,MI,49107,"(630) 772-2199",planning,
+"Burt Lake Brewery / Seasons of the North Winery","9090 W M-68 Hwy",,Alanson,MI,49706,"(231) 548-1280",micro,http://www.burtlakebrewery.com
+"Cadillac Straits Brewing Company",,,"Madison Heights",MI,48071,"(248) 934-0409",planning,
+"Canton Brew Works, LLC","8521 N Lilley Rd",,Canton,MI,48187-2091,"(734) 927-7081",micro,http://www.cantonbrewworks.com
+"Castle Brewing Co","1310 W Washington",,Greenville,MI,48838,"(616) 712-6226",brewpub,http://www.castlebrewingco.com
+"Cedar Springs Brewing Company","95 N Main # 34",,"Cedar Springs",MI,49319-5140,"(616) 696-BEER",brewpub,http://www.csbrew.com
+"Cellar Brewing Co","133 E Division St",,Sparta,MI,49345-1329,"(616) 883-0777",brewpub,http://www.cellarbrewingco.com
+"Cellarmen's Meadery, Microbrewery and Cidery","24310 John R Rd",,"Hazel Park",MI,48030-1112,"(586) 413-4206",micro,http://www.cellarmens.com
+"Cheboygan Brewing Co","101 N Main St",,Cheboygan,MI,49721-1637,"(231) 268-3277",micro,http://www.cheboyganbrewing.com
+"Chelsea Alehouse Brewery","115 South Main St",,Chelsea,MI,48118,"(734) 433-5500",brewpub,http://www.chelseaalehouse.com
+"Cherry Republic Brewing","154 E Front St",,"Traverse City",MI,49684-2509,"(231) 932-9205",contract,http://www.cherryrepublic.com
+"CHILLAX Brewing Company LLC",,,Milford,MI,48381-2243,"(248) 388-3458",planning,
+"City Built Brewing Company","820 Monroe Ave NW Ste 155",,"Grand Rapids",MI,49503-1413,"(616) 805-5755",brewpub,http://www.citybuiltbrewing.com
+"CJs Brewing Co","8115 Richardson Rd",,"Commerce Township",MI,48390-4131,"(248) 366-7979",brewpub,http://www.cjsbrewingcompany.com
+"Clam Lake Beer Co","106 S Mitchell St Ste A",,Cadillac,MI,49601-2177,"(231) 775-6150",brewpub,http://www.clamlakebeerco.com
+"Cognition Brewing Company","113 E Canda St",,Ishpeming,MI,49849-1904,"(906) 204-2724",micro,http://www.cognitionbrewing.com
+"Cognito Brewing Company","142 W Monroe St",,Bangor,MI,49013-1333,"(971) 808-8863",brewpub,http://www.cognitobrewingcompany.com
+"Cold Iron Brewing","104 S Lowell St",,Ironwood,MI,49938-2044,"(906) 285-7020",micro,http://www.coldironbrewing.com
+"ConfluxCity Brewing Company","110 N Water St",,Portland,MI,48875,"(517) 526-9091",micro,http://www.confluxcitybrew.com
+"Copper Hop Brewing Company",,,"Saint Clair Shores",MI,48080,"(586) 944-7282",planning,http://www.thecopperhop.com
+"Cotton Brewing Co","626 Oak St",,Adrian,MI,49221-3367,"(517) 902-6608",brewpub,http://www.cottonbrewing.com
+"Cranker's Brewery","213 S State St",,"Big Rapids",MI,49307-1758,"(231) 796-1919",brewpub,
+"Cranker's Restaurant & Brewery","1207 E Pickard St",,"Mount Pleasant",MI,48858-1901,"(989) 779-1919",brewpub,http://www.crankersbrewery.com
+"Cravings Bistro & Pub","1599 Mall Dr Ste B",,"Benton Harbor",MI,49022-2330,"(269) 934-9700",brewpub,
+"Creston Brewery","1504 Plainfield Ave NE",,"Grand Rapids",MI,49505-4923,"(616) 805-4523",brewpub,http://www.crestonbrewery.com
+"Dark Horse Brewing Co","511 S Kalamazoo Ave",,Marshall,MI,49068-1718,"(269) 781-9940",micro,http://www.darkhorsebrewery.com
+"Dead Bear Brewing Co","2552 S I 75 Business Loop",,Grayling,MI,49738-2010,"(989) 745-6289",brewpub,
+"Dearborn Brewing","21930 Michigan Ave",,Dearborn,MI,48124-2351,"(313) 914-4187",micro,http://www.dearbornbrewing.com
+"DeHop's Brewing Company and Cafe","363 Cummings Ave NW",,Walker,MI,49534,"(616) 805-3363",brewpub,http://www.dehops.com
+"Detroit Beer Co","1529 Broadway St Ste 100",,Detroit,MI,48226-2141,"(313) 962-1529",brewpub,http://www.detroitbeerco.com
+"Dimes Brewhouse","145 N Bridge St",,Dimondale,MI,48821-9201,"(517) 303-2067",micro,http://www.dimesbrewhouse.com
+"Downey Brewing Company","13121 Prospect St",,Dearborn,MI,48126-3603,"(313) 288-8442",micro,http://www.downeybrewingcompany.com
+"Drafting Table Brewing Company","49438 Pontiac Trl",,Wixom,MI,48393-2005,"(248) 956-7279",micro,http://www.draftingtablebeer.com
+"Dragonmead Microbrewery","14600 E 11 Mile Rd",,Warren,MI,48089-1556,"(586) 776-9428",micro,
+"Draught Horse Brewery","57721 Grand River Ave",,"New Hudson",MI,48165-8542,"(248) 617-3000",brewpub,http://www.draughthorsebrewery.com
+"EagleMonk Pub and Brewery","4906 W Mount Hope Hwy",,Lansing,MI,48917-9588,"(517) 708-7350",brewpub,
+"Earthen Ales","1371 Gray Dr Ste 200",,"Traverse City",MI,49684-7805,"(231) 252-4270",micro,http://www.earthenales.com
+"East Channel Brewing Company","209 Maple St",,Munising,MI,49862-1084,"(906) 387-3007",micro,http://www.eastchannelbrewery.com
+"East West Brewing Co","1400 Lake Dr SE",,"Grand Rapids",MI,49506,"(616) 288-5250",brewpub,http://www.eastwestbrewingcompany.com
+"Eastern Market Brewing Company","2515 Riopelle St",,Detroit,MI,48207-4526,,micro,http://www.easternmarket.beer
+"Eaton Pub & Grille Brewery / Charlotte Brewing Co","214 S Cochran Ave",,Charlotte,MI,48813-1551,"(517) 543-8882",brewpub,http://www.eatonpub.com
+"EB Coffee and Pub","8980 N Rodgers Ct SE",,Caledonia,MI,49316-8051,"(616) 891-7700",brewpub,http://www.ebcoffeepub.com
+"Edelbrau Brewing Company","719 W Ellsworth Rd Ste 2",,"Ann Arbor",MI,48108-3393,"(734) 707-5184",micro,http://www.edelbrau.com
+"Elk Brewing Co","400 Dodge Rd NE",,"Comstock Park",MI,49321-8041,"(616) 238-5227",brewpub,
+"Elk Brewing Co","700 Wealthy St SE",,"Grand Rapids",MI,49503-5539,"(616) 238-5227",brewpub,http://www.elkbrewing.com
+"Elk Rapids Brewing Co.",,,"Elk Rapids",MI,49629,"(231) 499-7593",planning,
+"Elk Street Brewery","3 S Elk St",,Sandusky,MI,48471-1353,"(810) 300-8049",brewpub,http://www.elkstreetbrewery.com
+"Ellison Brewery & Spirits","4903 Dawn Ave",,"East Lansing",MI,48823-5610,"(517) 203-5498",micro,http://www.ellisonbrewing.com
+"Eternity Brewing Co","4060 E Grand River Ave",,Howell,MI,48843-8583,"(517) 295-4904",micro,http://www.eternitybrewing.com
+"Exferimentation Brewing Company","7 N Saginaw St",,Pontiac,MI,48342-2182,"(248) 648-1377",micro,http://www.exferimentationbrewing.com
+"Farmington Brewing Company LLC","33336 Grand River Ave",,Farmington,MI,48336-3124,"(248) 957-9543",micro,http://fbcbrewing.com
+"Farmington Underground Canning and Kegging",,,Farmington,MI,48336,,micro,
+"Fenton Winery & Brewery","1370 N Long Lake Rd",,Fenton,MI,48430-8867,"(810) 373-4194",brewpub,http://www.fentonwinery.com
+"Fetch Brewing Co","100 W Colby St",,Whitehall,MI,49461-1015,"(231) 215-7168",micro,http://www.fetchbrewing.com
+"Fife Lake Brewery",,,"Fife Lake",MI,49633-9319,"(231) 392-6757",planning,
+"Fillmore 13 Brewery","7 N Saginaw St",,Pontiac,MI,48342-2182,"(248) 977-3972",brewpub,http://www.fillmore13brewery.com
+"Final Gravity Brewing Co","103 N Phelps St",,Decatur,MI,49045-1008,"(269) 436-8052",brewpub,http://www.finalgravitybrew.com
+"Final Gravity Brewing Company","246 N Burdick St",,Kalamazoo,MI,49007-3828,,micro,http://www.finalgravitybrew.com
+"Founders Brewing Co","235 Grandville Ave SW",,"Grand Rapids",MI,49503-4037,"(616) 776-1195",regional,http://www.foundersbrewing.com
+"Founders Brewing Co","456 Charlotte St",,Detroit,MI,48201-2640,,regional,
+"Founders Brewing Production Facility","900 Hynes Ave SW",,"Grand Rapids",MI,49507-1085,,regional,
+"Fountain Hill Brewery","151 Fountain St NE",,"Grand Rapids",MI,49503-3263,"(616) 234-3690",brewpub,
+"Four Leaf Brewing","412 N McEwan St",,Clare,MI,48617-1403,"(989) 424-6114",brewpub,http://www.fourleafcraftbeer.com
+"Frankenmuth Brewing Co","425 S Main St",,Frankenmuth,MI,48734-1615,"(248) 930-9440",micro,http://www.frankenmuthbrewery.com
+"Ghost Isle Brewing Company",,,"New Buffalo",MI,49117,"(219) 561-1219",planning,
+"Glass Creek Winery","450 N Whitmore Rd",,Hastings,MI,49058-9791,"(269) 948-2752",micro,http://www.glasscreekwinery.com
+"Gonzo's BigDogg Brewery","140 S Westnedge Ave",,Kalamazoo,MI,49007-4600,"(269) 382-2739",brewpub,http://www.gonzosbiggdoggbrewing.com
+"Grand Armory Brewing Co","17 S 2nd St",,"Grand Haven",MI,49417-3328,"(616) 414-7822",micro,http://www.grandarmorybrewing.com
+"Grand Armory Brewing Production Facility","1734 Airpark Dr",,"Grand Haven",MI,49417-8943,"(310) 697-8958",micro,
+"Grand Rapids Brewing Company","1 Ionia Ave SW Ste 100",,"Grand Rapids",MI,49503-5122,"(616) 458-7000",brewpub,http://www.grbrewingcompany.com
+"Grand River Brewery","117 W Louis Glick Hwy",,Jackson,MI,49201-1327,"(517) 962-2427",brewpub,http://www.grandrivermarketplace.com
+"Grand River Brewery","101 W Michigan Ave",,Marshall,MI,49068-1521,,brewpub,
+"Grande Mere Inn / Cranberry Bog Bar","5800 Red Arrow Hwy",,Stevensville,MI,49127-1118,"(269) 429-3591",brewpub,http://www.grandemereinn.com
+"Granite City Food & Brewery","100 Renaissance Ctr",,Detroit,MI,48243-1114,,brewpub,
+"Granite City Food & Brewery (#28)","699 W Big Beaver Rd",,Troy,MI,48084-4920,"(248) 519-1040",brewpub,http://www.gcfb.com
+"Granite City Food & Brewery (#32)","39603 Traditions Dr",,Northville,MI,48168-9496,"(248) 662-3400",brewpub,http://www.gcfb.net
+"Gravel Bottom Craft Brewery","452 Ada Dr SE",,Ada,MI,49301,"(616) 920-7398",brewpub,http://www.gravelbottom.com
+"Great Baraboo Brewing Co","35905 Utica Rd",,"Clinton Township",MI,48035-2155,"(586) 792-7397",brewpub,http://www.greatbaraboo.com
+"Great Legs Winery, Brewery, and Distillery","332 E Lakewood Blvd",,Holland,MI,49424-3306,"(616) 916-9729",micro,http://www.greatlegswinery.com
+"Green Bird Cellars and Organic Farms","9825 E Engles Rd",,Northport,MI,49670-9408,"(231) 386-5636",micro,http://www.greenbirdcellars.com
+"Greenbush Annex","5870 Sawyer Rd",,Sawyer,MI,49125,,micro,
+"Greenbush Brewing Co","5885 Sawyer Rd",,Sawyer,MI,49125-9380,"(269) 405-1076",micro,http://greenbushbrewing.com
+"Greyline Brewing","1727 Alpine Ave NW",,"Grand Rapids",MI,49504-,"(616) 821-3786",brewpub,
+"Griffin Claw Brewing Co","575 S Eton St",,Birmingham,MI,48009-6824,,micro,http://www.griffinclawbrewingcompany.com
+"Grizzly Peak Brewing Co","120 W Washington St Ste 1",,"Ann Arbor",MI,48104-1356,"(734) 741-7325",brewpub,http://www.grizzlypeak.net
+"Guardian Brewing Company","3657 63rd St",,Saugatuck,MI,49453,"(812) 521-3611",brewpub,http://www.guardianbrewingco.com
+"Harbor Light Brewery","516 Phoenix St",,"South Haven",MI,49090,"(616) 291-7732",micro,http://www.harborlightbrewing.com
+"Harmony Brewing Co","1551 Lake Dr SE",,"Grand Rapids",MI,49506-2705,"(616) 233-0063",brewpub,
+"Harmony Brewing Company - Harmony Hall","401 Stocking Ave NW",,"Grand Rapids",MI,49504-5501,,brewpub,
+"Harpers Restaurant and Brewpub","131 Albert Ave",,"East Lansing",MI,48823-4315,"(517) 333-4040",brewpub,http://www.harpersbrewpub.com
+"Harsens Island Beer Co.","808 Gratiot Blvd",,Marysville,MI,48040-1127,,brewpub,
+"Haymarket Brewery and Taproom","9301 Red Arrow Hwy",,Bridgman,MI,49106-9558,"(312) 638-0707",micro,
+"Heavenly Vineyards","15946 Jefferson Rd",,Morley,MI,49336-9705,"(616) 710-2751",micro,http://heavenlyvineyards.weebly.com
+"Hereford and Hops Steakhouse and Brewpub","624 Ludington St",,Escanaba,MI,49829-3844,"(906) 789-1945",brewpub,http://www.herefordandhops.com
+"Hideout Brewing Co","3113 Plaza Dr NE",,"Grand Rapids",MI,49525-2901,"(616) 361-9658",brewpub,http://www.hideoutbrewing.com
+"Hillsdale Brewing Company","25 Hillsdale St",,Hillsdale,MI,49242-1208,"(517) 212-8182",brewpub,
+"HomeGrown Brewing Company","28 N Washington St",,Oxford,MI,48371-4665,"(248) 891-8290",brewpub,http://www.homegrownbrewco.com
+"HOMES Brewery","2321 Jackson Ave",,"Ann Arbor",MI,48103-3814,"(734) 954-6637",brewpub,http://www.homesbrewery.com
+"Hometown Cellars Winery & Brewery","108 E Center St Ste D",,Ithaca,MI,48847-1453,"(989) 875-6010",micro,http://www.hometowncellars.com
+"Hop Lot Brewing Co.","658 S West Bay Shore Dr",,"Suttons Bay",MI,49682-9587,"(231) 866-4445",brewpub,http://www.hoplotbrewing.com
+Hopcat,"25 Ionia Ave SW Ste 100",,"Grand Rapids",MI,49503-4179,"(616) 451-4677",brewpub,http://www.hopcat.com
+"Hopland Brewstillery","977 Butternut Dr Ste 4",,Holland,MI,49424,"(616) 546-1313",micro,http://www.hoplandbrewstillery.com
+"Howell's MainStreet Winery, Brewery & Pizzeria","201 W Grand River Ave",,Howell,MI,48843-2238,"(517) 545-9463",brewpub,http://www.howellsmainstreetwinery.com
+"Hunter's Ale House","4855 E Blue Grass Rd",,"Mount Pleasant",MI,48858-7527,"(989) 779-2626",brewpub,
+"Ironbark Brewery","2610 Kibby Rd",,Jackson,MI,49203-4908,"(517) 748-7988",micro,
+"Jaden James Brewery @ The Cascade Winery","4665 Broadmoor Ave SE Ste 135",,"Grand Rapids",MI,49512-5387,"(616) 656-4665",brewpub,http://jadenjamesbrewery.com
+"Jamesport Brewing Co","410 S James St",,Ludington,MI,49431-2159,"(231) 845-2522",brewpub,http://www.jamesportbrewingcompany.com
+"Jamex Brewing Co","21721 Harper Ave",,"Saint Clair Shores",MI,48080-2213,"(586) 944-2030",micro,http://www.jamexbrewing.com
+"Jasper Ridge Brewing Co","1075 Country Ln Ste 100",,Ishpeming,MI,49849-3402,"(906) 485-6017",brewpub,http://www.countryvillageresort.com/httpdocs/html/brewery.html
+"Jolly Pumpkin Artisan Ales","2319 Bishop Cir E",,Dexter,MI,48130-1567,"(734) 426-4962",micro,http://www.jollypumpkin.com
+"Jolly Pumpkin Cafe and Brewery","311 S Main St",,"Ann Arbor",MI,48104-2107,"(734) 913-2730",brewpub,http://www.jollypumpkin.com
+"Jolly Pumpkin Pizzeria and Brewery","428 Bridge St NW",,"Grand Rapids",MI,49504,"(616) 419-4676",brewpub,
+"Jolly Pumpkin Restaurant, Brewery & Distillery","13512 Peninsula Dr Old Mission Peninsula",,"Traverse City",MI,49686-9717,"(231) 223-4333",micro,http://www.jollypumpkin.com
+"Kelsey Block Brewing Company","41 N Main St",,"Three Rivers",MI,49093-1531,"(269) 718-3667",brewpub,http://www.kelseyblock.com
+"Keweenaw Brewing Co","408 Shelden Ave",,Houghton,MI,49931-2138,"(906) 482-5596",micro,http://www.keweenawbrewing.com
+"Keweenaw Brewing Co - Production Facility","408 Shelden Ave",,Houghton,MI,49931,"(906) 482-1937",micro,http://www.keweenawbrewing.com
+"Kickstand Brewing Co","3050 Union Lake Rd Ste 4A",,"Commerce Township",MI,48382-4543,"(248) 301-5941",brewpub,http://www.kickstandbrewingco.com
+"Kitzingen Brewery","1760 44th St SW Ste 8",,Wyoming,MI,49519-6422,"(616) 805-5077",brewpub,http://www.kitzingen-brewery.com
+"Kuhnhenn Brewing Co","5919 Chicago Rd",,Warren,MI,48092-1606,"(586) 979-8361",micro,http://www.kuhnhenn.beer
+"Kuhnhenn Clinton Township","36000 Groesbeck Hwy",,"Clinton Township",MI,48035-1541,"(586) 231-0249",micro,
+"Lake Ann Brewing Co","6535 First St",,"Lake Ann",MI,49650-9549,"(231) 640-2327",micro,http://www.lakeannbrewing.com
+"Lake Charlevoix Brewing Company","111 Bridge Park Dr",,Charlevoix,MI,49720-1397,"(231) 437-3220",brewpub,http://www.lakecharlevoixbrewing.com
+"Lake Superior Brewing Co","N-14283 Lake Avenue",,"Grand Marais",MI,49839,"(906) 494-2337",brewpub,http://www.grandmaraismichigan.com/lsbc
+"Lansing Brewing Company","518 E Shiawassee St",,Lansing,MI,48912-1214,"(517) 599-6001",brewpub,
+"Latitude 42","7842 Portage Rd Attn: Scott Freitas",,Portage,MI,49002-4472,"(269) 459-4242",brewpub,http://www.latitude42brewingco.com
+"Latitude 42 Oshtemo","6075 W Main St",,Kalamazoo,MI,49009,"(269) 775-7242",brewpub,
+"Lehmans Orchard Brewery and Farmhouse","204 N Red Bud Trl",,Buchanan,MI,49107-1366,"(269) 362-4063",brewpub,http://www.lehmansfarmhouse.com
+"Les Cheneaux Distillers","172 S Meridian St",,Cedarville,MI,49719,"(906) 484-1213",brewpub,http://www.lescheneauxdistillers.com
+"Lexington Brewing Co","5475 Main St",,Lexington,MI,48450-,"(810) 359-5012",brewpub,http://www.lexingtonbrewery.com
+"Liberty Street Brewing Co","149 W Liberty St Ste 1",,Plymouth,MI,48170-8001,"(248) 705-4171",micro,http://www.libertystreetbeer.com
+"Liberty Street Brewing Production Facility","11721 Levan Rd",,Livonia,MI,48150-1401,,micro,
+"Lilys Seafood Restaurant and Brewery","410 S Washington Ave",,"Royal Oak",MI,48067-3824,"(248) 591-5459",brewpub,
+"Lockside Brewery / 1668 Winery","100 W Portage Ave",,"Sault Sainte Marie",MI,49783-1920,"(906) 259-5035",brewpub,http://1668winery.com/thebeers/
+"Loggers Brewing Company","1215 S River Rd",,Saginaw,MI,48609-5208,"(989) 401-3085",micro,http://www.loggersbrewingcompany.com
+"Looking Glass Brewing Company","115 N Bridge St",,Dewitt,MI,48820-8901,"(517) 582-7287",brewpub,http://www.facebook.com/dewittbreweryproject/
+"Lucky Girl Brewing Co Crossroads","34016 M 43",,"Paw Paw",MI,49079-8464,"(269) 628-0054",brewpub,http://luckygirlcrossroads.com
+"Ludington Bay Brewing Co","515 S James St",,Ludington,MI,49431-2325,"(231) 239-6690",brewpub,http://ludingtonbaybrewing.com
+"Lumber Barons Brewery","804 E Midland St",,"Bay City",MI,48706-4953,"(989) 891-0100",brewpub,http://www.lumberbaronsbrewery.com
+"Lynchpin Beer Company / The Laundry","115 W Shiawassee Ave",,Fenton,MI,48430-2005,"(810) 629-8852",brewpub,http://www.lunchandbeyond.com
+"Mackinaw Brewing Co","161 E Front St",,"Traverse City",MI,49684-5779,"(231) 933-1100",brewpub,http://www.mackinawbrewing.com
+"Mackinaw Trail Brewing Company / Mackinaw Trail Winery and Brewery","103 W Lakeshore Dr",,Manistique,MI,49854-1579,"(906) 341-2303",micro,http://www.mackinawtrailwinery.com
+"McIntosh Orchards","6431 107th Ave",,"South Haven",MI,49090-9369,"(707) 878-3734",micro,http://www.mcintoshorchards.com
+"MDs Sports Tavern and Grill","3040 N State Rd",,Davison,MI,48423-1146,"(810) 653-6408",brewpub,http://www.mdsportstavern.com
+"MI Brewery / Kayla Rae Cellars","31 Courtland St",,Rockford,MI,49341-1080,"(616) 951-7001",micro,http://www.kaylaraecellars.com
+"Michigan Brewing Works","3435 Dietz Rd",,Williamston,MI,48895-9506,"(517) 655-7777",brewpub,http://www.michiganbrewing.com
+"Midland Brewing Co","5011 N Saginaw Road",,Midland,MI,48642,"(989) 259-7210",brewpub,http://www.midlandbrewing.com
+"Midtown Brewing Co","402 S Washington Sq",,Lansing,MI,48933-2172,"(517) 977-1349",micro,http://www.midtownbrewingco.com
+"Mishigama Craft Brewing / Ypsi Alehouse","124 Pearl St Ste 100",,Ypsilanti,MI,48197-5374,"(734) 487-1555",brewpub,http://www.ypsialehouse.com
+"Mitten Brewing Co - Northport","112 W Nagonaba St",,Northport,MI,49670-5018,"(616) 318-2448",brewpub,
+"Monkey Fist Brewing Company","331 E State St",,"Traverse City",MI,49684,"(231) 943-2739",micro,http://www.monkeyfistbrewingco.com
+"Motor City Brewing Works","470 W Canfield St",,Detroit,MI,48201-1220,"(313) 832-2700",brewpub,http://www.motorcitybeer.com
+"Motor City Brewing Works Warehouse","441 W Canfield St",,Detroit,MI,48201-1231,,micro,
+"Mountain Town Brewing Co","3068 Jens Way",,"Mt Pleasant",MI,48858,"(989) 817-4288",brewpub,http://www.mountaintownbrew.com
+"Mountain Town Station Restaurant & Brew Pub","506 W Broadway St",,"Mt Pleasant",MI,48858-2441,"(989) 400-4666",brewpub,http://www.mountaintownbrew.com
+"New Holland Brewing",,,"Battle Creek",MI,49017,,planning,
+"New Holland Brewing Co","684 COMMERCE CT",,Holland,MI,49424-2913,"(616) 355-6422",regional,http://www.newhollandbrew.com
+"New Holland Brewing Co - Production Facility","690 Commerce Ct",,Holland,MI,49424-2913,"(616) 510-2259",regional,
+"New Union Brewing","400 W Main St",,Lowell,MI,49331-1617,"(616) 319-7171",micro,http://www.newunionbrewery.com
+"Newaygo Brewing Co","19 State Rd",,Newaygo,MI,49337-7951,"(231) 452-6551",brewpub,http://www.newaygobrewing.com
+"Niles Brewing Company",,,Niles,MI,49120,,planning,http://www.nilesbrewing.com
+"North Center Brewing Co.","410 N Center St",,Northville,MI,48167-1224,"(248) 444-7967",brewpub,http://www.northcenterbrewing.com
+"North Channel Brewing Co.","86 Washington St",,Manistee,MI,49660-1231,"(231) 299-1020",brewpub,http://www.northchannelbrewing.com
+"North Peak Brewing Co","400 W Front St",,"Traverse City",MI,49684-2800,"(231) 941-7325",brewpub,http://www.northpeak.net
+"North Pier Brewing","670 N Shore Dr",,"Benton Harbor",MI,49022-3646,"(269) 757-7163",brewpub,http://www.northpierbrewing.com
+"North Pier Brewing - Production Facility","725 North Shore Dr",,"Benton Harbor",MI,49022,"(269) 757-7163",micro,
+"Northern Oak Brewery","806 N Saginaw St",,Holly,MI,48442-1347,"(248) 634-7515",brewpub,http://www.northernoakbrewery.com
+"Northville Winery and Brewery","630 Old Baseline Rd",,Northville,MI,48167,"(248) 320-6507",micro,
+"Odd Side Ales","41 Washington Ave Ste 160",,"Grand Haven",MI,49417-1392,"(616) 935-7326",micro,http://www.oddsideales.com
+"Odd Side Ales Production Facility","1810 Industrial Dr",,"Grand Haven",MI,49417-8930,,micro,
+"Old Boys Brewhouse","971 W Savidge St",,"Spring Lake",MI,49456-1684,"(616) 850-9950",brewpub,http://www.oldboysbrewhouse.com
+"Old Detroit Brewing Co",,,"Bloomfield Hills",MI,48304-3817,,planning,
+"Old Mill Brewpub and Grill","717 E Bridge St",,Plainwell,MI,49080-1801,"(269) 204-6601",brewpub,http://www.oldmillbrew.com
+"Old Nation Brewing Company","1500 W. Grand River Ave",,Williamston,MI,48895-97,"(517) 655-1301",micro,http://www.oldnationbrewing.com
+"Old Post Brewing",,,Howell,MI,48843,,planning,
+"Olde Peninsula Brewpub and Restaurant","200 E Michigan Ave",,Kalamazoo,MI,49007-3961,"(269) 343-2739",brewpub,http://www.oldepeninsula.com
+"One Well Brewing","4213 Portage St",,Kalamazoo,MI,49001-5264,"(269) 459-9240",brewpub,http://www.onewellbrewing.com
+"One Well Brewing Production Facility","3618 Gembrit Cir",,Kalamazoo,MI,49001,"(269) 459-9240",micro,
+"OpenRoad Brewery","128 S Main St",,Wayland,MI,49348-1209,"(616) 293-7855",brewpub,http://www.openroadbrewing.com
+"Oracle Brewing Company","122 N Michigan Ave",,Saginaw,MI,48602-4234,"(989) 401-7446",micro,http://www.oraclebeer.com
+"Ore Dock Brewing Co","114 W Spring St",,Marquette,MI,49855-4608,"(906) 867-5309",micro,http://www.oredockbrewingcompany.com
+"Original Gravity Brewing Co","440 County St",,Milan,MI,48160-1504,"(734) 439-7490",brewpub,http://www.ogbrewing.com
+"Osgood Brewing","4051 Chicago Dr SW",,Grandville,MI,49418-1257,,brewpub,http://www.osgoodbrewing.com
+"Our Brewing Co","76 E 8th St",,Holland,MI,49423-3556,"(616) 994-8417",micro,http://www.ourbrewingcompany.com
+"Ozone's Brewhouse","305 Beaver St",,Lansing,MI,48906-4411,"(517) 999-2739",micro,http://www.ozonesbrewhouse.com
+"Paddle Hard Brewing","118 Michigan Ave",,Grayling,MI,49738-1741,"(989) 745-6388",micro,http://paddlehardbrewing.com
+"Paper City Development LLC",,,Vicksburg,MI,49097,"(604) 996-1400",planning,http://papercitymillworks.com
+"Parker's Hilltop Brewery","6110 Dixie Hwy",,Clarkston,MI,48346-3409,"(248) 383-8444",brewpub,http://www.hilltopbrew.com
+"Paw Paw Brewing Company","929 E Michigan Ave",,"Paw Paw",MI,49079-9488,"(269) 415-0145",brewpub,http://pawpawbrewery.com
+"Paw Paw Brewing Company LLC","780 S Gremps Street",,"PAW PAW",MI,49079,"(269) 501-5241",micro,http://www.pawpawbrewing.com
+"Perrin Brewing Company","5910 Comstock Park Dr NW",,"Comstock Park",MI,49321-8256,"(616) 551-1957",regional,http://www.perrinbrewing.com
+"Petoskey Brewing","1844 M 119 Harbor-Petoskey Rd",,Petoskey,MI,49770-9341,"(231) 753-2057",micro,http://www.petoskeybrewing.com
+"Pigeon Hill Brewery Production Facility",,,Muskegon,MI,49440-1109,,planning,
+"Pigeon Hill Brewing Co","500 W Western Ave Ste 100",,Muskegon,MI,49440-1000,"(231) 375-5184",micro,http://www.pigeonhillbrew.com
+"Pike 51 Brewing","3768 Chicago Dr",,Hudsonville,MI,49426-1637,"(616) 662-4589",brewpub,http://www.hudsonvillewinery.com
+"Pileated Brewing Co","2290 South Industrial Highway",,"Ann Arbor",MI,48104,"(734) 369-6290",micro,http://www.pileatedbrewing.com
+"Pointless Brewery","3014 Packard St",,"Ann Arbor",MI,48108-1935,"(989) 455-4484",micro,http://www.pointlessbrew.com
+"Poison Frog Brewing Company","1908 Horton Rd",,Jackson,MI,49203-5520,"(517) 748-5997",brewpub,
+"Presidential Brewing Co.",,,Portage,MI,49024,"(269) 468-9765",planning,http://www.presidentialbrewing.com
+"Railtown Brewing Co","3595 68th St SE",,Dutton,MI,49316-8503,"(616) 881-2364",micro,http://www.railtownbrewing.com
+"Rare Bird Brewpub","229 Lake Ave",,"Traverse City",MI,49684-2532,"(231) 943-2053",brewpub,http://rarebirdbrewpub.com
+"Red Jacket Brewing at Michigan House Cafe","300 6th St",,Calumet,MI,49913-1508,"(906) 337-1910",brewpub,http://www.michiganhousecafe.com/brewpub.html
+"Redline Brewing Company","5470 Lapeer Rd",,Burton,MI,48509-2235,"(810) 259-2009",micro,http://therealredline.com
+"Redwood Brewing Co","5304 Gateway Ctr",,Flint,MI,48507-3930,"(810) 233-8000",brewpub,http://www.redwoodbrewingco.com
+"Reed City Brewing Company","141 W Upton Ave",,"Reed City",MI,49677-1129,"(231) 465-4222",brewpub,
+"Rice and Barley Taphouse","101 E Maumee St",,Adrian,MI,49221-2703,"(517) 902-6608",brewpub,
+"Right Brain Brewery","225 E Sixteenth St Ste A",,"Traverse City",MI,49684-4190,"(231) 944-1239",micro,http://www.rightbrainbrewery.com
+"River Rouge Brewing Company","406 E 4th St",,"Royal Oak",MI,48067-2757,"(248) 802-0555",micro,http://www.riverrougebrew.com
+"River's Edge Brewing Co","125 S Main St Ste 400",,Milford,MI,48381-1976,"(248) 685-1625",brewpub,http://www.riversedgebrew.com
+"Roak Brewing Co.","330 E Lincoln Ave",,"Royal Oak",MI,48067-2700,"(248) 268-8780",micro,http://www.roakbrewing.com
+"Rochester Mills Beer Co","400 Water St Ste 101",,Rochester,MI,48307-2089,"(248) 650-5080",brewpub,http://www.beercos.com
+"Rochester Mills Production Brewery","3275 Lapeer W Rd",,"Auburn Hills",MI,48326-1723,"(248) 377-3130",micro,http://www.beercos.com
+"Rockford Brewing Company","12 E Bridge St",,Rockford,MI,49341-1265,"(616) 951-4677",brewpub,http://www.rockfordbrewing.com
+"Rolling Oak Brewing Co","509 Norway St",,Grayling,MI,49738-1719,"(989) 745-6280",micro,http://rollingoakbrewing.com
+"Round Barn Brewery & Public House","9151 First St",,Baroda,MI,49101-8927,"(269) 326-7059",micro,http://www.roundbarnbrewery.com
+"Round Barn Brewery / Round Barn Winery","9151 First St. Entente Spirits, LLC.",,Baroda,MI,49101,"(269) 326-7059",micro,https://roundbarn.com/
+"Royal Oak Brewery","215 E 4th St",,"Royal Oak",MI,48067-2606,"(248) 544-1141",brewpub,http://www.royaloakbrewery.com
+"Rudbeckia Farm","3379 Lake Grove Rd",,Petoskey,MI,49770-9751,"(231) 622-4173",micro,http://www.rudbeckiafarm.com
+"Rupert's Brew House","773 W Michigan Ave",,Kalamazoo,MI,49007-4518,"(269) 337-9911",micro,http://www.rupertsbrewhouse.com
+"Rustic Leaf Brewing Company","7200 Highland Rd",,Waterford,MI,48327-1506,"(248) 599-9933",micro,http://www.rusticleafbrewingcompany.com
+"Salt Springs Brewery","117 S Ann Arbor St",,Saline,MI,48176-1320,"(734) 295-9191",brewpub,http://www.saltpsringsbrewery.com
+"Sanctuary Spirits","902 E Saginaw Hwy",,"Grand Ledge",MI,48837-9419,"(517) 925-1930",micro,http://www.sanctuaryspirits.com
+"Sandhill Crane Vineyards","4724 Walz Rd",,Jackson,MI,49201-9613,"(517) 764-0679",micro,http://www.sandhillcranevineyards.com
+"Saugatuck Brewing Co","2948 Blue Star Hwy",,Douglas,MI,49406-5195,"(269) 857-7222",micro,http://www.saugatuckbrewing.com
+"Schmohz Brewery","2600 Patterson Ave SE Ste 1",,"Grand Rapids",MI,49546-6394,"(616) 949-0860",micro,http://www.schmohz.com
+"Schmucks Brewing Co",,,Howell,MI,48843-9697,"(517) 202-0030",planning,http://www.schmucksbrewing.com
+"Seedz Brewery",,,"Union Pier ",MI,49129,,planning,
+"Sherwood Brewing Co","45689 Hayes Rd",,"Shelby Township",MI,48315-6214,"(586) 532-9669",brewpub,http://www.sherwoodbrewing.com
+"Short's Brewing Co","121 N Bridge St",,Bellaire,MI,49615-9509,"(231) 533-6622",brewpub,http://www.shortsbrewing.com
+"Short's Brewing Co - Production Facility","211 Industrial Park Dr",,"Elk Rapids",MI,49629-9452,"(231) 498-2300",regional,http://www.shortsbrewing.com
+"Silver Harbor Brewing Company","721 Pleasant St",,"Saint Joseph",MI,49085-1241,"(269) 281-7100",brewpub,http://silverharborbrewing.com
+"Silver Spruce Brewing Company","439 E Eight St",,"Traverse City",MI,49684,,micro,
+"Sister Lakes Brewing Company","92500 County Road 690",,Dowagiac,MI,49047-9021,"(269) 332-5135",brewpub,http://www.sisterlakesbrewing.com
+"Snowbelt Brewing Company","132 W Main St",,Gaylord,MI,49735-2304,"(989) 448-7077",brewpub,http://www.snowbelt.beer
+"Soo Brewing Company","223 W Portage Ave",,"Sault Sainte Marie",MI,49783-1921,"(906) 632-4400",micro,http://www.soobrew.com
+"South Haven Brewpub","515 Williams St Ste 23",,"South Haven",MI,49090-1493,"(269) 767-7105",brewpub,http://www.southhavenbrewpub.com
+"Spartan Brewpub","3056 Okemos Rd",,Mason,MI,48854-9300,"(517) 507-5098",brewpub,http://spartanbrewpub.com/
+"Speciation Artisan Ales","3720 West River Dr NE Ste 201",,"Comstock Park",MI,49321-8980,"(616) 666-6783",micro,http://speciationartisanales.com
+"Sports Brew Pub","166 Maple St",,Wyandotte,MI,48192-5928,"(734) 285-5060",brewpub,
+"St Ambrose Cellars","841 S Pioneer Rd",,Beulah,MI,49617,"(231) 383-4262",micro,http://www.stambrose-mead-wine.com
+"Starving Artist Brewing","634 S Stiles Rd",,Ludington,MI,49431-9311,"(231) 794-1399",micro,http://starvingartist.beer
+"Stiggs Brewery & Kitchen","112 S Park St",,"Boyne City",MI,49712-1251,"(231) 497-6100",brewpub,http://www.stiggsbrewingcompany.com
+"Stony Lake Brewing Company","447 E Michigan Ave",,Saline,MI,48176-1547,"(734) 316-7919",micro,http://www.stonylakebrewing.com
+"Stormcloud Brewing Company","303 Main St",,Frankfort,MI,49635-9047,"(231) 651-9080",brewpub,http://www.stormcloudbrewing.com
+"Stormcloud Brewing Company Production Facility","366 Parkview Ln",,Frankfort,MI,49635,,micro,
+"Sugarfoot Saloon","4997 S Good Harbor Trl",,Cedar,MI,49621-8543,"(231) 228-6166",brewpub,
+"Superior Coast Brewery / Karls Cuisine Winery and Brewery","447 W Portage Ave",,"Sault Sainte Marie",MI,49783-1989,"(906) 253-1900",brewpub,http://www.karlscuisine.com
+"Supernatural Brewing and Spirits","36685 Plymouth Rd",,Livonia,MI,48150,"(734) 469-2251",brewpub,http://www.supernaturalbrewing.com
+"Tahquamenon Falls Brewery and Pub","M-123 Upper Falls Dr",,Paradise,MI,49768,"(906) 492-3300",brewpub,http://www.tahquamenonfallsbrewery.com
+"Tantrick Brewing Co","633 114th Ave Are 3",,Allegan,MI,49010,"(269) 720-4567",micro,http://www.tantrickbrewing.com
+"Tapistry Brewing Company","4236 Lake St",,Bridgman,MI,49106-9109,"(269) 266-7349",micro,http://www.tapistrybrewing.com
+"Tecumseh Brewing Company","128 W Chicago Blvd",,Tecumseh,MI,49286-1553,"(517) 815-1726",brewpub,http://www.tecumsehbrewingco.com
+"Tenacity Brewing","119 N Grand Traverse St",,Flint,MI,48503-5620,"(810) 339-6676",brewpub,http://www.tenacitybrewing.com
+"Territorial Brewing Company","256 Helmer Rd N",,Springfield,MI,49037-7914,"(269) 282-1694",brewpub,http://www.territorialbrewing.com
+"Territorial Brewing Company Production Facility","2815 6th Ave",,Springfield,MI,49037-7986,"(269) 441-0030",micro,
+"Texas Corners Brewing Company","6970 Texas Dr",,Kalamazoo,MI,49009-9795,"(269) 870-7724",brewpub,http://www.texascornersbrewing.com
+"The Boathouse Beer Co and Boozery","450 W Lake St",,"Tawas City",MI,48763-8320,"(989) 984-5233",brewpub,http://www.boathousebeerco.com
+"The Distant Whistle Brewhouse","118 S Main St",,Vicksburg,MI,49097-1289,"(269) 370-7549",micro,http://www.distantwhistle.com
+"The Filling Station Microbrewery","642 Railroad Pl",,"Traverse City",MI,49686-3633,"(231) 946-8168",micro,http://www.thefillingstationmicrobrewery.com
+"The Highway Brewing Co.","209 W Houghton Ave",,"West Branch",MI,48661-1219,"(989) 709-0716",micro,http://www.highwaybrewingco.com
+"The Knickerbocker/ New Holland Brewing","417 Bridge St NW",,"Grand Rapids",MI,49504-5305,"(616) 345-5642",brewpub,
+"The Livery","190 5th St",,"Benton Harbor",MI,49022-3484,"(269) 925-8760",brewpub,http://www.liverybrew.com
+"The Maple Grille LLC","13105 Gratiot Rd",,Hemlock,MI,48626-8444,,brewpub,
+"The Mitten Brewing Co","527 Leonard St NW",,"Grand Rapids",MI,49504-4278,"(616) 608-5612",brewpub,http://www.mittenbrewing.com
+"The Mitten Brewing Company - Saugatuck","329 Water St",,Saugatuck,MI,49453,"(616) 608-5612",brewpub,
+"The Mitten Brewing Company Production Facility","540 Leonard St NW",,"Grand Rapids",MI,49504-4260,,micro,
+"The Red Baron","2495 S Center Rd",,Burton,MI,48519-1145,"(810) 744-1310",brewpub,http://www.baronburger.com
+"The Sanford Beverage Company, Inc. D.B.A. Steele Street Brewing","300 S Steele St",,Ionia,MI,48846-2008,"(616) 523-4003",brewpub,http://www.steelestreetbrewing.com
+"Third Monk Brewing Co","228 S Lafayette St",,"South Lyon",MI,48178-1406,"(248) 278-6366",micro,http://www.thirdmonkbrewingco.com
+"Third Nature Brewing Co.",,,Rockford,MI,49341,"(989) 289-3077",planning,
+"Thornapple Brewing Company","6262 28th st SE",,"Grand rapids",MI,49546,"(616) 422-6209",micro,http://www.thornapplebrewing.com
+"Three Blondes Brewing","1875 Phoenix St",,"South Haven",MI,49090-7151,,brewpub,http://www.threeblondesbrewing.com
+"Three Bridge Brewing Company","2221 13th Street",,Menominee,MI,49858,,micro,
+"Tibbs Brewing Co","402 S Burdick St",,Kalamazoo,MI,49007-5218,"(877) 762-7397",brewpub,
+"Tilted Axis Brewing Company","303 W Nepessing St",,Lapeer,MI,48446-2105,"(810) 969-4477",brewpub,http://www.tiltedaxis.beer
+"Tootsie's Brewery / Lone Oak Vineyard","8400 Ann Arbor Rd",,"Grass Lake",MI,49240-9586,"(517) 522-8167",brewpub,http://www.tootsiesbrewery.com
+"Townies Brewery","2350 W Liberty Rd",,"Ann Arbor",MI,48103,,brewpub,
+"Traffic Jam and Snug","4268 2nd Ave",,Detroit,MI,48201-1706,"(313) 831-9470",brewpub,http://www.trafficjamdetroit.com
+"Trail Point Brewing Co.","6035 Lake Michigan Dr",,Allendale,MI,49401-9101,"(616) 895-2739",micro,http://www.trailpointbrewing.com
+"Transient Artisan Ales","4229 Lake St",,Bridgman,MI,49106-9109,,micro,
+"Tri City Brewing Co","4170 Shrestha Dr",,"Bay City",MI,48706-2184,"(989) 686-1340",micro,http://www.tricitybrewing.com
+Tripelroot,"146 E Main Ave",,Zeeland,MI,49464-1736,"(616) 953-0050",brewpub,http://www.tripelroot.com
+"Tripelroot Production Facility","2262 112th Ave",,Holland,MI,49424-9638,,micro,
+"Tujax Tavern","103 S Grove St",,Delton,MI,49046-9470,"(269) 623-8310",brewpub,
+"Tunnel Vision Brewery","5699 S Lake Shore Dr",,"Harbor Springs",MI,49740-9784,"(231) 526-3276",brewpub,http://www.pondhill.com
+"TwoGuys Brewing","2356 Porter St SW",,Wyoming,MI,49519,"(616) 552-9690",brewpub,http://www.twoguysbrewing.beer
+"UBrew Nanobrewery","3054 Cass Rd Unit F",,"Traverse City",MI,49684-8800,"(231) 943-2016",micro,http://www.ubrewtc.com
+"Unruly Brewing Company","360 W Western Ave",,Muskegon,MI,49440-1273,"(231) 288-1068",micro,http://www.unrulybrewing.com
+"Upper Hand Brewery","3525 Airport Rd",,Escanaba,MI,49829-1096,"(269) 382-2338",micro,http://www.upperhandbrewery.com
+"Urbanrest Brewing Company","2615 Wolcott St",,Ferndale,MI,48220-1422,,micro,http://www.urbanrest.com
+"Vander Mill","505 Ball Ave NE",,"Grand Rapids",MI,49503-2011,"(616) 259-8828",brewpub,http://www.vandermill.com
+"Vierling Restaurant & Marquette Harbor Brewery","119 S Front St",,Marquette,MI,49855-4642,"(906) 228-3533",brewpub,http://www.thevierling.com
+"Walldorff Brewpub & Bistro","105 E State St",,Hastings,MI,49058-1808,"(269) 945-4400",brewpub,http://www.walldorffbrewpub.com
+"WAR WATER BREWERY","201 N Riverside Ave Ste C1-11",,"Saint Clair",MI,48079-5498,"(810) 289-3921",brewpub,http://www.warwaterbrewery.com
+"Watermark Brewing Company","2684 KIMMEL ST",,Stevensville,MI,49127-1219,"(269) 281-0872",micro,http://www.watermarkbrewing.com
+"Wax Wings Brewing Co","3840 Gull Rd",,Kalamazoo,MI,49048,"(269) 459-9494",micro,http://www.waxwingsbrewing.com
+"Waypost Brewing Co.","1630 Blue Star Hwy",,Fennville,MI,49408,"(269) 496-5096",micro,http://waypostbeer.com
+"White Flame Brewing Co","5234 36th Ave",,Hudsonville,MI,49426-1636,"(616) 209-5098",brewpub,http://www.whiteflamebrewing.com
+"Wiltse's Brew Pub and Family Restaurant","5606 F 41",,Oscoda,MI,48750-8611,"(989) 739-2231",brewpub,http://www.wiltsebrewpub.com
+"Windfall Brewing Company","17985 Armada Center Rd",,Armada,MI,48005-2323,"(586) 989-7454",micro,http://www.blakeshardcider.com
+"Witch's Hat Brewing","601 S Lafayette St",,"South Lyon",MI,48178-1453,"(248) 486-2595",micro,http://www.witchshatbrewing.com
+"Wolverine State Brewing Co","2019 W Stadium Blvd # 103",,"Ann Arbor",MI,48103-4557,"(734) 369-2990",brewpub,http://www.wolverinebeer.com
+"Woodward Avenue Brewers","22646 Woodward Ave",,Ferndale,MI,48220-1810,"(248) 546-3696",brewpub,http://www.thewabsite.com
+"Workshop Brewing Co","221 Garland St Ste A",,"Traverse City",MI,49684-2372,"1 231-421-8966",brewpub,http://www.traversecityworkshop.com

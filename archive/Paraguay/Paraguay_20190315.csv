@@ -1,0 +1,4 @@
+name,address1,address2,city,state,zip,phone,type,url
+"Cervecereia Paraguaya","Palma 1139 Casilla De Correo 126","Asuncion, Paraguay",,,,"595 21 444 424",large,
+"Herken 1885","Pablo neruda","Asuncion, Paraguay",,,,595981971348,micro,
+"Sacramento Brewing Co.","Avenida Sacramento 655 casi Espana Parque El Taller","Asuncion, Paraguay",,,,"59 (598) 515-4261",brewpub,http://www.sacramento.com.py

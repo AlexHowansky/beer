@@ -1,0 +1,58 @@
+name,address1,address2,city,state,zip,phone,type,url
+"1. Zichovecka S.r.o.","Zichovec 46","Klobuky, Czech Republic",,,,"42 (072) 185-6803",micro,http://www.pivovarzichovec.cz
+"Brewery in Planning - Prague,","Jungmannova 34","Prague, Czech Republic",,,,"00 (420) 602-6310",brewpub,http://www.typicalczechdeli.cz
+"Budejovický Budvar","Karoliny Svetle 4","370 21 Ceske Budejovice, Czech Republic",,,,"420 387 705 281",large,
+"Chodovar S.R.O","Pivovarska 107","Chodova Plana, Czech Republic",,,,184992811,regional,
+Czechvar/B.B.N.P.,"Karoliny Svetle 4","370 21 Ceske Budejovice, Czech Republic",,,,"+420 38 7705 111",large,http://www.czechvar.com
+"Hema S.r.o Pivovar Golcuv Jen","5 Kvetna 172","Golcuv Jenikov, Czech Republic",,,,45193209,regional,
+"Jihoscesk Pivovary A.S.","Karloiny Svetle P O Box 107","Ceske Budejovice, Czech Republic",,,,038-2-40-27,regional,
+"Nova Paka Brewery","Pivovarska 400","509 01Nova Paka, Czech Republic",,,,+420-493-727-031-2,large,http://www.novopackepivo.cz
+"Pegas Gasthausbrauerei","Jakubska 4","BRNO, Czech Republic",,,,"05 2 21 30",regional,
+"Piuvovar Gemer Sro","Cukrovarska 67 PO Box 153","Rimavska Sobota, Czech Republic",,,,0866-2-2644,regional,
+"Pivovar A Sladovny Pvtos","Lipova 15","Praha, Czech Republic",,,,224915384,regional,
+"Pivovar Benesor","Taborska 306 PO Box 33","Benesov, Czech Republic",,,,"0301 2 25 11",regional,
+"Pivovar Cerna Hora, a.s.","679 21 Cerna Hora 3/5","Cerna Hora, Czech Republic",,,,+420-506-482411,micro,http://www.pivovarch.cz
+"Pivovar Clock s.r.o.","Skolni 2","Potstejn, Czech Republic",,,,,micro,http://www.pivovarclock.cz
+"Pivovar Domazlice","Komenskeho 10","Domazlice, Czech Republic",,,,1893595,regional,
+"Pivovar Hanusovice",Pivovarska,"Hanusovice, Czech Republic",,,,64996317,regional,
+"Pivovar Havlickuv Brod.","Dobrovskeho 2027 P O Box 45","Havlickuv Brod., Czech Republic",,,,"(045) 121-1635",regional,
+"Pivovar Herold","PO Box 13","Breznice, Czech Republic",,,,420-318-682-047,regional,http://heroldbeer.com
+"Pivovar Hlinsko V Cechach","Ressolva 260","Hlinsko V Cechach, Czech Republic",,,,45422117,regional,
+"Pivovar Jarosov","Pivovarska PO Box 32","Uherske Hradiste-Ja, Czech Republic",,,,063222014,regional,
+"Pivovar Jihlave","Vrchlickenho 2","Jihlava, Czech Republic",,,,6622591,regional,
+"Pivovar Klaster",,"Klaster Hradiste, Czech Republic",,,,32927279,regional,
+"Pivovar Krumlov","Latran 27 PO Box 30","Cesky Krumlov, Czech Republic",,,,"0337 3921",regional,
+"Pivovar Martin","Hrdinov 12 PO Box 1","Martin 036 42, Czech Republic",,,,0842-3-0291,regional,
+"Pivovar Matuska","Spanielova 1268/3","Prague, Czech Republic",,,,"+ 420 (2) 723 983 594",micro,http://www.pivovarmatuska.cz
+"Pivovar Nymburk","Prazska 581 Harantova 400","Nymburk, Czech Republic",,,,32545814,regional,
+"Pivovar Opava","Pivovarska 6 PO Box 30","Olomouc-Holice, Czech Republic",,,,6833568,regional,
+"Pivovar Pelhrimov","Pivovarska 856","Pelhrimov, Czech Republic",,,,036635003,regional,
+"Pivovar Podkovan",,"Podkovan, Czech Republic",,,,32695722,regional,
+"Pivovar Policka","Pivovarska 151","Praha, Czech Republic",,,,46322575,regional,
+"Pivovar Prerov","Komenskeho Ulice 35","Prerov, Czech Republic",,,,0641-30-51,regional,
+"Pivovar Prostejov","Vrahovicka 57","Prostejov, Czech Republic",,,,50823722,regional,
+"Pivovar Protivin","Pivovarska 1","Protivin, Czech Republic",,,,362920013,regional,
+"Pivovar Proumov-Olivetin","Osvobozeni 55","Broumov, Czech Republic",,,,"0447 21282",regional,
+"Pivovar Rakovnik","Havlickova, P.O Box 20","Rakovnik, Czech Republic",,,,31323146,regional,
+"Pivovar Regent","Trocnovske Nam. 124 PO Box 9","Trebon, Czech Republic",,,,3333381,regional,
+"Pivovar Samson","Lidicka 51 PO Box 87","Ceske Budejovice, Czech Republic",,,,"038 60586",regional,
+"Pivovar Staropramen","Nadrazni 84 P O Box 84","Praha 5, Czech Republic",,,,02-51-51-11,regional,
+"Pivovar Strakonice","Podskalska 324 PO Box 19","Strakonice, Czech Republic",,,,034223202,regional,
+"Pivovar U Bulovky","Bulovka 17","Praha 8 - Liben, Czech Republic",,,,,micro,
+"Pivovar U Fleku","Kremencova 9","Praha, Czech Republic",,,,2296417,regional,
+"Pivovar Velke Popovice A.S.","Ringhofferova 1","Velke Popovice, Czech Republic",,,,"+420 323 683 311",regional,http://www.prazdroj.cz
+"Pivovar Vsetin","Dolní Jasenka 190 755 01 Vsetín",", Czech Republic",,,,"+420 571 459 169",regional,
+"Pivovar Zhurak","Zhur 135","Zhur, Czech Republic",,,,"420 602 626 478",micro,
+"Pivovar Zhurák","Zhur 138","Zhur , Czech Republic",,,,602626478,micro,http://www.pivovarzhurak.cz
+"Pivovarna Union D.D.","Pivovarniska 2","Ljubljana, Czech Republic",,,,061-11-1131,regional,
+"Pivovary Ceske Budejovice S.P.","Karliny Svetle 4 P O Box 107","Ceske Budejovice, Czech Republic",,,,038-2-40-27,regional,
+"Pivovary Hradec Kralove","CZ-500 62 Hradec Kralove","Hradec Kralove, Czech Republic",,,,049-2-40-51,regional,
+"Plzenske Pivovary A.S.","P O Box 197 U Prazdroje 7","Plzen, Czech Republic",,,,"(019) 556-1111",regional,
+"Plzensky Prazdroj, a.s.","U Prazdroje 7","Plzen, Czech Republic",,,,"420-37 706 1111",large,http://www.prazdroj.cz
+"Podluzan-Pivovar Breclav","Zamecke Namesti 5 PO Box 10","Breclav, Czech Republic",,,,"0627 2 03 29",regional,
+"Praiske Pivovary A.s.","Nadrazni 84, Praha 5","Smichov, Czech Republic",,,,,regional,
+"Prazske Pivovary","P O Box 54 Nadrazni 84","Praha 5, Czech Republic",,,,"(022) 459-1111",regional,
+"Radegast Brewery JSC","Rudnosvka 1161","Praha 4, Nosovice, Czech Republic",,,,"+420 658 602258",large,
+"Rodinny pivovar Chodovar","Kouty Nad Desnou 65 Loucná Nad Desnou 78811",", Czech Republic",,,,"00420 374794181-2",regional,http://www.chodovar.cz
+"Ustecke Pivovary","Drazdanska 80","Usti Nad Labem, Czech Republic",,,,047-2-68-20,regional,
+"Z-Media S.r.o.","Na zertvach 2230/44","Prague, Czech Republic",,,,420775260819,contract,http://beerlab.cz
