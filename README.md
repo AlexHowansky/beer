@@ -1,3 +1,10 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+This package has been obsoleted and replacd by [ork-beer](https://github.com/AlexHowansky/ork-beer).
+
+The maps linked here will no longer be updated.
+
 # Beer
 Tools to generate a portable database of brewery information.
 
